@@ -1,0 +1,135 @@
+{
+  "meeting_title": "(ext) Oak Motive Solutions | Voxel Sync",
+  "start_time": "2022-01-16T20:30:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Early fire-related issue detection in mills",
+        "description": "Deploy monitoring to spot early signs of fire-related issues in higher-risk areas and help protect the workforce.",
+        "evidence": [
+          {
+            "quote": "I believe the first use case we discussed was monitoring to detect early signs of a fire-related issue.",
+            "speaker": "Frankie Ellison <fake.frankie.ellison@voxelai.com>",
+            "timestamp": "[00:04:01]"
+          },
+          {
+            "quote": "That type of detection was the key thing I went searching for.",
+            "speaker": "Tristan Locke <fake.tristan.locke@oakmotivesolutions.com>",
+            "timestamp": "[00:11:46]"
+          },
+          {
+            "quote": "Oak Motive Solutions lost REDACTED dollars in that fire and we probably lost a, you know, nobody was injured, but we probably lost 200 of the 240 employees we had over the a couple of years of rebuild just because we're paying them, you know, 40, several hours a week and they couldn't make it on several hours a week.",
+            "speaker": "Tristan Locke <fake.tristan.locke@oakmotivesolutions.com>",
+            "timestamp": "[00:12:10]"
+          },
+          {
+            "quote": "I can point you to a handful of locations where this could materially reduce fire risk.",
+            "speaker": "Tristan Locke <fake.tristan.locke@oakmotivesolutions.com>",
+            "timestamp": "[00:16:03]"
+          },
+          {
+            "quote": "Anything that's new to me makes me a little uneasy from a safety standpoint.",
+            "speaker": "Tristan Locke <fake.tristan.locke@oakmotivesolutions.com>",
+            "timestamp": "[00:18:08]"
+          }
+        ]
+      },
+      {
+        "label": "Equipment issue monitoring",
+        "description": "Use monitoring to detect equipment issues for early intervention and to reduce costly equipment failures.",
+        "evidence": [
+          {
+            "quote": "On the other side, Matt mentioned recurring equipment issues and that there is a meaningful operational use case there because some parts have to be replaced repeatedly.",
+            "speaker": "Jules Blaine <fake.jules.blaine@voxelai.com>",
+            "timestamp": "[00:14:05]"
+          },
+          {
+            "quote": "They set up extra monitoring there, and it helps them see when parts may need attention before it becomes a bigger problem, but it is not fully automated today.",
+            "speaker": "Tristan Locke <fake.tristan.locke@oakmotivesolutions.com>",
+            "timestamp": "[00:17:00]"
+          },
+          {
+            "quote": "And the planars now are such high speed that we're just spitting lumber through them.",
+            "speaker": "Tristan Locke <fake.tristan.locke@oakmotivesolutions.com>",
+            "timestamp": "[00:16:32]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Early fire-related issue detection in mills",
+        "description": "Deploy monitoring to spot early signs of fire-related issues in higher-risk areas and help protect the workforce.",
+        "evidence": [
+          {
+            "quote": "I believe the first use case we discussed was monitoring to detect early signs of a fire-related issue.",
+            "speaker": "Frankie Ellison <fake.frankie.ellison@voxelai.com>",
+            "timestamp": "[00:04:01]"
+          },
+          {
+            "quote": "That type of detection was the key thing I went searching for.",
+            "speaker": "Tristan Locke <fake.tristan.locke@oakmotivesolutions.com>",
+            "timestamp": "[00:11:46]"
+          },
+          {
+            "quote": "Oak Motive Solutions lost REDACTED dollars in that fire and we probably lost a, you know, nobody was injured, but we probably lost 100 of the 140 employees we had over the a couple of years of rebuild just because we're paying them, you know, 40, several hours a week and they couldn't make it on several hours a week.",
+            "speaker": "Tristan Locke <fake.tristan.locke@oakmotivesolutions.com>",
+            "timestamp": "[00:12:10]"
+          },
+          {
+            "quote": "I can point you to a handful of locations where this could materially reduce fire risk.",
+            "speaker": "Tristan Locke <fake.tristan.locke@oakmotivesolutions.com>",
+            "timestamp": "[00:16:03]"
+          },
+          {
+            "quote": "Anything that's new to me makes me a little uneasy from a safety standpoint.",
+            "speaker": "Tristan Locke <fake.tristan.locke@oakmotivesolutions.com>",
+            "timestamp": "[00:18:08]"
+          }
+        ]
+      },
+      {
+        "label": "Equipment issue monitoring",
+        "description": "Use monitoring to detect equipment issues for early intervention and to reduce costly equipment failures.",
+        "evidence": [
+          {
+            "quote": "On the other side, Matt mentioned recurring equipment issues and that there is a meaningful operational use case there because some parts have to be replaced repeatedly.",
+            "speaker": "Jules Blaine <fake.jules.blaine@voxelai.com>",
+            "timestamp": "[00:14:05]"
+          },
+          {
+            "quote": "They set up extra monitoring there, and it helps them see when parts may need attention before it becomes a bigger problem, but it is not fully automated today.",
+            "speaker": "Tristan Locke <fake.tristan.locke@oakmotivesolutions.com>",
+            "timestamp": "[00:17:00]"
+          },
+          {
+            "quote": "And the planars now are such high speed that we're just spitting lumber through them.",
+            "speaker": "Tristan Locke <fake.tristan.locke@oakmotivesolutions.com>",
+            "timestamp": "[00:16:32]"
+          }
+        ]
+      },
+      {
+        "label": "Product condition monitoring",
+        "description": "Flag when product is left out too long or in the wrong place so it does not go to waste.",
+        "evidence": [
+          {
+            "quote": "And we already put together a quick demonstration around product getting left out too long, because a customer asked us about it.",
+            "speaker": "Frankie Ellison <fake.frankie.ellison@voxelai.com>",
+            "timestamp": "[00:05:00]"
+          },
+          {
+            "quote": "In that case, product was getting left out and going bad, which created a real loss for them.",
+            "speaker": "Frankie Ellison <fake.frankie.ellison@voxelai.com>",
+            "timestamp": "[00:05:13]"
+          },
+          {
+            "quote": "We're talking to some customers in that space.",
+            "speaker": "Frankie Ellison <fake.frankie.ellison@voxelai.com>",
+            "timestamp": "[00:04:44]"
+          }
+        ]
+      }
+    ]
+  }
+}

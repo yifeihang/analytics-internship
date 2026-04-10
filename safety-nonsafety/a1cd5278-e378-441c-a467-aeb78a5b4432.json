@@ -1,0 +1,268 @@
+{
+  "meeting_title": "Union Track Dynamics / Voxel Monthly Sync",
+  "start_time": "2023-11-12T16:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "No-pedestrian zone and PIT-to-person proximity around barrier pole/outfeed/battery area",
+        "description": "Add a camera and scope a no-pedestrian zone and/or PIT-to-person proximity to prevent pedestrians entering the area where a barrier pole is being struck and caused an injury.",
+        "evidence": [
+          {
+            "quote": "What I was talking about, Casey, was trying to put a camera by either door 28C, the outfeed pallets, and or the right in front of the battery changers for the poll and stuff.",
+            "speaker": "Jordan Briar <fake.jordan.briar@uniontrackdynamics.com>",
+            "timestamp": "[00:03:03]"
+          },
+          {
+            "quote": "We an uptick of people going into a certain area and hitting a kind of a barrier pole.",
+            "speaker": "Jordan Briar <fake.jordan.briar@uniontrackdynamics.com>",
+            "timestamp": "[00:04:00]"
+          },
+          {
+            "quote": "I guess the last time that person hit the barrier pole, one of the magnets got stuck to the truck and was kind of swinging around and kind of hit somebody in the face.",
+            "speaker": "Jordan Briar <fake.jordan.briar@uniontrackdynamics.com>",
+            "timestamp": "[00:04:11]"
+          },
+          {
+            "quote": "So it looks like maybe a no-pedestrian zone or, you know, with the pits in particular, maybe a pit-to-person proximity.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:04:25]"
+          },
+          {
+            "quote": "We don't want that at all.",
+            "speaker": "Jordan Briar <fake.jordan.briar@uniontrackdynamics.com>",
+            "timestamp": "[00:06:02]"
+          },
+          {
+            "quote": "No one, really no one going in there.",
+            "speaker": "Jordan Briar <fake.jordan.briar@uniontrackdynamics.com>",
+            "timestamp": "[00:06:04]"
+          },
+          {
+            "quote": "That's the pole that keeps getting hit.",
+            "speaker": "Jordan Briar <fake.jordan.briar@uniontrackdynamics.com>",
+            "timestamp": "[00:06:06]"
+          }
+        ]
+      },
+      {
+        "label": "Aisle obstruction and pallet buildup monitoring and remediation",
+        "description": "Monitor and reduce pallet buildup/obstructions in narrow aisles (e.g., Aisle Cluster B/C) using Voxel events and heatmaps, while redirecting traffic and clearing areas to reduce risk.",
+        "evidence": [
+          {
+            "quote": "I like that view that you had there, if you want to show them, because, yeah, because that also shows a buildup of palettes there, and that's something that I would like to, you know, you could get rid of a couple of things with that.",
+            "speaker": "Casey Quincy <fake.casey.quincy@uniontrackdynamics.com>",
+            "timestamp": "[00:05:20]"
+          },
+          {
+            "quote": "A 20-25% spike.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:12:21]"
+          },
+          {
+            "quote": "a lot of the events are happening within the first a few cameras. So Aisle Cluster B, Aisle Cluster C",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:12:28]"
+          },
+          {
+            "quote": "I can open the heat map just to see where this is happening more specifically.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:12:33]"
+          },
+          {
+            "quote": "know 27 is actually pretty packed.",
+            "speaker": "Casey Quincy <fake.casey.quincy@uniontrackdynamics.com>",
+            "timestamp": "[00:13:01]"
+          },
+          {
+            "quote": "I'm trying to get some of the pallet traffic back into the room that it needs to be in.",
+            "speaker": "Casey Quincy <fake.casey.quincy@uniontrackdynamics.com>",
+            "timestamp": "[00:13:16]"
+          }
+        ]
+      },
+      {
+        "label": "Working at heights fall protection monitoring (cherry pickers)",
+        "description": "Use working-at-heights detections to confirm workers on cherry pickers remain attached, and flag cases to verify they are not unlatching.",
+        "evidence": [
+          {
+            "quote": "Working at Heights, I know that is something that we did recently enable for you guys.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:15:40]"
+          },
+          {
+            "quote": "From what I see, no, because a lot of them are capturing the people on the cherry picker, and they're, what do you call it?",
+            "speaker": "Jordan Briar <fake.jordan.briar@uniontrackdynamics.com>",
+            "timestamp": "[00:15:50]"
+          },
+          {
+            "quote": "They're attached to the truck.",
+            "speaker": "Jordan Briar <fake.jordan.briar@uniontrackdynamics.com>",
+            "timestamp": "[00:16:00]"
+          },
+          {
+            "quote": "So it's good just to check in and make sure that they're still attached and not unlatching themselves.",
+            "speaker": "Jordan Briar <fake.jordan.briar@uniontrackdynamics.com>",
+            "timestamp": "[00:16:03]"
+          }
+        ]
+      },
+      {
+        "label": "High-visibility safety vest compliance monitoring",
+        "description": "Track and correct safety vest compliance; a spike traced to one new worker without a vest dropped after providing a vest.",
+        "evidence": [
+          {
+            "quote": "Specifically, overreaching, down 5-10%, safety vests, 90-100%.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:11:49]"
+          },
+          {
+            "quote": "it looks like safety vests are the biggest concern here in terms of volume.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:16:40]"
+          },
+          {
+            "quote": "That's just one guy.",
+            "speaker": "Jordan Briar <fake.jordan.briar@uniontrackdynamics.com>",
+            "timestamp": "[00:16:51]"
+          },
+          {
+            "quote": "He was up there without a vest, and we took a while to get him one.",
+            "speaker": "Jordan Briar <fake.jordan.briar@uniontrackdynamics.com>",
+            "timestamp": "[00:16:53]"
+          },
+          {
+            "quote": "You see, that's the reason why it came down so much, because they finally gave him a vest.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:17:09]"
+          },
+          {
+            "quote": "He's not flagging anymore.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:17:13]"
+          }
+        ]
+      },
+      {
+        "label": "Ergonomic risk monitoring (overreaching, improper bend)",
+        "description": "Monitor and reduce ergonomic risks such as overreaching and improper bending, with downward trends and many actions categorized as ergonomics.",
+        "evidence": [
+          {
+            "quote": "You can see completed actions by type.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:09:40]"
+          },
+          {
+            "quote": "Looks like for you guys, a lot of it is ergo, which makes sense.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:09:43]"
+          },
+          {
+            "quote": "Specifically, overreaching, down 5-10%,",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:11:49]"
+          },
+          {
+            "quote": "Improper bend, 5-10%.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:11:55]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Action management workflow with ownership, cross-shift follow-up, timelines, and impact markers",
+        "description": "Use Voxel’s actions workflow to assign items to a single owner, enable cross‑shift follow-through, set timelines, and automatically place markers to measure impact on incident trends.",
+        "evidence": [
+          {
+            "quote": "you kind of can assign it to one single person so they can do it rather than a group.",
+            "speaker": "Jordan Briar <fake.jordan.briar@uniontrackdynamics.com>",
+            "timestamp": "[00:08:19]"
+          },
+          {
+            "quote": "if someone's off, you know, the other ship members can take care of it. They see it, you know, they can follow by, follow through, follow up.",
+            "speaker": "Jordan Briar <fake.jordan.briar@uniontrackdynamics.com>",
+            "timestamp": "[00:08:36]"
+          },
+          {
+            "quote": "I like the create a timeline for it.",
+            "speaker": "Jordan Briar <fake.jordan.briar@uniontrackdynamics.com>",
+            "timestamp": "[00:08:53]"
+          },
+          {
+            "quote": "what happens is when an action is completed and it follows a specific, you know, next step, like retrain, you know, part of the team or implement it.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:09:48]"
+          },
+          {
+            "quote": "There's a marker that's placed.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:10:03]"
+          },
+          {
+            "quote": "Based on this afterwards, how has this impacted the trends for the business and for that particular site?",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:10:07]"
+          }
+        ]
+      },
+      {
+        "label": "Site report and heatmap analytics to find hotspots by camera/time and track outcomes",
+        "description": "Leverage the site report to view 30‑day incident trends, drill into specific cameras, use heatmaps to locate hotspots, see hot times, and add markers to track post‑action outcomes.",
+        "evidence": [
+          {
+            "quote": "So this automatically takes a 30-day view for the previous month.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:09:30]"
+          },
+          {
+            "quote": "You can see completed actions by type.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:09:40]"
+          },
+          {
+            "quote": "A 20-25% spike.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:12:21]"
+          },
+          {
+            "quote": "a lot of the events are happening within the first a few cameras. So Aisle Cluster B, Aisle Cluster C",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:12:28]"
+          },
+          {
+            "quote": "I can open the heat map just to see where this is happening more specifically.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:12:33]"
+          },
+          {
+            "quote": "And it looks like, you know, typically Thursdays around 8 p.m.. Central are your hot days",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:15:15]"
+          }
+        ]
+      },
+      {
+        "label": "Aisle obstruction and pallet buildup monitoring to improve pallet flow",
+        "description": "Use detections and analytics to identify pallet buildup in Room 27 and redirect pallet traffic to the correct room to alleviate congestion.",
+        "evidence": [
+          {
+            "quote": "that also shows a buildup of palettes there, and that's something that I would like to, you know, you could get rid of a couple of things with that.",
+            "speaker": "Casey Quincy <fake.casey.quincy@uniontrackdynamics.com>",
+            "timestamp": "[00:05:23]"
+          },
+          {
+            "quote": "know 27 is actually pretty packed.",
+            "speaker": "Casey Quincy <fake.casey.quincy@uniontrackdynamics.com>",
+            "timestamp": "[00:13:01]"
+          },
+          {
+            "quote": "I'm trying to get some of the pallet traffic back into the room that it needs to be in.",
+            "speaker": "Casey Quincy <fake.casey.quincy@uniontrackdynamics.com>",
+            "timestamp": "[00:13:16]"
+          }
+        ]
+      }
+    ]
+  }
+}

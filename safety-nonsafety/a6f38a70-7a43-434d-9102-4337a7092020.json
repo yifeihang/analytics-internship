@@ -1,0 +1,107 @@
+{
+  "meeting_title": "Granite Transit Materials- Use Case Discovery ",
+  "start_time": "2024-04-04T20:30:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Four-pin walk-around/pin unlock detection with real-time alerts",
+        "description": "Detect whether drivers perform the required four-corner pin unlock walk-around before container lifts and push real-time alerts to Yard Operations/managers so they can intervene and prevent unsafe lifts and damage.",
+        "evidence": [
+          {
+            "quote": "And it's the importance of having those pins, what would you say, pins unlocked for the successful lift up of a container.",
+            "speaker": "Cameron Locke <fake.cameron.locke@granitetransitmaterials.com>",
+            "timestamp": "[00:01:34]"
+          },
+          {
+            "quote": "So that's the biggest thing is the safety of the movement of these 60,000 plus pound containers throughout the port.",
+            "speaker": "Cameron Locke <fake.cameron.locke@granitetransitmaterials.com>",
+            "timestamp": "[00:02:19]"
+          },
+          {
+            "quote": "So it's not an extremely hazardous issue, but when it happens, damage happens.",
+            "speaker": "Cameron Locke <fake.cameron.locke@granitetransitmaterials.com>",
+            "timestamp": "[00:06:37]"
+          },
+          {
+            "quote": "You know, I've seen semi-trucks be lifted up in the air because they forgot to latch their entire four pins.",
+            "speaker": "Cameron Locke <fake.cameron.locke@granitetransitmaterials.com>",
+            "timestamp": "[00:06:46]"
+          },
+          {
+            "quote": "And one of the safety measures is, the operator of the ROS crane is supposed to be able to recognize that lift.",
+            "speaker": "Cameron Locke <fake.cameron.locke@granitetransitmaterials.com>",
+            "timestamp": "[00:09:30]"
+          },
+          {
+            "quote": "Lifting an un-pinned chassis, but an algorithm like this could possibly benefit a little bit more to make sure an OTR driver is doing the right process.",
+            "speaker": "Cameron Locke <fake.cameron.locke@granitetransitmaterials.com>",
+            "timestamp": "[00:10:00]"
+          },
+          {
+            "quote": "You know, real-time alerts would be something because what we have is called the Yard Operations, and they are the ones that monitor the movement of containers.",
+            "speaker": "Cameron Locke <fake.cameron.locke@granitetransitmaterials.com>",
+            "timestamp": "[00:10:35]"
+          },
+          {
+            "quote": "Probably, um, a push notification, but obviously it's going to go straight to this department.",
+            "speaker": "Cameron Locke <fake.cameron.locke@granitetransitmaterials.com>",
+            "timestamp": "[00:11:20]"
+          },
+          {
+            "quote": "And it could be something good where the manager gets a push notification and he can relay right to a clerk out there and say, hey, please go check.",
+            "speaker": "Cameron Locke <fake.cameron.locke@granitetransitmaterials.com>",
+            "timestamp": "[00:12:44]"
+          },
+          {
+            "quote": "the biggest thing I'm interested in is, and Carter has expressed this too, is just making sure somebody hits all four corners.",
+            "speaker": "Cameron Locke <fake.cameron.locke@granitetransitmaterials.com>",
+            "timestamp": "[00:13:39]"
+          },
+          {
+            "quote": "So there's going to be times, but if you could have, like, four circles, and where every circle gets hit, four, four, four, one, two, three, four, that I could see something like that being suitable.",
+            "speaker": "Cameron Locke <fake.cameron.locke@granitetransitmaterials.com>",
+            "timestamp": "[00:14:21]"
+          },
+          {
+            "quote": "I mean, that might be an iterative use case where we start out dumb and just monitoring whether or not the operator is doing a 360.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:17:00]"
+          },
+          {
+            "quote": "We're not seeing if they're actually doing pins. That's going to take a closer camera.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:17:14]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Role/shift/incident-specific dashboards (“boards”) for operations",
+        "description": "Provide personalized dashboards filtered by role, shift, incident type, and camera so operations teams can monitor their areas and fix problems; prepare these boards for leadership review.",
+        "evidence": [
+          {
+            "quote": "let's get that up so that if Solomon does join the next one, we've got some boards to show them that are role-specific, shift-specific, incident-specific.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:20:01]"
+          },
+          {
+            "quote": "The boards are the personalized dashboards based on shift, based on incident type, based on camera.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:20:29]"
+          },
+          {
+            "quote": "The whole goal is to put this into operations hands. So if we can narrow it down to each department, that way they can monitor their areas and be vigilant on fixing their problems.",
+            "speaker": "Cameron Locke <fake.cameron.locke@granitetransitmaterials.com>",
+            "timestamp": "[00:20:43]"
+          },
+          {
+            "quote": "We'll get that spun up, and then we could demo it for him next time we speak.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:21:11]"
+          }
+        ]
+      }
+    ]
+  }
+}

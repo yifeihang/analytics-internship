@@ -1,0 +1,191 @@
+{
+  "meeting_title": "Iron Forge Industrial | Voxel",
+  "start_time": "2022-06-28T19:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "AI risk monitoring deployment across sites",
+        "description": "Iron Forge Industrial is evaluating AI risk monitoring and wants a true partner for a POC with the intent to scale across multiple sites.",
+        "evidence": [
+          {
+            "quote": "And then there's this project, which is, you know, the AI risk monitoring.",
+            "speaker": "Ashton Beckett <fake.ashton.beckett@ironforgeindustrial.com>",
+            "timestamp": "[00:12:51]"
+          },
+          {
+            "quote": "Because that's what we're kind of, we're looking for a partner, not just, you know, a cool new toy at one site that we can show off to leadership, right?",
+            "speaker": "Ashton Beckett <fake.ashton.beckett@ironforgeindustrial.com>",
+            "timestamp": "[00:03:00]"
+          },
+          {
+            "quote": "If this expands beyond one site, it would need to fit into how we plan across sites.",
+            "speaker": "Ashton Beckett <fake.ashton.beckett@ironforgeindustrial.com>",
+            "timestamp": "[00:15:42]"
+          }
+        ]
+      },
+      {
+        "label": "Global safety risk dashboard and heatmap visibility",
+        "description": "Leadership wants the ability to view site integrity globally via a map with risk scores and drill-down visualization.",
+        "evidence": [
+          {
+            "quote": "One of them offers, for the global team, like, for somebody like me and Drew and Sydney and the other global team members, one of the solutions offers the map, right?",
+            "speaker": "Ashton Beckett <fake.ashton.beckett@ironforgeindustrial.com>",
+            "timestamp": "[00:05:24]"
+          },
+          {
+            "quote": "And the map with the scores in there, where it shows, like, you pull up your screen, and you can see what's the score or essentially the value of every side across the globe right there.",
+            "speaker": "Ashton Beckett <fake.ashton.beckett@ironforgeindustrial.com>",
+            "timestamp": "[00:05:36]"
+          },
+          {
+            "quote": "And then you click in, you drill in, and it's showing your highest values one by one.",
+            "speaker": "Ashton Beckett <fake.ashton.beckett@ironforgeindustrial.com>",
+            "timestamp": "[00:05:47]"
+          },
+          {
+            "quote": "And it's also kind of a heat map kind of thing, too.",
+            "speaker": "Ashton Beckett <fake.ashton.beckett@ironforgeindustrial.com>",
+            "timestamp": "[00:05:53]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Run a trial before broader rollout",
+        "description": "They want to run a trial before deciding on a broader rollout.",
+        "evidence": [
+          {
+            "quote": "And then the second part was, he's like, can we partner?",
+            "speaker": "Ashton Beckett <fake.ashton.beckett@ironforgeindustrial.com>",
+            "timestamp": "[00:04:11]"
+          },
+          {
+            "quote": "Like, is this something where we can trial this? Do you have a trial?",
+            "speaker": "Ashton Beckett <fake.ashton.beckett@ironforgeindustrial.com>",
+            "timestamp": "[00:04:13]"
+          },
+          {
+            "quote": "Is there a way for us to evaluate this internally and explain the value to the right stakeholders?",
+            "speaker": "Ashton Beckett <fake.ashton.beckett@ironforgeindustrial.com>",
+            "timestamp": "[00:04:14]"
+          },
+          {
+            "quote": "Because there's a couple things that I need to figure out, which is, like the trial thing, know, the POC, I guess, is, is what it seems like for us.",
+            "speaker": "Ashton Beckett <fake.ashton.beckett@ironforgeindustrial.com>",
+            "timestamp": "[00:02:29]"
+          },
+          {
+            "quote": "So what we need to do is we need to identify, how are we doing this, are we serious about it, are you ready to pull the trigger, if you will, as soon as we get done with this POC?",
+            "speaker": "Ashton Beckett <fake.ashton.beckett@ironforgeindustrial.com>",
+            "timestamp": "[00:02:46]"
+          }
+        ]
+      },
+      {
+        "label": "Reduce implementation/training burden and false positives",
+        "description": "They prefer a simpler, more accurate system to minimize learning curve, implementation time, training needs, and false positives.",
+        "evidence": [
+          {
+            "quote": "One thing that set that one apart from the others, but if you look at it, it's not very simple.",
+            "speaker": "Ashton Beckett <fake.ashton.beckett@ironforgeindustrial.com>",
+            "timestamp": "[00:06:00]"
+          },
+          {
+            "quote": "It's a little bit more difficult to use.",
+            "speaker": "Ashton Beckett <fake.ashton.beckett@ironforgeindustrial.com>",
+            "timestamp": "[00:06:06]"
+          },
+          {
+            "quote": "There's more of a learning curve.",
+            "speaker": "Ashton Beckett <fake.ashton.beckett@ironforgeindustrial.com>",
+            "timestamp": "[00:06:08]"
+          },
+          {
+            "quote": "There might be a little bit more time spent on the implementation side.",
+            "speaker": "Ashton Beckett <fake.ashton.beckett@ironforgeindustrial.com>",
+            "timestamp": "[00:06:10]"
+          },
+          {
+            "quote": "And I could see where some of their processes could lead to more time spent training as well to get it to not recognize, you know, everything that isn't something and only pick up the things that are important to us, right, or the things we want to pick up.",
+            "speaker": "Ashton Beckett <fake.ashton.beckett@ironforgeindustrial.com>",
+            "timestamp": "[00:06:14]"
+          },
+          {
+            "quote": "On yours, yours is super simple.",
+            "speaker": "Ashton Beckett <fake.ashton.beckett@ironforgeindustrial.com>",
+            "timestamp": "[00:06:37]"
+          },
+          {
+            "quote": "It's easy to use.",
+            "speaker": "Ashton Beckett <fake.ashton.beckett@ironforgeindustrial.com>",
+            "timestamp": "[00:06:39]"
+          },
+          {
+            "quote": "That's what I would say to Vermont as far as, like, what sets them apart is the simplicity and the accuracy, I guess, is the better way of putting it.",
+            "speaker": "Ashton Beckett <fake.ashton.beckett@ironforgeindustrial.com>",
+            "timestamp": "[00:07:22]"
+          }
+        ]
+      },
+      {
+        "label": "Ongoing partnership and customer success support",
+        "description": "They want a partner that remains engaged after rollout, rather than a one-off tool.",
+        "evidence": [
+          {
+            "quote": "Because that's what we're kind of, we're looking for a partner, not just, you know, a cool new toy at one site that we can show off to leadership, right?",
+            "speaker": "Ashton Beckett <fake.ashton.beckett@ironforgeindustrial.com>",
+            "timestamp": "[00:03:00]"
+          },
+          {
+            "quote": "it's not like you start using the product and then stop hearing from us; we stay involved to help you moving forward.",
+            "speaker": "Marin Dover <fake.marin.dover@voxelai.com>",
+            "timestamp": "[00:11:00]"
+          },
+          {
+            "quote": "We have people who help make sure the setup is aligned, the goals are clear, and the reviews stay on track.",
+            "speaker": "Jules Blaine <fake.jules.blaine@voxelai.com>",
+            "timestamp": "[00:11:18]"
+          },
+          {
+            "quote": "And then you have ongoing customer support after that as well.",
+            "speaker": "Jules Blaine <fake.jules.blaine@voxelai.com>",
+            "timestamp": "[00:11:27]"
+          }
+        ]
+      },
+      {
+        "label": "Planning for multi-site rollout requirements",
+        "description": "They need clarity on rollout requirements and implementation considerations to support longer-term internal planning across sites.",
+        "evidence": [
+          {
+            "quote": "I want a clearer picture of how this would be scoped across the different options.",
+            "speaker": "Ashton Beckett <fake.ashton.beckett@ironforgeindustrial.com>",
+            "timestamp": "[00:01:31]"
+          },
+          {
+            "quote": "What else would we need beyond what we already have in place?",
+            "speaker": "Ashton Beckett <fake.ashton.beckett@ironforgeindustrial.com>",
+            "timestamp": "[00:01:45]"
+          },
+          {
+            "quote": "What other implementation considerations would fall on our side?",
+            "speaker": "Ashton Beckett <fake.ashton.beckett@ironforgeindustrial.com>",
+            "timestamp": "[00:02:00]"
+          },
+          {
+            "quote": "Having more clarity here would help with our longer-term internal planning discussions.",
+            "speaker": "Ashton Beckett <fake.ashton.beckett@ironforgeindustrial.com>",
+            "timestamp": "[00:15:30]"
+          },
+          {
+            "quote": "If we rolled this out more broadly, there would be site-level planning involved.",
+            "speaker": "Ashton Beckett <fake.ashton.beckett@ironforgeindustrial.com>",
+            "timestamp": "[00:16:12]"
+          }
+        ]
+      }
+    ]
+  }
+}

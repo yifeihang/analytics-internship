@@ -1,0 +1,172 @@
+{
+  "meeting_title": "Voxel AI Demo",
+  "start_time": "2022-05-22T16:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Ergonomic risk identification (improper bend/lift using Posture Risk Index)",
+        "description": "Identify ergonomic risks on production lines (e.g., improper bending/lifting) and capture incidents to reduce high ergonomic injury rates.",
+        "evidence": [
+          {
+            "quote": "priority one is identifying ergonomic risk, near miss risk, and then vehicle risk and some compliance.",
+            "speaker": "Palmer York <fake.palmer.york@arrowaxissolutions.com>",
+            "timestamp": "[00:06:08]"
+          },
+          {
+            "quote": "We're up around like 65 or 70 percent ergonomic-related injuries right now.",
+            "speaker": "Palmer York <fake.palmer.york@arrowaxissolutions.com>",
+            "timestamp": "[00:15:48]"
+          },
+          {
+            "quote": "Our system does work off of live data, so we're monitoring, we're pulling, we're looking, we see an improper bend based on Posture Risk Index analysis, we'll fire up the exoskeleton.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:16:49]"
+          }
+        ]
+      },
+      {
+        "label": "Near-miss risk identification",
+        "description": "Detect and identify near-miss events in the facility as a priority safety objective.",
+        "evidence": [
+          {
+            "quote": "priority one is identifying ergonomic risk, near miss risk, and then vehicle risk and some compliance.",
+            "speaker": "Palmer York <fake.palmer.york@arrowaxissolutions.com>",
+            "timestamp": "[00:06:08]"
+          }
+        ]
+      },
+      {
+        "label": "PIT–pedestrian proximity and interaction monitoring",
+        "description": "Monitor powered industrial trucks and pedestrian interactions to detect proximity violations and improve pedestrian safety.",
+        "evidence": [
+          {
+            "quote": "We talked about, you know, leading indicators of risk in the facility, whether that was, you know, powered industrial trucks, ergonomics, pedestrian safety, suspended load.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:05:29]"
+          },
+          {
+            "quote": "Here's an area that's really solid for pedestrian and powered industrial truck interaction, those types of scenarios, given the use cases that y'all saw earlier.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:11:15]"
+          },
+          {
+            "quote": "And then if there's a, you know, forklift and pedestrian proximity violation in that same camera view, we'll fire that up as a separate event.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:17:06]"
+          }
+        ]
+      },
+      {
+        "label": "Forklift stop-at-intersection compliance tracking and analytics",
+        "description": "Track forklift stop compliance at intersections and quantify compliance rates across all opportunities to enforce safety rules.",
+        "evidence": [
+          {
+            "quote": "let's say that we're tracking a forklift, no stop at intersection, okay?",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:17:47]"
+          },
+          {
+            "quote": "Make sure that that forklift or that pallet jack or that tugger or whatever vehicle it is that you have makes a full and complete stop there and then continues on.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:18:00]"
+          },
+          {
+            "quote": "We're capturing all of the vehicles moving through there.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:18:10]"
+          },
+          {
+            "quote": "We're able to give you the compliance of, hey, you complied to the stop rule 90-100% of the time because we see every opportunity to flag an event, and then, you know.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:18:22]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Use historical data to support internal review",
+        "description": "Use historical facility data and incident trends to support an internal business case.",
+        "evidence": [
+          {
+            "quote": "Do you have historical facility data we could use for that conversation?",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:14:45]"
+          },
+          {
+            "quote": "We usually look at historical incident patterns and before-and-after comparisons to tell that story without getting too detailed.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:15:00]"
+          },
+          {
+            "quote": "I can get that data fairly easily.",
+            "speaker": "Palmer York <fake.palmer.york@arrowaxissolutions.com>",
+            "timestamp": "[00:15:44]"
+          }
+        ]
+      },
+      {
+        "label": "Validate detection accuracy/precision and false positive/negative thresholds in dense production cells",
+        "description": "Assess how accurately the platform identifies issues in tightly condensed manufacturing areas and establish acceptable misjudgment/over-judgment thresholds.",
+        "evidence": [
+          {
+            "quote": "the identification of an issue and how accurate that identification is.",
+            "speaker": "Palmer York <fake.palmer.york@arrowaxissolutions.com>",
+            "timestamp": "[00:06:27]"
+          },
+          {
+            "quote": "So if we get, you know, hundreds of instances, are 100 of them false, how are they validated, some of that kind of stuff.",
+            "speaker": "Palmer York <fake.palmer.york@arrowaxissolutions.com>",
+            "timestamp": "[00:06:45]"
+          },
+          {
+            "quote": "put it in an area that's fairly condensed.",
+            "speaker": "Palmer York <fake.palmer.york@arrowaxissolutions.com>",
+            "timestamp": "[00:07:00]"
+          },
+          {
+            "quote": "are they able to pick out the, the issues within that confined space?",
+            "speaker": "Palmer York <fake.palmer.york@arrowaxissolutions.com>",
+            "timestamp": "[00:07:55]"
+          },
+          {
+            "quote": "we look at what we call the misjudgment or overjudgment rate.",
+            "speaker": "Nikita Shepard <fake.nikita.shepard@arrowaxissolutions.com>",
+            "timestamp": "[00:08:53]"
+          },
+          {
+            "quote": "So if we get thousands of alerts, typically it would say 90-100% of them have to be actual incidents. And then 5-10% over-judgment is acceptable.",
+            "speaker": "Nikita Shepard <fake.nikita.shepard@arrowaxissolutions.com>",
+            "timestamp": "[00:09:11]"
+          }
+        ]
+      },
+      {
+        "label": "Forklift stop-at-intersection compliance tracking and analytics",
+        "description": "Track forklift stop compliance at intersections and quantify compliance rates across all opportunities to enforce safety rules.",
+        "evidence": [
+          {
+            "quote": "let's say that we're tracking a forklift, no stop at intersection, okay?",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:17:47]"
+          },
+          {
+            "quote": "Make sure that that forklift or that pallet jack or that tugger or whatever vehicle it is that you have makes a full and complete stop there and then continues on.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:18:00]"
+          },
+          {
+            "quote": "We're capturing all of the vehicles moving through there.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:18:10]"
+          },
+          {
+            "quote": "We're able to give you the compliance of, hey, you complied to the stop rule 90-100% of the time because we see every opportunity to flag an event, and then, you know.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:18:22]"
+          }
+        ]
+      }
+    ]
+  }
+}

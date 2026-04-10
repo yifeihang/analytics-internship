@@ -1,0 +1,73 @@
+{
+  "meeting_title": "Atlas Motive Operations Catchup",
+  "start_time": "2023-07-23T21:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Baseline and trend safety events (before/after) to measure impact",
+        "description": "Set up monitoring to capture a baseline and then compare data over time to show before/after differences, trend events, and understand the how/why behind changes.",
+        "evidence": [
+          {
+            "quote": "are you guys going to set this up in like a monitor thing where you're, before it actually goes live, where you can show the difference between the before and after?",
+            "speaker": "Harper Iverson <fake.harper.iverson@northworksoperations.com>",
+            "timestamp": "[00:15:31]"
+          },
+          {
+            "quote": "we do strive to capture what it looked like when we started, and then, let's say, several months later or several months later, so that we can not only look at the data in terms of the trending of events, but also really understand and demonstrate the how and why behind it.",
+            "speaker": "Noel Monroe <fake.noel.monroe@voxelai.com>",
+            "timestamp": "[00:16:24]"
+          },
+          {
+            "quote": "We then scope the camera together to identify what use cases we're looking for and where, and then we turn it on.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:16:05]"
+          }
+        ]
+      },
+      {
+        "label": "Reduce safety losses/incidents",
+        "description": "Use the system to improve safety performance so losses go down and the organization becomes a better risk.",
+        "evidence": [
+          {
+            "quote": "Well, I think the hope is that, yeah, you know, your losses improve, and as you become a better risk, yeah, your premiums will be lowered.",
+            "speaker": "Reese Truitt <fake.reese.truitt@northliftworks.com>",
+            "timestamp": "[00:06:00]"
+          },
+          {
+            "quote": "overall, if your losses are steadily getting better, then, you know, your premium will be favorable.",
+            "speaker": "Reese Truitt <fake.reese.truitt@northliftworks.com>",
+            "timestamp": "[00:06:16]"
+          },
+          {
+            "quote": "it certainly shows that, you know, you have a safety culture and you're trying to get your losses down.",
+            "speaker": "Reese Truitt <fake.reese.truitt@northliftworks.com>",
+            "timestamp": "[00:06:49]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Lower workers’ comp premiums by demonstrating improved risk",
+        "description": "Leverage the system to help drive lower insurance premiums in future renewals by improving losses and showing a stronger safety culture.",
+        "evidence": [
+          {
+            "quote": "For you, Harper, or even the guys at Willis, would this help drive, this type of system help drive a lower premium in the future as well, integrating this technology?",
+            "speaker": "Delaney Reagan <fake.delaney.reagan@northworksoperations.com>",
+            "timestamp": "[00:05:45]"
+          },
+          {
+            "quote": "Well, I think the hope is that, yeah, you know, your losses improve, and as you become a better risk, yeah, your premiums will be lowered.",
+            "speaker": "Reese Truitt <fake.reese.truitt@northliftworks.com>",
+            "timestamp": "[00:06:00]"
+          },
+          {
+            "quote": "overall, if your losses are steadily getting better, then, you know, your premium will be favorable.",
+            "speaker": "Reese Truitt <fake.reese.truitt@northliftworks.com>",
+            "timestamp": "[00:06:16]"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "meeting_title": "Voxel Follow Up",
+  "start_time": "2024-06-07T17:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Dock PIT and pedestrian safety monitoring",
+        "description": "Reduce high-risk incidents on the dock by focusing on PIT-to-PIT and PIT-to-person proximity and related behaviors (e.g., keeping aisles clear, speeding), with trends showing improvement.",
+        "evidence": [
+          {
+            "quote": "What we started focusing on in the tool to get some quick wins was to really go after our dock safety when it came to pit on pit, PIV on PIV, part of industrial vehicles, interactions.",
+            "speaker": "Micah Gentry <fake.micah.gentry@keystonesteelsystems.com>",
+            "timestamp": "[00:09:18]"
+          },
+          {
+            "quote": "So we did have in there that the pit-to-pit focus started on December 26th, and I can't think that then you focused on keeping those aisles clear.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:12:03]"
+          },
+          {
+            "quote": "And now you can see that data is trending down for your pit-to-pit proximity, as well as even person-to-pit is really starting on that downward trend.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:12:14]"
+          },
+          {
+            "quote": "the number of incidents that we're seeing through the computer vision AI as it relates to pit to pit, pit to pedestrian, vehicle speeding, all of those are trending in the right direction.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:13:05]"
+          }
+        ]
+      },
+      {
+        "label": "Ergonomic risk reduction (overreaches, improper bends)",
+        "description": "Identify and reduce ergonomic risks like overreaching and improper bends by changing processes such as pallet stack configuration and coaching proper lifting to lower strain injuries.",
+        "evidence": [
+          {
+            "quote": "We got our pallet stack that's 16 tall, you know, pulling down, reaching, we're, you know, putting a lot of strain on the body to pull that a heavy load pallet down.",
+            "speaker": "Micah Gentry <fake.micah.gentry@keystonesteelsystems.com>",
+            "timestamp": "[00:10:16]"
+          },
+          {
+            "quote": "Well, if we have that pallet stack now with two pallets, eight and eight, it's not perfect, but it's going to be much more at an ergonomic, safe zone, and you're not having to reach really high up.",
+            "speaker": "Micah Gentry <fake.micah.gentry@keystonesteelsystems.com>",
+            "timestamp": "[00:10:26]"
+          },
+          {
+            "quote": "Can we do something like the pallet stack, or is it coaching employees to remind themselves about proper lifting techniques?",
+            "speaker": "Micah Gentry <fake.micah.gentry@keystonesteelsystems.com>",
+            "timestamp": "[00:11:50]"
+          },
+          {
+            "quote": "every single trend is in a positive direction, other than ergo, other than right now overreaching.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:12:45]"
+          }
+        ]
+      },
+      {
+        "label": "Track intervention impact with platform markers",
+        "description": "Use markers in the platform when training or floor changes occur to compare pre/post data and show trend impacts, including for future ergonomic initiatives.",
+        "evidence": [
+          {
+            "quote": "One of the things that we have been asking, and that we need to make sure that we are on top of, is we can add a marker.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:08:36]"
+          },
+          {
+            "quote": "So when they actually put in training, or if there is something that they are doing on the floor, we can add a marker.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:08:43]"
+          },
+          {
+            "quote": "And that way we can see, what did the data look like before, and now what does the data look like now?",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:08:50]"
+          },
+          {
+            "quote": "So this is what a marker would look like, and what we could do when you do focus on ergo, we could put those in and be able to show you those trends.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:12:24]"
+          }
+        ]
+      },
+      {
+        "label": "Assign and track corrective actions in platform to remove hazards",
+        "description": "Leverage the Actions workflow to create, assign, and track hazard mitigation tasks with timelines (e.g., removing obstructions causing forklift pinch points) to reduce PIT interactions.",
+        "evidence": [
+          {
+            "quote": "So if I say, hey, I noticed that I've got something that's constantly creating a pinch point with the forklifts, and I want those obstructions moved in the next several hours, and I assign it to an individual, and I can track it, and I can check it off as it's completed, and we can see if, in fact, those pinch points result in fewer pit-to-pit interactions.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:30:06]"
+          }
+        ]
+      },
+      {
+        "label": "Use heatmaps and claims data to target injury reductions",
+        "description": "Identify ergonomic hot spots via dashboard heatmaps and align with workers’ comp claim patterns to focus interventions and validate reductions over time.",
+        "evidence": [
+          {
+            "quote": "I know I can go into the dashboard today and see a heat map on overreaches in a certain area and say there's a hot spot.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:06:59]"
+          },
+          {
+            "quote": "And so if we're seeing.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:07:00]"
+          },
+          {
+            "quote": "Getting some injuries or claims around shoulder injuries or strains or repetitive motion, I think we can certainly hone in on where those incidents are occurring via the platform",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:07:00]"
+          },
+          {
+            "quote": "Or if several months down the road, we would compare to see if our injuries by that type of accident are declining.",
+            "speaker": "Sage Abbott <fake.sage.abbott@keystonesteelsystems.com>",
+            "timestamp": "[00:07:49]"
+          }
+        ]
+      },
+      {
+        "label": "Gamify safety performance to drive adoption and outcomes",
+        "description": "Use incentives and competition at the shift level to motivate safe behaviors and engagement with the platform, aiming to reduce incidents.",
+        "evidence": [
+          {
+            "quote": "From a gamification, I know that's one of the things that we've often done is, you know, you may have some incentives.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:19:00]"
+          },
+          {
+            "quote": "Hey, you know, for each shift that may not be applicable, but doesn't have any stop signs that are blown.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:19:08]"
+          },
+          {
+            "quote": "Yeah, I'm sure that there's ways that is, if we got Seth Spine, that he can incentivize his people, not in immaterial ways, but make it sort of like a sports or like a competition type thing, and then they actually see hard savings down the road.",
+            "speaker": "Sage Abbott <fake.sage.abbott@keystonesteelsystems.com>",
+            "timestamp": "[00:30:32]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Evaluate value using claims and injury trends",
+        "description": "Assess program value by reviewing claims context alongside injury trends over time.",
+        "evidence": [
+          {
+            "quote": "That was one of the things that Doug wanted to get a better handle on.",
+            "speaker": "Sage Abbott <fake.sage.abbott@keystonesteelsystems.com>",
+            "timestamp": "[00:05:20]"
+          },
+          {
+            "quote": "an average work comp claim is about REDACTED to REDACTED.",
+            "speaker": "Sage Abbott <fake.sage.abbott@keystonesteelsystems.com>",
+            "timestamp": "[00:05:42]"
+          },
+          {
+            "quote": "And if we were to prevent a few injuries, at least with Plant City, it pays for itself",
+            "speaker": "Sage Abbott <fake.sage.abbott@keystonesteelsystems.com>",
+            "timestamp": "[00:05:50]"
+          },
+          {
+            "quote": "on average, REDACTED per injury, so two to three, two and a half to a few injuries avoided typically will pay for itself.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:06:24]"
+          }
+        ]
+      },
+      {
+        "label": "Broaden platform engagement via role-based access and targeted boards",
+        "description": "Increase adoption by involving supervisors and broader teams with contributor roles and shift/incident-specific boards so each leader sees only relevant items and can review quickly.",
+        "evidence": [
+          {
+            "quote": "We've got six, eight, ten people with login that can come in, can make an observation, can give a positive comment, can maybe provide some insights on what they're seeing.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:18:21]"
+          },
+          {
+            "quote": "We now have a contributor role where they're only seeing what you guys want them to see.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:20:00]"
+          },
+          {
+            "quote": "Yesterday has had all cameras now on that board showing for pit to pit.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:17:00]"
+          },
+          {
+            "quote": "But we can separate it by shift.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:29:00]"
+          },
+          {
+            "quote": "Yeah, that may make it more manageable for, you know, if we're trying to push things down to leaders to say, hey, a leader's going to log in and he's only going to see things that impact his shift.",
+            "speaker": "Winter Noble <fake.winter.noble@keystonesteelsystems.com>",
+            "timestamp": "[00:29:21]"
+          }
+        ]
+      },
+      {
+        "label": "Protect privacy via body blurring to support wider use",
+        "description": "Enable anonymized video with body blurring so more users can engage with the platform without recognizing individuals.",
+        "evidence": [
+          {
+            "quote": "We can even go into body blurring if we want them to anonymize completely so that there's no recognition of individuals.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:20:24]"
+          }
+        ]
+      },
+      {
+        "label": "Track intervention impact with platform markers",
+        "description": "Add markers when training or floor changes happen to compare pre/post data and quantify effect on safety trends for reporting and decision-making.",
+        "evidence": [
+          {
+            "quote": "So when they actually put in training, or if there is something that they are doing on the floor, we can add a marker.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:08:43]"
+          },
+          {
+            "quote": "And that way we can see, what did the data look like before, and now what does the data look like now?",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:08:50]"
+          },
+          {
+            "quote": "So this is what a marker would look like, and what we could do when you do focus on ergo, we could put those in and be able to show you those trends.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:12:24]"
+          }
+        ]
+      },
+      {
+        "label": "Assign and track corrective actions in platform",
+        "description": "Use the Actions workflow to create, assign, and track tasks with ownership and timelines, driving timely resolution and measurable impact.",
+        "evidence": [
+          {
+            "quote": "Actions is the new capability that not only allows you to comment on something, but you actually create a workflow within the platform on resolving, on communicating, on coaching, on changing, and having it assigned to individuals and others that can observe and putting.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:29:45]"
+          },
+          {
+            "quote": "So if I say, hey, I noticed that I've got something that's constantly creating a pinch point with the forklifts, and I want those obstructions moved in the next several hours, and I assign it to an individual, and I can track it, and I can check it off as it's completed, and we can see if, in fact, those pinch points result in fewer pit-to-pit interactions.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:30:06]"
+          }
+        ]
+      },
+      {
+        "label": "Use heatmaps and claims data to target and validate impact",
+        "description": "Combine dashboard heatmaps with workers’ comp data to prioritize areas and validate reductions over time for reporting and ROI.",
+        "evidence": [
+          {
+            "quote": "I know I can go into the dashboard today and see a heat map on overreaches in a certain area and say there's a hot spot.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:06:59]"
+          },
+          {
+            "quote": "Getting some injuries or claims around shoulder injuries or strains or repetitive motion, I think we can certainly hone in on where those incidents are occurring via the platform",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:07:00]"
+          },
+          {
+            "quote": "Or if several months down the road, we would compare to see if our injuries by that type of accident are declining.",
+            "speaker": "Sage Abbott <fake.sage.abbott@keystonesteelsystems.com>",
+            "timestamp": "[00:07:49]"
+          }
+        ]
+      },
+      {
+        "label": "Gamify adoption and safety behaviors",
+        "description": "Apply incentives and competition at the shift level to drive engagement with the platform and adherence to safe practices, supporting culture change and performance.",
+        "evidence": [
+          {
+            "quote": "From a gamification, I know that's one of the things that we've often done is, you know, you may have some incentives.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:19:00]"
+          },
+          {
+            "quote": "Hey, you know, for each shift that may not be applicable, but doesn't have any stop signs that are blown.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:19:08]"
+          },
+          {
+            "quote": "Yeah, I'm sure that there's ways that is, if we got Seth Spine, that he can incentivize his people, not in immaterial ways, but make it sort of like a sports or like a competition type thing, and then they actually see hard savings down the road.",
+            "speaker": "Sage Abbott <fake.sage.abbott@keystonesteelsystems.com>",
+            "timestamp": "[00:30:32]"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "meeting_title": "Kodiak Point Fabrication + Voxel - Deployment",
+  "start_time": "2024-04-26T15:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "No-stop at intersections/end-of-aisles",
+        "description": "Detect forklifts failing to stop at designated doors or end-of-aisle/intersections to prevent impacts and near-miss collisions.",
+        "evidence": [
+          {
+            "quote": "Are they stopping and starting at stop signs, right?",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:10:22]"
+          },
+          {
+            "quote": "So you'll see here, this got pulled in for a no-stop at intersection, right?",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:15:23]"
+          },
+          {
+            "quote": "Let's say we wanted a no-stop at this door, right?",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:17:06]"
+          }
+        ]
+      },
+      {
+        "label": "PIT-to-person proximity monitoring",
+        "description": "Alert when a moving forklift (PIT) comes within a defined distance of a pedestrian to prevent strikes.",
+        "evidence": [
+          {
+            "quote": "Are they getting too close to another person or another forklift, pit?",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:10:26]"
+          },
+          {
+            "quote": "So pit to person, the rule, because I mentioned it's rules. The rule is a moving pit gets within three feet of another person.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:18:36]"
+          }
+        ]
+      },
+      {
+        "label": "PIT-to-PIT proximity/collision monitoring",
+        "description": "Detect forklifts getting too close or colliding to reduce impacts and inform safer traffic patterns.",
+        "evidence": [
+          {
+            "quote": "And then pit to pit is the same premise, right? Just it's pit to pit.",
+            "speaker": "Riley Larkin <fake.riley.larkin@kodiakpointfabrication.com>",
+            "timestamp": "[00:19:05]"
+          },
+          {
+            "quote": "They actually hit each other.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:19:15]"
+          }
+        ]
+      },
+      {
+        "label": "Ergonomics monitoring (overreaching/improper bends)",
+        "description": "Detect overreaching and improper bending while handling items to reduce ergonomic injuries and guide behavior/engineering changes.",
+        "evidence": [
+          {
+            "quote": "So like you mentioned earlier, right? Ergonomics, right? So how are people lifting with posture?",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:10:11]"
+          },
+          {
+            "quote": "So we do overreaches and improper bends.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:21:09]"
+          },
+          {
+            "quote": "They have to be handling something for it to trigger.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:21:11]"
+          },
+          {
+            "quote": "You'll see here, this individual comes in, lifting a palate over their head, getting on their tippy-toes.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:21:14]"
+          }
+        ]
+      },
+      {
+        "label": "No-ped zones for hazardous areas (e.g., rollers)",
+        "description": "Use no-pedestrian zones to detect and prevent people entering dangerous areas like conveyor rollers.",
+        "evidence": [
+          {
+            "quote": "We would accomplish that with a no-ped zone. So no-ped zone basically means should someone never be somewhere?",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:10:36]"
+          },
+          {
+            "quote": "For this customer, like I said, maybe back of house for you guys out in the yard. But you see here, they didn't want anyone walking on the rollers.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:23:18]"
+          }
+        ]
+      },
+      {
+        "label": "Obstruction detection for egress/pedestrian walkways",
+        "description": "Detect objects left where they shouldn’t be, such as in pedestrian walkways or blocking emergency exits, to maintain safe egress.",
+        "evidence": [
+          {
+            "quote": "They don't want product being left in those pedestrian washways as best as possible.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:23:50]"
+          },
+          {
+            "quote": "We have a trash can in front of emergency exit.",
+            "speaker": "Riley Larkin <fake.riley.larkin@kodiakpointfabrication.com>",
+            "timestamp": "[00:23:56]"
+          }
+        ]
+      },
+      {
+        "label": "Yard vehicle speeding alerts",
+        "description": "Monitor and alert when yard trucks exceed speed limits to improve safety.",
+        "evidence": [
+          {
+            "quote": "Or speeding, right?",
+            "speaker": "Riley Larkin <fake.riley.larkin@kodiakpointfabrication.com>",
+            "timestamp": "[00:12:01]"
+          },
+          {
+            "quote": "We want to know every single time a truck is going over 15 miles an hour. Boom.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:12:05]"
+          }
+        ]
+      },
+      {
+        "label": "PIT parking duration and distraction monitoring",
+        "description": "Detect PITs parked in restricted areas/for too long and operators getting off to use cell phones to reduce distraction and keep aisles safe.",
+        "evidence": [
+          {
+            "quote": "We can also do parking duration. So like, should pits not be parked somewhere for any amount of time?",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:20:50]"
+          },
+          {
+            "quote": "So, you know, are people getting off their pits to get on their cell phones in certain areas?",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:20:56]"
+          },
+          {
+            "quote": "Operational flow, right? Dwell time, things like that.",
+            "speaker": "Riley Larkin <fake.riley.larkin@kodiakpointfabrication.com>",
+            "timestamp": "[00:21:02]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Open door duration monitoring",
+        "description": "Track how long facility doors remain open to enforce policies and manage energy/security.",
+        "evidence": [
+          {
+            "quote": "You mentioned open door durations.",
+            "speaker": "Riley Larkin <fake.riley.larkin@kodiakpointfabrication.com>",
+            "timestamp": "[00:10:31]"
+          },
+          {
+            "quote": "We can do that.",
+            "speaker": "Riley Larkin <fake.riley.larkin@kodiakpointfabrication.com>",
+            "timestamp": "[00:10:32]"
+          }
+        ]
+      },
+      {
+        "label": "After-hours restricted area monitoring (time-based no-ped zones)",
+        "description": "Use time-based no-pedestrian zones to notify on people in restricted/back-of-facility areas during off-hours for security.",
+        "evidence": [
+          {
+            "quote": "So, but maybe there's times super late at night, like, hey, no one in the back of the facility should be back there, right?",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:10:45]"
+          },
+          {
+            "quote": "From like midnight to 6 a.m..",
+            "speaker": "Riley Larkin <fake.riley.larkin@kodiakpointfabrication.com>",
+            "timestamp": "[00:10:52]"
+          },
+          {
+            "quote": "We can do things around like things like that.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:10:57]"
+          },
+          {
+            "quote": "So you guys can be notified if, you know, someone's...",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:11:00]"
+          },
+          {
+            "quote": "You know, back there when they shouldn't be back there.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:11:00]"
+          },
+          {
+            "quote": "You mentioned, are people hopping a fence?",
+            "speaker": "Riley Larkin <fake.riley.larkin@kodiakpointfabrication.com>",
+            "timestamp": "[00:10:33]"
+          },
+          {
+            "quote": "But if there's something that's like the no-ped zone, right, like that would be a really good use for our email notification.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:11:47]"
+          },
+          {
+            "quote": "Hey, 3 a.m.., send an email to this person if someone's walking around the back of the facility, right, outside.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:11:54]"
+          }
+        ]
+      },
+      {
+        "label": "PIT parking duration and dwell-time analytics for operational flow",
+        "description": "Monitor where PITs are parked and dwell time to identify bottlenecks and improve flow.",
+        "evidence": [
+          {
+            "quote": "We can also do parking duration. So like, should pits not be parked somewhere for any amount of time?",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:20:50]"
+          },
+          {
+            "quote": "Operational flow, right? Dwell time, things like that.",
+            "speaker": "Riley Larkin <fake.riley.larkin@kodiakpointfabrication.com>",
+            "timestamp": "[00:21:02]"
+          }
+        ]
+      }
+    ]
+  }
+}

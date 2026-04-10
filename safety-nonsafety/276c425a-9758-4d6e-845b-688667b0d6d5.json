@@ -1,0 +1,178 @@
+{
+  "meeting_title": "Quarry Flow Logistics + Voxel Intro Call",
+  "start_time": "2023-12-09T20:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Forklift–pedestrian collision prevention and intersection compliance",
+        "description": "Monitor forklift–pedestrian interactions, especially at blind corners and intersections, to prevent collisions and enforce stopping behavior.",
+        "evidence": [
+          {
+            "quote": "We were focusing on pedestrian, forklift, collision safety.",
+            "speaker": "Adrian Morrow <fake.adrian.morrow@quarryflowlogistics.com>",
+            "timestamp": "[00:09:36]"
+          },
+          {
+            "quote": "the vehicle safety, forklifts to like pedestrian proximity we can monitor for.",
+            "speaker": "Taylor Nash <fake.taylor.nash@voxelai.com>",
+            "timestamp": "[00:28:24]"
+          },
+          {
+            "quote": "No. So, you say, obviously, no stop at intersection here is up 50-125%.",
+            "speaker": "Taylor Nash <fake.taylor.nash@voxelai.com>",
+            "timestamp": "[00:33:27]"
+          }
+        ]
+      },
+      {
+        "label": "Ergonomics risk detection (overreaching, improper lifting)",
+        "description": "Detect and reduce ergonomic risks such as overreaching and improper lifting, and use insights to adjust workstation setup (e.g., table/lift heights) and coach behaviors to prevent strains/sprains.",
+        "evidence": [
+          {
+            "quote": "You know, we're looking for pinch points, people putting their hands in places or circumventing safety items, and like Don says, also ergonomics, you know, and proper lifting and things like that.",
+            "speaker": "Adrian Morrow <fake.adrian.morrow@quarryflowlogistics.com>",
+            "timestamp": "[00:11:47]"
+          },
+          {
+            "quote": "we had several back strains about the same time. So we really focus on ergonomics",
+            "speaker": "Adrian Morrow <fake.adrian.morrow@quarryflowlogistics.com>",
+            "timestamp": "[00:12:04]"
+          },
+          {
+            "quote": "But we see the classic injuries, right? Overreaching every once in a while, improper lifting.",
+            "speaker": "Charlie Whitaker <fake.charlie.whitaker@quarryflowlogistics.com>",
+            "timestamp": "[00:13:43]"
+          },
+          {
+            "quote": "maybe the lift table's too high, maybe it's too low, and adjusting it there or adjusting one part of the station, moving something six feet closer to eliminate a whole extra step.",
+            "speaker": "Taylor Nash <fake.taylor.nash@voxelai.com>",
+            "timestamp": "[00:20:29]"
+          },
+          {
+            "quote": "So to detect that type of mistake, I guess, I would have been reading through your software, and that would be wonderful for us.",
+            "speaker": "Charlie Whitaker <fake.charlie.whitaker@quarryflowlogistics.com>",
+            "timestamp": "[00:14:20]"
+          }
+        ]
+      },
+      {
+        "label": "PPE compliance monitoring",
+        "description": "Improve PPE compliance (e.g., gloves and safety glasses) in departments with inconsistent adherence by detecting non-compliance and driving coaching/culture change.",
+        "evidence": [
+          {
+            "quote": "PPE is not, you know, we don't have 100% of that culture here.",
+            "speaker": "Adrian Morrow <fake.adrian.morrow@quarryflowlogistics.com>",
+            "timestamp": "[00:18:00]"
+          },
+          {
+            "quote": "they don't have any repercussions to not wearing the right gloves or not wearing their safety glasses",
+            "speaker": "Adrian Morrow <fake.adrian.morrow@quarryflowlogistics.com>",
+            "timestamp": "[00:18:09]"
+          },
+          {
+            "quote": "And then as well as the PPE detection for PPE compliance.",
+            "speaker": "Taylor Nash <fake.taylor.nash@voxelai.com>",
+            "timestamp": "[00:28:24]"
+          }
+        ]
+      },
+      {
+        "label": "No‑pedestrian zones and shortcut hazard control",
+        "description": "Define and enforce no‑pedestrian zones to stop unsafe shortcuts like jumping over tables, triggering alerts when people enter restricted areas.",
+        "evidence": [
+          {
+            "quote": "And then, of course, the shortcuts, where the guys want to jump the table instead of taking the long way around, making it a hazard",
+            "speaker": "Adrian Morrow <fake.adrian.morrow@quarryflowlogistics.com>",
+            "timestamp": "[00:15:08]"
+          },
+          {
+            "quote": "So what we can do is basically set a no pedestrian zone.",
+            "speaker": "Taylor Nash <fake.taylor.nash@voxelai.com>",
+            "timestamp": "[00:28:54]"
+          },
+          {
+            "quote": "there's a zone that you don't want them to be, you can spark an incident and be notified.",
+            "speaker": "Taylor Nash <fake.taylor.nash@voxelai.com>",
+            "timestamp": "[00:29:00]"
+          }
+        ]
+      },
+      {
+        "label": "Machine pinch‑point and safety‑device circumvention detection",
+        "description": "Identify exposures at machine pinch points and detect when safety items/interlocks are bypassed to prevent injuries.",
+        "evidence": [
+          {
+            "quote": "we're looking for pinch points, people putting their hands in places or circumventing safety items",
+            "speaker": "Adrian Morrow <fake.adrian.morrow@quarryflowlogistics.com>",
+            "timestamp": "[00:11:47]"
+          }
+        ]
+      },
+      {
+        "label": "Second‑shift visibility (‘eye in the sky’)",
+        "description": "Use AI from existing cameras to provide visibility on off‑hours and second shift, surfacing unsafe behaviors to enable proactive coaching and process changes.",
+        "evidence": [
+          {
+            "quote": "And probably the main reason why we were interested in technology is it's kind of difficult to have eyes all day at all times. We handle two different shifts",
+            "speaker": "Adrian Morrow <fake.adrian.morrow@quarryflowlogistics.com>",
+            "timestamp": "[00:08:00]"
+          },
+          {
+            "quote": "One's like looking at Voxel to get the eye in the sky, the areas that you don't have visibility, maybe specifically into that second shift to hopefully get out in front of the things or behaviors and coach to them or make process changes to avoid anything from happening.",
+            "speaker": "Taylor Nash <fake.taylor.nash@voxelai.com>",
+            "timestamp": "[00:11:00]"
+          },
+          {
+            "quote": "That's right.",
+            "speaker": "Adrian Morrow <fake.adrian.morrow@quarryflowlogistics.com>",
+            "timestamp": "[00:11:21]"
+          }
+        ]
+      },
+      {
+        "label": "Cross‑site safety analytics and benchmarking",
+        "description": "Aggregate and compare safety indicators (e.g., PPE compliance, incident trends) across multiple plants to identify leaders/laggards and drive culture and coaching changes.",
+        "evidence": [
+          {
+            "quote": "So right now we're looking at the all-sites dashboard within Voxel.",
+            "speaker": "Taylor Nash <fake.taylor.nash@voxelai.com>",
+            "timestamp": "[00:30:28]"
+          },
+          {
+            "quote": "how many incidents over the last about a month.",
+            "speaker": "Taylor Nash <fake.taylor.nash@voxelai.com>",
+            "timestamp": "[00:31:00]"
+          },
+          {
+            "quote": "it would be valuable to see if Puerto Rico is wearing their PPE better than a site and how to make a culture change or, like you say, a coaching change and get them on board.",
+            "speaker": "Adrian Morrow <fake.adrian.morrow@quarryflowlogistics.com>",
+            "timestamp": "[00:32:01]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Cross‑site safety analytics and benchmarking",
+        "description": "Aggregate and compare safety indicators (e.g., PPE compliance, incident trends) across multiple plants to identify leaders/laggards and drive culture and coaching changes.",
+        "evidence": [
+          {
+            "quote": "So right now we're looking at the all-sites dashboard within Voxel.",
+            "speaker": "Taylor Nash <fake.taylor.nash@voxelai.com>",
+            "timestamp": "[00:30:28]"
+          },
+          {
+            "quote": "how many incidents over the last about a month.",
+            "speaker": "Taylor Nash <fake.taylor.nash@voxelai.com>",
+            "timestamp": "[00:31:00]"
+          },
+          {
+            "quote": "it would be valuable to see if Puerto Rico is wearing their PPE better than a site and how to make a culture change or, like you say, a coaching change and get them on board.",
+            "speaker": "Adrian Morrow <fake.adrian.morrow@quarryflowlogistics.com>",
+            "timestamp": "[00:32:01]"
+          }
+        ]
+      }
+    ]
+  }
+}

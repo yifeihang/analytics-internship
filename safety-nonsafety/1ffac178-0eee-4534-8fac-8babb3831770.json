@@ -1,0 +1,111 @@
+{
+  "meeting_title": "Voxel Ai + Iron Harbor Fleet Harbor Manufacturing",
+  "start_time": "2023-04-25T21:30:00Z",
+  "extraction": {
+    "safety_use_cases": [],
+    "nonsafety_use_cases": [
+      {
+        "label": "Hot desk booking and seat allocation",
+        "description": "Set up hotel/hot desk booking to manage limited space, prevent desk conflicts on peak days, accommodate new hires and travelers, and keep shared desks clear of personal items.",
+        "evidence": [
+          {
+            "quote": "So we just kind of want to have that as an option as doing a hotel desk for all our new employees that are starting here at the company.",
+            "speaker": "Bailey Langley <fake.bailey.langley@voxelai.com>",
+            "timestamp": "[00:01:12]"
+          },
+          {
+            "quote": "Oh, it's that, so yes, we don't have a lot of people coming in and out, but there are days where, you know, it's like, oh, everybody all at once comes in and then, or like people are traveling.",
+            "speaker": "Bailey Langley <fake.bailey.langley@voxelai.com>",
+            "timestamp": "[00:03:00]"
+          },
+          {
+            "quote": "So it's like, they take some desk and then, you know, that person comes into the office this one time and it's, their desk is no longer available.",
+            "speaker": "Bailey Langley <fake.bailey.langley@voxelai.com>",
+            "timestamp": "[00:03:10]"
+          },
+          {
+            "quote": "So it's more of just, you know, wanting to be better and structured about this.",
+            "speaker": "Bailey Langley <fake.bailey.langley@voxelai.com>",
+            "timestamp": "[00:03:18]"
+          },
+          {
+            "quote": "So it's like, okay, we have, we know which employees don't come in as often.",
+            "speaker": "Bailey Langley <fake.bailey.langley@voxelai.com>",
+            "timestamp": "[00:03:23]"
+          },
+          {
+            "quote": "So we just kind of want to make their desk as optional.",
+            "speaker": "Bailey Langley <fake.bailey.langley@voxelai.com>",
+            "timestamp": "[00:03:27]"
+          },
+          {
+            "quote": "And in the morning, if they're coming into the office, they could be aware of like, oh, so-and-so is going to sit that day.",
+            "speaker": "Bailey Langley <fake.bailey.langley@voxelai.com>",
+            "timestamp": "[00:03:33]"
+          },
+          {
+            "quote": "Like, because, you know, so if we have some hotel desk, at least we can keep those desks clear, so then others are not feeling like, oh, there's just, you know, random so-and-so sitting on my desk, and then taking my stuff, or moving my stuff around.",
+            "speaker": "Bailey Langley <fake.bailey.langley@voxelai.com>",
+            "timestamp": "[00:05:02]"
+          },
+          {
+            "quote": "I think it was always just like, oh, wait, let's just make sure we have enough seats for people who are coming in and out, especially for new employees.",
+            "speaker": "Bailey Langley <fake.bailey.langley@voxelai.com>",
+            "timestamp": "[00:08:23]"
+          }
+        ]
+      },
+      {
+        "label": "Attendance visibility and office usage analytics",
+        "description": "Provide attendance tracking and analytics so managers/leadership can see who comes in and when; acknowledged as useful but not a current requirement.",
+        "evidence": [
+          {
+            "quote": "Like for attendance purposes, do you think leadership needs to have a better understanding of how people are coming into the office?",
+            "speaker": "Elliot Sutton <fake.elliot.sutton@crownharbormanufacturing.com>",
+            "timestamp": "[00:04:30]"
+          },
+          {
+            "quote": "I don't think so, but that is nice.",
+            "speaker": "Bailey Langley <fake.bailey.langley@voxelai.com>",
+            "timestamp": "[00:04:38]"
+          },
+          {
+            "quote": "So I'm assuming, I'm assuming a lot of the hiring, I'm sorry, the managers would actually like to know when their employees are coming in and out.",
+            "speaker": "Bailey Langley <fake.bailey.langley@voxelai.com>",
+            "timestamp": "[00:04:41]"
+          },
+          {
+            "quote": "And with that, we track attendance and provide analytics.",
+            "speaker": "Elliot Sutton <fake.elliot.sutton@crownharbormanufacturing.com>",
+            "timestamp": "[00:06:42]"
+          },
+          {
+            "quote": "Do you think leadership would",
+            "speaker": "Elliot Sutton <fake.elliot.sutton@crownharbormanufacturing.com>",
+            "timestamp": "[00:06:58]"
+          },
+          {
+            "quote": "Want to have those numbers?",
+            "speaker": "Elliot Sutton <fake.elliot.sutton@crownharbormanufacturing.com>",
+            "timestamp": "[00:07:00]"
+          },
+          {
+            "quote": "No, I don't think they're keeping track of it right now.",
+            "speaker": "Bailey Langley <fake.bailey.langley@voxelai.com>",
+            "timestamp": "[00:07:04]"
+          },
+          {
+            "quote": "And to be transparent, it's included in Workplace.",
+            "speaker": "Elliot Sutton <fake.elliot.sutton@crownharbormanufacturing.com>",
+            "timestamp": "[00:07:19]"
+          },
+          {
+            "quote": "So you would be able to see those numbers if they were looking.",
+            "speaker": "Elliot Sutton <fake.elliot.sutton@crownharbormanufacturing.com>",
+            "timestamp": "[00:07:21]"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "meeting_title": "Bridge Mill Transport / Voxel Bi-Weekly Sync",
+  "start_time": "2022-09-26T21:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "End-of-aisle stop compliance enforcement",
+        "description": "Monitor and reduce \"no-stop at end of aisle\" events, assess whether recent increases are anomalies, and evaluate enforcement tactics such as posting personnel at intersections.",
+        "evidence": [
+          {
+            "quote": "There's an increase in no-stop at end of aisle."
+          },
+          {
+            "quote": "He placed our modified duty guys in the intersections that should have helped out decrease it."
+          },
+          {
+            "quote": "you've done a lot of work to reduce the no-stops."
+          }
+        ]
+      },
+      {
+        "label": "Ergonomic improper bending and overreaching reduction",
+        "description": "Detect improper lifting and overreaching, identify hotspots by camera/time, and coach employees to lift properly to reduce ergonomic risks.",
+        "evidence": [
+          {
+            "quote": "It looks like biggest opportunity there is in proper bending."
+          },
+          {
+            "quote": "some uptick and overreaching."
+          },
+          {
+            "quote": "what I wanted to highlight today was the ergonomics, the improper bend and overreaching in addition to the no-stops."
+          },
+          {
+            "quote": "They're bending at the hip, not the knees."
+          },
+          {
+            "quote": "I'm just kind of trying to think of, just trying to figure out how to, you know, get that, the lifting, you know, properly."
+          }
+        ]
+      },
+      {
+        "label": "Adjust ergonomics detection for exoskeleton users",
+        "description": "Request the ability to tune or adjust ergonomic detection sensitivity given exoskeleton use, to reduce pings that may not reflect unsafe lifting.",
+        "evidence": [
+          {
+            "quote": "obviously with the exoskeleton just kind of, I mean, I'm just, you know, I would watch a video and I feel like, okay, well, you know, they picked it up just regular, you know, maybe not, you know, fully using their like, you know, legs, right, to pick up the cases or it's a little bit like off their body."
+          },
+          {
+            "quote": "and then it'll just like ping it right away."
+          },
+          {
+            "quote": "And I mean, is there any adjustments on those ergonomic improper bends?"
+          },
+          {
+            "quote": "So improper bend and overreaching, we can't modify because it's based on the Posture Risk Index classification system."
+          }
+        ]
+      },
+      {
+        "label": "PIT-to-PIT proximity hazard analysis for layout changes",
+        "description": "Review PIT-to-PIT proximity events and consider changes to facility design or layout to mitigate collision risk.",
+        "evidence": [
+          {
+            "quote": "To pit proximity, that's an interesting one. I think we should look at those."
+          },
+          {
+            "quote": "I'm always interested in those because sometimes that's something we can address with, you know, design or layout of the DC."
+          }
+        ]
+      },
+      {
+        "label": "Aisle obstruction monitoring",
+        "description": "Identify and reduce obstructions such as pallets left in aisles that create hazards for pedestrians and equipment.",
+        "evidence": [
+          {
+            "quote": "What's obstruction?"
+          },
+          {
+            "quote": "That's like pallets and aisles."
+          }
+        ]
+      },
+      {
+        "label": "Safety vest compliance tracking",
+        "description": "Track and improve safety vest compliance across sites, noting recent decreases in incidents.",
+        "evidence": [
+          {
+            "quote": "You've actually seen a pretty sharp decrease in safety vest incidents."
+          }
+        ]
+      },
+      {
+        "label": "Heatmaps to identify safety hotspots",
+        "description": "Use heatmaps to localize where and when incidents occur (e.g., specific aisles and times) to focus interventions.",
+        "evidence": [
+          {
+            "quote": "I know you guys are heatmaps beta testers."
+          },
+          {
+            "quote": "And almost all of it is concentrated to the Aisle Camera 3."
+          },
+          {
+            "quote": "it shows you that these two sections are where a lot of this is occurring."
+          },
+          {
+            "quote": "the most prominent occurrence is Wednesdays around 3 a.m.."
+          }
+        ]
+      },
+      {
+        "label": "Actions workflow to assign and track safety corrective actions",
+        "description": "Leverage the new Actions workflow to create prescriptive next steps, assign owners, set due dates, and follow through on safety incident resolutions.",
+        "evidence": [
+          {
+            "quote": "We're actually launching a new tool today that just went live for all of our customers that will up-level a little bit of your coaching and incident resolution processes based on the old workflow that you guys were using."
+          },
+          {
+            "quote": "create action"
+          },
+          {
+            "quote": "It gives prescriptive next steps in terms of how you can address this."
+          },
+          {
+            "quote": "It allows for people to be assigned to different areas as well, and you can also subscribe in order to follow the event from start to finish."
+          },
+          {
+            "quote": "you can also include a due date."
+          },
+          {
+            "quote": "The suggested actions is something I'd point to your attention, because this is based on the most common interventions that our customers take."
+          },
+          {
+            "quote": "I mean, for us, this is going be super helpful."
+          },
+          {
+            "quote": "now it's just clicking on it. We don't necessarily need to type it all in."
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Actions workflow for incident and task management",
+        "description": "Use the Actions workflow to streamline assignment, accountability, due dates, and suggested actions, reducing manual typing and improving follow-through.",
+        "evidence": [
+          {
+            "quote": "create action"
+          },
+          {
+            "quote": "It gives prescriptive next steps in terms of how you can address this."
+          },
+          {
+            "quote": "It allows for people to be assigned to different areas as well, and you can also subscribe in order to follow the event from start to finish."
+          },
+          {
+            "quote": "you can also include a due date."
+          },
+          {
+            "quote": "The suggested actions is something I'd point to your attention, because this is based on the most common interventions that our customers take."
+          },
+          {
+            "quote": "I mean, for us, this is going be super helpful."
+          },
+          {
+            "quote": "now it's just clicking on it. We don't necessarily need to type it all in."
+          }
+        ]
+      },
+      {
+        "label": "Year-over-year incident trend reporting and comparison",
+        "description": "Generate reports to see trends by area and compare incident volumes year-over-year to quantify improvement.",
+        "evidence": [
+          {
+            "quote": "see how we're trending in the different areas and see how there's some areas that we've seen notable improvements, some areas that we need to see improvement"
+          },
+          {
+            "quote": "is there any way you can tell me from last year, this month, how much, like we have 47,000 right now, but how much we had in the last year on this time?"
+          },
+          {
+            "quote": "I want to compare the number to this one that I have right now."
+          },
+          {
+            "quote": "If you go into reports, that's available as well."
+          }
+        ]
+      },
+      {
+        "label": "Facial recognition to identify individuals in footage",
+        "description": "Desire to tag individuals in video (facial ID) to link events to specific employees, aiding other camera reviews for mistakes and accountability.",
+        "evidence": [
+          {
+            "quote": "are you now able to actually put a name onto, like, someone that we know, okay, if this, like, they could, AI can actually, like, know who that person is? Like facial ID?"
+          },
+          {
+            "quote": "No, that's not part of our plans currently."
+          },
+          {
+            "quote": "we do have other kind of camera reviews for like mistakes and things like that, you know, that'll really, and it would just like help us out a lot on trying to figure out, you know, that on the other side"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "meeting_title": "Sierra Track Dynamics / Voxel Bi-Weekly Sync",
+  "start_time": "2024-12-20T14:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Detect and reduce no-stops/rolling stops at stop signs (PIT/vehicle intersections)",
+        "description": "Sierra Track Dynamics wants Voxel to accurately detect and flag vehicles/PITs that fail to make a full stop at marked intersections to address collision risk, using clean, trustworthy data with minimal false positives/misses and proper per-camera stop-bar configuration.",
+        "evidence": [
+          {
+            "quote": "So this is one of our areas that obviously is of most concern for many of our customers when it comes to vehicle safety and collision risk.",
+            "speaker": "Morgan Hayes <fake.morgan.hayes@voxelai.com>",
+            "timestamp": "[00:11:18]"
+          },
+          {
+            "quote": "And specifically with no stops here, you know, our system is designed to detect, you know, the full stop at these intersections.",
+            "speaker": "Morgan Hayes <fake.morgan.hayes@voxelai.com>",
+            "timestamp": "[00:11:28]"
+          },
+          {
+            "quote": "It does seem to be capturing those rolling stops, which are of concern to your team.",
+            "speaker": "Morgan Hayes <fake.morgan.hayes@voxelai.com>",
+            "timestamp": "[00:13:41]"
+          },
+          {
+            "quote": "So, you we should be flagging those instances where vehicles are not coming to a complete stop at these stop signs.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:17:08]"
+          },
+          {
+            "quote": "the items that are either missed, the so-called no-stops that are either missed, or the things that are found that really don't appear to fit that definition, that's worrisome to me because you want good, clean data.",
+            "speaker": "Carter Prescott <fake.carter.prescott@sierratrackdynamics.com>",
+            "timestamp": "[00:16:00]"
+          },
+          {
+            "quote": "But, you know, so there's, you know, the inaccuracy is there as far as our concerns go.",
+            "speaker": "Cameron Gardner <fake.cameron.gardner@sierratrackdynamics.com>",
+            "timestamp": "[00:27:22]"
+          },
+          {
+            "quote": "With that, with the definition of a stop, you know, we have to look at each camera and its stop bar location to confirm we're within your guideline.",
+            "speaker": "Cameron Gardner <fake.cameron.gardner@sierratrackdynamics.com>",
+            "timestamp": "[00:19:45]"
+          },
+          {
+            "quote": "In some cases, we may not be able to put a trigger stop bar for capturing a stop if we're not in your window of that no stop positioning.",
+            "speaker": "Cameron Gardner <fake.cameron.gardner@sierratrackdynamics.com>",
+            "timestamp": "[00:20:01]"
+          },
+          {
+            "quote": "So there's two options we could do here is we'll pull the line back.",
+            "speaker": "Morgan Hayes <fake.morgan.hayes@voxelai.com>",
+            "timestamp": "[00:29:36]"
+          },
+          {
+            "quote": "But there's also a, I was talking to Kevisha about this.",
+            "speaker": "Morgan Hayes <fake.morgan.hayes@voxelai.com>",
+            "timestamp": "[00:29:45]"
+          },
+          {
+            "quote": "There's an adjustment we can make specifically for this camera because the pit is partially in view as, as it's entering.",
+            "speaker": "Morgan Hayes <fake.morgan.hayes@voxelai.com>",
+            "timestamp": "[00:29:52]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": []
+  }
+}

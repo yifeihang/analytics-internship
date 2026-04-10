@@ -1,0 +1,298 @@
+{
+  "meeting_title": "Ridge Peak Manufacturing // Voxel Ai",
+  "start_time": "2022-09-29T00:30:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "PPE compliance monitoring",
+        "description": "Detect missing PPE such as helmets, gloves, earplugs, safety vests, bump caps, and hairnets, and alert responsible managers.",
+        "evidence": [
+          {
+            "quote": "So, you know, PPE, which I know is one of the discussions you want to talk about or use cases you want to track.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:02:13]"
+          },
+          {
+            "quote": "For example, if the area is supposed to wear earplugs, gloves, so in case they violate that, will the VoxelAI able to detect it?",
+            "speaker": "Wyatt Quincy <fake.wyatt.quincy@ridgepeakmanufacturing.com>",
+            "timestamp": "[00:20:05]"
+          },
+          {
+            "quote": "So if they're not wearing like safety gloves or hats or vests, bump caps, missing hairnets, yes, we track all that.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:20:17]"
+          }
+        ]
+      },
+      {
+        "label": "Forklift and pedestrian proximity/near-miss detection",
+        "description": "Monitor PIT-to-pedestrian and PIT-to-PIT proximity to detect and flag near misses and intersection violations for follow-up.",
+        "evidence": [
+          {
+            "quote": "It's for like PPE, like some of the stuff we'll go over today, like people not wearing hard hats or safety vests or forklift collisions or almost collisions, right?",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:05:25]"
+          },
+          {
+            "quote": "So this is pit proximity.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:26:07]"
+          },
+          {
+            "quote": "this guy, look at this, almost hits the person.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:26:09]"
+          },
+          {
+            "quote": "oh, no stopping intersection is up by 50-125%.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:22:59]"
+          }
+        ]
+      },
+      {
+        "label": "Forklift speeding monitoring",
+        "description": "Detect forklifts exceeding site-defined speed limits and flag incidents.",
+        "evidence": [
+          {
+            "quote": "Oh, there's speeding. Speeding.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:24:08]"
+          },
+          {
+            "quote": "So, for example, there's a fog clip going above the speed limit, which means it can be detected.",
+            "speaker": "Wyatt Quincy <fake.wyatt.quincy@ridgepeakmanufacturing.com>",
+            "timestamp": "[00:24:11]"
+          },
+          {
+            "quote": "Look, this guy's going over the speed limit that you determined.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:24:19]"
+          }
+        ]
+      },
+      {
+        "label": "Spill and leak detection (including hazardous chemicals)",
+        "description": "Identify spills such as hydrochloric acid, paint leaks, or wastewater overflow in designated areas and alert with high severity.",
+        "evidence": [
+          {
+            "quote": "Spills, I think was another one, right?",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:02:24]"
+          },
+          {
+            "quote": "We talked about can't identify chemical spills, yep, in danger zones.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:28:13]"
+          },
+          {
+            "quote": "Sometimes, uh, it's like a hydrocholic acid.",
+            "speaker": "Wyatt Quincy <fake.wyatt.quincy@ridgepeakmanufacturing.com>",
+            "timestamp": "[00:28:38]"
+          }
+        ]
+      },
+      {
+        "label": "Restricted hazard/working-at-heights zone intrusion alerts",
+        "description": "Alert when any person enters restricted hazardous zones (e.g., working at heights areas) without authorization or competence.",
+        "evidence": [
+          {
+            "quote": "can Voxel detect unauthorized personnel in a restricted hazards area?",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:05:46]"
+          },
+          {
+            "quote": "But we can, we can use like notepad zone or working at heights so we can use that.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:05:56]"
+          },
+          {
+            "quote": "we have a certain work and hide areas that requires only the authorized personnel to do it or else the competent person to do it.",
+            "speaker": "Wyatt Quincy <fake.wyatt.quincy@ridgepeakmanufacturing.com>",
+            "timestamp": "[00:06:04]"
+          }
+        ]
+      },
+      {
+        "label": "Hazardous machinery safeguarding detection",
+        "description": "Detect unsafe behaviors around machinery, including climbing or reaching around safeguards, and alert accordingly.",
+        "evidence": [
+          {
+            "quote": "does it recognize unsafe behaviors such as running and climbing machineries?",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:25:17]"
+          },
+          {
+            "quote": "We are working on an update related to hazardous machinery.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:25:30]"
+          },
+          {
+            "quote": "So people reaching around like safeguards and stuff, that you'll get alerted.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:25:35]"
+          }
+        ]
+      },
+      {
+        "label": "Ergonomics risk detection with severity scoring (Posture Risk Index)",
+        "description": "Identify improper bending and overreaching/lifting, score severity using Posture Risk Index, and provide clips for coaching or engineering controls.",
+        "evidence": [
+          {
+            "quote": "Some of the stuff is not, you don't really need it for real time, like ergo, right?",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:08:56]"
+          },
+          {
+            "quote": "Well, so like let's go to ergonomics, improper bend.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:30:22]"
+          },
+          {
+            "quote": "So it's going to flag this and it will show you the severity based off of Posture Risk Index, right?",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:30:33]"
+          },
+          {
+            "quote": "So there's 1 to 5 is low, 5 to 10 is medium, 10 to 15 is high.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:30:41]"
+          }
+        ]
+      },
+      {
+        "label": "Heat mapping of safety incidents and violations",
+        "description": "Generate heat maps to show where and when injuries or violations occur most frequently to focus interventions.",
+        "evidence": [
+          {
+            "quote": "So like we talked about heat zones, right?",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:08:01]"
+          },
+          {
+            "quote": "We can show where the most injuries are happening, when and where.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:08:06]"
+          },
+          {
+            "quote": "Hey, automated reports are talking about heat mapping.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:37:01]"
+          }
+        ]
+      },
+      {
+        "label": "Real-time incident alerting (email/SMS)",
+        "description": "Provide near real-time alerts for safety incidents via email, in-app, and soon SMS to designated users.",
+        "evidence": [
+          {
+            "quote": "So in real time, we're getting it down to under a minute, which is really great.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:08:47]"
+          },
+          {
+            "quote": "And you'll get those notifications via email and also within the system and then soon to be SMS.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:09:13]"
+          },
+          {
+            "quote": "Oh, that means whatever incident happened, like for example, if someone falls on, so they would directly alert through SMS, is it?",
+            "speaker": "Wyatt Quincy <fake.wyatt.quincy@ridgepeakmanufacturing.com>",
+            "timestamp": "[00:09:22]"
+          }
+        ]
+      },
+      {
+        "label": "Near-miss reporting and shareable analytics",
+        "description": "Record near misses, generate reports over chosen timeframes, and share/export analytics to stakeholders.",
+        "evidence": [
+          {
+            "quote": "Near miss and hazard detection.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:25:46]"
+          },
+          {
+            "quote": "So which means whatever near miss is been recorded by the camera.",
+            "speaker": "Wyatt Quincy <fake.wyatt.quincy@ridgepeakmanufacturing.com>",
+            "timestamp": "[00:26:00]"
+          },
+          {
+            "quote": "They'll have a report generated by the system.",
+            "speaker": "Wyatt Quincy <fake.wyatt.quincy@ridgepeakmanufacturing.com>",
+            "timestamp": "[00:26:06]"
+          },
+          {
+            "quote": "So you can, again, you can export the share and you can edit this.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:26:45]"
+          }
+        ]
+      },
+      {
+        "label": "Fatigue monitoring inquiry (not supported by Voxel)",
+        "description": "The customer asked about monitoring worker fatigue to reduce ergonomic injuries; Voxel confirmed it does not support fatigue monitoring.",
+        "evidence": [
+          {
+            "quote": "Next one's fatigue monitoring.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:31:52]"
+          },
+          {
+            "quote": "We don't do fatigue monitoring.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:31:56]"
+          },
+          {
+            "quote": "So sometimes if the person's feeling fatigues and they still carry on with the job, they'll cause injuries to them as well.",
+            "speaker": "Wyatt Quincy <fake.wyatt.quincy@ridgepeakmanufacturing.com>",
+            "timestamp": "[00:32:30]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Unauthorized access/security breach detection with alerts",
+        "description": "Use zones to detect and alert on unauthorized entry to buildings or restricted areas for security, notifying designated personnel.",
+        "evidence": [
+          {
+            "quote": "give me a little bit more information about what you're trying to do from the theft side, right?",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:03:34]"
+          },
+          {
+            "quote": "can we detect real-time alerts? Like, for example, if any, if any, how to say, any employees or any third party... He is trying to access to our buildings without any approval.",
+            "speaker": "Wyatt Quincy <fake.wyatt.quincy@ridgepeakmanufacturing.com>",
+            "timestamp": "[00:03:54]"
+          },
+          {
+            "quote": "Like, no ped zone, so no pedestrian zone, so you can put that for outside or internal cameras, so if someone does go into that area that they're not supposed to, you'll get that alert, right?",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:03:00]"
+          },
+          {
+            "quote": "Can it notify to the secretary personnel about the theft or any incident coming, something like that?",
+            "speaker": "Wyatt Quincy <fake.wyatt.quincy@ridgepeakmanufacturing.com>",
+            "timestamp": "[00:04:07]"
+          }
+        ]
+      },
+      {
+        "label": "No-idling/no-standing enforcement in parking and no-traffic areas",
+        "description": "Monitor and alert on people idling or standing in prohibited areas such as parking lots or no-traffic zones.",
+        "evidence": [
+          {
+            "quote": "Again, reiterating that we're not a security platform first, but people have used that to do, like, no idling or where people, like, it says, like, people can't just stand there and wait.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:04:44]"
+          },
+          {
+            "quote": "Like, so they do that for, like, parking lots or no traffic areas.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:04:55]"
+          }
+        ]
+      }
+    ]
+  }
+}

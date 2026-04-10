@@ -1,0 +1,174 @@
+{
+  "meeting_title": "Stone Peak Manufacturing + Voxel Reconnect",
+  "start_time": "2022-01-06T18:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Material handling and ergonomics risk detection",
+        "description": "Detect and reduce material handling injuries and ergonomic risks (e.g., improper bends, overreach, handling heavy scrap bins or beams) before someone gets hurt.",
+        "evidence": [
+          {
+            "quote": "But no, our number one injury this year, and it kind of holds true since I've been here for several years now, is material handling.",
+            "speaker": "Sawyer Jensen <fake.sawyer.jensen@stonepeakmanufacturing.com>",
+            "timestamp": "[00:08:31]"
+          },
+          {
+            "quote": "So it's not so much about the war, it's about the rule, right? So an ergonomic, improper bend is an improper bend, an overreach is an overreach.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:21:17]"
+          },
+          {
+            "quote": "They're all metal that this woman is handling.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:12:01]"
+          }
+        ]
+      },
+      {
+        "label": "Forklift intersection compliance (no-stop) monitoring",
+        "description": "Monitor forklifts to ensure complete stops at designated intersections to prevent collisions and near-misses.",
+        "evidence": [
+          {
+            "quote": "This is an example of no-stop intersections, right?",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:10:43]"
+          },
+          {
+            "quote": "So, a forklift not coming to a complete stop where you wanted to before proceeding.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:10:45]"
+          }
+        ]
+      },
+      {
+        "label": "Walking under suspended loads detection",
+        "description": "Detect workers walking under suspended loads (e.g., beams) and surface those events to enforce rules and prevent struck-by incidents.",
+        "evidence": [
+          {
+            "quote": "one thing that we just released, too, that would be of interest to you guys is walking under suspended load.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:21:25]"
+          },
+          {
+            "quote": "But we just released walking under suspended load, so I'm sure for your beams, right, that are moving, I'm sure it's a rule that they can't walk under those beams while they're suspended.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:21:43]"
+          }
+        ]
+      },
+      {
+        "label": "Working at heights without harness detection",
+        "description": "Monitor for workers at height without proper fall protection (safety harness) to prevent serious injuries.",
+        "evidence": [
+          {
+            "quote": "Are folks working at heights without a safety harness?",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:22:37]"
+          }
+        ]
+      },
+      {
+        "label": "PPE compliance and laceration prevention",
+        "description": "Detect PPE non-compliance (e.g., missing gloves) to reduce injuries such as lacerations.",
+        "evidence": [
+          {
+            "quote": "You we really focus on three areas, the worker themselves, so ergo and PPE compliance.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:22:20]"
+          },
+          {
+            "quote": "So only things that we can help with, like material handling, like struck by, like lacerations with people not wearing their gloves.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:16:35]"
+          }
+        ]
+      },
+      {
+        "label": "No-pedestrian zones and obstruction control",
+        "description": "Enforce no-pedestrian zones and identify obstructions left in restricted areas to reduce area-based hazards.",
+        "evidence": [
+          {
+            "quote": "So no PED zone.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:22:28]"
+          },
+          {
+            "quote": "Obstructions.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:22:33]"
+          },
+          {
+            "quote": "Should something not be left somewhere for any amount of time?",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:22:33]"
+          }
+        ]
+      },
+      {
+        "label": "Enterprise safety analytics and summary view",
+        "description": "Provide enterprise-wide visibility into how often, when, and where safety risks occur across facilities via a summary view to target interventions.",
+        "evidence": [
+          {
+            "quote": "what we're pulling to the forefront for you guys is that enterprise visibility into how often, when, and where those things are happening.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:09:19]"
+          },
+          {
+            "quote": "for someone like you that oversees multiple facilities, as you go from one to many with Voxel, we have a summary view where all those sites feed into one, right?",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:12:16]"
+          },
+          {
+            "quote": "And you have that common language of understanding that leading indicator of risk at any point in time.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:12:33]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Enterprise safety analytics and summary view",
+        "description": "Provide enterprise-wide analytics on frequency, location, and timing of events via a summary view for cross-site visibility and decision-making.",
+        "evidence": [
+          {
+            "quote": "what we're pulling to the forefront for you guys is that enterprise visibility into how often, when, and where those things are happening.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:09:19]"
+          },
+          {
+            "quote": "for someone like you that oversees multiple facilities, as you go from one to many with Voxel, we have a summary view where all those sites feed into one, right?",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:12:16]"
+          },
+          {
+            "quote": "And you have that common language of understanding that leading indicator of risk at any point in time.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:12:33]"
+          }
+        ]
+      },
+      {
+        "label": "Use historical data to support internal review",
+        "description": "Use historical performance data to support an internal business case without getting into detailed financial assumptions.",
+        "evidence": [
+          {
+            "quote": "A lot of what we do is help customers have that internal conversation when spending is under more scrutiny.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:14:47]"
+          },
+          {
+            "quote": "We can use historical safety performance to show the likely impact without getting overly specific.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:15:00]"
+          },
+          {
+            "quote": "If you have multi-year facility data, we can use that to put something together for internal review.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:15:17]"
+          }
+        ]
+      }
+    ]
+  }
+}

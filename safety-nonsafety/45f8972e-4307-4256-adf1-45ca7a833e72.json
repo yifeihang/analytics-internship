@@ -1,0 +1,139 @@
+{
+  "meeting_title": "Voxel + Cleo Sloane Reconnect",
+  "start_time": "2023-12-10T18:30:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "PPE compliance monitoring",
+        "description": "Use camera analytics to detect when teams remove required PPE when unobserved and address it proactively rather than punitively.",
+        "evidence": [
+          {
+            "quote": "And by the Big Brother side of it is, I need to know if we have a cell of people that as soon as the door's shut, they're not wearing their PPE."
+          },
+          {
+            "quote": "So I can more organically address that."
+          },
+          {
+            "quote": "Well, and I think that we do have a culture of cameras here already."
+          },
+          {
+            "quote": "Yeah, I mean, that's exactly where ergonomics, forklift safety, PPE detection, obstructions, we call it no pedestrian zones, areas that you don't want people to be"
+          }
+        ]
+      },
+      {
+        "label": "Ergonomics detection and real-time coaching (reduce injuries and costs)",
+        "description": "Recognize poor ergonomics and lifting techniques and enable near real-time coaching to reduce numerous ergonomic injuries and associated costs.",
+        "evidence": [
+          {
+            "quote": "it seems like I remember you had the abilities to recognize. We poor ergonomics, poor lifting techniques."
+          },
+          {
+            "quote": "We have a lot of ergonomic issues here, and we have a lot of manual work here."
+          },
+          {
+            "quote": "And just being able to call that out and do corrections almost in real time would be fantastic."
+          },
+          {
+            "quote": "I will also tell you that a large share of those cases are nonspecific ergonomic injuries that resulted in work restrictions or stronger treatment."
+          },
+          {
+            "quote": "So, knocking out several injuries that are from poor ergonomics or questionable ergonomics is not cheap, right? That saves us money, so that would be good."
+          }
+        ]
+      },
+      {
+        "label": "Forklift/PIT and pedestrian safety monitoring (including no pedestrian zones)",
+        "description": "Monitor powered industrial truck operations and enforce no pedestrian zones to reduce vehicle-related risks across multiple forklift types.",
+        "evidence": [
+          {
+            "quote": "Yeah, I mean, that's exactly where ergonomics, forklift safety, PPE detection, obstructions, we call it no pedestrian zones, areas that you don't want people to be"
+          },
+          {
+            "quote": "Lots of different styles, too."
+          },
+          {
+            "quote": "So we'll have walk behinds."
+          },
+          {
+            "quote": "We'll have walk behind stackers, forklifts."
+          },
+          {
+            "quote": "Stand-up lifts, sit-down lifts."
+          },
+          {
+            "quote": "We have a lot of vehicles."
+          }
+        ]
+      },
+      {
+        "label": "EHS management software adoption",
+        "description": "Revisit procuring an EHS management software once budgets are released to improve safety management processes.",
+        "evidence": [
+          {
+            "quote": "It sounds like a lot of the stuff we had on hold that would have been ancillary and not necessarily productivity-related is going to be back on the table."
+          },
+          {
+            "quote": "So I had been on hold for an EHS management software."
+          }
+        ]
+      },
+      {
+        "label": "Camera enhancements for safety oversight (Voxel-like)",
+        "description": "Evaluate camera enhancements similar to Voxel to expand oversight and safety monitoring when capital becomes available.",
+        "evidence": [
+          {
+            "quote": "I'd been on hold for some sort of camera enhancements similar to what you – exactly to what you guys are doing because I've seen your product and I like it."
+          },
+          {
+            "quote": "There would be a lot of benefit to having more oversight."
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Ergonomics detection and real-time coaching (reduce injuries and costs)",
+        "description": "Recognize poor ergonomics and lifting techniques and enable near real-time coaching to reduce numerous ergonomic injuries and associated costs.",
+        "evidence": [
+          {
+            "quote": "it seems like I remember you had the abilities to recognize. We poor ergonomics, poor lifting techniques."
+          },
+          {
+            "quote": "We have a lot of ergonomic issues here, and we have a lot of manual work here."
+          },
+          {
+            "quote": "And just being able to call that out and do corrections almost in real time would be fantastic."
+          },
+          {
+            "quote": "I will also tell you that a large share of those cases are nonspecific ergonomic injuries that resulted in work restrictions or stronger treatment."
+          },
+          {
+            "quote": "So, knocking out several injuries that are from poor ergonomics or questionable ergonomics is not cheap, right? That saves us money, so that would be good."
+          }
+        ]
+      },
+      {
+        "label": "Build business case and drive cultural/retention benefits with Voxel",
+        "description": "Develop a business case for Voxel that quantifies ROI from reduced injury costs and leverages Voxel to improve culture and employee retention.",
+        "evidence": [
+          {
+            "quote": "I'm just transparently asking just because, obviously, one part of it is helping you guys build out a business case, too."
+          },
+          {
+            "quote": "there's ROI in multiple aspects of it from an operational standpoint, from just a culture standpoint in general."
+          },
+          {
+            "quote": "I think there's definitely ways for Voxel to help in that standpoint and improving employee retention."
+          },
+          {
+            "quote": "maybe how can we make it more positive and how can we leverage Voxel to do that and get people that want to come to work, you know?"
+          },
+          {
+            "quote": "there's a cost associated with every single injury we have, and none of them are insignificant."
+          }
+        ]
+      }
+    ]
+  }
+}

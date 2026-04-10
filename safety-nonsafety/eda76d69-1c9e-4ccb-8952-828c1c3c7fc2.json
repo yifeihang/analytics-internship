@@ -1,0 +1,25 @@
+{
+  "meeting_title": "Remy Farrell / Voxel Monthly Sync",
+  "start_time": "2022-05-25T18:30:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "PPE safety glove compliance monitoring",
+        "description": "Enable and review safety glove detection across sites to monitor PPE compliance and gather feedback on alerts.",
+        "evidence": [
+          {
+            "quote": "Hey, the last thing I'll just mention is we got safety gloves turned on for you guys across the board this last week.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:01:26]"
+          },
+          {
+            "quote": "So feel free to take a look and sort of let us know if have any feedback before we jump back on a week from today.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:01:31]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": []
+  }
+}

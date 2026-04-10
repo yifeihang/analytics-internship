@@ -1,0 +1,211 @@
+{
+  "meeting_title": "West Drive Fabrication / Voxel:  West Drive Fabrication kickoff",
+  "start_time": "2022-01-31T15:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "PIT–pedestrian interaction monitoring",
+        "description": "Detect and quantify close interactions between forklifts/tuggers and pedestrians across the facility, starting with high-severity areas like shipping/receiving and congested aisles.",
+        "evidence": [
+          {
+            "quote": "looking at something specifically like pedestrian PIV interaction, which has a higher severity, would allow us to become familiar with the system while, you know, learning the data coming through and what we do with it and how we can manage it, right?",
+            "speaker": "Aubrey Reeves <fake.aubrey.reeves@westdrivefabrication.com>",
+            "timestamp": "[00:20:37]"
+          },
+          {
+            "quote": "there's lots of low-hanging fruit out there in terms of speed and pedestrian interaction and vehicles in places they shouldn't be and how we control some things like that that are relatively straightforward that will keep us pretty busy in the near term, I think.",
+            "speaker": "Jules Harlow <fake.jules.harlow@westdrivefabrication.com>",
+            "timestamp": "[00:21:37]"
+          },
+          {
+            "quote": "Those shipping and receiving staging areas tend to be a high traffic area for pit-to-ped interaction.",
+            "speaker": "Avery Archer <fake.avery.archer@westdrivefabrication.com>",
+            "timestamp": "[00:55:25]"
+          }
+        ]
+      },
+      {
+        "label": "No-pedestrian zone enforcement (ramps, robot cells)",
+        "description": "Monitor and alert on pedestrians entering designated no-walk zones such as the shipping ramp and around robot cells.",
+        "evidence": [
+          {
+            "quote": "right here, so this right here, just so you know, would be a no pedestrian. We have signs up and such that there's no pedestrian traffic to be going up and down this ramp.",
+            "speaker": "Sloane Collins <fake.sloane.collins@westdrivefabrication.com>",
+            "timestamp": "[00:45:41]"
+          },
+          {
+            "quote": "We'll put no pet in by the robots just to see how often people have to go in there, fix it.",
+            "speaker": "Parker Donovan <fake.parker.donovan@voxelai.com>",
+            "timestamp": "[00:46:41]"
+          },
+          {
+            "quote": "coming out of the onsite, PIT to pit, ergonomics, no-ped zone, as Jules just indicated, obstructions.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:29:38]"
+          }
+        ]
+      },
+      {
+        "label": "PIT–PIT interaction monitoring",
+        "description": "Identify and flag risky interactions between forklifts, such as unsafe passing or close approaches, to reduce collision risk.",
+        "evidence": [
+          {
+            "quote": "coming out of the onsite, PIT to pit, ergonomics, no-ped zone, as Jules just indicated, obstructions.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:29:38]"
+          },
+          {
+            "quote": "you had a very good example of pit-to-pit where the guy wanted to pass the other guy when he had a full load going in reverse. That would have been an incident that flagged, right?",
+            "speaker": "Parker Donovan <fake.parker.donovan@voxelai.com>",
+            "timestamp": "[00:35:37]"
+          }
+        ]
+      },
+      {
+        "label": "Intersection and end-of-aisle stop compliance",
+        "description": "Configure zones at crossings and aisle ends to monitor complete stops, horn use, and general right-of-way compliance.",
+        "evidence": [
+          {
+            "quote": "Let's draw the zones for no stop and end of aisle.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[01:20:16]"
+          },
+          {
+            "quote": "They should be stopping, slowing, honking their horns.",
+            "speaker": "Sloane Collins <fake.sloane.collins@westdrivefabrication.com>",
+            "timestamp": "[01:08:02]"
+          }
+        ]
+      },
+      {
+        "label": "PPE compliance (high-visibility apparel)",
+        "description": "Detect whether pedestrians in high-risk areas are wearing required high-visibility PPE (e.g., safety yellow vests).",
+        "evidence": [
+          {
+            "quote": "There could be a rare reason where they're back there, and if they are back there, they should have safety yellow on, but...",
+            "speaker": "Sloane Collins <fake.sloane.collins@westdrivefabrication.com>",
+            "timestamp": "[00:43:53]"
+          },
+          {
+            "quote": "Let's make sure that we understand where PPE should be highlighted.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[01:20:19]"
+          }
+        ]
+      },
+      {
+        "label": "Unsafe forklift load handling (split forking, bulldozing, high loads)",
+        "description": "Monitor for and surface unsafe forklift load-handling behaviors such as split forking, pushing/bulldozing loads, and carrying excessively high stacks.",
+        "evidence": [
+          {
+            "quote": "the PIVs and the amount of containers that they're moving at any given time, whether they're split forking or, you know, excessively high may be another angle to look at.",
+            "speaker": "Sloane Collins <fake.sloane.collins@westdrivefabrication.com>",
+            "timestamp": "[00:30:28]"
+          },
+          {
+            "quote": "you're going to see bulldozing, and the reason that's why I want to use the dock, and maybe your maintenance team, do they get a little ticked off when people park on your dock levelers?",
+            "speaker": "Parker Donovan <fake.parker.donovan@voxelai.com>",
+            "timestamp": "[00:54:01]"
+          },
+          {
+            "quote": "Should he be pushing it like that, though?",
+            "speaker": "Sloane Collins <fake.sloane.collins@westdrivefabrication.com>",
+            "timestamp": "[00:54:33]"
+          }
+        ]
+      },
+      {
+        "label": "Obstructions, blocked walking paths, and unauthorized parking",
+        "description": "Detect blocked walkways forcing pedestrians into drive aisles, forklifts parked in drive aisles, and housekeeping issues that elevate risk.",
+        "evidence": [
+          {
+            "quote": "we'd want to know if it's a blocked walking path forcing users into the pedestrian lane.",
+            "speaker": "Parker Donovan <fake.parker.donovan@voxelai.com>",
+            "timestamp": "[00:40:54]"
+          },
+          {
+            "quote": "do you have pits that park there that cause, you know, pit parked in a dry vial, those type of things?",
+            "speaker": "Parker Donovan <fake.parker.donovan@voxelai.com>",
+            "timestamp": "[01:01:08]"
+          },
+          {
+            "quote": "There's an OSA violation right there in the middle of the screen. You got that leaning pallet.",
+            "speaker": "Parker Donovan <fake.parker.donovan@voxelai.com>",
+            "timestamp": "[01:08:27]"
+          }
+        ]
+      },
+      {
+        "label": "Ergonomics risk detection at presses/workstations",
+        "description": "Use available camera views (with full-body blurring as needed) to observe ergonomic risks for associates at presses and other workstations.",
+        "evidence": [
+          {
+            "quote": "from an ergonomic standpoint, I don't think we're going to get much in that way because the union wouldn't allow us to put cameras that show anyone working.",
+            "speaker": "Sloane Collins <fake.sloane.collins@westdrivefabrication.com>",
+            "timestamp": "[00:30:08]"
+          },
+          {
+            "quote": "We do have the option to do full-body blurring.",
+            "speaker": "Logan Harlow <fake.logan.harlow@voxelai.com>",
+            "timestamp": "[00:31:06]"
+          },
+          {
+            "quote": "This would be one exception... one of our press machines that would show the two individuals here and here actually working where we might be able to get some ergonomics.",
+            "speaker": "Sloane Collins <fake.sloane.collins@westdrivefabrication.com>",
+            "timestamp": "[00:32:33]"
+          }
+        ]
+      },
+      {
+        "label": "Working at heights on trailers (flatbed unloading)",
+        "description": "Detect personnel working at elevation on trailer beds during steel receiving/unloading to address fall hazards.",
+        "evidence": [
+          {
+            "quote": "the guy on the trailer bed right there, I mean, it's an easy, you know, we could put working at heights.",
+            "speaker": "Parker Donovan <fake.parker.donovan@voxelai.com>",
+            "timestamp": "[01:05:31]"
+          }
+        ]
+      },
+      {
+        "label": "Suspended load/overhead crane safety (indoor future scope)",
+        "description": "Monitor proximity to moving suspended loads from overhead cranes; noted as currently supported outdoors and requiring indoor training for future enablement.",
+        "evidence": [
+          {
+            "quote": "Do you have the capability, at least, you know, out of the gate to look at, like, proximity to objects, like dyes specifically, when they're in motion, like a dye on a crane?",
+            "speaker": "Aubrey Reeves <fake.aubrey.reeves@westdrivefabrication.com>",
+            "timestamp": "[00:37:17]"
+          },
+          {
+            "quote": "overhead and suspended load right now, from a use case standpoint, is outdoor only. It's raw material usage. It would have to be trained from an indoor standpoint.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:38:29]"
+          }
+        ]
+      },
+      {
+        "label": "Risk heat maps and safety analytics",
+        "description": "Generate AI-driven heat maps to visualize where incidents cluster, identify concentrated risk areas, and inform layout and operational changes for mitigation.",
+        "evidence": [
+          {
+            "quote": "It's an AI-driven heat map. So these are the types of visuals that we're going to help teams understand where your incidents are clustering, what are those concentrated areas of risk, and really be able to enable that data-informed decision about layout, about operations, and ultimately risk mitigation.",
+            "speaker": "Logan Harlow <fake.logan.harlow@voxelai.com>",
+            "timestamp": "[00:14:32]"
+          }
+        ]
+      },
+      {
+        "label": "Forklift driving behavior compliance (speed and restricted areas)",
+        "description": "Track forklift driving behaviors such as speed and entry into areas where vehicles should not be present.",
+        "evidence": [
+          {
+            "quote": "there's lots of low-hanging fruit out there in terms of speed and pedestrian interaction and vehicles in places they shouldn't be and how we control some things like that",
+            "speaker": "Jules Harlow <fake.jules.harlow@westdrivefabrication.com>",
+            "timestamp": "[00:21:37]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": []
+  }
+}

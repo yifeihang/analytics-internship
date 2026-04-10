@@ -1,0 +1,150 @@
+{
+  "meeting_title": "Pioneer Market Group Internal Sync - Deployment Phase",
+  "start_time": "2023-04-05T16:30:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Obstruction detection standardization across sites",
+        "description": "Standardize the obstruction hazard use case with consistent definitions/thresholds across all DCs.",
+        "evidence": [
+          {
+            "quote": "So consistency from use case deployment, right?",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:21:06]"
+          },
+          {
+            "quote": "If we do an obstruction, obstructions are going to be across the board this long, right?",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:21:08]"
+          }
+        ]
+      },
+      {
+        "label": "Injury reduction and value target",
+        "description": "Use Voxel to reduce recordable injuries across higher-incident facilities and monitor whether the program is delivering measurable value.",
+        "evidence": [
+          {
+            "quote": "North Hub had hundreds of injuries last year.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:24:12]"
+          },
+          {
+            "quote": "Federal Safety Bureau came and sat at their site for several months.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:24:16]"
+          },
+          {
+            "quote": "Their average injury was REDACTED.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:24:23]"
+          },
+          {
+            "quote": "But if we say it's REDACTED per injury, if we slash North Hub by 30-45%, that pays for the whole first year of Voxel, just at one location.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:24:27]"
+          },
+          {
+            "quote": "So, I think across the board, guys, if we reduce across the network, 30-45%.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:24:55]"
+          },
+          {
+            "quote": "So we're talking about measurable value after the cost of Voxel.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:25:00]"
+          },
+          {
+            "quote": "Their goal is to get to 42, which is almost triple the industry average.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:24:50]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Obstruction detection standardization across sites",
+        "description": "Standardize the obstruction use case with consistent definitions/thresholds across all DCs as part of a broader, consistent playbook.",
+        "evidence": [
+          {
+            "quote": "So consistency from use case deployment, right?",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:21:06]"
+          },
+          {
+            "quote": "If we do an obstruction, obstructions are going to be across the board this long, right?",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:21:08]"
+          }
+        ]
+      },
+      {
+        "label": "Enterprise program governance and reporting",
+        "description": "Establish program governance, standardized reporting, usage expectations, and a playbook to manage a multi-site enterprise rollout consistently.",
+        "evidence": [
+          {
+            "quote": "I think the next about a month, just the clear priority is going to be, you know, program management establishment, and then technical validation and technical go-live, essentially.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:19:32]"
+          },
+          {
+            "quote": "But I think what's going to be imperative doing something at this size and scale is putting together some level of reporting as we go along and some sort of defined goals so we can keep a pulse on this.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:19:48]"
+          },
+          {
+            "quote": "But, you know, what are the expectations around usage?",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:20:06]"
+          },
+          {
+            "quote": "What are the expectations around, you know, sort of data collection to validate the success of this across all organizations?",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:20:08]"
+          },
+          {
+            "quote": "How do we playbook this, right?",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:21:00]"
+          },
+          {
+            "quote": "It's project governance and program governance.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:22:23]"
+          },
+          {
+            "quote": "That's probably something we could help create, and then ask the corporate team to distribute it, rather than it coming from Voxel, coming from their leadership.",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[00:22:35]"
+          },
+          {
+            "quote": "I've done this with Harbor Span Group, Granite Flow Systems, and we've also got a use case standardization template I put together for Harbor Span Group as well.",
+            "speaker": "Logan Harlow <fake.logan.harlow@voxelai.com>",
+            "timestamp": "[00:28:02]"
+          }
+        ]
+      },
+      {
+        "label": "Improve data accuracy via precise region configuration",
+        "description": "Leverage deeper camera coverage to draw more precise regions of interest so analytics output is accurate despite overlapping views.",
+        "evidence": [
+          {
+            "quote": "I think it's also, and I think I mentioned this within Slack, too, because we're going to have deeper camera coverage than we're used to at some of these sites.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:10:46]"
+          },
+          {
+            "quote": "There's a really awesome opportunity for us to be really specific in how we draw regions just to make sure that the data that we're providing...",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:10:53]"
+          },
+          {
+            "quote": "Adding them is really accurate, because there's going to be overlap.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:11:00]"
+          }
+        ]
+      }
+    ]
+  }
+}

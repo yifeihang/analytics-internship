@@ -1,0 +1,183 @@
+{
+  "meeting_title": "Oak Motive Solutions | Voxel Value Presentation",
+  "start_time": "2023-10-28T18:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Detect and prevent catastrophic safety events",
+        "description": "Use the platform to surface previously unseen, potentially catastrophic safety risks and implement controls tied to data and real-world cost to demonstrate avoided injuries.",
+        "evidence": [
+          {
+            "quote": "what were the types of injuries that we really didn't have insight into previously, that we kind of always knew were occurring, that were potentially catastrophic in nature, that now we have insight into, we've actually seen them occurring, and we've been able to put some sort of control in place that we can tie back to data really quickly to show that we've made an impact.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:10:00]"
+          },
+          {
+            "quote": "Yeah, and the fact that Wiggins has had two catastrophic injuries, I mean, that was, that was the.",
+            "speaker": "Tristan Locke <fake.tristan.locke@oakmotivesolutions.com>",
+            "timestamp": "[00:12:00]"
+          },
+          {
+            "quote": "from the things that I've seen early on, you know, we've dodged a few of those, you know, super critical hazards that could have been catastrophic.",
+            "speaker": "Tristan Locke <fake.tristan.locke@oakmotivesolutions.com>",
+            "timestamp": "[00:12:37]"
+          },
+          {
+            "quote": "Yeah, and we can put a dollar associated to those, so.",
+            "speaker": "Jules Blaine <fake.jules.blaine@voxelai.com>",
+            "timestamp": "[00:12:54]"
+          },
+          {
+            "quote": "I'd prefer to, you know, put a dollar figure out there that's in line with what you've experienced in the past from those types of injuries, Tristan.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:13:00]"
+          }
+        ]
+      },
+      {
+        "label": "Continuous AI safety coverage vs human observation",
+        "description": "Leverage always-on AI monitoring to cover the facility for incidents and near misses, overcoming the limits of safety staff presence and highlighting time/cost advantages over manual observations.",
+        "evidence": [
+          {
+            "quote": "hey, I know if we hired 10 safety people, they all would be in the wrong place when an incident occurred, like they would all be at the other end of the mill checking on different things.",
+            "speaker": "Tristan Locke <fake.tristan.locke@oakmotivesolutions.com>",
+            "timestamp": "[00:08:00]"
+          },
+          {
+            "quote": "safety professionals can't be all in one place at the same time, around the clock.",
+            "speaker": "Tristan Locke <fake.tristan.locke@oakmotivesolutions.com>",
+            "timestamp": "[00:08:11]"
+          },
+          {
+            "quote": "even if you said, all right, well, each one is tens of minutes where this is running continuously or autonomously.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:11:06]"
+          }
+        ]
+      },
+      {
+        "label": "Detect dangerous zone intrusions to drive engineering redesign",
+        "description": "Identify workers entering hazardous machine areas (e.g., between boards) and use these insights to redesign the area, with evidence of risk reduction afterward.",
+        "evidence": [
+          {
+            "quote": "I remember the one guy, you know, kind of ducking in between the boards.",
+            "speaker": "Tristan Locke <fake.tristan.locke@oakmotivesolutions.com>",
+            "timestamp": "[00:25:11]"
+          },
+          {
+            "quote": "And then they kind of redesigned that whole area.",
+            "speaker": "Tristan Locke <fake.tristan.locke@oakmotivesolutions.com>",
+            "timestamp": "[00:25:28]"
+          },
+          {
+            "quote": "I think if we would have put a marker on that date, you probably would have seen the trend go sharply down.",
+            "speaker": "Tristan Locke <fake.tristan.locke@oakmotivesolutions.com>",
+            "timestamp": "[00:25:31]"
+          }
+        ]
+      },
+      {
+        "label": "Post-intervention markers and trend analysis to validate safety actions",
+        "description": "Use platform marker points to correlate corrective actions with incident trends and demonstrate non-events post-intervention, validating safety investments.",
+        "evidence": [
+          {
+            "quote": "I feel like identifying when we had one of those marker points, where, you know, up until that point, we had a thousand, you know, issues, and then Trey, we created a corrective action, we had a marker point, and then from then on, it's been a non-event.",
+            "speaker": "Tristan Locke <fake.tristan.locke@oakmotivesolutions.com>",
+            "timestamp": "[00:04:18]"
+          },
+          {
+            "quote": "We can go back and put that marker in, though.",
+            "speaker": "Tristan Locke <fake.tristan.locke@oakmotivesolutions.com>",
+            "timestamp": "[00:25:37]"
+          },
+          {
+            "quote": "the markers may be put in post.",
+            "speaker": "Jules Blaine <fake.jules.blaine@voxelai.com>",
+            "timestamp": "[00:25:40]"
+          }
+        ]
+      },
+      {
+        "label": "Fire-related issue alerts",
+        "description": "Add monitoring that can recognize signs of a fire-related issue and send notifications so the team can respond sooner.",
+        "evidence": [
+          {
+            "quote": "We've had a fire-related event, and we want to know whether the system could recognize that type of signal.",
+            "speaker": "Tristan Locke <fake.tristan.locke@oakmotivesolutions.com>",
+            "timestamp": "[00:16:39]"
+          },
+          {
+            "quote": "Is there a way to tie it into the system so we get a notification when that kind of event occurs?",
+            "speaker": "Tristan Locke <fake.tristan.locke@oakmotivesolutions.com>",
+            "timestamp": "[00:16:49]"
+          },
+          {
+            "quote": "it sends alerts for fire prevention and safety",
+            "speaker": "Tristan Locke <fake.tristan.locke@oakmotivesolutions.com>",
+            "timestamp": "[00:19:52]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Continuous AI safety coverage vs human observation",
+        "description": "Use AI to replace or augment manual observations, quantifying the labor/time saved versus human spot checks to support cost-savings and scalability.",
+        "evidence": [
+          {
+            "quote": "hey, I know if we hired 10 safety people, they all would be in the wrong place when an incident occurred, like they would all be at the other end of the mill checking on different things.",
+            "speaker": "Tristan Locke <fake.tristan.locke@oakmotivesolutions.com>",
+            "timestamp": "[00:08:00]"
+          },
+          {
+            "quote": "safety professionals can't be all in one place at the same time, around the clock.",
+            "speaker": "Tristan Locke <fake.tristan.locke@oakmotivesolutions.com>",
+            "timestamp": "[00:08:11]"
+          },
+          {
+            "quote": "even if you said, all right, well, each one is tens of minutes where this is running continuously or autonomously.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:11:06]"
+          }
+        ]
+      },
+      {
+        "label": "Post-intervention markers and trend analysis for ROI",
+        "description": "Apply marker points and trend analysis to tie corrective actions to reduced event rates, building an ROI narrative for leadership.",
+        "evidence": [
+          {
+            "quote": "I feel like identifying when we had one of those marker points, where, you know, up until that point, we had a thousand, you know, issues, and then Trey, we created a corrective action, we had a marker point, and then from then on, it's been a non-event.",
+            "speaker": "Tristan Locke <fake.tristan.locke@oakmotivesolutions.com>",
+            "timestamp": "[00:04:18]"
+          },
+          {
+            "quote": "We can go back and put that marker in, though.",
+            "speaker": "Tristan Locke <fake.tristan.locke@oakmotivesolutions.com>",
+            "timestamp": "[00:25:37]"
+          },
+          {
+            "quote": "the markers may be put in post.",
+            "speaker": "Jules Blaine <fake.jules.blaine@voxelai.com>",
+            "timestamp": "[00:25:40]"
+          }
+        ]
+      },
+      {
+        "label": "Early issue detection for downtime prevention",
+        "description": "Overlay additional monitoring on equipment to identify abnormal signals and trigger alerts for early maintenance to reduce unplanned downtime.",
+        "evidence": [
+          {
+            "quote": "They can identify where different rollers are behaving a bit differently than expected.",
+            "speaker": "Tristan Locke <fake.tristan.locke@oakmotivesolutions.com>",
+            "timestamp": "[00:19:09]"
+          },
+          {
+            "quote": "Early detection for downtime events.",
+            "speaker": "Tristan Locke <fake.tristan.locke@oakmotivesolutions.com>",
+            "timestamp": "[00:20:03]"
+          }
+        ]
+      }
+    ]
+  }
+}

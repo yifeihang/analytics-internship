@@ -1,0 +1,130 @@
+{
+  "meeting_title": "Quick Sync- Taylor @ Northern Chill Logistics",
+  "start_time": "2024-12-09T14:30:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Working at heights incident coaching via Actions",
+        "description": "Use Voxel to identify and create/track coaching actions for Working at Heights events.",
+        "evidence": [
+          {
+            "quote": "I think it was like the Working in Heights or whatever.",
+            "speaker": "Taylor Carlisle <fake.taylor.carlisle@uniontrackdynamics.com>",
+            "timestamp": "[00:06:30]"
+          },
+          {
+            "quote": "It's like I come to the party late to everything, it seems like, you know, like the thing with the, you know, above heights and things like that.",
+            "speaker": "Taylor Carlisle <fake.taylor.carlisle@uniontrackdynamics.com>",
+            "timestamp": "[00:02:04]"
+          }
+        ]
+      },
+      {
+        "label": "Improper Bend ergonomics detection and coaching",
+        "description": "Use Voxel to capture improper bending incidents and assign suggested interventions through the Actions workflow.",
+        "evidence": [
+          {
+            "quote": "Improper Ben from Room 37A, and that was from the third.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:06:10]"
+          },
+          {
+            "quote": "the Suggested Actions, these are pre-populated based on the event, so Improper Bend in this case, and these are based on the most common interventions that our customers use to resolve this particular use case.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:06:37]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Track and find completed/in-progress actions across Wilmington",
+        "description": "Taylor needs to find previously resolved items and monitor in-progress and completed actions, with visibility into items assigned to/by him.",
+        "evidence": [
+          {
+            "quote": "So, up until recently, we could actually search for resolves.",
+            "speaker": "Taylor Carlisle <fake.taylor.carlisle@uniontrackdynamics.com>",
+            "timestamp": "[00:00:43]"
+          },
+          {
+            "quote": "So is there still a way to do that or?",
+            "speaker": "Taylor Carlisle <fake.taylor.carlisle@uniontrackdynamics.com>",
+            "timestamp": "[00:01:24]"
+          },
+          {
+            "quote": "But my question is, how do I find these ones that I've, you know what I mean?",
+            "speaker": "Taylor Carlisle <fake.taylor.carlisle@uniontrackdynamics.com>",
+            "timestamp": "[00:07:14]"
+          },
+          {
+            "quote": "I usually am looking at, like, the overall, like, you know, like, in progresses and completed.",
+            "speaker": "Taylor Carlisle <fake.taylor.carlisle@uniontrackdynamics.com>",
+            "timestamp": "[00:11:44]"
+          },
+          {
+            "quote": "But now I'm going to be kind of more actively assigning, but I want to, I'm more going to be concerned with, you know, making sure, you know, in progress is get done and that kind of stuff like that.",
+            "speaker": "Taylor Carlisle <fake.taylor.carlisle@uniontrackdynamics.com>",
+            "timestamp": "[00:12:22]"
+          }
+        ]
+      },
+      {
+        "label": "Monthly reporting/data export to support internal shift-level reporting",
+        "description": "Needs monthly reports delivered at the start of the month so he can plug data into his sheet to tally activity across six shifts and meet reporting deadlines by the 10th.",
+        "evidence": [
+          {
+            "quote": "Oh, and thanks again for that report.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:03:51]"
+          },
+          {
+            "quote": "I really appreciate that. I use that in the tracking because like our, some of the other sites like.",
+            "speaker": "Taylor Carlisle <fake.taylor.carlisle@uniontrackdynamics.com>",
+            "timestamp": "[00:03:55]"
+          },
+          {
+            "quote": "So it's kind of like I have to, you know, so I have a sheet that I just plug that into and it kind of like, you know, tallies it all and does some stuff for me.",
+            "speaker": "Taylor Carlisle <fake.taylor.carlisle@uniontrackdynamics.com>",
+            "timestamp": "[00:04:15]"
+          },
+          {
+            "quote": "Yeah, because I have about till, because I have to report on some of that stuff and I have till like the 10th or whatever.",
+            "speaker": "Taylor Carlisle <fake.taylor.carlisle@uniontrackdynamics.com>",
+            "timestamp": "[00:04:37]"
+          },
+          {
+            "quote": "So if the first of the month is over a weekend, I'll definitely send it the first business day just so you have the full month's worth of data.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:04:52]"
+          }
+        ]
+      },
+      {
+        "label": "Advance notification of platform/UI changes",
+        "description": "Wants proactive communication about product changes (e.g., migration from resolutions to Actions) so he and his boss aren’t surprised.",
+        "evidence": [
+          {
+            "quote": "Like, it makes me a little uncomfortable that I keep finding out about things like after it happens, you know what I mean?",
+            "speaker": "Taylor Carlisle <fake.taylor.carlisle@uniontrackdynamics.com>",
+            "timestamp": "[00:02:24]"
+          },
+          {
+            "quote": "maybe, you know, you could let me know a little bit ahead of time.",
+            "speaker": "Taylor Carlisle <fake.taylor.carlisle@uniontrackdynamics.com>",
+            "timestamp": "[00:02:30]"
+          },
+          {
+            "quote": "let my boss know because like, you know what I mean?",
+            "speaker": "Taylor Carlisle <fake.taylor.carlisle@uniontrackdynamics.com>",
+            "timestamp": "[00:02:36]"
+          },
+          {
+            "quote": "And I believe you had some other questions just about notifications and things of that nature.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:00:21]"
+          }
+        ]
+      }
+    ]
+  }
+}

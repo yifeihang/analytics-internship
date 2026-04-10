@@ -1,0 +1,229 @@
+{
+  "meeting_title": "Trail Lift Works + Voxel - Deployment",
+  "start_time": "2024-09-14T15:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Forklift stop compliance at doors/intersections",
+        "description": "Detect when PIT operators fail to make required full stops at roll-up doors or intersections to prevent collisions and near-misses.",
+        "evidence": [
+          {
+            "quote": "Are they stopping and starting where they're supposed to stop and start? Designated to stop and start?",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:12:27]"
+          },
+          {
+            "quote": "We'll stop at the roll-up door before proceeding. This operator doesn't stop at all, right? They actually hit the door. Doink. They then move forward. They almost hit someone else.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:18:04]"
+          }
+        ]
+      },
+      {
+        "label": "PIT speed monitoring (forklifts and yard trucks)",
+        "description": "Monitor vehicle speeding for forklifts inside and trucks outside to reduce high-severity incidents.",
+        "evidence": [
+          {
+            "quote": "So we do things like, is the forklift going too fast? Is the truck outside going too fast?",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:12:16]"
+          }
+        ]
+      },
+      {
+        "label": "PIT-to-pedestrian proximity alerts",
+        "description": "Alert when a moving PIT comes within an unsafe distance of a pedestrian to reduce strike risks.",
+        "evidence": [
+          {
+            "quote": "So like I said, pit proximity, guys, we do pit to pedestrian and pit to pit.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:19:27]"
+          },
+          {
+            "quote": "The rule is basically there's a three-foot halo around the moving pit.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:19:37]"
+          },
+          {
+            "quote": "If they come within three feet of another person, it gets triggered.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:19:42]"
+          }
+        ]
+      },
+      {
+        "label": "PIT-to-PIT proximity and congestion detection",
+        "description": "Detect PIT-to-PIT near misses and collisions, identify congestion hot spots, and enable traffic pattern changes to lower risk.",
+        "evidence": [
+          {
+            "quote": "basically, guys, we have four pits trying to go through the same door. Doink, they actually hit each other.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:20:27]"
+          },
+          {
+            "quote": "Creating a circular travel pattern. Guess what happened overnight? Their pit-to-pit triggers from Voxel fell off a cliff.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:21:24]"
+          }
+        ]
+      },
+      {
+        "label": "Ergonomics: overreaching detection",
+        "description": "Detect overreaching (e.g., tippy-toe stacking) to coach safer material handling and adjust stacking policies.",
+        "evidence": [
+          {
+            "quote": "Overreaching. This individual down here is going to get on their tippy toes, stacking a wood pallet.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:22:00]"
+          },
+          {
+            "quote": "if we just don't let them stack the wood pallets this high, let's see what happens. They're overreaching in this area, fell off a cliff.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:22:21]"
+          }
+        ]
+      },
+      {
+        "label": "Ergonomics: improper bend detection",
+        "description": "Identify improper bending during lifts to reduce musculoskeletal injuries.",
+        "evidence": [
+          {
+            "quote": "Improper bends, guys, same premise, just going the other direction.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:22:55]"
+          }
+        ]
+      },
+      {
+        "label": "Obstruction detection in exits, extinguishers, and walkways",
+        "description": "Monitor for blocked emergency exits, fire extinguishers, pedestrian walkways, and items protruding over safety lines to prevent unsafe detours and egress hazards.",
+        "evidence": [
+          {
+            "quote": "Basically guys, I call it clutter detection, should something never be left somewhere.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:23:15]"
+          },
+          {
+            "quote": "We don't want an emergency exit blocked, and or the fire extinguisher.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:23:36]"
+          },
+          {
+            "quote": "We've used this a lot at Pioneer Market Group, like laser etched pedestrian walkways. We don't want product left in there, so then they veer out into the busy walkways.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:23:20]"
+          },
+          {
+            "quote": "They don't want stuff over too far over the yellow line. This individual came and left a pallet too far over the yellow line. It's now an obstruction in their freeway.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:24:19]"
+          }
+        ]
+      },
+      {
+        "label": "No-pedestrian zone enforcement",
+        "description": "Detect pedestrians in designated no-walk zones to reduce exposure to vehicle and equipment hazards.",
+        "evidence": [
+          {
+            "quote": "Area controls. Things like no pedestrian zones, obstructions. Should someone never be somewhere?",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:12:33]"
+          }
+        ]
+      },
+      {
+        "label": "Data-driven hotspot analysis for safety risk",
+        "description": "Use ‘how often, when, and where’ analytics to pinpoint high-risk locations and times for targeted coaching or procedural changes.",
+        "evidence": [
+          {
+            "quote": "we take a data-driven approach here first and foremost... how often, when, and where these things are taking place.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:11:11]"
+          },
+          {
+            "quote": "over the last about a month, hundreds of no-stops approaching 50-60% are happening at Dr. 12.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:15:14]"
+          },
+          {
+            "quote": "now we're mapping over the last about a month, Thursday through Wednesday, all several hours of the day, when these no-stops are taking place.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:15:23]"
+          }
+        ]
+      },
+      {
+        "label": "Use clips for safety coaching and training",
+        "description": "Leverage captured clips to assign actions, coach individuals, and use examples in team training sessions.",
+        "evidence": [
+          {
+            "quote": "whether it's coaching, whether it's, hey, I want to use this in my next training session with the team, right?",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:28:39]"
+          }
+        ]
+      },
+      {
+        "label": "Surface secondary hazards (e.g., working at heights without fall protection)",
+        "description": "Identify additional safety hazards present in clips flagged for another issue to broaden corrective actions.",
+        "evidence": [
+          {
+            "quote": "this came into Voxel for an improper bend. But it's probably worth addressing more than the fact that these two thought it was a good idea to send this individual eight feet up in the air with no safety harness.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:27:31]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Reduce property damage, equipment repair costs, and product shrink from PIT incidents",
+        "description": "Use detection of no-stops and PIT collisions to reduce damage to doors and equipment and minimize product shrink.",
+        "evidence": [
+          {
+            "quote": "I may have property damage. The door might be broken. I may have equipment repair needed on the pit for hitting the door.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:18:21]"
+          },
+          {
+            "quote": "And if those two did hit each other, this product is now shrink on some level, right?",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:18:30]"
+          }
+        ]
+      },
+      {
+        "label": "Accelerate incident investigations with timestamps",
+        "description": "Use Voxel’s timestamps to quickly locate relevant footage in the VMS and avoid hours of manual video review.",
+        "evidence": [
+          {
+            "quote": "And that's when you go back to your camera system and spend a couple of hours of your life, maybe more, trying to figure out when the heck that mark got on your door.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:19:00]"
+          },
+          {
+            "quote": "we timestamp everything.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:25:01]"
+          },
+          {
+            "quote": "So, you know exactly where you're going.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:25:04]"
+          }
+        ]
+      },
+      {
+        "label": "Obstruction detection for Federal Safety Bureau compliance and fines avoidance",
+        "description": "Monitor for blocked egress and fire extinguisher access to maintain compliance and avoid regulatory fines.",
+        "evidence": [
+          {
+            "quote": "We don't want an emergency exit blocked, and or the fire extinguisher. If Federal Safety Bureau was walking through this facility, that's a fine, right?",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:23:36]"
+          }
+        ]
+      }
+    ]
+  }
+}

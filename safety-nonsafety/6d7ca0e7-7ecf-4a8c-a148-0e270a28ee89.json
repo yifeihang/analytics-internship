@@ -1,0 +1,191 @@
+{
+  "meeting_title": "Voxel / Titan Stack Operations - Check-in",
+  "start_time": "2024-01-19T17:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Refine obstruction regions to reduce false positives",
+        "description": "Adjust active regions so materials inside the marked layout and black floor areas are not flagged as obstructions or spills, and only real obstructions are detected.",
+        "evidence": [
+          {
+            "quote": "It's been obstructed for materials that are inside the layout.",
+            "speaker": "Casey Carlisle <fake.casey.carlisle@titanstackoperations.com>",
+            "timestamp": "[00:08:42]"
+          },
+          {
+            "quote": "Yeah, so it is inside the layout, but it's detected by Voxel as it will be an obstruction and it isn't.",
+            "speaker": "Casey Carlisle <fake.casey.carlisle@titanstackoperations.com>",
+            "timestamp": "[00:09:32]"
+          },
+          {
+            "quote": "The same, but we might need to use the gray or white areas because the black areas, can say, or the black spots might be detected as spills or obstructions.",
+            "speaker": "Casey Carlisle <fake.casey.carlisle@titanstackoperations.com>",
+            "timestamp": "[00:10:00]"
+          },
+          {
+            "quote": "This might work to detect real, uh, incidents about obstruction and not only, uh, things in the yellow line.",
+            "speaker": "Casey Carlisle <fake.casey.carlisle@titanstackoperations.com>",
+            "timestamp": "[00:12:11]"
+          }
+        ]
+      },
+      {
+        "label": "Warehouse vehicle safety: no-stop and PIT distance monitoring",
+        "description": "Detect and flag warehouse vehicle no-stop violations at intersections/end of aisles and monitor PIT proximity/distances across warehouse cameras; current 'no stop' events are not being reliably detected.",
+        "evidence": [
+          {
+            "quote": "There are some categories that has not been detected yet, and I'm sure there are incidents in that site, for example, that no stop at the end of the aisle.",
+            "speaker": "Casey Carlisle <fake.casey.carlisle@titanstackoperations.com>",
+            "timestamp": "[00:15:05]"
+          },
+          {
+            "quote": "So if, if we see the active region, it should be detecting that he knows that no stop of the intersection or the end of the.",
+            "speaker": "Casey Carlisle <fake.casey.carlisle@titanstackoperations.com>",
+            "timestamp": "[00:15:53]"
+          },
+          {
+            "quote": "And that's actually not an industrial vehicle, like, not a forklift or something like that. I'm not sure if Voxel can understand or know about it.",
+            "speaker": "Casey Carlisle <fake.casey.carlisle@titanstackoperations.com>",
+            "timestamp": "[00:17:20]"
+          },
+          {
+            "quote": "So those three might be looking the same incidents, like the no-stop and PIT distances and things like that.",
+            "speaker": "Casey Carlisle <fake.casey.carlisle@titanstackoperations.com>",
+            "timestamp": "[00:19:31]"
+          }
+        ]
+      },
+      {
+        "label": "Filter cleaning-related spills via timing threshold",
+        "description": "Use a dwell-time threshold so brief wet floors from mopping do not trigger spill incidents; they agreed to increase the threshold from a few minutes to tens of minutes.",
+        "evidence": [
+          {
+            "quote": "oh, I remember another thing that they were going to see if it's possible to add some timing to the spill category, just like you do in obstruction, because when they are mopping the floor, we have some spills incidents that are not real.",
+            "speaker": "Casey Carlisle <fake.casey.carlisle@titanstackoperations.com>",
+            "timestamp": "[00:19:41]"
+          },
+          {
+            "quote": "Yeah, so for example, most of them are not real spills.",
+            "speaker": "Casey Carlisle <fake.casey.carlisle@titanstackoperations.com>",
+            "timestamp": "[00:20:20]"
+          },
+          {
+            "quote": "I just confirmed we can change the, so the spills are set to a few minutes right now.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:28:00]"
+          },
+          {
+            "quote": "Basically, if we've seen a spill for more than a few minutes, we will trigger it.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:28:23]"
+          },
+          {
+            "quote": "20 to start?",
+            "speaker": "Casey Carlisle <fake.casey.carlisle@titanstackoperations.com>",
+            "timestamp": "[00:29:13]"
+          },
+          {
+            "quote": "Okay.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:29:16]"
+          }
+        ]
+      },
+      {
+        "label": "Handle low-visibility safety vests in PPE detection",
+        "description": "Avoid flagging compliant workers wearing darker safety vests with reflective strips, or align on requiring different vests to reduce false PPE alerts.",
+        "evidence": [
+          {
+            "quote": "There's incidents about safety vests.",
+            "speaker": "Casey Carlisle <fake.casey.carlisle@titanstackoperations.com>",
+            "timestamp": "[00:23:00]"
+          },
+          {
+            "quote": "I'm not sure if we can adjust that because there's specifically one person that used some like black vests with not too much visibility items, but I'm not sure if that's learnable or not.",
+            "speaker": "Casey Carlisle <fake.casey.carlisle@titanstackoperations.com>",
+            "timestamp": "[00:23:02]"
+          },
+          {
+            "quote": "So that's a safety vest, yeah, but not with the high visibility colors.",
+            "speaker": "Casey Carlisle <fake.casey.carlisle@titanstackoperations.com>",
+            "timestamp": "[00:24:18]"
+          },
+          {
+            "quote": "So in your mind, this is totally okay because it has those lines on it?",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:24:42]"
+          },
+          {
+            "quote": "that's pretty, like a pretty hard safety vest to detect just because there's such small strips and we don't want to not detect the valid cases where they're not oriented safety vest.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:25:27]"
+          },
+          {
+            "quote": "Yeah, so if we might have some other issues with that, it's easier for us to ask the contractor to use another type of vest.",
+            "speaker": "Casey Carlisle <fake.casey.carlisle@titanstackoperations.com>",
+            "timestamp": "[00:25:43]"
+          }
+        ]
+      },
+      {
+        "label": "Access heatmaps for improper bend and overreaching",
+        "description": "Enable or provide heatmaps to analyze where improper bend and overreaching incidents concentrate on specific cameras/areas.",
+        "evidence": [
+          {
+            "quote": "The heatmaps aren't yet launched for us.",
+            "speaker": "Casey Carlisle <fake.casey.carlisle@titanstackoperations.com>",
+            "timestamp": "[00:26:06]"
+          },
+          {
+            "quote": "We, we, I don't remember if David shared to us, but it might be useful if we can, if you can send at least the improper band and overreaching.",
+            "speaker": "Casey Carlisle <fake.casey.carlisle@titanstackoperations.com>",
+            "timestamp": "[00:26:24]"
+          },
+          {
+            "quote": "I believe there are two or a few cameras that are giving a lot of incidents that might work for us.",
+            "speaker": "Casey Carlisle <fake.casey.carlisle@titanstackoperations.com>",
+            "timestamp": "[00:26:40]"
+          },
+          {
+            "quote": "We might need that one and the improper band for that area also.",
+            "speaker": "Casey Carlisle <fake.casey.carlisle@titanstackoperations.com>",
+            "timestamp": "[00:27:20]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Restore dashboard deep links in daily incident email",
+        "description": "Provide direct links in the daily email so leaders can click through to the dashboard as in the previous report format.",
+        "evidence": [
+          {
+            "quote": "So one, how he was entering to the dashboard was with an email that was sent with the numbers of the incidents.",
+            "speaker": "Casey Carlisle <fake.casey.carlisle@titanstackoperations.com>",
+            "timestamp": "[00:05:30]"
+          },
+          {
+            "quote": "So he used to just to click there and he was like a link to the dashboard.",
+            "speaker": "Casey Carlisle <fake.casey.carlisle@titanstackoperations.com>",
+            "timestamp": "[00:05:41]"
+          },
+          {
+            "quote": "That's not possible in the new dashboard report that is being sent every day.",
+            "speaker": "Casey Carlisle <fake.casey.carlisle@titanstackoperations.com>",
+            "timestamp": "[00:05:47]"
+          },
+          {
+            "quote": "Is to change the report to the to the last version or if it's possible to add the links to the new dashboard report daily?",
+            "speaker": "Casey Carlisle <fake.casey.carlisle@titanstackoperations.com>",
+            "timestamp": "[00:06:00]"
+          },
+          {
+            "quote": "if you scroll to the bottom of the new email, there is a link that opens to the main dashboard, and we already have follow-up work planned to make navigation from that email easier again.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:30:00]"
+          }
+        ]
+      }
+    ]
+  }
+}

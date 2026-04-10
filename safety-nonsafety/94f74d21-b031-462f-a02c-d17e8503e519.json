@@ -1,0 +1,196 @@
+{
+  "meeting_title": "Voxel <> Frontier Span Transport Intro ",
+  "start_time": "2023-08-16T18:30:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Forklift and pedestrian safety monitoring",
+        "description": "Monitor and alert on high-risk PIT behaviors and interactions, such as not stopping at intersections, PIT–pedestrian proximity, racking/door impacts, visibility issues from double-stacked loads, and unsafe dismounting.",
+        "evidence": [
+          {
+            "quote": "forklift safety is always a concern for anyone that's got forklifts, period.",
+            "speaker": "Skyler Gardner <fake.skyler.gardner@frontierspantransport.com>",
+            "timestamp": "[00:04:12]"
+          },
+          {
+            "quote": "we did have a lot of rack damage from people bumping into things and, and, and running into different things.",
+            "speaker": "Skyler Gardner <fake.skyler.gardner@frontierspantransport.com>",
+            "timestamp": "[00:04:38]"
+          },
+          {
+            "quote": "And we do, we've had a couple cases of, of some lift on person contact before.",
+            "speaker": "Skyler Gardner <fake.skyler.gardner@frontierspantransport.com>",
+            "timestamp": "[00:04:49]"
+          },
+          {
+            "quote": "So the no-stop rule, he's now backing up without looking, hits the garage door, pulls forward while he's double-stacked, almost hits the other forklift, jumps out of the forklift while it's still moving, no seatbelt, and his PPE is sitting on the side of the forklift here.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:19:38]"
+          }
+        ]
+      },
+      {
+        "label": "Housekeeping and material fall risk detection",
+        "description": "Identify housekeeping issues and product storage conditions that create hazards in pedestrian aisles, including vertically stored/overpacked product that can fall.",
+        "evidence": [
+          {
+            "quote": "Like, would you guys be looking for, you know, things out of orders in pedestrian aisleways, things like that?",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:05:27]"
+          },
+          {
+            "quote": "So I would say housekeeping for sure,",
+            "speaker": "Skyler Gardner <fake.skyler.gardner@frontierspantransport.com>",
+            "timestamp": "[00:06:13]"
+          },
+          {
+            "quote": "But the product, have it standing up.",
+            "speaker": "Skyler Gardner <fake.skyler.gardner@frontierspantransport.com>",
+            "timestamp": "[00:06:03]"
+          },
+          {
+            "quote": "And so it's vertical.",
+            "speaker": "Skyler Gardner <fake.skyler.gardner@frontierspantransport.com>",
+            "timestamp": "[00:06:05]"
+          },
+          {
+            "quote": "And so sometimes to me, it always looks like it's going to fall.",
+            "speaker": "Skyler Gardner <fake.skyler.gardner@frontierspantransport.com>",
+            "timestamp": "[00:06:07]"
+          },
+          {
+            "quote": "It doesn't most of the time, but if it's overpacked, sometimes it can.",
+            "speaker": "Skyler Gardner <fake.skyler.gardner@frontierspantransport.com>",
+            "timestamp": "[00:06:09]"
+          }
+        ]
+      },
+      {
+        "label": "Ergonomic risk monitoring for manual handling",
+        "description": "Detect and trend ergonomic risks such as overreaching and manual handling that contribute to shoulder and back strains during product picking from racks.",
+        "evidence": [
+          {
+            "quote": "But we do have a lot of shoulder strains and pulled shoulders and just back in general and things like that.",
+            "speaker": "Skyler Gardner <fake.skyler.gardner@frontierspantransport.com>",
+            "timestamp": "[00:06:32]"
+          },
+          {
+            "quote": "So I guess definitely ergonomics is the other side of it for sure.",
+            "speaker": "Skyler Gardner <fake.skyler.gardner@frontierspantransport.com>",
+            "timestamp": "[00:06:43]"
+          },
+          {
+            "quote": "Bottom part of the screen here, you're going to see a muscular skeleton overlay appear on the people that start to overreach.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:27:00]"
+          },
+          {
+            "quote": "Second they reach overhead, they're going to get flagged as red.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:27:16]"
+          }
+        ]
+      },
+      {
+        "label": "Automated near-miss capture and real-time coaching",
+        "description": "Reduce reliance on self-reporting by automatically capturing near misses and safety events with cameras and sending real-time alerts to enable immediate coaching and corrective action.",
+        "evidence": [
+          {
+            "quote": "we don't have to rely on the accuracy of people reporting on themselves or the human eye seeing everything. Now it's going to be captured.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:11:26]"
+          },
+          {
+            "quote": "these are going to be sent to you in real time.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:20:09]"
+          },
+          {
+            "quote": "And we had a near miss like reporting function through that and no one used it.",
+            "speaker": "Skyler Gardner <fake.skyler.gardner@frontierspantransport.com>",
+            "timestamp": "[00:08:52]"
+          },
+          {
+            "quote": "It was never used.",
+            "speaker": "Skyler Gardner <fake.skyler.gardner@frontierspantransport.com>",
+            "timestamp": "[00:08:52]"
+          },
+          {
+            "quote": "we've had a little bit of use of near misses, but it's really not that huge at all.",
+            "speaker": "Skyler Gardner <fake.skyler.gardner@frontierspantransport.com>",
+            "timestamp": "[00:09:37]"
+          }
+        ]
+      },
+      {
+        "label": "PPE and seatbelt compliance monitoring",
+        "description": "Monitor PPE and seatbelt compliance for operators and pedestrians, surfacing non-compliance such as missing safety vests or seatbelts for timely coaching.",
+        "evidence": [
+          {
+            "quote": "So as we scroll down, we see safety vest compliance. We're down 80-90%. We're doing a great job.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:18:00]"
+          },
+          {
+            "quote": "no seatbelt, and his PPE is sitting on the side of the forklift here.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:19:58]"
+          }
+        ]
+      },
+      {
+        "label": "Camera-based alternative/complement to forklift telematics",
+        "description": "Use computer vision to track forklift safety KPIs such as racking impacts and speeding, complementing or reducing the need for embedded telematics on new Toyota lifts.",
+        "evidence": [
+          {
+            "quote": "So we're actively in the process of a big transition for our forklifts company-wide, and we're doing a big deal with Toyota to replace all of our lifts.",
+            "speaker": "Skyler Gardner <fake.skyler.gardner@frontierspantransport.com>",
+            "timestamp": "[00:32:16]"
+          },
+          {
+            "quote": "I learned that supposedly there is a telematics aspect to that deal.",
+            "speaker": "Skyler Gardner <fake.skyler.gardner@frontierspantransport.com>",
+            "timestamp": "[00:32:34]"
+          },
+          {
+            "quote": "Like, we're not in competition with those just because that's, you know, those are going be a little different thing.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:33:14]"
+          },
+          {
+            "quote": "And we're able to track all of that with the cameras as well.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:33:57]"
+          }
+        ]
+      },
+      {
+        "label": "Safety hotspot heat mapping to target interventions",
+        "description": "Overlay heat maps on camera views and use cases to pinpoint where safety alerts cluster, informing operational or engineering changes (e.g., forklift paths, ergo work heights) to reduce incidents.",
+        "evidence": [
+          {
+            "quote": "So this is our new tool called heat mapping.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:28:32]"
+          },
+          {
+            "quote": "We're going to be able to overlay this heat map onto all use cases and all camera views within your facility.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:28:34]"
+          },
+          {
+            "quote": "So, with the forklifts, it's going to show you like pattern of travel. So, maybe it's, you know, an operational change or an engineering change, we can quickly make by looking at the path of travel.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:36:49]"
+          },
+          {
+            "quote": "Because I do, that aspect, I do like a lot.",
+            "speaker": "Skyler Gardner <fake.skyler.gardner@frontierspantransport.com>",
+            "timestamp": "[00:36:20]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": []
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "meeting_title": "Bridge Mill Transport / Voxel Bi-Weekly Sync",
+  "start_time": "2023-04-23T21:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Monitor freezer roll-up door open duration to prevent black ice",
+        "description": "Track door open/propped-open duration on a freezer roll-up door to reduce black ice formation and isolate if the issue occurs at night.",
+        "evidence": [
+          {
+            "quote": "So we currently have a, you know, a certain issue with one of our roll-up doors.",
+            "speaker": "Hollis Bishop <fake.hollis.bishop@bridgemilltransport.com>",
+            "timestamp": "[00:01:14]"
+          },
+          {
+            "quote": "So, just the blower with it in the freezer is basically, it's causing a lot of black ice, right?",
+            "speaker": "Hollis Bishop <fake.hollis.bishop@bridgemilltransport.com>",
+            "timestamp": "[00:01:23]"
+          },
+          {
+            "quote": "So they can, you know, kind of take a look at the open door duration on that.",
+            "speaker": "Hollis Bishop <fake.hollis.bishop@bridgemilltransport.com>",
+            "timestamp": "[00:02:27]"
+          },
+          {
+            "quote": "But from my engine, what engineering is telling me is being propped open.",
+            "speaker": "Hollis Bishop <fake.hollis.bishop@bridgemilltransport.com>",
+            "timestamp": "[00:03:55]"
+          },
+          {
+            "quote": "If it is something that happens at night, where it's like kind of less visibility, then I can kind of, you know, track that.",
+            "speaker": "Hollis Bishop <fake.hollis.bishop@bridgemilltransport.com>",
+            "timestamp": "[00:02:37]"
+          }
+        ]
+      },
+      {
+        "label": "Detect PIT–pedestrian proximity, PIT–PIT interactions, PPE compliance, and spills",
+        "description": "Use Voxel to monitor person-to-PIT and PIT-to-PIT interactions, safety vests, and spills in relevant dock areas.",
+        "evidence": [
+          {
+            "quote": "It looks like a lot of what we're capturing is person-to-pit, pit-to-pit, and PPE.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:05:19]"
+          },
+          {
+            "quote": "So, safety vests.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:05:25]"
+          },
+          {
+            "quote": "So we'll do the, you know, just the, you know, person pit proximity, safety vest.",
+            "speaker": "Hollis Bishop <fake.hollis.bishop@bridgemilltransport.com>",
+            "timestamp": "[00:07:22]"
+          },
+          {
+            "quote": "Of course, pit to pit, spill.",
+            "speaker": "Hollis Bishop <fake.hollis.bishop@bridgemilltransport.com>",
+            "timestamp": "[00:07:29]"
+          }
+        ]
+      },
+      {
+        "label": "Monitor improper PIT parking duration at central crossway and enforce policy",
+        "description": "Track and address PITs left parked in aisles—especially at the central crossway—using coaching and write-ups supported by Voxel evidence.",
+        "evidence": [
+          {
+            "quote": "The one area I wanted to highlight with you was parking duration, because that saw a pretty sharp increase this past month.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:10:32]"
+          },
+          {
+            "quote": "And it looks like, you know, far and away, the central crossway is the top offender.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:10:51]"
+          },
+          {
+            "quote": "No, they're not supposed to.",
+            "speaker": "Hollis Bishop <fake.hollis.bishop@bridgemilltransport.com>",
+            "timestamp": "[00:11:24]"
+          },
+          {
+            "quote": "We coach them or we do a write-up, and it's the back and forth with the union on what's okay.",
+            "speaker": "Hollis Bishop <fake.hollis.bishop@bridgemilltransport.com>",
+            "timestamp": "[00:12:00]"
+          },
+          {
+            "quote": "once we have the coaching, the next time it's like, hey, we've already spoken, here's the incident, it's bookmarked. Now it's just a write-up, right?",
+            "speaker": "Hollis Bishop <fake.hollis.bishop@bridgemilltransport.com>",
+            "timestamp": "[00:12:44]"
+          }
+        ]
+      },
+      {
+        "label": "Use Actions workflow for coaching and to measure impact on incidents",
+        "description": "Assign and complete actions for safety incidents, use the platform to coach, and track the effect of completed actions on incident trends.",
+        "evidence": [
+          {
+            "quote": "we have our supervisors night and morning. assign them.",
+            "speaker": "Hollis Bishop <fake.hollis.bishop@bridgemilltransport.com>",
+            "timestamp": "[00:08:53]"
+          },
+          {
+            "quote": "Coaching and, you know, pretty much do what we can.",
+            "speaker": "Hollis Bishop <fake.hollis.bishop@bridgemilltransport.com>",
+            "timestamp": "[00:09:02]"
+          },
+          {
+            "quote": "If we see any issues, it normally comes up as like a little fire emoji on it.",
+            "speaker": "Hollis Bishop <fake.hollis.bishop@bridgemilltransport.com>",
+            "timestamp": "[00:09:06]"
+          },
+          {
+            "quote": "when you guys actually complete an action now, it adds a marker into your platform data.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:09:43]"
+          },
+          {
+            "quote": "it shows, you know, after each particular incident and after each completed action, what is the effect thereafter on our data?",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:09:48]"
+          }
+        ]
+      },
+      {
+        "label": "Incident heat mapping to identify hotspots",
+        "description": "Leverage heat mapping to understand where incidents occur most frequently within camera views for strategic prioritization.",
+        "evidence": [
+          {
+            "quote": "we can definitely make the next meeting a little bit more strategic in the sense that, like, we'll go into opportunity areas, we'll have the full group together.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:15:32]"
+          },
+          {
+            "quote": "We can understand, you know, heat mapping, where do different incidents occur most frequently within your camera views",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:15:40]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Address PIT parking duration impacting aisle flow at central crossway",
+        "description": "Monitor and reduce PITs left parked in travel aisles at the central crossway to maintain flow and policy compliance using coaching and write-ups.",
+        "evidence": [
+          {
+            "quote": "The one area I wanted to highlight with you was parking duration, because that saw a pretty sharp increase this past month.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:10:32]"
+          },
+          {
+            "quote": "And it looks like, you know, far and away, the central crossway is the top offender.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:10:51]"
+          },
+          {
+            "quote": "No, they're not supposed to.",
+            "speaker": "Hollis Bishop <fake.hollis.bishop@bridgemilltransport.com>",
+            "timestamp": "[00:11:24]"
+          },
+          {
+            "quote": "We coach them or we do a write-up, and it's the back and forth with the union on what's okay.",
+            "speaker": "Hollis Bishop <fake.hollis.bishop@bridgemilltransport.com>",
+            "timestamp": "[00:12:00]"
+          }
+        ]
+      },
+      {
+        "label": "Reduce Chipotle dry dock congestion by splitting shifts",
+        "description": "Alleviate dock congestion by running the numbers on splitting shifts to reduce the number of pallets staged at once.",
+        "evidence": [
+          {
+            "quote": "we're working on some, alleviate some of the congestions that we have in Chipotle dry dock.",
+            "speaker": "Hollis Bishop <fake.hollis.bishop@bridgemilltransport.com>",
+            "timestamp": "[00:14:07]"
+          },
+          {
+            "quote": "that is something that I'm pretty much running the numbers on, splitting the shifts.",
+            "speaker": "Hollis Bishop <fake.hollis.bishop@bridgemilltransport.com>",
+            "timestamp": "[00:14:18]"
+          },
+          {
+            "quote": "So when that happens, it will be a lot less pallets on that stage.",
+            "speaker": "Hollis Bishop <fake.hollis.bishop@bridgemilltransport.com>",
+            "timestamp": "[00:14:24]"
+          }
+        ]
+      }
+    ]
+  }
+}

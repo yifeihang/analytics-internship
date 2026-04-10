@@ -1,0 +1,192 @@
+{
+  "meeting_title": "Delaney - Reconnect - North Works Operations + Voxel",
+  "start_time": "2022-11-17T20:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Pinpoint hazard hotspots with Heat Maps to drive mitigations",
+        "description": "Use heat maps on specific cameras to see exactly where incidents (e.g., PIT-to-PIT and ergonomics risks) occur and then implement controls like stop signs, mirrors, or area re-engineering.",
+        "evidence": [
+          {
+            "quote": "And then the last, I think the most exciting thing is Heat Maps is now, it's going officially live to everybody at the end.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>"
+          },
+          {
+            "quote": "So this is an example from, you know, a customer of looking at their pit to pit on this exact camera.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>"
+          },
+          {
+            "quote": "But now you have that fourth layer of pinpoint.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>"
+          },
+          {
+            "quote": "I mean exactly where it's happening.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>"
+          },
+          {
+            "quote": "So you'll know exactly where your incidents are taking place on the camera overlay.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>"
+          },
+          {
+            "quote": "Yeah, was going to say that really drives your strategy for mitigation really well at that point because you could say, well, look, it's right here, this one junction.",
+            "speaker": "Delaney Reagan <fake.delaney.reagan@northworksoperations.com>"
+          },
+          {
+            "quote": "We need to put in stop signs.",
+            "speaker": "Delaney Reagan <fake.delaney.reagan@northworksoperations.com>"
+          },
+          {
+            "quote": "We need to put in mirrors.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>"
+          },
+          {
+            "quote": "It's been huge with Ergo.",
+            "speaker": "Delaney Reagan <fake.delaney.reagan@northworksoperations.com>"
+          }
+        ]
+      },
+      {
+        "label": "Boards for targeted safety monitoring and trend detection",
+        "description": "Create sub-site boards by camera, shift, use case, and user so supervisors see only relevant incidents and can quickly spot trends like increases in no-stops or no‑ped‑zone violations.",
+        "evidence": [
+          {
+            "quote": "So basically boards is like a sub-site within a site.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>"
+          },
+          {
+            "quote": "So you can base a board based off of camera and or use case and or user and or time frame.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>"
+          },
+          {
+            "quote": "Second shift, these a few cameras put together based off these use cases, and only my second shift supervisors can see these boards.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>"
+          },
+          {
+            "quote": "Well, now it's going to spit out, hey, actually Tuesday at one, there's a 20-30% increase in no stops on this camera.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>"
+          },
+          {
+            "quote": "Hey, your no-ped zones are going up around Monday at 5 a.m..",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>"
+          },
+          {
+            "quote": "It gives you a good idea of, you know, really breaks it down at almost a granular level at that point.",
+            "speaker": "Delaney Reagan <fake.delaney.reagan@northworksoperations.com>"
+          }
+        ]
+      },
+      {
+        "label": "Assign and track corrective safety actions with owners and due dates",
+        "description": "Create actions from identified issues (e.g., safety vest non‑compliance), assign an owner and watchers, set due dates with reminders, and track status to ensure mitigation follow‑through.",
+        "evidence": [
+          {
+            "quote": "And then another thing we did was we created actions.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>"
+          },
+          {
+            "quote": "So, if you come in here and there's something you want to see that you want the whole team to take initiative on or certain sets of people to take initiative on, you can now come in here and create an action.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>"
+          },
+          {
+            "quote": "So like with a safety vest, right?",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>"
+          },
+          {
+            "quote": "So let's say that I'm going to say Connor's the owner of this assignment or this action.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>"
+          },
+          {
+            "quote": "I really need Derek and David to be a visibility into this too.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>"
+          },
+          {
+            "quote": "And the one thing that I've loved the most is you can assign a due date.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>"
+          },
+          {
+            "quote": "So now you can create a due date, sends reminders.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>"
+          },
+          {
+            "quote": "And then you have a better flow of, hey, what's been assigned out, what's in progress, and what has actually been completed.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>"
+          },
+          {
+            "quote": "That helps really track and drive the mitigation part on the back end.",
+            "speaker": "Delaney Reagan <fake.delaney.reagan@northworksoperations.com>"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Boards for targeted monitoring and trend detection",
+        "description": "Use boards to segment data by shift, area, and use case, limit visibility by role, and surface trends quickly for faster time‑to‑insight.",
+        "evidence": [
+          {
+            "quote": "So basically boards is like a sub-site within a site.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>"
+          },
+          {
+            "quote": "So you can base a board based off of camera and or use case and or user and or time frame.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>"
+          },
+          {
+            "quote": "Second shift, these a few cameras put together based off these use cases, and only my second shift supervisors can see these boards.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>"
+          },
+          {
+            "quote": "Well, now it's going to spit out, hey, actually Tuesday at one, there's a 20-30% increase in no stops on this camera.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>"
+          },
+          {
+            "quote": "Hey, your no-ped zones are going up around Monday at 5 a.m..",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>"
+          },
+          {
+            "quote": "It gives you a good idea of, you know, really breaks it down at almost a granular level at that point.",
+            "speaker": "Delaney Reagan <fake.delaney.reagan@northworksoperations.com>"
+          }
+        ]
+      },
+      {
+        "label": "Assign and track actions with owners and due dates",
+        "description": "Use Actions to assign tasks, add watchers, set due dates with reminders, and manage workflow from assigned to completed for accountability.",
+        "evidence": [
+          {
+            "quote": "And then another thing we did was we created actions.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>"
+          },
+          {
+            "quote": "So, if you come in here and there's something you want to see that you want the whole team to take initiative on or certain sets of people to take initiative on, you can now come in here and create an action.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>"
+          },
+          {
+            "quote": "So let's say that I'm going to say Connor's the owner of this assignment or this action.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>"
+          },
+          {
+            "quote": "I really need Derek and David to be a visibility into this too.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>"
+          },
+          {
+            "quote": "And the one thing that I've loved the most is you can assign a due date.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>"
+          },
+          {
+            "quote": "So now you can create a due date, sends reminders.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>"
+          },
+          {
+            "quote": "And then you have a better flow of, hey, what's been assigned out, what's in progress, and what has actually been completed.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>"
+          },
+          {
+            "quote": "That helps really track and drive the mitigation part on the back end.",
+            "speaker": "Delaney Reagan <fake.delaney.reagan@northworksoperations.com>"
+          }
+        ]
+      }
+    ]
+  }
+}

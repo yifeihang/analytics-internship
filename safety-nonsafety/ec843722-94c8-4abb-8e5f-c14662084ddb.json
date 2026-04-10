@@ -1,0 +1,145 @@
+{
+  "meeting_title": "Voxel AI Platform Demo",
+  "start_time": "2023-04-27T14:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Ergonomic risk detection (improper bends and overreach)",
+        "description": "Use computer vision to detect improper bending, overreaching, and other body mechanics issues in the warehouse to reduce sprains and strains.",
+        "evidence": [
+          {
+            "quote": "We've had several injuries this year resulting from, you know, body mechanics and things like that.",
+            "speaker": "Indigo Keller <fake.indigo.keller@harbormilltransport.com>",
+            "timestamp": "[00:03:33]"
+          },
+          {
+            "quote": "We've had, in the last month, we've had two shoulders.",
+            "speaker": "Bailey Calloway <fake.bailey.calloway@harbormilltransport.com>",
+            "timestamp": "[00:21:56]"
+          },
+          {
+            "quote": "Their injuries from employees kind of overreaching, filling an order, pulling material off of a pallet rack or whatever.",
+            "speaker": "Bailey Calloway <fake.bailey.calloway@harbormilltransport.com>",
+            "timestamp": "[00:22:00]"
+          },
+          {
+            "quote": "We had a back strain, individual moving material, putting it away into a location or whatever, felt discomfort in its back.",
+            "speaker": "Bailey Calloway <fake.bailey.calloway@harbormilltransport.com>",
+            "timestamp": "[00:22:10]"
+          },
+          {
+            "quote": "From an injury prevention standpoint, looking at ergonomics, body mechanics, all of that.",
+            "speaker": "Avery Jensen <fake.avery.jensen@harbormilltransport.com>",
+            "timestamp": "[00:23:00]"
+          },
+          {
+            "quote": "So I think that's what really drew us to this particular product was, hey, is this a way kind of real time that we can look at what's going on, help us analyze, you know, are we doing things correctly?",
+            "speaker": "Avery Jensen <fake.avery.jensen@harbormilltransport.com>",
+            "timestamp": "[00:23:09]"
+          }
+        ]
+      },
+      {
+        "label": "Forklift/PIT and pedestrian safety monitoring",
+        "description": "Monitor powered industrial trucks for safe operation and interactions with pedestrians, including stopping at intersections and detecting unsafe forklift behavior.",
+        "evidence": [
+          {
+            "quote": "whether it was behavior-based or whether it was, you know, utilizing a forklift incorrectly.",
+            "speaker": "Ari Foster <fake.ari.foster@harbormilltransport.com>",
+            "timestamp": "[00:13:00]"
+          },
+          {
+            "quote": "Is it forklift and pedestrian interaction, and maybe a struck by?",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:21:25]"
+          }
+        ]
+      },
+      {
+        "label": "Slip, trip, and fall prevention with area controls",
+        "description": "Detect unsafe pedestrian presence in restricted areas and behaviors that create slip, trip, and fall risks (e.g., standing on rollers) to prevent injuries.",
+        "evidence": [
+          {
+            "quote": "We've had falls in different situations like that, but, you know, but right now that's what we're really dealing with.",
+            "speaker": "Bailey Calloway <fake.bailey.calloway@harbormilltransport.com>",
+            "timestamp": "[00:22:34]"
+          },
+          {
+            "quote": "Here an individual stepping up on rollers, always a concern when you're standing on rollers for slip, trip, fall, sprained ankles.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:38:06]"
+          }
+        ]
+      },
+      {
+        "label": "PPE compliance monitoring",
+        "description": "Monitor and measure use of required PPE (e.g., gloves, high-visibility vests) to support initiatives like laceration reduction.",
+        "evidence": [
+          {
+            "quote": "We've had, you know, the past, laceration reduction initiatives, getting the, utilizing proper gloves, things like that.",
+            "speaker": "Indigo Keller <fake.indigo.keller@harbormilltransport.com>",
+            "timestamp": "[00:17:21]"
+          },
+          {
+            "quote": "we also give you the ability to manage and measure are the employees wearing the appropriate PPE at the appropriate time in the appropriate space.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:32:10]"
+          }
+        ]
+      },
+      {
+        "label": "Safety analytics dashboards and heatmaps for leading indicators",
+        "description": "Use dashboards and heatmaps to identify where, when, and how often unsafe conditions occur, enabling targeted actions and measuring compliance impact.",
+        "evidence": [
+          {
+            "quote": "What we do at Voxel, we flip that on here, we turn safety and safety management into a proactive effort.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:30:25]"
+          },
+          {
+            "quote": "I really liked some of the hot spots and some of the stuff you can go back and analyze when it when it happened, how it happened,",
+            "speaker": "Ari Foster <fake.ari.foster@harbormilltransport.com>",
+            "timestamp": "[00:57:44]"
+          },
+          {
+            "quote": "I really like that hotspot aspect of it, you know, where you're not seeing it. It's going to show you, hey, here's where we've had incidents, potential incidents repeatedly. That and the dashboard where you can drill down and get into that information.",
+            "speaker": "Avery Jensen <fake.avery.jensen@harbormilltransport.com>",
+            "timestamp": "[01:00:39]"
+          }
+        ]
+      },
+      {
+        "label": "Near-miss capture to support pre-shift coaching and daily safety huddles",
+        "description": "Capture unreported near misses and surface them for use in daily daily safety huddles and targeted coaching.",
+        "evidence": [
+          {
+            "quote": "we've really ramped up doing them on a daily basis with our warehouse group where each morning we do a daily safety huddle.",
+            "speaker": "Ari Foster <fake.ari.foster@harbormilltransport.com>",
+            "timestamp": "[00:13:48]"
+          },
+          {
+            "quote": "nobody's going to report anything here because nobody saw anything.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:35:45]"
+          },
+          {
+            "quote": "So we almost had a broken ankle or potential worse than that in amputation as this near-miss occurred.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:36:01]"
+          },
+          {
+            "quote": "What's that pre-shift coaching session going to be about?",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:42:04]"
+          },
+          {
+            "quote": "we could use these as learning tools for everyone.",
+            "speaker": "Ari Foster <fake.ari.foster@harbormilltransport.com>",
+            "timestamp": "[00:57:58]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": []
+  }
+}

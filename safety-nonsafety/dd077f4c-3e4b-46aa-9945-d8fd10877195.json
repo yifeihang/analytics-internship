@@ -1,0 +1,164 @@
+{
+  "meeting_title": "Voxel / Vale Bridge Systems Training",
+  "start_time": "2022-08-29T20:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "PPE: Safety gloves compliance and training",
+        "description": "Create and assign actions around safety glove use, with prescriptive steps such as providing gloves, ensuring accessibility, and training/retraining team members.",
+        "evidence": [
+          {
+            "quote": "Federal Safety Bureau standards and our common interventions that customers take for this use case type, so safety gloves.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:04:30]"
+          },
+          {
+            "quote": "could be as simple as provide team members with gloves, train and retrain team, ensure gloves are accessible, whatever the case is.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:04:40]"
+          },
+          {
+            "quote": "All right, safety gloves.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:13:11]"
+          }
+        ]
+      },
+      {
+        "label": "No PED zone training and compliance",
+        "description": "Use actions to train/retrain teams on no pedestrian zone requirements and track completion to understand impact.",
+        "evidence": [
+          {
+            "quote": "For this example, that action was been, that action was completed and it's a train, retrain team on no PED zone requirements.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:15:53]"
+          }
+        ]
+      },
+      {
+        "label": "Action tracking and accountability for safety interventions",
+        "description": "Use the Actions workflow to assign responsible owners, add subscribers, set due dates, notify via email, track status through assigned/in progress/completed, and report on completion and impact on event volumes.",
+        "evidence": [
+          {
+            "quote": "So that's really where actions comes into play, and it's a different way of assigning different video clips to folks to focus on specific coaching efforts, but it also gives you more prescriptive next steps with different suggested titles that we offer.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:03:07]"
+          },
+          {
+            "quote": "And then in addition, we do have due dates associated with those particular events.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:03:25]"
+          },
+          {
+            "quote": "So what this allows you to do if you're assigning something out to somebody is select yourself or a group of other people.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:05:15]"
+          },
+          {
+            "quote": "They'll get email notifications when the status gets changed, when it gets assigned.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:05:26]"
+          },
+          {
+            "quote": "Is there a way to run a report to see what's open, what's completed?",
+            "speaker": "Kerry Hollis <fake.kerry.hollis@valebridgesystems.com>",
+            "timestamp": "[00:06:41]"
+          },
+          {
+            "quote": "So what's been assigned, what's in progress is in the middle.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:07:06]"
+          },
+          {
+            "quote": "What's completed is on the right.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:07:09]"
+          },
+          {
+            "quote": "And there's a couple of things that I could note as well here on this page because it does give you user-by-user information about how many have been generated, who's completed what, what the average completion time is.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:15:08]"
+          },
+          {
+            "quote": "Because I think it'll be key for us to track things and moving forward.",
+            "speaker": "Kerry Hollis <fake.kerry.hollis@valebridgesystems.com>",
+            "timestamp": "[00:02:25]"
+          },
+          {
+            "quote": "there's a marker in your dashboard that goes over the data so you could see thereafter, like, what impact is this having?",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:13:51]"
+          },
+          {
+            "quote": "Based on what you guys are doing, based on the platform insights, is that actually having an effect? the events going down in volume over time?",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:03:00]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Action tracking and accountability for safety interventions",
+        "description": "Use the Actions workflow to assign responsible owners, add subscribers, set due dates, notify via email, track status through assigned/in progress/completed, and report on completion and impact on event volumes.",
+        "evidence": [
+          {
+            "quote": "So that's really where actions comes into play, and it's a different way of assigning different video clips to folks to focus on specific coaching efforts, but it also gives you more prescriptive next steps with different suggested titles that we offer.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:03:07]"
+          },
+          {
+            "quote": "And then in addition, we do have due dates associated with those particular events.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:03:25]"
+          },
+          {
+            "quote": "So what this allows you to do if you're assigning something out to somebody is select yourself or a group of other people.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:05:15]"
+          },
+          {
+            "quote": "They'll get email notifications when the status gets changed, when it gets assigned.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:05:26]"
+          },
+          {
+            "quote": "Is there a way to run a report to see what's open, what's completed?",
+            "speaker": "Kerry Hollis <fake.kerry.hollis@valebridgesystems.com>",
+            "timestamp": "[00:06:41]"
+          },
+          {
+            "quote": "So what's been assigned, what's in progress is in the middle.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:07:06]"
+          },
+          {
+            "quote": "What's completed is on the right.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:07:09]"
+          },
+          {
+            "quote": "And there's a couple of things that I could note as well here on this page because it does give you user-by-user information about how many have been generated, who's completed what, what the average completion time is.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:15:08]"
+          },
+          {
+            "quote": "Because I think it'll be key for us to track things and moving forward.",
+            "speaker": "Kerry Hollis <fake.kerry.hollis@valebridgesystems.com>",
+            "timestamp": "[00:02:25]"
+          },
+          {
+            "quote": "there's a marker in your dashboard that goes over the data so you could see thereafter, like, what impact is this having?",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:13:51]"
+          },
+          {
+            "quote": "Based on what you guys are doing, based on the platform insights, is that actually having an effect? the events going down in volume over time?",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:03:00]"
+          }
+        ]
+      }
+    ]
+  }
+}

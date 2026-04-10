@@ -1,0 +1,183 @@
+{
+  "meeting_title": "Voxel Legacy Drive Fabrication",
+  "start_time": "2024-08-14T18:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Front-of-store hotspot monitoring",
+        "description": "Focus monitoring on the parts of the store that see the most issues rather than covering the entire store.",
+        "evidence": [
+          {
+            "quote": "We always tend to have more issues up front during the holiday season.",
+            "speaker": "Darcy Kendrick <fake.darcy.kendrick@legacydrivefabrication.com>",
+            "timestamp": "[00:45:54]"
+          },
+          {
+            "quote": "That broader issue near the front of the store is what we keep running into.",
+            "speaker": "Dakota Pierce <fake.dakota.pierce@legacydrivefabrication.com>",
+            "timestamp": "[00:47:39]"
+          },
+          {
+            "quote": "If we could identify one or two areas of a store where most customer-related claims happen, is there an opportunity for us to focus on those areas without covering the entire store?",
+            "speaker": "Dakota Pierce <fake.dakota.pierce@legacydrivefabrication.com>",
+            "timestamp": "[00:28:00]"
+          }
+        ]
+      },
+      {
+        "label": "Compliance monitoring: blocked exits and extinguishers",
+        "description": "Detect and alert on compliance hazards such as blocked emergency exits and blocked fire extinguishers to prevent fines and reduce risk.",
+        "evidence": [
+          {
+            "quote": "Blocked Exits, Blocked Fire Extinguishers, those kind of things are also a good potential for us to focus on as well.",
+            "speaker": "Dakota Pierce <fake.dakota.pierce@legacydrivefabrication.com>",
+            "timestamp": "[00:29:00]"
+          },
+          {
+            "quote": "Obstructed Emergency Exits, if Federal Safety Bureau walks in, that's a huge fine.",
+            "speaker": "Kai Bishop",
+            "timestamp": "[00:29:38]"
+          }
+        ]
+      },
+      {
+        "label": "Augment lean store teams with automated observations/alerts",
+        "description": "Use AI-driven alerts and automated observations to assist understaffed stores, reduce manual safety observation time, and avoid adding workload to managers.",
+        "evidence": [
+          {
+            "quote": "stores run with less and less team members, so how can we bring in, how can we assist our team members that maybe we don't have to hire that part-time, extra full-time person?",
+            "speaker": "Darcy Kendrick <fake.darcy.kendrick@legacydrivefabrication.com>",
+            "timestamp": "[00:35:01]"
+          },
+          {
+            "quote": "what we can't do is put something out there that's going to add a lot of workload",
+            "speaker": "Dakota Pierce <fake.dakota.pierce@legacydrivefabrication.com>",
+            "timestamp": "[00:42:11]"
+          },
+          {
+            "quote": "if you perform your typical safety observation, it takes around tens of minutes per observation. Utilizing voxel, it's about a third of that.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:39:56]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Shrink reduction via service alerts in high-risk aisles",
+        "description": "Notify staff when shoppers interact with high-shrink items or dwell at protected fixtures, prompting service-based engagement to deter theft.",
+        "evidence": [
+          {
+            "quote": "I just simply would want to know when someone picks that up and walked away with it.",
+            "speaker": "Noel Dalton <fake.noel.dalton@legacydrivefabrication.com>",
+            "timestamp": "[00:23:46]"
+          },
+          {
+            "quote": "this item was removed from that particular shelf, and that's tied into the Voxel system, and then tied to an audio to the radios that lets the team member know that something was moved from that high shrink aisle.",
+            "speaker": "Noel Dalton <fake.noel.dalton@legacydrivefabrication.com>",
+            "timestamp": "[00:24:00]"
+          },
+          {
+            "quote": "identify individuals that are messing with lockup fixtures, right, or that are spending an inordinate amount of time at a lockup fixture.",
+            "speaker": "Dakota Pierce <fake.dakota.pierce@legacydrivefabrication.com>",
+            "timestamp": "[00:25:18]"
+          }
+        ]
+      },
+      {
+        "label": "Customer service alerts at fabric cutting and service areas",
+        "description": "Alert team members when customers are waiting or lingering at the fabric cutting station or similar service areas to reduce wait times and improve satisfaction.",
+        "evidence": [
+          {
+            "quote": "They do not like waiting, not having someone at the cutting area.",
+            "speaker": "Darcy Kendrick <fake.darcy.kendrick@legacydrivefabrication.com>",
+            "timestamp": "[00:49:45]"
+          },
+          {
+            "quote": "This is a fix for the cutting area.",
+            "speaker": "Darcy Kendrick <fake.darcy.kendrick@legacydrivefabrication.com>",
+            "timestamp": "[00:49:58]"
+          },
+          {
+            "quote": "we can turn that customer quicker at the fabric area by notifying team members.",
+            "speaker": "Darcy Kendrick <fake.darcy.kendrick@legacydrivefabrication.com>",
+            "timestamp": "[00:50:01]"
+          }
+        ]
+      },
+      {
+        "label": "Merchandising analytics: dwell/end-cap engagement",
+        "description": "Provide insights on where shoppers congregate and how they engage with end caps and sets, including pickup activity, to inform marketing and merchandising decisions.",
+        "evidence": [
+          {
+            "quote": "what areas of the store are being congregated the most.",
+            "speaker": "Dakota Pierce <fake.dakota.pierce@legacydrivefabrication.com>",
+            "timestamp": "[00:19:11]"
+          },
+          {
+            "quote": "Where are our shoppers spending the most time when they're in a store location, right?",
+            "speaker": "Dakota Pierce <fake.dakota.pierce@legacydrivefabrication.com>",
+            "timestamp": "[00:19:30]"
+          },
+          {
+            "quote": "if I set this end cap that had all this merchandise, tracking the sales of that, tracking how many people are drawn based on the From marketing to that end cap to drive a sale.",
+            "speaker": "Noel Dalton <fake.noel.dalton@legacydrivefabrication.com>",
+            "timestamp": "[00:20:10]"
+          },
+          {
+            "quote": "How many are picking up from that location?",
+            "speaker": "Noel Dalton <fake.noel.dalton@legacydrivefabrication.com>",
+            "timestamp": "[00:20:35]"
+          }
+        ]
+      },
+      {
+        "label": "Customer-incident evidence capture and faster closure",
+        "description": "Improve capture of relevant in-store video/data to support review of customer-related incidents and enable faster closure.",
+        "evidence": [
+          {
+            "quote": "we all know that the appropriate film can save me a million dollars.",
+            "speaker": "Darcy Kendrick <fake.darcy.kendrick@legacydrivefabrication.com>",
+            "timestamp": "[00:21:05]"
+          },
+          {
+            "quote": "A lot of my claims begin with a customer walking in and end with a serious incident.",
+            "speaker": "Darcy Kendrick <fake.darcy.kendrick@legacydrivefabrication.com>",
+            "timestamp": "[00:21:29]"
+          },
+          {
+            "quote": "How can you help me fill those internal gaps while knowing I don't have a dime to spend on it?",
+            "speaker": "Darcy Kendrick <fake.darcy.kendrick@legacydrivefabrication.com>",
+            "timestamp": "[00:21:33]"
+          },
+          {
+            "quote": "The older a claim, the more expensive it gets.",
+            "speaker": "Darcy Kendrick <fake.darcy.kendrick@legacydrivefabrication.com>",
+            "timestamp": "[00:45:31]"
+          }
+        ]
+      },
+      {
+        "label": "Augment lean store teams with automated observations/alerts",
+        "description": "Use AI-driven alerts and automated observations to assist understaffed stores, reduce manual safety observation time, and avoid adding workload to managers.",
+        "evidence": [
+          {
+            "quote": "stores run with less and less team members, so how can we bring in, how can we assist our team members that maybe we don't have to hire that part-time, extra full-time person?",
+            "speaker": "Darcy Kendrick <fake.darcy.kendrick@legacydrivefabrication.com>",
+            "timestamp": "[00:35:01]"
+          },
+          {
+            "quote": "what we can't do is put something out there that's going to add a lot of workload",
+            "speaker": "Dakota Pierce <fake.dakota.pierce@legacydrivefabrication.com>",
+            "timestamp": "[00:42:11]"
+          },
+          {
+            "quote": "if you perform your typical safety observation, it takes around tens of minutes per observation. Utilizing voxel, it's about a third of that.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:39:56]"
+          }
+        ]
+      }
+    ]
+  }
+}

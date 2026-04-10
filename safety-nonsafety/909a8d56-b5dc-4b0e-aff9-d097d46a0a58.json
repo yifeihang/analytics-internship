@@ -1,0 +1,85 @@
+{
+  "meeting_title": "Field Span Transport / Voxel:  Pick up discussions and confirm next steps",
+  "start_time": "2022-09-13T19:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Trailer pull-away detection at docks",
+        "description": "Detect and alert on trailer pull-aways during loading/unloading to prevent serious dock safety incidents while also impacting operations.",
+        "evidence": [
+          {
+            "quote": "You know, one thing that I was thinking about, too, and this is probably a little bit more safety than operations, but like, you know, trailer pull-aways as well.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:31:09]"
+          },
+          {
+            "quote": "You know, that's a more complex computer vision problem, certainly has a safety and an operational component to it as well.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:31:16]"
+          }
+        ]
+      },
+      {
+        "label": "Behavior-based safety analytics with heat maps (pilot)",
+        "description": "Run a behavior-based safety program using computer vision and heat maps at a pilot facility to demonstrate ROI and safety metric improvements before broader rollout.",
+        "evidence": [
+          {
+            "quote": "A branded behavior-based solution that Riley was highlighted, get some heat maps going, really get you comfortable with it, and then from there, we take it out.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:22:00]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Trailer pull-away detection at docks",
+        "description": "Monitor and detect trailer pull-aways to reduce operational disruptions and losses in addition to safety risk mitigation.",
+        "evidence": [
+          {
+            "quote": "You know, one thing that I was thinking about, too, and this is probably a little bit more safety than operations, but like, you know, trailer pull-aways as well.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:31:09]"
+          },
+          {
+            "quote": "You know, that's a more complex computer vision problem, certainly has a safety and an operational component to it as well.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:31:16]"
+          }
+        ]
+      },
+      {
+        "label": "Product damage tracking",
+        "description": "Use computer vision to detect and track product damage events in the facility to reduce waste, rework, and associated costs.",
+        "evidence": [
+          {
+            "quote": "You know, when it comes to tracking product damage or exploring camera-based monitoring with other customers, one example is detecting when a product is out of spec or left where it should not be for too long.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:30:31]"
+          }
+        ]
+      },
+      {
+        "label": "Product condition and dwell-time detection",
+        "description": "Leverage camera-based monitoring to detect products that are out of spec or left in the wrong place for too long to prevent spoilage and reduce downstream issues.",
+        "evidence": [
+          {
+            "quote": "You know, when it comes to tracking product damage or exploring camera-based monitoring in this area, one example is detecting when a product is out of spec or left where it should not be for too long.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:30:31]"
+          },
+          {
+            "quote": "Yeah, and claim-focused, right?",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:31:37]"
+          },
+          {
+            "quote": "If you're finding something that's out of spec.",
+            "speaker": "Max Conrad <fake.max.conrad@fieldspantransport.com>",
+            "timestamp": "[00:31:39]"
+          }
+        ]
+      }
+    ]
+  }
+}

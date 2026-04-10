@@ -1,0 +1,215 @@
+{
+  "meeting_title": "Voxel / Keystone Steel Systems sync",
+  "start_time": "2023-06-25T13:30:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Ergonomics risk monitoring and mitigation (overreach/improper bending)",
+        "description": "Use Voxel to surface overreaching and improper bending hotspots using Posture Risk Index-based analytics and video clips, then adjust methods (e.g., raise forks, change stacking) to reduce musculoskeletal injury risk.",
+        "evidence": [
+          {
+            "quote": "Ergonomics is a great opportunity that we're seeing where we may be able to, you know, help bring insights that we can get some quick wins through that.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:16:36]"
+          },
+          {
+            "quote": "what we're using is the Posture Risk Index, Rapid Entire Body Assessment.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:17:00]"
+          },
+          {
+            "quote": "now we're actually going to the specific clips where you'll see the exoskeleton on this individual is really starting to light up as they move into that pallet stack right there.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:18:06]"
+          },
+          {
+            "quote": "So from a training perspective, from a communications perspective, this is a great opportunity to reinforce that positive behavior.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:20:10]"
+          }
+        ]
+      },
+      {
+        "label": "Forklift (PIT) and pedestrian safety: proximity, speeding, no-stops, coaching",
+        "description": "Monitor PIT-to-PIT and PIT-to-person proximity, speeding, and no-stops at intersections; identify choke points and coach safe spacing and behaviors (e.g., seatbelt use).",
+        "evidence": [
+          {
+            "quote": "So whether that is speeding, whether that's a pit-to-pit proximity, pit-to-pedestrian, no pedestrian zones, no stops, ergonomics, there's a plethora of use cases that are available out of the box to the platform.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:11:42]"
+          },
+          {
+            "quote": "So here we've got pit-to-pit proximity that we're capturing, we've got pit-to-person proximity, we've got no-stops at intersections that we're capturing, and we've got speeding.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:21:21]"
+          },
+          {
+            "quote": "So here's a pit interaction.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:22:44]"
+          },
+          {
+            "quote": "we want to coach people to be three, four feet apart from one another.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:26:40]"
+          },
+          {
+            "quote": "Or whether it's you see a clip and you're like, hey, I saw you unbuckle the seatbelt before you got out.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:26:47]"
+          }
+        ]
+      },
+      {
+        "label": "Area controls monitoring: liquid spills and no-pedestrian zones",
+        "description": "Detect and enforce area controls such as liquid spills and no-pedestrian zones to prevent incidents.",
+        "evidence": [
+          {
+            "quote": "area controls, such as liquid spills, such as no pedestrian zones,",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:16:00]"
+          }
+        ]
+      },
+      {
+        "label": "PPE compliance monitoring",
+        "description": "Monitor PPE compliance to ensure the right PPE is worn at the right time and place.",
+        "evidence": [
+          {
+            "quote": "PPE compliance, right, PPE, at the right time, at the right place,",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:16:00]"
+          }
+        ]
+      },
+      {
+        "label": "Heat maps and hotspot analytics to target high-risk areas",
+        "description": "Use heat maps by camera and time to locate high-risk ergonomic or traffic hotspots and target observations or interventions.",
+        "evidence": [
+          {
+            "quote": "We'll have heat map reviews really to target some of those high-risk areas.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:14:34]"
+          },
+          {
+            "quote": "this will be made available to you via the heat maps with our next release, I can quickly see on this particular camera where we have hotspots of ergonomic improper bends or overreaches,",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:17:46]"
+          },
+          {
+            "quote": "The heat map is also giving me the laser focus of where I may want to go in and take an observation",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:23:03]"
+          }
+        ]
+      },
+      {
+        "label": "Behavior-based safety coaching, pre-shift training, and gamification using clips",
+        "description": "Leverage video clips to coach and reinforce safe behaviors, run behavior-based safety programs, and gamify engagement across shifts.",
+        "evidence": [
+          {
+            "quote": "whether that's through training of the workforce and different elements that we work with our customers and we'll work with you around behavior-based safety programs, whether that's moving into the specific risks and areas that we can surface that data, whether that's gamification so that we get, you know, shifts kind of working together to see who is, you know, meeting the goals and objectives most quickly.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:15:09]"
+          },
+          {
+            "quote": "It's about caught you doing something safe as well.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:20:24]"
+          },
+          {
+            "quote": "You can collaborate. You can assign incidents to people. You can get a workflow fully enabled here so that I could communicate with Micah in the platform around a pre-shift training... I could forward this clip to somebody even outside of the platform... or embed it into a PowerPoint or something like that.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:23:31]"
+          },
+          {
+            "quote": "it's nice to see the positive reinforcement, too, that you talked about, like, especially when I think about coaching, being able to show two different clips of someone doing something right and someone doing something wrong and being able to speak to it.",
+            "speaker": "Winter Noble <fake.winter.noble@keystonesteelsystems.com>",
+            "timestamp": "[00:26:13]"
+          }
+        ]
+      },
+      {
+        "label": "Streamlined safety workflows for leaders (assign, track, share)",
+        "description": "Make safety programs easier for leaders by enabling simple in-platform assignment, tracking, and sharing of incidents and training materials to avoid cumbersome data entry.",
+        "evidence": [
+          {
+            "quote": "not making it too cumbersome for the leaders, because if it's a ton of work for them to enter data or track data, it just becomes a task.",
+            "speaker": "Winter Noble <fake.winter.noble@keystonesteelsystems.com>",
+            "timestamp": "[00:11:12]"
+          },
+          {
+            "quote": "You can collaborate. You can assign incidents to people. You can get a workflow fully enabled here... share that video clip with somebody outside so that they could take action or embed it into a PowerPoint or something like that.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:23:31]"
+          }
+        ]
+      },
+      {
+        "label": "Optimize pallet stack heights and segregate pallet types to reduce overreach risk",
+        "description": "Use Voxel’s overreach insights to change pallet stack heights and segregate CHEP vs. white pallets to lower high reaches and repetitive strain risk.",
+        "evidence": [
+          {
+            "quote": "Can't we move our pallet stacks from 18 tall down to 8 tall, you know, whatever that number is.",
+            "speaker": "Micah Gentry <fake.micah.gentry@keystonesteelsystems.com>",
+            "timestamp": "[00:05:15]"
+          },
+          {
+            "quote": "So are there the easy wins like, hey, let's segregate CHEP pallets from pine pallets or white pallets?",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:05:54]"
+          },
+          {
+            "quote": "So here we've got, that's almost seven feet high.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:19:13]"
+          },
+          {
+            "quote": "If it's a little bit lower and, you know, the employee's not having to reach, you know, seven feet up in the air to pull that pallet down and it's more at a neutral zone, we're going to save from a productivity time, you know, those two seconds it's going to take to pull that pallet down, but it's also going to be more ergonomically safe to do so.",
+            "speaker": "Micah Gentry <fake.micah.gentry@keystonesteelsystems.com>",
+            "timestamp": "[00:28:00]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Operational analytics: monitor open door durations",
+        "description": "Track open door durations as an operational metric for facilities to support non-safety objectives like efficiency or energy management.",
+        "evidence": [
+          {
+            "quote": "and then some operational, open door durations, et cetera.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:16:17]"
+          }
+        ]
+      },
+      {
+        "label": "Optimize pallet stack heights and segregate pallet types to improve productivity",
+        "description": "Use insights on overreaching to set lower pallet stack heights and segregate CHEP vs. white pallets, reducing handling time and speeding up operations.",
+        "evidence": [
+          {
+            "quote": "Can't we move our pallet stacks from 18 tall down to 8 tall, you know, whatever that number is.",
+            "speaker": "Micah Gentry <fake.micah.gentry@keystonesteelsystems.com>",
+            "timestamp": "[00:05:15]"
+          },
+          {
+            "quote": "So are there the easy wins like, hey, let's segregate CHEP pallets from pine pallets or white pallets?",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:05:54]"
+          },
+          {
+            "quote": "So here we've got, that's almost seven feet high.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:19:13]"
+          },
+          {
+            "quote": "If it's a little bit lower and, you know, the employee's not having to reach, you know, seven feet up in the air to pull that pallet down and it's more at a neutral zone, we're going to save from a productivity time, you know, those two seconds it's going to take to pull that pallet down, but it's also going to be more ergonomically safe to do so.",
+            "speaker": "Micah Gentry <fake.micah.gentry@keystonesteelsystems.com>",
+            "timestamp": "[00:28:00]"
+          }
+        ]
+      }
+    ]
+  }
+}

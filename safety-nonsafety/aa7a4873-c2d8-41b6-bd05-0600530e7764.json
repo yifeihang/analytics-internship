@@ -1,0 +1,354 @@
+{
+  "meeting_title": "Blue Peak Services POC Week 2 Review",
+  "start_time": "2023-12-10T19:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Stop sign compliance (no-stops) monitoring",
+        "description": "Monitor and enforce complete stops at stop signs/doorways for pedestrians and powered industrial trucks (PITs), focusing on known hotspots and shifts.",
+        "evidence": [
+          {
+            "quote": "We're going to start with no-stops.",
+            "speaker": "Charlie Kingsley <fake.charlie.kingsley@voxelai.com>",
+            "timestamp": "[00:07:14]"
+          },
+          {
+            "quote": "So we set up that rule that there needs to be a complete stop at that stop sign.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:09:36]"
+          },
+          {
+            "quote": "Came through there and didn't stop at all.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:09:47]"
+          },
+          {
+            "quote": "And there's a lot of video, very similar to that, where they're, you know, not slowing down, let alone stopping.",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[00:10:00]"
+          },
+          {
+            "quote": "And we know that, you know, as they're coming through here, obviously, a stop through the aisle, but also a stop through that doorway.",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[00:10:44]"
+          },
+          {
+            "quote": "Would that be a sanitation worker that we just saw there?",
+            "speaker": "Charlie Kingsley <fake.charlie.kingsley@voxelai.com>",
+            "timestamp": "[00:10:16]"
+          },
+          {
+            "quote": "Yes.",
+            "speaker": "Finley Pierce <fake.finley.pierce@sterlingliftdynamics.com>",
+            "timestamp": "[00:10:22]"
+          }
+        ]
+      },
+      {
+        "label": "Person-to-PIT proximity monitoring",
+        "description": "Detect and reduce close interactions between pedestrians and forklifts/pallet jacks on the dock, using heat maps and example clips to coach safer behaviors and timing.",
+        "evidence": [
+          {
+            "quote": "The next one is person-to-pit proximity.",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[00:17:10]"
+          },
+          {
+            "quote": "So, you know, where, it's clearly mostly consolidated to the dock area.",
+            "speaker": "Charlie Kingsley <fake.charlie.kingsley@voxelai.com>",
+            "timestamp": "[00:17:23]"
+          },
+          {
+            "quote": "And then also it looks like between like 5 p.m.. to 7 p.m.. is when we're seeing the highest frequency of this incident type.",
+            "speaker": "Charlie Kingsley <fake.charlie.kingsley@voxelai.com>",
+            "timestamp": "[00:17:26]"
+          },
+          {
+            "quote": "the forklift wasn't looking for a pedestrian, and secondly, the pedestrian wasn't looking for the forklift.",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[00:19:16]"
+          },
+          {
+            "quote": "there's an individual wrapping that orange pallet. And you're going to watch this individual walk right up to that pallet jack.",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[00:19:56]"
+          },
+          {
+            "quote": "This pallet jack drives right up to that person.",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[00:21:44]"
+          }
+        ]
+      },
+      {
+        "label": "PIT-to-PIT proximity monitoring",
+        "description": "Identify and mitigate close encounters between forklifts, especially when exiting refrigerated areas near the dock during peak hours, and coach stop-and-yield behaviors.",
+        "evidence": [
+          {
+            "quote": "Moving on to pit-to-pit proximity.",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[00:23:22]"
+          },
+          {
+            "quote": "between 4 p.m.. and 6 p.m.. is when we're seeing the highest frequency of pit-to-pit proximity.",
+            "speaker": "Charlie Kingsley <fake.charlie.kingsley@voxelai.com>",
+            "timestamp": "[00:23:35]"
+          },
+          {
+            "quote": "a lot of this closeness where that hot spot is, is people coming out of, I'm assuming, refrigerators.",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[00:24:58]"
+          },
+          {
+            "quote": "the forklift doesn't stop coming out, and the other forklift kind of ends up tight right around them",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[00:25:22]"
+          },
+          {
+            "quote": "What type of distance should they be keeping from each other?",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[00:26:29]"
+          }
+        ]
+      },
+      {
+        "label": "Ergonomics: Improper bending detection",
+        "description": "Detect improper bending postures during lifting and handling tasks, especially during night operations, and use video evidence to coach safe technique.",
+        "evidence": [
+          {
+            "quote": "So getting into improper bends, you know, again, it's a similar trend as we saw last week here, right?",
+            "speaker": "Charlie Kingsley <fake.charlie.kingsley@voxelai.com>",
+            "timestamp": "[00:32:21]"
+          },
+          {
+            "quote": "So it's primarily during that busy time over the night is when we're seeing this kind of happen most often.",
+            "speaker": "Charlie Kingsley <fake.charlie.kingsley@voxelai.com>",
+            "timestamp": "[00:32:32]"
+          },
+          {
+            "quote": "And we're seeing it across all a few cameras.",
+            "speaker": "Charlie Kingsley <fake.charlie.kingsley@voxelai.com>",
+            "timestamp": "[00:32:37]"
+          },
+          {
+            "quote": "The first one here, relatively straightforward, not bending at the knees.",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[00:37:46]"
+          },
+          {
+            "quote": "This associate at the end where you see the body lit up, just literally bent over at the waist and bent over to pick up a case.",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[00:38:08]"
+          }
+        ]
+      },
+      {
+        "label": "Ergonomics: Overreaches detection",
+        "description": "Detect overreaching incidents in picking aisles, primarily during the 9 p.m.. to 6 a.m.. window, and focus improvements using heat maps.",
+        "evidence": [
+          {
+            "quote": "for overreaches, you know, pretty similar story.",
+            "speaker": "Charlie Kingsley <fake.charlie.kingsley@voxelai.com>",
+            "timestamp": "[00:43:52]"
+          },
+          {
+            "quote": "we're seeing it in mostly the aisles here",
+            "speaker": "Charlie Kingsley <fake.charlie.kingsley@voxelai.com>",
+            "timestamp": "[00:43:55]"
+          },
+          {
+            "quote": "during that nighttime, that 9 p.m.. to 6 a.m.., when obviously you guys are most busy with picking.",
+            "speaker": "Charlie Kingsley <fake.charlie.kingsley@voxelai.com>",
+            "timestamp": "[00:44:01]"
+          },
+          {
+            "quote": "Here's some of the heat maps for overreaches.",
+            "speaker": "Charlie Kingsley <fake.charlie.kingsley@voxelai.com>",
+            "timestamp": "[00:44:17]"
+          }
+        ]
+      },
+      {
+        "label": "Spill detection for faster response",
+        "description": "Detect floor spills to enable quicker response and reduce slip/trip hazards in a produce environment.",
+        "evidence": [
+          {
+            "quote": "Yeah, I was to say Spills was a use case that me and Quinn talked about pretty extensively.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:49:25]"
+          },
+          {
+            "quote": "And I saw a fair amount, Finley, where you had those spills.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:49:29]"
+          },
+          {
+            "quote": "it's going to enable you to respond faster.",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[00:49:44]"
+          }
+        ]
+      },
+      {
+        "label": "Use anonymized video for non-punitive safety training and coaching",
+        "description": "Export and blur video clips to coach and train associates, fostering conversations and learning rather than punitive actions.",
+        "evidence": [
+          {
+            "quote": "We can do retroactive blurring.",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[00:21:07]"
+          },
+          {
+            "quote": "We can turn the blurring on when we export this.",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[00:21:15]"
+          },
+          {
+            "quote": "which makes it great for frontline training if that's a cultural barrier.",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[00:21:19]"
+          },
+          {
+            "quote": "use this clip or another clip as an example of, hey, here's, you a behavior we don't want to see happening.",
+            "speaker": "Charlie Kingsley <fake.charlie.kingsley@voxelai.com>",
+            "timestamp": "[00:20:49]"
+          },
+          {
+            "quote": "not to use the tool in a punitive punishment kind of way, but mostly for training and for learning.",
+            "speaker": "Finley Pierce <fake.finley.pierce@sterlingliftdynamics.com>",
+            "timestamp": "[00:45:45]"
+          },
+          {
+            "quote": "will be good for, like you're saying, you know, periodic training or awareness training",
+            "speaker": "Elliot Calloway <fake.elliot.calloway@sterlingliftdynamics.com>",
+            "timestamp": "[00:50:40]"
+          }
+        ]
+      },
+      {
+        "label": "Data-driven targeting of safety observations using heat maps and time-of-day trends",
+        "description": "Use heat maps and temporal analytics to pinpoint hotspots and schedule focused observations/interventions when and where risk is highest.",
+        "evidence": [
+          {
+            "quote": "the beauty of a heat map is rather than having to watch video from this entire area, the heat map is actually interactive when you're in the platform, which means you'll see little red dots that allow you to click into that hot spot.",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[00:18:14]"
+          },
+          {
+            "quote": "maybe I go spend some time on the dock around, you know, 5 p.m.., 6 p.m.., 7 p.m.., and do those observations",
+            "speaker": "Charlie Kingsley <fake.charlie.kingsley@voxelai.com>",
+            "timestamp": "[00:24:00]"
+          },
+          {
+            "quote": "The heat maps will help a lot. It shows us where the hot spots are, whether we have to do more observations in that area or signage.",
+            "speaker": "Elliot Calloway <fake.elliot.calloway@sterlingliftdynamics.com>",
+            "timestamp": "[00:50:15]"
+          }
+        ]
+      },
+      {
+        "label": "Gamify safety compliance to reduce no-stops",
+        "description": "Run shift-level competitions tracked in Voxel (e.g., first shift to reach zero no-stops earns a reward) to drive rapid behavior change.",
+        "evidence": [
+          {
+            "quote": "Also, too, I've seen a lot of our customers gamify it, right?",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:16:02]"
+          },
+          {
+            "quote": "Whoever is the first one to get zero in a week gets a pizza party.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:16:17]"
+          },
+          {
+            "quote": "With Voxel, you can very easily track, right, the first shift to get zero in a week, right?",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:16:25]"
+          },
+          {
+            "quote": "the first thing we started getting questions at pre-shift was, where are we against the other shifts?",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[00:16:34]"
+          }
+        ]
+      },
+      {
+        "label": "Prioritize review by severity to focus on high-risk cases",
+        "description": "Use severity levels to filter incidents (e.g., high risk) and concentrate coaching and corrective actions where risk is greatest.",
+        "evidence": [
+          {
+            "quote": "you'll have the ability to sort by the severity level.",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[00:11:48]"
+          },
+          {
+            "quote": "you get down to 56 high risk",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[00:11:56]"
+          },
+          {
+            "quote": "this is a high severity incident, right? So filtering by those high severity incidents to get an idea on where can I focus my efforts is a great way to kind of get started within the platform and looking through the videos.",
+            "speaker": "Charlie Kingsley <fake.charlie.kingsley@voxelai.com>",
+            "timestamp": "[00:39:01]"
+          }
+        ]
+      },
+      {
+        "label": "Area controls (restricted zones and product placement policies)",
+        "description": "Set up area control rules such as where product must not be left and where people should never be, to enforce site policies and prevent unsafe access.",
+        "evidence": [
+          {
+            "quote": "I would say things like area controls.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:48:52]"
+          },
+          {
+            "quote": "So like should product never be left somewhere? Should someone never be somewhere for any amount of time?",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:49:10]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Area controls (restricted zones and product placement policies)",
+        "description": "Configure rules to enforce operational policies such as preventing product from being left in certain areas and restricting access to specific zones.",
+        "evidence": [
+          {
+            "quote": "I would say things like area controls.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:48:52]"
+          },
+          {
+            "quote": "So like should product never be left somewhere? Should someone never be somewhere for any amount of time?",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:49:10]"
+          }
+        ]
+      },
+      {
+        "label": "Identify operational improvements and efficiency gains from data",
+        "description": "Use heat maps and discussions with frontline teams to surface operational improvements and efficiency gains.",
+        "evidence": [
+          {
+            "quote": "Maybe it leads to an operational improvement, efficiency gains that we can start talking about.",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[00:34:11]"
+          }
+        ]
+      },
+      {
+        "label": "Reduce manual video review workload",
+        "description": "Use heat maps and surfaced clips to avoid combing through large amounts of video, improving productivity of reviews.",
+        "evidence": [
+          {
+            "quote": "It prevents you from having to go through a ton of video to find it.",
+            "speaker": "Elliot Calloway <fake.elliot.calloway@sterlingliftdynamics.com>",
+            "timestamp": "[00:50:35]"
+          }
+        ]
+      }
+    ]
+  }
+}

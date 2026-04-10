@@ -1,0 +1,40 @@
+{
+  "meeting_title": "Mill Motive Solutions / Voxel - project evaluation status",
+  "start_time": "2023-06-29T14:30:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Forklift–pedestrian proximity monitoring during renovation at Van Buren freezer",
+        "description": "Deploy Voxel at the Van Buren freezer to monitor and mitigate interactions between pedestrians and lift trucks during a construction-related reroute that will cause congestion.",
+        "evidence": [
+          {
+            "quote": "Well, and also for that matter, timing-wise, we are going to be entering a rather large construction shutdown at, so the Van Buren freezers attached to our Van Buren cook facility.",
+            "speaker": "Alex Hale <fake.alex.hale@millmotivesolutions.com>",
+            "timestamp": "[00:03:04]"
+          },
+          {
+            "quote": "And the cook facility is going to be going through a significant renovation and part of it right at that time.",
+            "speaker": "Alex Hale <fake.alex.hale@millmotivesolutions.com>",
+            "timestamp": "[00:03:22]"
+          },
+          {
+            "quote": "And one of the things that we've been concerned about is the interface between pedestrians and lift traffic, lift truck traffic, during that particular time.",
+            "speaker": "Alex Hale <fake.alex.hale@millmotivesolutions.com>",
+            "timestamp": "[00:03:29]"
+          },
+          {
+            "quote": "Because we're going to have to reroute some of the product path of travel, and some of it's going to get a little congested.",
+            "speaker": "Alex Hale <fake.alex.hale@millmotivesolutions.com>",
+            "timestamp": "[00:03:40]"
+          },
+          {
+            "quote": "So this will be perfect to have it all ironed out and then be able to say, okay, this is even going to help with that.",
+            "speaker": "Alex Hale <fake.alex.hale@millmotivesolutions.com>",
+            "timestamp": "[00:03:47]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": []
+  }
+}

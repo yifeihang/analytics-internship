@@ -1,0 +1,196 @@
+{
+  "meeting_title": "Voxel Training- Summit Span Solutions, Northpoint Site",
+  "start_time": "2024-06-10T17:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "PIT stop compliance at door intersections",
+        "description": "Detect and review no-stop-at-the-door intersection events and use suggested actions to train or retrain operators on stopping requirements.",
+        "evidence": [
+          {
+            "quote": "It looks like this incident's a no-stop-at-the-door intersection.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:05:44]"
+          },
+          {
+            "quote": "train slash retrain team on stopping requirements.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:08:15]"
+          },
+          {
+            "quote": "we're going to capture things like ergonomic risk, pit-related safety, pedestrian prohibited zones to make sure that people are out of areas that they shouldn't be in,",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:05:00]"
+          }
+        ]
+      },
+      {
+        "label": "No-pedestrian zone enforcement",
+        "description": "Monitor and reduce pedestrians entering prohibited zones and use trends and peak times to focus interventions.",
+        "evidence": [
+          {
+            "quote": "Like if you look at a no-ped zone, no-pedestrian zone, for example, folks are not supposed to be in these designated areas.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:14:28]"
+          },
+          {
+            "quote": "You have a high volume of events over the past month, but you're down 60-70% over the past about a month compared to the previous month.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:14:35]"
+          },
+          {
+            "quote": "So for you guys, for no-ped zones over the last month, that's been Tuesdays around 10 a.m.. East.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:15:55]"
+          }
+        ]
+      },
+      {
+        "label": "Ergonomic risk and overreaching detection",
+        "description": "Identify ergonomic hazards like overreaching captured by Voxel to mitigate strain and injury risks.",
+        "evidence": [
+          {
+            "quote": "we're going to capture things like ergonomic risk, pit-related safety, pedestrian prohibited zones",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:05:00]"
+          },
+          {
+            "quote": "overreaching, ergonomic risks, obstruction for certain areas, open door duration, parking duration.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:16:42]"
+          }
+        ]
+      },
+      {
+        "label": "Obstruction hazard detection in critical areas",
+        "description": "Detect obstructions in specific areas to prevent safety hazards and maintain safe operations.",
+        "evidence": [
+          {
+            "quote": "overreaching, ergonomic risks, obstruction for certain areas, open door duration, parking duration.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:16:42]"
+          }
+        ]
+      },
+      {
+        "label": "Safety coaching via Actions workflow",
+        "description": "Create, assign, and track actions with due dates to coach employees on safety incidents through to completion.",
+        "evidence": [
+          {
+            "quote": "go into our Create Actions workflow, and this is the more in-depth coaching platform that I told you we released about a month ago.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:07:21]"
+          },
+          {
+            "quote": "We can also associate due dates with actions. So you can essentially make this a time-bound requirement.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:09:00]"
+          },
+          {
+            "quote": "Or they can drag and drop it to the completed column if it's, you know, finished and they don't need to do anything further.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:12:42]"
+          }
+        ]
+      },
+      {
+        "label": "Safety incident reporting and trend analysis",
+        "description": "Use reports to analyze incident trends by type, camera, and time, track team engagement, and evaluate whether actions reduced incidents.",
+        "evidence": [
+          {
+            "quote": "And the time range defaults to the last full month, so in this case, November 1st to the 22nd.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:18:29]"
+          },
+          {
+            "quote": "Who's creating these actions? How many did they create? You know, how quickly do they complete them? The average completion time will be listed.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:18:46]"
+          },
+          {
+            "quote": "Incidence by camera, and then a little bit further at the bottom, incidence by time period.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:19:11]"
+          },
+          {
+            "quote": "based off of that action, afterwards, you can gauge how effective was my coaching effort on this particular event, basically saying, after I did this, did this reduce the incidents that came in?",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:20:03]"
+          }
+        ]
+      },
+      {
+        "label": "Safety performance benchmarking and goal tracking",
+        "description": "Set safety performance goals and compare ongoing trends against those goals as benchmarking capabilities mature.",
+        "evidence": [
+          {
+            "quote": "we are working toward more formal benchmarking capabilities so you can set goals and compare your trends against them over time.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:21:41]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Open door duration monitoring",
+        "description": "Track open door duration events for operational awareness and process control.",
+        "evidence": [
+          {
+            "quote": "overreaching, ergonomic risks, obstruction for certain areas, open door duration, parking duration.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:16:42]"
+          }
+        ]
+      },
+      {
+        "label": "Parking duration monitoring",
+        "description": "Monitor parking duration to support site operations and dwell-time management.",
+        "evidence": [
+          {
+            "quote": "overreaching, ergonomic risks, obstruction for certain areas, open door duration, parking duration.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:16:42]"
+          }
+        ]
+      },
+      {
+        "label": "Safety incident reporting and trend analysis",
+        "description": "Use reports to analyze incident trends by type, camera, and time, track team engagement, and evaluate whether actions reduced incidents.",
+        "evidence": [
+          {
+            "quote": "And the time range defaults to the last full month, so in this case, November 1st to the 22nd.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:18:29]"
+          },
+          {
+            "quote": "Who's creating these actions? How many did they create? You know, how quickly do they complete them? The average completion time will be listed.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:18:46]"
+          },
+          {
+            "quote": "Incidence by camera, and then a little bit further at the bottom, incidence by time period.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:19:11]"
+          },
+          {
+            "quote": "based off of that action, afterwards, you can gauge how effective was my coaching effort on this particular event, basically saying, after I did this, did this reduce the incidents that came in?",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:20:03]"
+          }
+        ]
+      },
+      {
+        "label": "Safety performance benchmarking and goal tracking",
+        "description": "Set performance goals and compare ongoing trends against those goals as benchmarking capabilities mature.",
+        "evidence": [
+          {
+            "quote": "we are working toward more formal benchmarking capabilities so you can set goals and compare your trends against them over time.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:21:41]"
+          }
+        ]
+      }
+    ]
+  }
+}

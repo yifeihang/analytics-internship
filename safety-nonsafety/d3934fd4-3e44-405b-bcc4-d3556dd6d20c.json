@@ -1,0 +1,93 @@
+{
+  "meeting_title": "Titan Stack Operations / Voxel Sync",
+  "start_time": "2022-11-02T19:30:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "PIT/pedestrian proximity monitoring in drive lanes",
+        "description": "Enable pit proximity detection on drive lanes and relevant cameras to flag close interactions between powered industrial trucks and people.",
+        "evidence": [
+          {
+            "quote": "improper bend, person to pet, overreaching, yes.",
+            "speaker": "Peyton Rowe <fake.peyton.rowe@titanstackoperations.com>",
+            "timestamp": "[00:04:23]"
+          },
+          {
+            "quote": "And then 1006, yeah, because that's a drive lane, so pit proximity, overreaching, improper bend, and we want to add speed to that one.",
+            "speaker": "Peyton Rowe <fake.peyton.rowe@titanstackoperations.com>",
+            "timestamp": "[00:04:45]"
+          }
+        ]
+      },
+      {
+        "label": "Forklift speed monitoring via camera-based distance measurement",
+        "description": "Measure fixed distances in camera views and configure direction of travel to detect and alert on PIT speeding in specified areas.",
+        "evidence": [
+          {
+            "quote": "I know I was supposed to get distances so that we could track speed on some of those cameras, some of our equipment.",
+            "speaker": "Peyton Rowe <fake.peyton.rowe@titanstackoperations.com>",
+            "timestamp": "[00:01:35]"
+          },
+          {
+            "quote": "So we had sent over, someone on my team sent over a deck with some of the areas we suspected would be good for speeding.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:01:48]"
+          },
+          {
+            "quote": "It's asking which direction are we watching for speeding?",
+            "speaker": "Peyton Rowe <fake.peyton.rowe@titanstackoperations.com>",
+            "timestamp": "[00:05:28]"
+          },
+          {
+            "quote": "So we would need the distance between these two arrows.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:05:55]"
+          },
+          {
+            "quote": "So I think you could just go in and measure the ones that you want us to enable speeding on, and then just call it out by the camera name right up top here with the distance, we'll go ahead and get those enabled.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:06:30]"
+          }
+        ]
+      },
+      {
+        "label": "Stop sign/stop line compliance zones",
+        "description": "Identify locations that require stops (e.g., rack ends) and add stop zones in the system to monitor compliance.",
+        "evidence": [
+          {
+            "quote": "Okay, so now what I need to do is capture where we need to have the stops.",
+            "speaker": "Peyton Rowe <fake.peyton.rowe@titanstackoperations.com>",
+            "timestamp": "[00:06:41]"
+          },
+          {
+            "quote": "So if you want to take a look at the camera views and just let me know which ones we need stops on, we can go ahead and get those added as well.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:06:46]"
+          },
+          {
+            "quote": "So on camera 13, it looks like you have, okay, so you have a distance for me to measure, but also at the end of that rack is a stop.",
+            "speaker": "Peyton Rowe <fake.peyton.rowe@titanstackoperations.com>",
+            "timestamp": "[00:07:03]"
+          }
+        ]
+      },
+      {
+        "label": "Ergonomic risk detection (improper bend, overreaching)",
+        "description": "Apply ergonomic analytics to detect improper bending and overreaching on selected manufacturing cameras.",
+        "evidence": [
+          {
+            "quote": "improper bend, person to pet, overreaching, yes.",
+            "speaker": "Peyton Rowe <fake.peyton.rowe@titanstackoperations.com>",
+            "timestamp": "[00:04:23]"
+          },
+          {
+            "quote": "And then 1006, yeah, because that's a drive lane, so pit proximity, overreaching, improper bend, and we want to add speed to that one.",
+            "speaker": "Peyton Rowe <fake.peyton.rowe@titanstackoperations.com>",
+            "timestamp": "[00:04:45]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": []
+  }
+}

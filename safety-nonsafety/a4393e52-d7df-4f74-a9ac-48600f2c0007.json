@@ -1,0 +1,187 @@
+{
+  "meeting_title": "Iron Grid Fabrication / Voxel Monthly Overview",
+  "start_time": "2022-07-05T16:30:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Coach against forks-first forklift driving and PIT-pedestrian near-misses using Voxel clips",
+        "description": "Use Voxel-detected incidents/videos to highlight and correct operators driving forks-first, preventing struck-by events and near-misses with pedestrians.",
+        "evidence": [
+          {
+            "quote": "And one of the things that we've tried pushing here lately has been people driving forks first.",
+            "speaker": "Vale Mercer <fake.vale.mercer@irongridfabrication.com>",
+            "timestamp": "[00:10:12]"
+          },
+          {
+            "quote": "Deanna knows a few months back we had an incident where a supervisor got hit by someone driving forks first.",
+            "speaker": "Vale Mercer <fake.vale.mercer@irongridfabrication.com>",
+            "timestamp": "[00:10:19]"
+          },
+          {
+            "quote": "And a video popped up on Voxel of an operator on a dock truck going around a row of pallets, forks first, with a pallet on his forks, so he wouldn't have seen at any point, and almost hit an individual on foot.",
+            "speaker": "Vale Mercer <fake.vale.mercer@irongridfabrication.com>",
+            "timestamp": "[00:10:30]"
+          },
+          {
+            "quote": "So I was able to use that as a, hey, guys, this is a perfect example of why we don't do that.",
+            "speaker": "Vale Mercer <fake.vale.mercer@irongridfabrication.com>",
+            "timestamp": "[00:10:47]"
+          }
+        ]
+      },
+      {
+        "label": "Identify unsafe dock behaviors (walking backwards, stepping over forks) and drive toolbox talks/start-of-shift coaching",
+        "description": "Leverage Voxel clips to surface slip/trip/fall risks like walking backwards while wrapping and walking over forks, then use those clips for toolbox talks or start-of-shift training.",
+        "evidence": [
+          {
+            "quote": "So Canton, just so you know, everybody does this until it's observed, and there's a toolbox talk or a start of shift, so I don't want you to feel like you're being picked on, but let's go through the motion, and I saw it last night.",
+            "speaker": "Parker Donovan <fake.parker.donovan@voxelai.com>",
+            "timestamp": "[00:15:06]"
+          },
+          {
+            "quote": "Individual right here in the blue, he's really getting captured for the improper bend, but what I really look at with this particular individual is he is walking backwards while wrapping.",
+            "speaker": "Parker Donovan <fake.parker.donovan@voxelai.com>",
+            "timestamp": "[00:15:44]"
+          },
+          {
+            "quote": "As we all know, you can't see what's behind you, and that is the number one reason for slips, trips, and falls in our environment.",
+            "speaker": "Parker Donovan <fake.parker.donovan@voxelai.com>",
+            "timestamp": "[00:16:00]"
+          },
+          {
+            "quote": "But as he's walking by, he's literally walking over the forks.",
+            "speaker": "Parker Donovan <fake.parker.donovan@voxelai.com>",
+            "timestamp": "[00:17:26]"
+          },
+          {
+            "quote": "Spend a few minutes, you'll find one training moment.",
+            "speaker": "Parker Donovan <fake.parker.donovan@voxelai.com>",
+            "timestamp": "[00:17:50]"
+          }
+        ]
+      },
+      {
+        "label": "Track and close the loop on safety corrective actions with the Actions workflow",
+        "description": "Use Voxel’s Actions feature to assign, progress, and complete safety-related actions, capturing comments and measuring whether actions had the intended impact.",
+        "evidence": [
+          {
+            "quote": "there seems to be some confusion amongst the supervisors about how they navigate it now.",
+            "speaker": "Vale Mercer <fake.vale.mercer@irongridfabrication.com>",
+            "timestamp": "[00:22:00]"
+          },
+          {
+            "quote": "So I have had some think that they click it once and now they're done like it used to be and they didn't understand that they had to go back in and click it a second time and do all that.",
+            "speaker": "Vale Mercer <fake.vale.mercer@irongridfabrication.com>",
+            "timestamp": "[00:22:19]"
+          },
+          {
+            "quote": "But the beauty of this is you get to see, it really closes that loop.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:22:50]"
+          },
+          {
+            "quote": "We can track that progress.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:23:19]"
+          },
+          {
+            "quote": "Did that action actually have the impact that you wanted?",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:23:21]"
+          }
+        ]
+      },
+      {
+        "label": "Re-scope cameras/zones to maintain accurate safety detections and manageable incident volume",
+        "description": "Adjust camera scopes and zones when incident volume spikes or cameras move, reducing false positives so safety teams can focus on genuine risks.",
+        "evidence": [
+          {
+            "quote": "We re-scoped, got the total daily incidents down.",
+            "speaker": "Vale Mercer <fake.vale.mercer@irongridfabrication.com>",
+            "timestamp": "[00:12:45]"
+          },
+          {
+            "quote": "So, I'm able to actually look through everything and not just be overwhelmed with what I'm looking at over and over again.",
+            "speaker": "Vale Mercer <fake.vale.mercer@irongridfabrication.com>",
+            "timestamp": "[00:12:48]"
+          },
+          {
+            "quote": "If you have cameras that have moved or you have just a spike in trends, it could be a potential that the camera has moved.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:26:21]"
+          },
+          {
+            "quote": "And now we need to re-scope.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:26:55]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Track and close the loop on safety corrective actions with the Actions workflow",
+        "description": "Use Voxel’s Actions feature to assign owners, move items through stages, add comments, and verify impact for better operational accountability.",
+        "evidence": [
+          {
+            "quote": "there seems to be some confusion amongst the supervisors about how they navigate it now.",
+            "speaker": "Vale Mercer <fake.vale.mercer@irongridfabrication.com>",
+            "timestamp": "[00:22:00]"
+          },
+          {
+            "quote": "So I have had some think that they click it once and now they're done like it used to be and they didn't understand that they had to go back in and click it a second time and do all that.",
+            "speaker": "Vale Mercer <fake.vale.mercer@irongridfabrication.com>",
+            "timestamp": "[00:22:19]"
+          },
+          {
+            "quote": "But the beauty of this is you get to see, it really closes that loop.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:22:50]"
+          },
+          {
+            "quote": "We can track that progress.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:23:19]"
+          }
+        ]
+      },
+      {
+        "label": "Re-scope cameras/zones to manage alert volume and reduce false positives",
+        "description": "Continuously adjust camera scopes when views change or trends spike to keep alert volume manageable and maintain data quality.",
+        "evidence": [
+          {
+            "quote": "We re-scoped, got the total daily incidents down.",
+            "speaker": "Vale Mercer <fake.vale.mercer@irongridfabrication.com>",
+            "timestamp": "[00:12:45]"
+          },
+          {
+            "quote": "If you have cameras that have moved or you have just a spike in trends, it could be a potential that the camera has moved.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:26:21]"
+          },
+          {
+            "quote": "And now we need to re-scope.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:26:55]"
+          }
+        ]
+      },
+      {
+        "label": "Review dashboard metrics and product enhancements to identify opportunities",
+        "description": "Run through Voxel dashboard metrics across sites to spot trends and discuss product enhancements that can be leveraged.",
+        "evidence": [
+          {
+            "quote": "I typically run through dashboard metrics to understand where opportunities lie and make sure you guys are open to hearing about our product enhancements and what you can leverage from that perspective as well.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:04:32]"
+          },
+          {
+            "quote": "Just wanted to briefly walk through some of the metrics.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:11:50]"
+          }
+        ]
+      }
+    ]
+  }
+}

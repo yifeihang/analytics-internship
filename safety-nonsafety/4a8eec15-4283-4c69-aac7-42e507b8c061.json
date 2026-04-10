@@ -1,0 +1,340 @@
+{
+  "meeting_title": "Ridge Stack Industrial/Voxel pilot deliverables",
+  "start_time": "2022-07-03T14:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Forklift–pedestrian proximity and walkway compliance monitoring",
+        "description": "Detect and prioritize interactions between powered industrial trucks and pedestrians, including near misses and pedestrians not using designated walkways.",
+        "evidence": [
+          {
+            "quote": "Our big data points are anything to do around forklift operation and pedestrians, right?",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:13:40]"
+          },
+          {
+            "quote": "You know, just pedestrian and forklift near misses, you know, pedestrians not using walkways if we do have them in the building, so there's a little bit there.",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:14:16]"
+          },
+          {
+            "quote": "you know, a lot of times if somebody walked in front of a forklift and there was no sort of safety risk to it because the forklift wasn't operating, it would still show as a potential at-risk behavior just because of the proximity of the individual to the forklifts.",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:06:26]"
+          }
+        ]
+      },
+      {
+        "label": "Working at heights on ULDs detection",
+        "description": "Identify workers climbing onto ULDs or cargo stacks and performing tasks at height without ladders or platforms, despite variable pallet locations.",
+        "evidence": [
+          {
+            "quote": "One of our big concerns is a lot of times these guys don't want to use ladders, right?",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:06:56]"
+          },
+          {
+            "quote": "So they just climb on top of these ULD, these unit load devices with all this cargo, and they throw cargo from the top down to the guys and eventually gets low enough and everybody operates from the ground.",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:07:00]"
+          },
+          {
+            "quote": "So because we couldn't always put the ULDs in the same place, we just never could pick up people standing at, working at heights inappropriately.",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:07:31]"
+          },
+          {
+            "quote": "and working at heights, big one for us just because of falls leading to pretty catastrophic events.",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:14:25]"
+          }
+        ]
+      },
+      {
+        "label": "Forklift seatbelt compliance",
+        "description": "Monitor forklift operators for seatbelt usage, which prior systems struggled to detect.",
+        "evidence": [
+          {
+            "quote": "like seatbelt compliance. I know that was a difficult one for them to be able to do, so we kind of just put it in a side bucket until a later time.",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:14:00]"
+          },
+          {
+            "quote": "like seat belts, driving with obstructive views, those are a few that are super prominent use cases we hear from customers, but aren't bespoke models that we have today.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:17:33]"
+          }
+        ]
+      },
+      {
+        "label": "PPE vest compliance monitoring",
+        "description": "Use cameras to flag non-compliant PPE, especially missing high-visibility vests.",
+        "evidence": [
+          {
+            "quote": "any time you can pick up any non-compliant PPE, and mainly with the cameras, that involves vests. We would like that, although most of the time when people don't have vests in the facility, they're usually some sort of federal agency, right, that doesn't have to follow the rules.",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:15:00]"
+          }
+        ]
+      },
+      {
+        "label": "Obstructed-view driving detection",
+        "description": "Detect forklifts driving forward with obstructed views to prevent severe incidents.",
+        "evidence": [
+          {
+            "quote": "And then a lot of times, you know, driving forward with an obstructed view, that was another one ProTex struggled with.",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:16:28]"
+          },
+          {
+            "quote": "we have a recent incident that involved someone driving forward with an obstructed view.",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:16:41]"
+          },
+          {
+            "quote": "To your point, obstructed view.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:43:50]"
+          },
+          {
+            "quote": "Like, pallet blocking the view.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:43:56]"
+          }
+        ]
+      },
+      {
+        "label": "Operator not looking in direction of travel detection",
+        "description": "Identify when operators are not looking in the direction of travel.",
+        "evidence": [
+          {
+            "quote": "Not looking in the direction of travel. I know that's a tough one, especially if the cameras aren't close, but that's another one we keep trying to pick up as well.",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:16:56]"
+          }
+        ]
+      },
+      {
+        "label": "Loading dock driver confinement monitoring",
+        "description": "Alert when truck drivers at loading docks leave the designated waiting area or wander off.",
+        "evidence": [
+          {
+            "quote": "we're trying really hard to get the drivers of these trucks to cooperate and stand in one area and not venture off or wander off. And it's been an issue. So if we could kind of almost pick up those alerts.",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:16:12]"
+          }
+        ]
+      },
+      {
+        "label": "ULD handling pinch point risk detection",
+        "description": "Detect pinch point risks during ULD handling if feasible with cameras.",
+        "evidence": [
+          {
+            "quote": "ULD handling as far as, you know, pitch points and stuff like that is not something typically we can pick up with a camera.",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:14:33]"
+          }
+        ]
+      },
+      {
+        "label": "Dolly brake/tongue position compliance",
+        "description": "Monitor that dolly tongues are raised and brakes are set to prevent runaway units.",
+        "evidence": [
+          {
+            "quote": "Dollies have to be up. Dolly tongues have to be up for brakes to be set. So, we don't have runaway units, different things like that.",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:15:28]"
+          }
+        ]
+      },
+      {
+        "label": "Intersection stop compliance and PIT-to-PIT near-miss detection",
+        "description": "Flag forklift failures to stop at doors/intersections and detect near misses between forklifts.",
+        "evidence": [
+          {
+            "quote": "no-stop-at-intersection video.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:43:32]"
+          },
+          {
+            "quote": "So he doesn't stop at the door, which caused him to hit the door.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:43:42]"
+          },
+          {
+            "quote": "And forklift to forklift near-miss.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:43:50]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Integration with incident-management and reporting systems",
+        "description": "Integrate with an incident-management system to create events from selected alerts and feed data into a reporting system so leaders can review without logging into Voxel.",
+        "evidence": [
+          {
+            "quote": "We use an external system to manage incident workflows.",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:20:41]"
+          },
+          {
+            "quote": "And then that system feeds our reporting layer.",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:20:44]"
+          },
+          {
+            "quote": "Can you work with that external system to manage this automatically?",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:20:53]"
+          },
+          {
+            "quote": "So alert, it then automatically create an event in our incident management system in which we then will reconcile with a corrective action and documented response.",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:21:02]"
+          },
+          {
+            "quote": "And if you have data that could feed directly into our reporting layer to give us heat maps and similar outputs, that would be helpful too, because then leadership would not need to log into Voxel directly.",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:21:25]"
+          },
+          {
+            "quote": "can I click on something in the Voxel system, and then it automatically creates an alert for me, or an event for me in our incident management system.",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:23:11]"
+          },
+          {
+            "quote": "They have already invested significantly in their existing reporting setup.",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:24:38]"
+          },
+          {
+            "quote": "So they're going to want us to manage everything through there.",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:24:43]"
+          }
+        ]
+      },
+      {
+        "label": "Role‑based boards and dashboard customization for MODs",
+        "description": "Provide curated dashboards and boards mapped to manager roles, shifts, and relevant cameras to streamline daily review and coaching.",
+        "evidence": [
+          {
+            "quote": "I'm pretty sure, you know, if we request a certain type of dashboard, you guys could deliver it.",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:20:16]"
+          },
+          {
+            "quote": "we do that through a functionality within the platform with multiple dashboards, but the one that I think the MODs are going to interface with most is going to be called what we call boards.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:46:55]"
+          },
+          {
+            "quote": "map the various MODs and understand not only what shift they cover and then also what camera purviews might be relevant to them and which ones may not be so that we can create boards and subscribe them to those boards",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:47:05]"
+          },
+          {
+            "quote": "and it's only going to show them a set number of clips, at least that they're at the board level, at that, like when they just log in, they're going to see five things they can work on",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:48:01]"
+          },
+          {
+            "quote": "the board's concept is nice.",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:49:20]"
+          }
+        ]
+      },
+      {
+        "label": "Responsive customer support and troubleshooting",
+        "description": "Due to lean staffing, Ridge Stack Industrial needs timely access to customer support to answer questions and troubleshoot.",
+        "evidence": [
+          {
+            "quote": "Ridge Stack Industrial, and I'm sure you kind of noticed it from the IT setup, we are as lean as lean can be, right?",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:12:54]"
+          },
+          {
+            "quote": "So a big help to us is just that customer support and being able to reach somebody to answer our questions and troubleshoot just because we're all trying to do two jobs and it would definitely help us to have that.",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:13:09]"
+          }
+        ]
+      },
+      {
+        "label": "High‑accuracy alerting and broad hazard detection coverage",
+        "description": "Achieve high accuracy with minimal false positives and detect a wide range of at‑risk behaviors so managers don’t waste time vetting alerts.",
+        "evidence": [
+          {
+            "quote": "His big thing always with these automated systems is just accuracy, right?",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:05:32]"
+          },
+          {
+            "quote": "Accuracy of reporting, you know, the whole point is to work smarter, not harder.",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:05:37]"
+          },
+          {
+            "quote": "you know, a lot of times if somebody walked in front of a forklift and there was no sort of safety risk to it because the forklift wasn't operating, it would still show as a potential at-risk behavior just because of the proximity of the individual to the forklifts.",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:06:26]"
+          },
+          {
+            "quote": "So the two, to get to my original point, the two things is the accuracy of the alerts and the amount of at-risk behaviors you can act, you can, the system can pick up.",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:07:44]"
+          },
+          {
+            "quote": "we threw a couple of made-up metrics there as far as TPR and FPR, but I mean, we'll figure out the best way to track that.",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:19:11]"
+          },
+          {
+            "quote": "the less time we have to spend telling you guys this is actually not an issue, you know, the more you will, you know, the more in your favor, right?",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:19:20]"
+          }
+        ]
+      },
+      {
+        "label": "Action workflow and accountability tracking",
+        "description": "Establish a workflow to assign alerts to MOD/AGM/GM, conduct coaching vs. HR interventions, and report on ownership and timeliness of resolutions.",
+        "evidence": [
+          {
+            "quote": "my goal here is to have them have equal amounts of time blocked off in order to address alerts, right?",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:38:30]"
+          },
+          {
+            "quote": "have the employees who are involved in the alerts at a controlled setting in order to review the video that Voxel provides.",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:39:01]"
+          },
+          {
+            "quote": "at certain severities, it's going to need to be documented and HR needs to get involved. At other ones, it's more coaching opportunities and mentoring opportunities",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:39:24]"
+          },
+          {
+            "quote": "we have the ability to not only assign an action or an event or resolution of that event to an individual, but then also add subscribers to it.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:41:18]"
+          },
+          {
+            "quote": "I'm going to want that because I'm assuming that'll create some sort of report of who's dealing with what through Voxel, right?",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:42:01]"
+          },
+          {
+            "quote": "what's the timeliness of a resolution?",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:42:50]"
+          }
+        ]
+      }
+    ]
+  }
+}

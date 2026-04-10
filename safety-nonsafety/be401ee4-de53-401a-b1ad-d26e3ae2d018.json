@@ -1,0 +1,300 @@
+{
+  "meeting_title": "Jetty Steel Systems / Voxel Call",
+  "start_time": "2023-03-18T18:30:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Ergonomics monitoring (improper bends and overreaching)",
+        "description": "Use Voxel to detect improper bending and overreaching to target ergonomic improvements and training.",
+        "evidence": [
+          {
+            "quote": "pretty consistently ergonomics was a core concern, improper bend over reaching",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "00:11:13"
+          },
+          {
+            "quote": "a lot of our focus here is on the ergonomics, and that's kind of really helped us focus in on some areas that, you know, we need to really work on and be aware of.",
+            "speaker": "Spencer Atwood <fake.spencer.atwood@jettysteelsystems.com>",
+            "timestamp": "00:12:38"
+          }
+        ]
+      },
+      {
+        "label": "Forklift and pedestrian/intersection safety (PIT-to-person, PIT-to-PIT, no stops, no PED zones)",
+        "description": "Monitor PIT and pedestrian interactions, no-stop compliance at intersections, and no-pedestrian-zone intrusions to reduce collision risk.",
+        "evidence": [
+          {
+            "quote": "pit to pit, pit to person",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "00:11:13"
+          },
+          {
+            "quote": "In addition to that, no PED zone, obstructions, no stop at end of vial.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "00:11:27"
+          },
+          {
+            "quote": "no stops are rising at a 20-30% trend at loading base seed.",
+            "speaker": "Keegan York <fake.keegan.york@voxelai.com>",
+            "timestamp": "00:35:54"
+          },
+          {
+            "quote": "I think that would be beneficial, especially like in forklift-type scenarios.",
+            "speaker": "Devon Sterling <fake.devon.sterling@jettysteelsystems.com>",
+            "timestamp": "00:21:09"
+          }
+        ]
+      },
+      {
+        "label": "PPE compliance monitoring (hard hats, vests, gloves)",
+        "description": "Detect PPE usage such as hard hats, safety vests, and gloves, and address detection accuracy concerns flagged by the team.",
+        "evidence": [
+          {
+            "quote": "PPE, safety vest and hard hats.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "00:11:22"
+          },
+          {
+            "quote": "we had some challenges with it picking out like the PPE usage, and so sometimes it thought that people didn't have gloves on when they actually did have them on",
+            "speaker": "Greer Quill <fake.greer.quill@jettysteelsystems.com>",
+            "timestamp": "00:13:06"
+          },
+          {
+            "quote": "specifically, like, PPE, ergonomics, and also, like, line of fire type hazards",
+            "speaker": "Devon Sterling <fake.devon.sterling@jettysteelsystems.com>",
+            "timestamp": "00:12:01"
+          }
+        ]
+      },
+      {
+        "label": "Working at heights detection (beta)",
+        "description": "Leverage beta working-at-heights detections on identified cameras to flag elevated work risks.",
+        "evidence": [
+          {
+            "quote": "there were a few cameras, each at Argyll and Loon Lake, that did qualify for one of our more experimental use cases, working at heights. That's still in beta at this point",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "00:11:32"
+          }
+        ]
+      },
+      {
+        "label": "Line-of-fire hazard observation support",
+        "description": "Align camera observations with company safety observation categories, including line-of-fire hazards, to enable timely retraining.",
+        "evidence": [
+          {
+            "quote": "using the cameras, I like to see it kind of align with some of the things we're doing as a company with, like, safety observations, you know, specifically, like, PPE, ergonomics, and also, like, line of fire type hazards, but obviously with the forklifts, I think it supports it pretty well.",
+            "speaker": "Devon Sterling <fake.devon.sterling@jettysteelsystems.com>",
+            "timestamp": "00:12:01"
+          },
+          {
+            "quote": "anytime we can get information like that, that we're able to immediately share and touch base with people that we can identify that might need some retraining, it helps.",
+            "speaker": "Devon Sterling <fake.devon.sterling@jettysteelsystems.com>",
+            "timestamp": "00:12:21"
+          }
+        ]
+      },
+      {
+        "label": "Obstruction hazard monitoring",
+        "description": "Monitor for obstructions in work areas as a safety risk to address.",
+        "evidence": [
+          {
+            "quote": "In addition to that, no PED zone, obstructions, no stop at end of vial.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "00:11:27"
+          }
+        ]
+      },
+      {
+        "label": "Accountable coaching and training via Actions tied to incident clips",
+        "description": "Use Voxel clips and the Actions workflow to create accountable coaching and training tasks for safety behaviors with due dates and owners.",
+        "evidence": [
+          {
+            "quote": "Do you have any like behavioral-based safety programs in place today that you used, you know, the Voxel clips for sort of servicing the examples for coaching opportunities?",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "00:14:13"
+          },
+          {
+            "quote": "But it could support it in that regard, you know, just doing like refresher and retraining type things when we identify instances that need it.",
+            "speaker": "Devon Sterling <fake.devon.sterling@jettysteelsystems.com>",
+            "timestamp": "00:14:39"
+          },
+          {
+            "quote": "we will also be surfacing a list of three suggested actions that are based on common interventions we've seen previously for this incident type... Coaching a certain person, training or retraining the team, and thirdly, something that may require, you know, a longer process",
+            "speaker": "Keegan York <fake.keegan.york@voxelai.com>",
+            "timestamp": "00:38:48"
+          }
+        ]
+      },
+      {
+        "label": "Safety hotspot prioritization using heatmaps",
+        "description": "Use heatmaps and by-camera views to identify where incidents concentrate and prioritize safety interventions in those areas.",
+        "evidence": [
+          {
+            "quote": "what this allows you to do is, based on this information here for the last about a month in this camera view, you can see through the control box view where are these events happening the most.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "00:20:06"
+          },
+          {
+            "quote": "that heat map is definitely a good one... it helps you, like you said, home in or focus on, from a priority perspective of just where is this happening the most?",
+            "speaker": "Remy Turner <fake.remy.turner@jettysteelsystems.com>",
+            "timestamp": "00:20:48"
+          },
+          {
+            "quote": "I think that would be beneficial, especially like in forklift-type scenarios.",
+            "speaker": "Devon Sterling <fake.devon.sterling@jettysteelsystems.com>",
+            "timestamp": "00:21:09"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Data overload management via Boards and filtered default views",
+        "description": "Reduce data overload by creating Boards filtered by incident, camera, or shift, set as user defaults, and surface weekly top opportunities with a few representative clips.",
+        "evidence": [
+          {
+            "quote": "there was just a load of stuff in there. It's like, well, what do we do with it, right?... make it more digestible?",
+            "speaker": "Remy Turner <fake.remy.turner@jettysteelsystems.com>",
+            "timestamp": "00:17:40"
+          },
+          {
+            "quote": "we have the ability to create a board based on incident types, cameras, and also shifts... We can make boards a default for anyone... When I log into Voxel, I land right on the board.",
+            "speaker": "Keegan York <fake.keegan.york@voxelai.com>",
+            "timestamp": "00:33:53"
+          },
+          {
+            "quote": "This is a collection of two to four opportunities... I have just five video examples here. So forget thousands. It's just the top five.",
+            "speaker": "Keegan York <fake.keegan.york@voxelai.com>",
+            "timestamp": "00:35:31"
+          }
+        ]
+      },
+      {
+        "label": "Weekly trend reporting and executive/corporate views",
+        "description": "Provide weekly and corporate-level incident views via filters, reports, and a summary dashboard to focus reviews across sites.",
+        "evidence": [
+          {
+            "quote": "is there a way to look at it from a, you more corporate view to see what we're seeing?",
+            "speaker": "Remy Turner <fake.remy.turner@jettysteelsystems.com>",
+            "timestamp": "00:17:24"
+          },
+          {
+            "quote": "if it could be almost like segmented by week to say what happened this past week... to say, this is the things that I can review with our team... almost like a weekly dashboard of some sort.",
+            "speaker": "Remy Turner <fake.remy.turner@jettysteelsystems.com>",
+            "timestamp": "00:29:11"
+          },
+          {
+            "quote": "we're continuing to improve that summary dashboard experience.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "00:22:33"
+          },
+          {
+            "quote": "reports... give you just very briefly a lot of information about, you know, camera-specific events, breaking down events by type, and then give you a little bar graph that, again, is clickable.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "00:22:08"
+          }
+        ]
+      },
+      {
+        "label": "Accountable coaching and training via Actions tied to incident clips",
+        "description": "Use the Actions feature to create, assign (single owner), and track tasks with due dates, email notifications, and linked evidence to drive follow-through.",
+        "evidence": [
+          {
+            "quote": "Do you have any like behavioral-based safety programs in place today that you used, you know, the Voxel clips for sort of servicing the examples for coaching opportunities?",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "00:14:13"
+          },
+          {
+            "quote": "But it could support it in that regard, you know, just doing like refresher and retraining type things when we identify instances that need it.",
+            "speaker": "Devon Sterling <fake.devon.sterling@jettysteelsystems.com>",
+            "timestamp": "00:14:39"
+          },
+          {
+            "quote": "we will also be surfacing a list of three suggested actions that are based on common interventions we've seen previously for this incident type... Coaching a certain person, training or retraining the team, and thirdly, something that may require, you know, a longer process",
+            "speaker": "Keegan York <fake.keegan.york@voxelai.com>",
+            "timestamp": "00:38:48"
+          }
+        ]
+      },
+      {
+        "label": "Distributed area ownership via Boards and tier process",
+        "description": "Establish area champions/owners with their own Boards and incorporate reviews into tiered daily/weekly management to avoid bottlenecks.",
+        "evidence": [
+          {
+            "quote": "we have to create almost like area champions in a way where they have their own dashboard of those areas that they're managing",
+            "speaker": "Remy Turner <fake.remy.turner@jettysteelsystems.com>",
+            "timestamp": "00:42:49"
+          },
+          {
+            "quote": "each of those areas have owners, right? So we could tie that into what you're saying, right? And they could be a daily topic, a weekly topic... incorporate right into our daily management.",
+            "speaker": "Parker Ramsey <fake.parker.ramsey@jettysteelsystems.com>",
+            "timestamp": "00:43:31"
+          },
+          {
+            "quote": "you could create as many as you want here, and then you could add a restrict access based on certain folks... they could each have their own board that they kind of land on and engage with and are responsible for.",
+            "speaker": "Keegan York <fake.keegan.york@voxelai.com>",
+            "timestamp": "00:44:28"
+          }
+        ]
+      },
+      {
+        "label": "Heatmap-based prioritization of reviews",
+        "description": "Use heatmaps and by-camera filters to focus reviews on hotspots without sifting through all incidents.",
+        "evidence": [
+          {
+            "quote": "what this allows you to do is, based on this information here for the last about a month in this camera view, you can see through the control box view where are these events happening the most.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "00:20:06"
+          },
+          {
+            "quote": "that heat map is definitely a good one... it helps you, like you said, home in or focus on, from a priority perspective of just where is this happening the most?",
+            "speaker": "Remy Turner <fake.remy.turner@jettysteelsystems.com>",
+            "timestamp": "00:20:48"
+          }
+        ]
+      },
+      {
+        "label": "Camera coverage planning and rescoping to address blind spots",
+        "description": "Evaluate existing camera placements, identify blind spots, and adjust coverage as needed to improve event capture.",
+        "evidence": [
+          {
+            "quote": "just evaluate where cameras are, right? And do we have any blind spots?",
+            "speaker": "Remy Turner <fake.remy.turner@jettysteelsystems.com>",
+            "timestamp": "00:48:36"
+          },
+          {
+            "quote": "The system works with the existing camera setup, so if there are blind spots, the site may need to add more coverage.",
+            "speaker": "Parker Ramsey <fake.parker.ramsey@jettysteelsystems.com>",
+            "timestamp": "00:49:14"
+          },
+          {
+            "quote": "for any existing cameras that you want to review, we can look at the current coverage together and discuss adjustments that would improve event capture.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "00:49:30"
+          },
+          {
+            "quote": "Expanding to broader camera coverage may require additional deployment planning as the installation grows.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "00:50:51"
+          }
+        ]
+      },
+      {
+        "label": "Standardize monitored incident types across sites",
+        "description": "Align on a common set of incident types to observe and collect across all a few sites for consistent data and roll-ups.",
+        "evidence": [
+          {
+            "quote": "we really haven't got together to, I guess, narrow the scope on what are the core risks that we want to focus on.",
+            "speaker": "Remy Turner <fake.remy.turner@jettysteelsystems.com>",
+            "timestamp": "00:10:06"
+          },
+          {
+            "quote": "get on the same page so that we understand what each site is at least collecting. Or, I should say, observing and then collecting information on those risks that we decided on.",
+            "speaker": "Remy Turner <fake.remy.turner@jettysteelsystems.com>",
+            "timestamp": "00:10:27"
+          }
+        ]
+      }
+    ]
+  }
+}

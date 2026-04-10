@@ -1,0 +1,104 @@
+{
+  "meeting_title": "Peak Ridge Works + Voxel - Intro Call",
+  "start_time": "2024-03-24T13:30:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Reduce safety incidents and claims using AI video analytics",
+        "description": "They discussed applying AI on existing cameras to identify safety issues and reduce claims, though current incident volume may not justify the investment today.",
+        "evidence": [
+          {
+            "quote": "Here's what we have seen in terms of customers reducing claims.",
+            "speaker": "Charlie Kingsley <fake.charlie.kingsley@voxelai.com>",
+            "timestamp": "[00:08:01]"
+          },
+          {
+            "quote": "And if we can reduce even a small number of claims on average, that can support the value case for a broader deployment model.",
+            "speaker": "Charlie Kingsley <fake.charlie.kingsley@voxelai.com>",
+            "timestamp": "[00:08:06]"
+          },
+          {
+            "quote": "Action, turning it into meaningful action, and really seeing that reduction in claims.",
+            "speaker": "Charlie Kingsley <fake.charlie.kingsley@voxelai.com>",
+            "timestamp": "[00:11:00]"
+          },
+          {
+            "quote": "Even the REDACTED yeah, it's not going to be, there's not enough claims that we have that would offset that cost, so, but I'll keep you guys in mind for sure, and maybe pricing goes down.",
+            "speaker": "Kieran Ashford <fake.kieran.ashford@peakridgeworks.com>",
+            "timestamp": "[00:09:01]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Automate camera monitoring to save staff time",
+        "description": "They want AI to surface relevant events so employees don’t have to continuously watch video feeds, reducing time wasted on manual monitoring.",
+        "evidence": [
+          {
+            "quote": "So instead of having, we don't have a, I'll call it dedicated person that looks at camera footage, but we have a lot of people that just stare at it and waste a bunch of time.",
+            "speaker": "Kieran Ashford <fake.kieran.ashford@peakridgeworks.com>",
+            "timestamp": "[00:02:17]"
+          },
+          {
+            "quote": "So I was proactively trying to, I guess, save some of that time.",
+            "speaker": "Kieran Ashford <fake.kieran.ashford@peakridgeworks.com>",
+            "timestamp": "[00:02:29]"
+          },
+          {
+            "quote": "Like, obviously, we have time savings, you know, from, like you said, you not having people watching cameras all the time.",
+            "speaker": "Charlie Kingsley <fake.charlie.kingsley@voxelai.com>",
+            "timestamp": "[00:07:47]"
+          }
+        ]
+      },
+      {
+        "label": "Integrate with existing camera infrastructure (no hardware replacement)",
+        "description": "They need a solution that overlays on their current camera system and infrastructure rather than replacing cameras or NVR.",
+        "evidence": [
+          {
+            "quote": "We have our own camera system and infrastructure now.",
+            "speaker": "Kieran Ashford <fake.kieran.ashford@peakridgeworks.com>",
+            "timestamp": "[00:05:24]"
+          },
+          {
+            "quote": "We're not looking to replace that.",
+            "speaker": "Kieran Ashford <fake.kieran.ashford@peakridgeworks.com>",
+            "timestamp": "[00:05:27]"
+          },
+          {
+            "quote": "So we integrate with your existing security cameras.",
+            "speaker": "Charlie Kingsley <fake.charlie.kingsley@voxelai.com>",
+            "timestamp": "[00:05:38]"
+          },
+          {
+            "quote": "So our software just overlays on top of your existing security cameras.",
+            "speaker": "Charlie Kingsley <fake.charlie.kingsley@voxelai.com>",
+            "timestamp": "[00:05:41]"
+          }
+        ]
+      },
+      {
+        "label": "Upgrade legacy NVR/VMS with AI capabilities",
+        "description": "They are exploring AI-enabled software because their current NVR/VMS is falling behind and lacks AI features.",
+        "evidence": [
+          {
+            "quote": "Be interested or looking, we've had the same in VR software for several years.",
+            "speaker": "Kieran Ashford <fake.kieran.ashford@peakridgeworks.com>",
+            "timestamp": "[00:02:00]"
+          },
+          {
+            "quote": "It works, but it seems to be falling behind.",
+            "speaker": "Kieran Ashford <fake.kieran.ashford@peakridgeworks.com>",
+            "timestamp": "[00:02:10]"
+          },
+          {
+            "quote": "They don't do any kind of AI or anything like that.",
+            "speaker": "Kieran Ashford <fake.kieran.ashford@peakridgeworks.com>",
+            "timestamp": "[00:02:14]"
+          }
+        ]
+      }
+    ]
+  }
+}

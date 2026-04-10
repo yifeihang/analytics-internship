@@ -1,0 +1,37 @@
+{
+  "meeting_title": "FW: Voxel: Camera Scoping ",
+  "start_time": "2024-07-17T23:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Pedestrian entry monitoring in restricted area",
+        "description": "Monitor for any pedestrians entering a no-pedestrian-access zone inside the barriers.",
+        "evidence": [
+          {
+            "quote": "Inside these barriers here.",
+            "speaker": "Perry Everett <fake.perry.everett@vectortransitlogistics.com>",
+            "timestamp": "[00:03:19]"
+          },
+          {
+            "quote": "As an area where, like, there's no pedestrian access there, so that would be the only thing you monitor, plus, I mean, maybe that fence that, that's Australian Border Force over that fence, so it's very unlikely somebody's going to come over that fence, if they're coming over that fence, they've probably got Border Force people chasing them, but I'd have to go back over there.",
+            "speaker": "Perry Everett <fake.perry.everett@vectortransitlogistics.com>",
+            "timestamp": "[00:05:01]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Perimeter fence intrusion/security monitoring",
+        "description": "Potentially monitor the fence line adjacent to the Australian Border Force area for any breaches or unauthorized access.",
+        "evidence": [
+          {
+            "quote": "plus, I mean, maybe that fence that, that's Australian Border Force over that fence, so it's very unlikely somebody's going to come over that fence, if they're coming over that fence, they've probably got Border Force people chasing them, but I'd have to go back over there.",
+            "speaker": "Perry Everett <fake.perry.everett@vectortransitlogistics.com>",
+            "timestamp": "[00:05:01]"
+          }
+        ]
+      }
+    ]
+  }
+}

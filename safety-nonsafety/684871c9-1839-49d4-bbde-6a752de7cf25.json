@@ -1,0 +1,250 @@
+{
+  "meeting_title": "Prime Signal Materials / Voxel Sync ",
+  "start_time": "2022-06-23T14:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "PIT/pedestrian interaction monitoring and reduction",
+        "description": "Use Voxel to identify and drive down high-risk forklift (hi-lo) and pedestrian interactions, and share learnings across sites.",
+        "evidence": [
+          {
+            "quote": "Yeah, so I think originally in Milltown Site, we were focused on high-loan pedestrian interaction, which this has been an awesome tool for us to really drive, to highlight it and drive those high-risk areas out.",
+            "speaker": "Blake Finch <fake.blake.finch@primesignalmaterials.com>",
+            "timestamp": "[00:05:31]"
+          },
+          {
+            "quote": "Since I'm the Director of Ops for our fiber business unit, I've shared quite a bit of the high-low pedestrian interaction stuff that Milltown Site has done to the other sites.",
+            "speaker": "Blake Finch <fake.blake.finch@primesignalmaterials.com>",
+            "timestamp": "[00:06:42]"
+          },
+          {
+            "quote": "And it's been very helpful at those other sites to reduce their high-low pedestrian interaction.",
+            "speaker": "Blake Finch <fake.blake.finch@primesignalmaterials.com>",
+            "timestamp": "[00:06:50]"
+          }
+        ]
+      },
+      {
+        "label": "Ergonomics monitoring in molding cells",
+        "description": "Detect and analyze ergonomic risks (e.g., overreaching, improper bends) within molding cells, using new camera views and data to guide mitigation.",
+        "evidence": [
+          {
+            "quote": "Now we're shifting our focus to ergonomic type stuff.",
+            "speaker": "Blake Finch <fake.blake.finch@primesignalmaterials.com>",
+            "timestamp": "[00:05:53]"
+          },
+          {
+            "quote": "So we tweaked one of our cameras last week and we're starting to get data inside of a molding cell.",
+            "speaker": "Blake Finch <fake.blake.finch@primesignalmaterials.com>",
+            "timestamp": "[00:05:53]"
+          },
+          {
+            "quote": "To see what type of ergonomic stuff we can pick up.",
+            "speaker": "Blake Finch <fake.blake.finch@primesignalmaterials.com>",
+            "timestamp": "[00:06:01]"
+          },
+          {
+            "quote": "we had quite a few ergo issues in our Milltown Site facility last year.",
+            "speaker": "Blake Finch <fake.blake.finch@primesignalmaterials.com>",
+            "timestamp": "[00:07:32]"
+          }
+        ]
+      },
+      {
+        "label": "Working at heights detection (potential enable)",
+        "description": "Consider enabling Voxel’s working-at-heights detection to address additional safety risks not currently monitored.",
+        "evidence": [
+          {
+            "quote": "And keep me honest here, Kendall, we have not enabled working at heights at Prime Signal Materials yet, have we?",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:08:19]"
+          },
+          {
+            "quote": "Correct. We do not have that live today. That's a newer use case, Blake, that we did not have when we first engaged with you all.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:08:25]"
+          }
+        ]
+      },
+      {
+        "label": "Safety monitoring for non-routine/PM tasks on fiber lines",
+        "description": "Address injuries occurring during non-routine or PM tasks on large fiber lines, which may require expanded camera coverage to capture risks.",
+        "evidence": [
+          {
+            "quote": "Yeah, right now we're working on non-routine tasks or non-standard tasks.",
+            "speaker": "Blake Finch <fake.blake.finch@primesignalmaterials.com>",
+            "timestamp": "[00:19:51]"
+          },
+          {
+            "quote": "We've had a few reported injuries this year on our fiber lines.",
+            "speaker": "Blake Finch <fake.blake.finch@primesignalmaterials.com>",
+            "timestamp": "[00:19:57]"
+          },
+          {
+            "quote": "That were from a, yeah, just call it line or team tasks, like PM-type activity that happens once a week, once a month, once every other week.",
+            "speaker": "Blake Finch <fake.blake.finch@primesignalmaterials.com>",
+            "timestamp": "[00:20:00]"
+          },
+          {
+            "quote": "I don't know that this platform necessarily helps us with that because I'd have to have eight to several cameras set up. My fiber lines are very big and long, and one camera's not going to capture everything.",
+            "speaker": "Blake Finch <fake.blake.finch@primesignalmaterials.com>",
+            "timestamp": "[00:21:00]"
+          },
+          {
+            "quote": "I would need probably seven or eight on that line.",
+            "speaker": "Blake Finch <fake.blake.finch@primesignalmaterials.com>",
+            "timestamp": "[00:21:18]"
+          }
+        ]
+      },
+      {
+        "label": "Action management and coaching workflow for safety remediation",
+        "description": "Use the Create Action workflow to assign, track, and complete safety coaching with email notifications and due dates, and measure impact via reporting markers.",
+        "evidence": [
+          {
+            "quote": "If you click on Create Action, this opens an entire feedback loop that can be tracked from start to finish.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:14:14]"
+          },
+          {
+            "quote": "Yep, that does go to email.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:17:03]"
+          },
+          {
+            "quote": "But specifically here, if you create an action, they'll be listed here under Assigned Actions.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:17:20]"
+          },
+          {
+            "quote": "When an action is completed, we put what's called a marker automatically in your system.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:18:48]"
+          }
+        ]
+      },
+      {
+        "label": "Heatmaps to pinpoint hazard hotspots",
+        "description": "Leverage heat maps to identify within-camera hotspots for incidents like overreaching, then review clips and target interventions.",
+        "evidence": [
+          {
+            "quote": "Second is our heat mapping tool.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:11:44]"
+          },
+          {
+            "quote": "Within a camera view, what are the hot spots where this is occurring within?",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:12:00]"
+          },
+          {
+            "quote": "there is an open heat map icon for the last about a month that will appear.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:13:08]"
+          },
+          {
+            "quote": "the shaded colored areas are going to show which particular areas within this view are the hotspots for this activity.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:13:15]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Executive reporting for expansion decision",
+        "description": "Compile Voxel-derived data and metrics into a presentation for executives to decide on expansion to other facilities.",
+        "evidence": [
+          {
+            "quote": "And I'm putting a presentation together for our executive team.",
+            "speaker": "Blake Finch <fake.blake.finch@primesignalmaterials.com>",
+            "timestamp": "[00:01:43]"
+          },
+          {
+            "quote": "To decide if we want to spread this to other plants or not.",
+            "speaker": "Blake Finch <fake.blake.finch@primesignalmaterials.com>",
+            "timestamp": "[00:01:49]"
+          },
+          {
+            "quote": "we do have the opportunity to hold what's called a more regular business review with customers. And typically what I bring to those calls is a deck where I review a lot of progress, opportunity areas, reporting from the dashboard, feature enhancements, which I think you could really just repurpose and share internally",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:19:19]"
+          }
+        ]
+      },
+      {
+        "label": "Action management and coaching workflow",
+        "description": "Adopt the Actions feature to assign, track, and report on remediation tasks with notifications and due dates as part of operational cadence.",
+        "evidence": [
+          {
+            "quote": "If you click on Create Action, this opens an entire feedback loop that can be tracked from start to finish.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:14:14]"
+          },
+          {
+            "quote": "Yep, that does go to email.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:17:03]"
+          },
+          {
+            "quote": "But specifically here, if you create an action, they'll be listed here under Assigned Actions.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:17:20]"
+          },
+          {
+            "quote": "When an action is completed, we put what's called a marker automatically in your system.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:18:48]"
+          }
+        ]
+      },
+      {
+        "label": "Heatmaps analytics to prioritize focus",
+        "description": "Use the platform’s heat maps and incident sorting to focus operational efforts on the highest-activity areas within views.",
+        "evidence": [
+          {
+            "quote": "Second is our heat mapping tool.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:11:44]"
+          },
+          {
+            "quote": "Within a camera view, what are the hot spots where this is occurring within?",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:12:00]"
+          },
+          {
+            "quote": "there is an open heat map icon for the last about a month that will appear.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:13:08]"
+          }
+        ]
+      },
+      {
+        "label": "Noise reduction via selective use case scoping",
+        "description": "Configure cameras with only the highest-priority detections (e.g., ergo only) and sort by severity to reduce alert noise across many cameras.",
+        "evidence": [
+          {
+            "quote": "And so my concern is that I start setting up all these cameras all over the place, then I get all this pinging and activity, and it's, how do you sort? What you need to go work on and prioritize it and all that little of stuff.",
+            "speaker": "Blake Finch <fake.blake.finch@primesignalmaterials.com>",
+            "timestamp": "[00:22:21]"
+          },
+          {
+            "quote": "we have customers that do this. Kendall and I have a customer that has multiple cameras, only one use case on those cameras. It's no stops for pits because that's their biggest problem and that's their biggest risk.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:22:47]"
+          },
+          {
+            "quote": "So to keep the noise down, there's absolutely the opportunity to address just ergonomics on those if that's where the reported injuries are happening.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:23:12]"
+          },
+          {
+            "quote": "And then you can do a sort on only high severity, especially in proper bends and overreaches ergonomics.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:23:15]"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "meeting_title": "Voxel - Innovation Talk Overview",
+  "start_time": "2023-10-17T14:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Forklift aisle and pedestrian walkway safety monitoring",
+        "description": "Monitor forklift behavior (e.g., stop compliance) and pedestrian walkway adherence in the main high-traffic aisle and incoming section to reduce collision risk.",
+        "evidence": [
+          {
+            "quote": "Yeah, so about that, Scott wants to take a pause and make sure that we get the other cameras installed to make sure we have that main forklift aisle covered.",
+            "speaker": "Keegan Hayes <fake.keegan.hayes@mesaflowlogistics.com>",
+            "timestamp": "[00:13:17]"
+          },
+          {
+            "quote": "That's where the forklift travels the most, as well as there's an incoming section from the second building that, well, we did see that one California stop in that area when we were looking over the videos.",
+            "speaker": "Keegan Hayes <fake.keegan.hayes@mesaflowlogistics.com>",
+            "timestamp": "[00:15:18]"
+          },
+          {
+            "quote": "As well as a pedestrian walkway that people also tend not to be within the actual walkway there.",
+            "speaker": "Keegan Hayes <fake.keegan.hayes@mesaflowlogistics.com>",
+            "timestamp": "[00:15:29]"
+          },
+          {
+            "quote": "But in any case, I think safety is one of the major directions that we're focus areas for our strategy as well.",
+            "speaker": "Logan Thayer <fake.logan.thayer@mesaflowlogistics.com>",
+            "timestamp": "[00:23:12]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Automated global regulation monitoring for customs services",
+        "description": "Automate integration and monitoring of incoming regulations and compliance updates from global sources for the customs services team.",
+        "evidence": [
+          {
+            "quote": "So we're looking at how to integrate and automate the regulation monitoring for all incoming or new regulations and compliance from every source in the world, you could say.",
+            "speaker": "Logan Thayer <fake.logan.thayer@mesaflowlogistics.com>",
+            "timestamp": "[00:01:41]"
+          }
+        ]
+      },
+      {
+        "label": "Conversational AI overlay for customs platform",
+        "description": "Develop a conversational AI interface on top of the existing customs services platform to improve user interaction.",
+        "evidence": [
+          {
+            "quote": "And then we're also looking at developing like almost like a conversational AI overlay.",
+            "speaker": "Logan Thayer <fake.logan.thayer@mesaflowlogistics.com>",
+            "timestamp": "[00:01:53]"
+          },
+          {
+            "quote": "to our existing platform that they have for custom services.",
+            "speaker": "Logan Thayer <fake.logan.thayer@mesaflowlogistics.com>",
+            "timestamp": "[00:02:00]"
+          }
+        ]
+      },
+      {
+        "label": "IoT devices for the general supply chain",
+        "description": "Explore IoT devices for the general supply chain across operations.",
+        "evidence": [
+          {
+            "quote": "We're looking at IoT devices for, yeah, for the general supply chain too.",
+            "speaker": "Logan Thayer <fake.logan.thayer@mesaflowlogistics.com>",
+            "timestamp": "[00:02:19]"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "meeting_title": "Ridge Stack Industrial/Voxel sync",
+  "start_time": "2024-03-26T15:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Powered industrial truck hazard detection",
+        "description": "Monitor for and accurately alert on safety risks involving powered industrial trucks during the pilot.",
+        "evidence": [
+          {
+            "quote": "What we're trying to figure out from our end is, and you've talked about pretty high level earlier, but the success metrics for a pilot, you called out a few like use cases around power industrial trucks, working at heights, things of that nature.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:05:00]"
+          },
+          {
+            "quote": "And then there's everything else is just how accurate are the alerts.",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:05:51]"
+          }
+        ]
+      },
+      {
+        "label": "Working at heights risk detection",
+        "description": "Detect and alert on working-at-heights safety risks, with alert accuracy as a key success metric.",
+        "evidence": [
+          {
+            "quote": "What we're trying to figure out from our end is, and you've talked about pretty high level earlier, but the success metrics for a pilot, you called out a few like use cases around power industrial trucks, working at heights, things of that nature.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:05:00]"
+          },
+          {
+            "quote": "How accurate are the alerts?",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:06:02]"
+          }
+        ]
+      },
+      {
+        "label": "Alerting and intervention on at-risk behaviors",
+        "description": "Provide alerts to local managers and supervisors so they can intervene and manage at-risk behaviors identified by the system.",
+        "evidence": [
+          {
+            "quote": "And then we're going to need the individuals that are going to intervene with the identification of the at-risk behavior.",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:07:04]"
+          },
+          {
+            "quote": "So it'll be a blend, and I will allow the general managers at the facilities to decide who needs to be in the system and receive the alerts in order for us to manage the at-risk behavior.",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:07:32]"
+          },
+          {
+            "quote": "Yeah, no, I'm looking forward to this next part of scoping it out and starting to manage the alerts.",
+            "speaker": "Alden Carver <fake.alden.carver@ridgestackindustrial.com>",
+            "timestamp": "[00:10:22]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": []
+  }
+}

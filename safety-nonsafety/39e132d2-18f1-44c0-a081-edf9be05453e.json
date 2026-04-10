@@ -1,0 +1,103 @@
+{
+  "meeting_title": "Voxel <> Anchor Grid Logistics Kickoff call",
+  "start_time": "2024-05-03T15:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Foremen-owned safety notifications with tuned thresholds",
+        "description": "Foremen will receive Voxel notifications so they can address safety issues on the floor promptly, with thresholds set conservatively at first to avoid excessive noise.",
+        "evidence": [
+          {
+            "quote": "We want them getting notifications so they can address stuff right then and there.",
+            "speaker": "Marin Madden <fake.marin.madden@anchorplantindustrial.com>",
+            "timestamp": "[00:06:24]"
+          },
+          {
+            "quote": "So we want them managing that.",
+            "speaker": "Marin Madden <fake.marin.madden@anchorplantindustrial.com>",
+            "timestamp": "[00:06:34]"
+          },
+          {
+            "quote": "we want to set parameters for alerts at fairly high levels to start out.",
+            "speaker": "Marin Madden <fake.marin.madden@anchorplantindustrial.com>",
+            "timestamp": "[00:07:40]"
+          },
+          {
+            "quote": "So they are not getting an overwhelming volume of messages every day.",
+            "speaker": "Marin Madden <fake.marin.madden@anchorplantindustrial.com>",
+            "timestamp": "[00:07:49]"
+          }
+        ]
+      },
+      {
+        "label": "Monitor and reduce forklift–pedestrian interactions (PIT-to-person)",
+        "description": "Use Voxel to track interactions between pedestrians and forklifts and set reduction goals tied to positive incentives.",
+        "evidence": [
+          {
+            "quote": "Like, hey, in the first month we saw, you know, we saw 343 interactions between a pedestrian and a fork truck.",
+            "speaker": "Marin Madden <fake.marin.madden@anchorplantindustrial.com>",
+            "timestamp": "[00:23:45]"
+          },
+          {
+            "quote": "If we can, you know, if we can go the next week without, with less than 10 interactions.",
+            "speaker": "Marin Madden <fake.marin.madden@anchorplantindustrial.com>",
+            "timestamp": "[00:23:55]"
+          },
+          {
+            "quote": "For fourth truck, I'll buy you guys lunch.",
+            "speaker": "Marin Madden <fake.marin.madden@anchorplantindustrial.com>",
+            "timestamp": "[00:24:00]"
+          }
+        ]
+      },
+      {
+        "label": "Safety reporting, benchmarking, and trend-driven interventions",
+        "description": "Leverage Voxel’s reporting to benchmark safety metrics and address emerging trends with crews.",
+        "evidence": [
+          {
+            "quote": "We want to be able to monitor different reporting items or benchmarking and things like that.",
+            "speaker": "Marin Madden <fake.marin.madden@anchorplantindustrial.com>",
+            "timestamp": "[00:06:40]"
+          },
+          {
+            "quote": "And then obviously, if there's trends, we'll address those with the crew.",
+            "speaker": "Marin Madden <fake.marin.madden@anchorplantindustrial.com>",
+            "timestamp": "[00:06:46]"
+          },
+          {
+            "quote": "So the first about a month after onboarding, you know, we're going to be collecting a ton of data.",
+            "speaker": "Rowan Rowe <fake.rowan.rowe@voxelai.com>",
+            "timestamp": "[00:22:24]"
+          }
+        ]
+      },
+      {
+        "label": "Real-time shop displays and gamified safety goals",
+        "description": "Install monitors on the shop floor to share Voxel safety information in real time and use gamified goals and rewards to positively reinforce safe behavior.",
+        "evidence": [
+          {
+            "quote": "I'd eventually like to start installing some monitors around the shop where we're sharing that information in real time, too.",
+            "speaker": "Marin Madden <fake.marin.madden@anchorplantindustrial.com>",
+            "timestamp": "[00:25:35]"
+          },
+          {
+            "quote": "we've talked in the past about gamifying things and things like that.",
+            "speaker": "Marin Madden <fake.marin.madden@anchorplantindustrial.com>",
+            "timestamp": "[00:24:16]"
+          },
+          {
+            "quote": "Here's a goal we want to set.",
+            "speaker": "Rowan Rowe <fake.rowan.rowe@voxelai.com>",
+            "timestamp": "[00:25:26]"
+          },
+          {
+            "quote": "And if we meet that, like, here's the reward.",
+            "speaker": "Rowan Rowe <fake.rowan.rowe@voxelai.com>",
+            "timestamp": "[00:25:27]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": []
+  }
+}

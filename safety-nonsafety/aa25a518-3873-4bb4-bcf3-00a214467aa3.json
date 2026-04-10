@@ -1,0 +1,159 @@
+{
+  "meeting_title": "Trail Works Operations / Voxel Sync",
+  "start_time": "2024-02-29T18:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Forklift and pedestrian proximity monitoring (PIT-to-person and PIT-to-PIT)",
+        "description": "Monitor and reduce PIT-to-pedestrian and PIT-to-PIT interactions in small mills with heavy fork‑truck traffic to lower collision risk.",
+        "evidence": [
+          {
+            "quote": "there are a couple of areas that, you know, we're looking to develop with him, specifically the pit-to-person proximity of this feeding. And that's something you guys do have enabled as use cases.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:10:32]"
+          },
+          {
+            "quote": "The other is pit-to-pit and pit-to-pedestrian is something that, because of our smaller-sized mills, we have a lot of fork-truck traffic for the size of what we are, and that doesn't keep me up at night, I guess, but I feel we're vulnerable in that respect.",
+            "speaker": "Robin Oakley <fake.robin.oakley@trailworksoperations.com>",
+            "timestamp": "[00:12:10]"
+          },
+          {
+            "quote": "And person-to-pit proximity within the past about a month has dropped by 20-35%.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:12:33]"
+          }
+        ]
+      },
+      {
+        "label": "Ergonomic risk monitoring and mitigation in manual operations",
+        "description": "Detect and address ergonomic issues from manual tasks like roll wrapping, pulling broke, and lifting heavy bags, using insights to implement controls (e.g., lift tables) to reduce strains.",
+        "evidence": [
+          {
+            "quote": "Well, ergonomics for sure.",
+            "speaker": "Robin Oakley <fake.robin.oakley@trailworksoperations.com>",
+            "timestamp": "[00:11:10]"
+          },
+          {
+            "quote": "I we do a lot more manual stuff because we're a smaller scale mill where we do a lot of manual roll wrapping and pulling broke, which we'll call pulling broke, which leads to, I'll call it ergonomic issues, strains, and things like that.",
+            "speaker": "Robin Oakley <fake.robin.oakley@trailworksoperations.com>",
+            "timestamp": "[00:06:13]"
+          },
+          {
+            "quote": "So we've really tried to use Voxel to improve our safety performance.",
+            "speaker": "Robin Oakley <fake.robin.oakley@trailworksoperations.com>",
+            "timestamp": "[00:06:32]"
+          },
+          {
+            "quote": "And we did do some immediate improvements right away with some pallet lifts and stuff.",
+            "speaker": "Robin Oakley <fake.robin.oakley@trailworksoperations.com>",
+            "timestamp": "[00:11:54]"
+          },
+          {
+            "quote": "People were lifting 50.",
+            "speaker": "Robin Oakley <fake.robin.oakley@trailworksoperations.com>",
+            "timestamp": "[00:11:59]"
+          },
+          {
+            "quote": "a heavy load or a heavy load bags, and we ended up getting some lift tables to put it up at height so you're not bending.",
+            "speaker": "Robin Oakley <fake.robin.oakley@trailworksoperations.com>",
+            "timestamp": "[00:12:00]"
+          },
+          {
+            "quote": "We saw some immediate benefit, but I think that that's diminished.",
+            "speaker": "Robin Oakley <fake.robin.oakley@trailworksoperations.com>",
+            "timestamp": "[00:12:06]"
+          }
+        ]
+      },
+      {
+        "label": "Prioritize actionable ergonomic alerts and reduce noise",
+        "description": "Filter and condense high volumes of ergonomic detections to focus teams on the few events they can act on, avoiding overwhelm and targeting fixable issues.",
+        "evidence": [
+          {
+            "quote": "So I'll get like, well, it's roughly probably 150 videos a day, right?",
+            "speaker": "Robin Oakley <fake.robin.oakley@trailworksoperations.com>",
+            "timestamp": "[00:11:30]"
+          },
+          {
+            "quote": "And say if 80 of them are ergo, probably one or two or something that I can do something about, right?",
+            "speaker": "Robin Oakley <fake.robin.oakley@trailworksoperations.com>",
+            "timestamp": "[00:11:35]"
+          },
+          {
+            "quote": "There may be other things I can do something about, but there's other limitations, whether I'd have to invest capital or for something that I know I would not be able to do.",
+            "speaker": "Robin Oakley <fake.robin.oakley@trailworksoperations.com>",
+            "timestamp": "[00:11:42]"
+          },
+          {
+            "quote": "So the ergo has been challenging for me.",
+            "speaker": "Robin Oakley <fake.robin.oakley@trailworksoperations.com>",
+            "timestamp": "[00:11:52]"
+          },
+          {
+            "quote": "Because otherwise, you know, we give you a large data set to work with, right?",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:15:12]"
+          },
+          {
+            "quote": "But at the same time, some customers will say, well, I need a very condensed view.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:15:18]"
+          },
+          {
+            "quote": "I'm finding it to be incredibly useful from a high level, just show me some hotspots and get me there quickly.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:14:16]"
+          },
+          {
+            "quote": "that was a little bit of the purpose behind the heat maps, just to show concentrated areas of repeated risk and activity.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:15:26]"
+          }
+        ]
+      },
+      {
+        "label": "Use Voxel video for safety coaching and union collaboration",
+        "description": "Leverage Voxel video clips in quarterly roundtables to coach employees and drive behavior changes, with union support and participation.",
+        "evidence": [
+          {
+            "quote": "I have quarterly roundtables, and I take snippets of the video from Voxel, show it to the teams.",
+            "speaker": "Robin Oakley <fake.robin.oakley@trailworksoperations.com>",
+            "timestamp": "[00:06:40]"
+          },
+          {
+            "quote": "You know, I have my mill managers present with, you know, the top three intriguing things or things that they caught either on Voxel or on other cameras that we've pulled.",
+            "speaker": "Robin Oakley <fake.robin.oakley@trailworksoperations.com>",
+            "timestamp": "[00:06:45]"
+          },
+          {
+            "quote": "We were able to integrate this with the union, too.",
+            "speaker": "Robin Oakley <fake.robin.oakley@trailworksoperations.com>",
+            "timestamp": "[00:06:54]"
+          },
+          {
+            "quote": "They've been very supportive.",
+            "speaker": "Robin Oakley <fake.robin.oakley@trailworksoperations.com>",
+            "timestamp": "[00:06:57]"
+          },
+          {
+            "quote": "We show the people, like, here's the video, right? What did you do wrong? How can we improve it? You know, if you've any ideas, but you can't do it like this anymore.",
+            "speaker": "Robin Oakley <fake.robin.oakley@trailworksoperations.com>",
+            "timestamp": "[00:07:06]"
+          }
+        ]
+      },
+      {
+        "label": "Re-scope cameras to monitor the right risks and repurpose low-yield cameras",
+        "description": "Re-scope and repurpose cameras to check for different safety issues in different locations, especially at Lionsdale where current setup yields few detections, to gain better visibility.",
+        "evidence": [
+          {
+            "quote": "we were wanting to re-scope a few of the cameras to check for different things in different locations and maybe repurpose another camera because our Lionsdale mill doesn't get a lot of hits on Voxel, and we're trying to figure out a better way to see.",
+            "speaker": "Robin Oakley <fake.robin.oakley@trailworksoperations.com>",
+            "timestamp": "[00:01:01]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": []
+  }
+}

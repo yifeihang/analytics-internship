@@ -1,0 +1,189 @@
+{
+  "meeting_title": "Jordan/Riley - Introduction",
+  "start_time": "2023-01-05T19:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "In-dashboard risk heat mapping and traffic management planning",
+        "description": "Visualize safety risk hotspots on camera views.",
+        "evidence": [
+          {
+            "quote": "Launched in-dashboard heat mapping.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:37:01]"
+          },
+          {
+            "quote": "you can go to a camera view and you can view like a radar for risk for that camera view.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:37:04]"
+          },
+          {
+            "quote": "Like, you know, you can do that for pretty much any of the use cases.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:37:25]"
+          },
+          {
+            "quote": "It also works really well to support like traffic management.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:37:33]"
+          },
+          {
+            "quote": "just show me where all my powered industrial truck and pedestrian risk is, great. Now I know where I got to put up stop signs or where I got to change that traffic flow.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:37:38]"
+          }
+        ]
+      },
+      {
+        "label": "Automated safety actions and insights for incident follow-up",
+        "description": "Provide self-generated insights on safety trends and auto-suggest coaching actions when assigning incidents to drive consistent follow-up.",
+        "evidence": [
+          {
+            "quote": "we just launched Actions & Insights.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:37:50]"
+          },
+          {
+            "quote": "self-generated insights around the data to help, you know, to focus teams on what's where the opportunities are, like what's trending positively, what's trending negatively.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:38:01]"
+          },
+          {
+            "quote": "no longer are we just assigning an incident to an individual. We're assigning an incident to an individual with some, you know, pre-filled text.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:38:10]"
+          },
+          {
+            "quote": "here's three suggested actions based on this risk profile. You can either pick one of those three or you can, you know, do something custom on your own.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:38:34]"
+          }
+        ]
+      },
+      {
+        "label": "Working at heights hazard detection",
+        "description": "Detect and track working at heights events to reduce fall risk.",
+        "evidence": [
+          {
+            "quote": "we've, let's just launched our working at Heights use case. That was, that's, that, that was a big success.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:38:46]"
+          }
+        ]
+      },
+      {
+        "label": "Driver exoneration using video evidence after a crash",
+        "description": "Use in-vehicle video to exonerate drivers at the scene of a collision and confirm fault lies with the other party.",
+        "evidence": [
+          {
+            "quote": "They called us and they're like, hey, we need to get some vintage.",
+            "speaker": "Jordan Merritt",
+            "timestamp": "[00:18:38]"
+          },
+          {
+            "quote": "We're so happy that we have Beacon Ridge Telematics. They was actually able to exonerate their driver right on the scene.",
+            "speaker": "Jordan Merritt",
+            "timestamp": "[00:18:42]"
+          },
+          {
+            "quote": "It had nothing to do with the driver. was the other driver that had a head-on collision with them.",
+            "speaker": "Jordan Merritt",
+            "timestamp": "[00:18:47]"
+          }
+        ]
+      },
+      {
+        "label": "Export safety data to external EHS/BI systems",
+        "description": "Push safety data out via CSV for use in external reporting or import into other safety management systems when direct APIs are not available.",
+        "evidence": [
+          {
+            "quote": "Yeah, so from a turnkey API with some other management system or external platform like that.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:35:06]"
+          },
+          {
+            "quote": "The way that we're doing that right now is through CSV pushes of data out to their platforms, and then they are either using an external reporting layer or importing it into some other system.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:35:19]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Food hygiene PPE compliance (hair nets and beard nets)",
+        "description": "Monitor compliance with hair net and beard net requirements for food processing operations.",
+        "evidence": [
+          {
+            "quote": "We just did like hair nets and beard nets for some of our food, food processors.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:38:52]"
+          }
+        ]
+      },
+      {
+        "label": "Driver exoneration using video evidence after a crash",
+        "description": "Use in-vehicle video to exonerate drivers at the scene of a collision and reduce claims exposure.",
+        "evidence": [
+          {
+            "quote": "They called us and they're like, hey, we need to get some vintage.",
+            "speaker": "Jordan Merritt",
+            "timestamp": "[00:18:38]"
+          },
+          {
+            "quote": "We're so happy that we have Beacon Ridge Telematics. They was actually able to exonerate their driver right on the scene.",
+            "speaker": "Jordan Merritt",
+            "timestamp": "[00:18:42]"
+          },
+          {
+            "quote": "It had nothing to do with the driver. was the other driver that had a head-on collision with them.",
+            "speaker": "Jordan Merritt",
+            "timestamp": "[00:18:47]"
+          }
+        ]
+      },
+      {
+        "label": "Export operational data to external BI/EHS systems",
+        "description": "Send data via CSV for analysis in an external reporting layer or import into third-party systems when direct integrations are not in place.",
+        "evidence": [
+          {
+            "quote": "Not at this point.",
+            "speaker": "Jordan Merritt",
+            "timestamp": "[00:35:16]"
+          },
+          {
+            "quote": "It's still very exploratory.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:35:17]"
+          },
+          {
+            "quote": "The way that we're doing that right now is through CSV pushes of data out to their platforms, and then they are either using an external reporting layer or importing it into some other system.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:35:19]"
+          }
+        ]
+      },
+      {
+        "label": "Warehouse productivity via wearable device optimization",
+        "description": "Improve picker throughput and reduce downtime by deploying Bluetooth wearables with hot-swappable battery packs.",
+        "evidence": [
+          {
+            "quote": "it was all Bluetooth compatible with an extra battery pack.",
+            "speaker": "Jordan Merritt",
+            "timestamp": "[00:07:15]"
+          },
+          {
+            "quote": "So you would just take out that little battery, replace it super, I think it would last like maybe like four to several hours.",
+            "speaker": "Jordan Merritt",
+            "timestamp": "[00:07:26]"
+          },
+          {
+            "quote": "So swapping a half of a battery kind of saved a lot of time, especially with them going back and forth and like, you know, little check stations that we have within the warehouses.",
+            "speaker": "Jordan Merritt",
+            "timestamp": "[00:07:34]"
+          }
+        ]
+      }
+    ]
+  }
+}

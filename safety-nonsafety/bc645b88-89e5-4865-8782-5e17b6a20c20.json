@@ -1,0 +1,182 @@
+{
+  "meeting_title": "Introduction to Voxel: Pioneer Peak Manufacturing",
+  "start_time": "2024-04-26T19:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Ergonomics risk detection and coaching",
+        "description": "Identify improper bending and repetitive-motion risks on production lines and trigger actions (coaching/retraining) to reduce strains, sprains, and shoulder injuries.",
+        "evidence": [
+          {
+            "quote": "probably the main hazard is probably ergonomic strains, back sprains.",
+            "speaker": "Lee Dempsey <fake.lee.dempsey@pioneerpeakmanufacturing.com>",
+            "timestamp": "[00:03:13]"
+          },
+          {
+            "quote": "We have a lot of shoulder injuries.",
+            "speaker": "Lee Dempsey <fake.lee.dempsey@pioneerpeakmanufacturing.com>",
+            "timestamp": "[00:03:25]"
+          },
+          {
+            "quote": "That's where I thought it was really cool with the Voxel program, being able to identify the repetitive injuries or just basically highlighting and noticing what could potentially lead to an injury.",
+            "speaker": "Lee Dempsey <fake.lee.dempsey@pioneerpeakmanufacturing.com>",
+            "timestamp": "[00:03:28]"
+          },
+          {
+            "quote": "here's a good example of an improper bend.",
+            "speaker": "Skyler Whitman <fake.skyler.whitman@voxelai.com>",
+            "timestamp": "[00:12:33]"
+          },
+          {
+            "quote": "That's immediately flagged.",
+            "speaker": "Skyler Whitman <fake.skyler.whitman@voxelai.com>",
+            "timestamp": "[00:12:53]"
+          },
+          {
+            "quote": "So you could say, hey, you know, let's retrain the team.",
+            "speaker": "Skyler Whitman <fake.skyler.whitman@voxelai.com>",
+            "timestamp": "[00:13:10]"
+          }
+        ]
+      },
+      {
+        "label": "Forklift safety monitoring (no-stops, stacking, collision prevention)",
+        "description": "Monitor forklift behaviors such as stopping at intersections, unsafe double-stacking, and near-collisions in shipping/receiving and loading areas.",
+        "evidence": [
+          {
+            "quote": "I think it's all forklift activities.",
+            "speaker": "Lee Dempsey <fake.lee.dempsey@pioneerpeakmanufacturing.com>",
+            "timestamp": "[00:08:17]"
+          },
+          {
+            "quote": "So they're loading these trucks with forklifts and just stacking pallets on either a flatbed or a big box truck.",
+            "speaker": "Lee Dempsey <fake.lee.dempsey@pioneerpeakmanufacturing.com>",
+            "timestamp": "[00:08:19]"
+          },
+          {
+            "quote": "we had a no-stop at an intersection, and because of that no-stop, um- Bang.",
+            "speaker": "Skyler Whitman <fake.skyler.whitman@voxelai.com>",
+            "timestamp": "[00:17:31]"
+          },
+          {
+            "quote": "And then he's double-stacked.",
+            "speaker": "Skyler Whitman <fake.skyler.whitman@voxelai.com>",
+            "timestamp": "[00:17:41]"
+          },
+          {
+            "quote": "They almost collided, and, you know, this may or may not have been something that would have been reported.",
+            "speaker": "Skyler Whitman <fake.skyler.whitman@voxelai.com>",
+            "timestamp": "[00:17:49]"
+          }
+        ]
+      },
+      {
+        "label": "Automated surfacing of near-misses to address underreporting",
+        "description": "Use video analytics to capture and surface near-miss events that are currently missed due to reliance on manual reporting.",
+        "evidence": [
+          {
+            "quote": "we are tracking all these incidents, near misses, observations, security events,",
+            "speaker": "Lee Dempsey <fake.lee.dempsey@pioneerpeakmanufacturing.com>",
+            "timestamp": "[00:05:00]"
+          },
+          {
+            "quote": "Yeah, that would just, it's all based on someone reporting it.",
+            "speaker": "Lee Dempsey <fake.lee.dempsey@pioneerpeakmanufacturing.com>",
+            "timestamp": "[00:05:59]"
+          },
+          {
+            "quote": "But yeah, that it is all dependent on someone actually making that submission.",
+            "speaker": "Lee Dempsey <fake.lee.dempsey@pioneerpeakmanufacturing.com>",
+            "timestamp": "[00:06:20]"
+          },
+          {
+            "quote": "I'm sure there's tons of near-misses that go unreported every single day.",
+            "speaker": "Lee Dempsey <fake.lee.dempsey@pioneerpeakmanufacturing.com>",
+            "timestamp": "[00:06:39]"
+          },
+          {
+            "quote": "They almost collided, and, you know, this may or may not have been something that would have been reported.",
+            "speaker": "Skyler Whitman <fake.skyler.whitman@voxelai.com>",
+            "timestamp": "[00:17:49]"
+          }
+        ]
+      },
+      {
+        "label": "Safety analytics and training effectiveness tracking",
+        "description": "Leverage dashboards and trend analytics to monitor safety behaviors over time and evaluate whether trainings (e.g., on proper bending) are effective.",
+        "evidence": [
+          {
+            "quote": "So this is just a dashboard for you to get a really good pulse check of where all of your sites are,",
+            "speaker": "Skyler Whitman <fake.skyler.whitman@voxelai.com>",
+            "timestamp": "[00:12:23]"
+          },
+          {
+            "quote": "you can actually look here, and you can see some of these trends, so on a, you know, daily basis, weekly basis, you could actually look at.",
+            "speaker": "Skyler Whitman <fake.skyler.whitman@voxelai.com>",
+            "timestamp": "[00:15:00]"
+          },
+          {
+            "quote": "Also, if you do have a training and you want to see after the training, was it effective?",
+            "speaker": "Skyler Whitman <fake.skyler.whitman@voxelai.com>",
+            "timestamp": "[00:15:13]"
+          },
+          {
+            "quote": "You can also track it through that, which is kind of cool.",
+            "speaker": "Skyler Whitman <fake.skyler.whitman@voxelai.com>",
+            "timestamp": "[00:15:23]"
+          }
+        ]
+      },
+      {
+        "label": "Suspended loads and dock door safety monitoring",
+        "description": "Monitor suspended loads and loading operations at dock doors during truck loading to reduce risk.",
+        "evidence": [
+          {
+            "quote": "Suspended loads, that's another one, so it could be interesting, like, you know, at your dock doors, when these products are actually getting loaded onto the trucks, that could be another one, you know, to monitor.",
+            "speaker": "Skyler Whitman <fake.skyler.whitman@voxelai.com>",
+            "timestamp": "[00:19:28]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Security monitoring (license plate recognition and restricted-hours alerts)",
+        "description": "Use license plate recognition to flag former employees returning and send alerts for presence in restricted areas during specified hours (e.g., midnight to 8 a.m.).",
+        "evidence": [
+          {
+            "quote": "You know, let's say that, you know, you have an employee, they're no longer, you with the company, we can also do recognition on license plates, so that, you know, immediately you're getting a ping, hey, you know, this license plate is coming back into the facility, or in the proximity, we can also do, you know, hey, we don't want anyone in this area from, you know, midnight to till 8 a.m., and we can do notifications if that happens.",
+            "speaker": "Skyler Whitman <fake.skyler.whitman@voxelai.com>",
+            "timestamp": "[00:22:00]"
+          },
+          {
+            "quote": "So, there's a lot of use cases for security, so well.",
+            "speaker": "Skyler Whitman <fake.skyler.whitman@voxelai.com>",
+            "timestamp": "[00:22:31]"
+          }
+        ]
+      },
+      {
+        "label": "Operational efficiency identification",
+        "description": "Analyze video clips to uncover better ways of executing tasks, saving time and enabling workforce reallocation.",
+        "evidence": [
+          {
+            "quote": "Like, we are helping a lot of customers uncover operational efficiencies.",
+            "speaker": "Skyler Whitman <fake.skyler.whitman@voxelai.com>",
+            "timestamp": "[00:20:09]"
+          },
+          {
+            "quote": "You know, being able to kind of look at some of these clips and say, wow, there's a better way for us to be doing this.",
+            "speaker": "Skyler Whitman <fake.skyler.whitman@voxelai.com>",
+            "timestamp": "[00:20:15]"
+          },
+          {
+            "quote": "You know, we actually could save time and we could allocate, you know, these folks time to kind of looking at this or maybe doing it this way.",
+            "speaker": "Skyler Whitman <fake.skyler.whitman@voxelai.com>",
+            "timestamp": "[00:20:20]"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "meeting_title": "Mason Line Supply / Voxel introduction",
+  "start_time": "2022-03-06T20:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Forklift speed and intersection stop compliance",
+        "description": "Monitor forklift speeding and enforce full stops at aisle ends to reduce near-misses and collisions inside the warehouse.",
+        "evidence": [
+          {
+            "quote": "We don't have speed-limited forklifts. So things can move pretty quickly. And if people aren't paying attention, you know, things could go wrong.",
+            "speaker": "Ellis Emery <fake.ellis.emery@masonlinesupply.com>",
+            "timestamp": "[00:09:31]"
+          },
+          {
+            "quote": "The only incident I'm aware of was a collision in the warehouse a few months ago, right, Emerson?",
+            "speaker": "Ellis Emery <fake.ellis.emery@masonlinesupply.com>",
+            "timestamp": "[00:18:40]"
+          },
+          {
+            "quote": "Two, um, machines.",
+            "speaker": "Emerson Keaton <fake.emerson.keaton@masonlinesupply.com>",
+            "timestamp": "[00:18:58]"
+          },
+          {
+            "quote": "Some of the vehicle safety examples here, we're actually just getting ready to launch speeding in Mississauga, so I don't have examples there.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:33:06]"
+          },
+          {
+            "quote": "We can take a look at a no-stop at intersection as an example here... The rule is you have to stop at the end. This individual clearly does not stop at that end.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:33:19]"
+          }
+        ]
+      },
+      {
+        "label": "PIT and pedestrian proximity/near‑miss detection",
+        "description": "Detect and surface near-misses where forklifts get too close to each other or to pedestrians so supervisors can proactively coach and prevent incidents.",
+        "evidence": [
+          {
+            "quote": "I was very impressed with the near misses that we we we had. That was something like, you know, the machines were which were going too close and if the people were too close to the machines.",
+            "speaker": "Emerson Keaton <fake.emerson.keaton@masonlinesupply.com>",
+            "timestamp": "[00:19:31]"
+          },
+          {
+            "quote": "Vehicle safety, we'll drill into that quite a bit. But that is, Ellis, to your point, the pit-to-pit interaction, the pit-to-pedestrian interaction...",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:28:25]"
+          }
+        ]
+      },
+      {
+        "label": "Ergonomics risk detection (improper bends and overreach)",
+        "description": "Identify improper lifts and overreach during manual transload work to reduce ergonomic risk and unsafe behaviors (e.g., stepping on raised forks).",
+        "evidence": [
+          {
+            "quote": "So ergonomics, whether that's an improper bend or an overreach, we use the rapid entire body assessment to measure and to alert on any improper or ergonomic issues...",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:28:05]"
+          },
+          {
+            "quote": "You see the exoskeleton on this teammate as he exits the bay... we measured and we alerted on the improper bend of that individual from an ergonomics specific.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:29:09]"
+          },
+          {
+            "quote": "Individual that's exiting his fork and actually stepping up on the raised forks in an effort to straighten the pallet... it's flagged by the overreach because we know that he's up there trying to straighten that pallet.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:29:58]"
+          }
+        ]
+      },
+      {
+        "label": "PPE compliance monitoring",
+        "description": "Ensure workers wear required PPE in the right areas (e.g., safety vests, bump caps, gloves) and enable coaching when violations occur.",
+        "evidence": [
+          {
+            "quote": "PPE, straightforward enough. Are you wearing the proper PPE in the proper place at the proper time?",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:28:21]"
+          },
+          {
+            "quote": "Safety Vest here, we see a teammate working in an area... it's not just a video platform. It's a platform that allows you to collaborate and communicate and coach and assign...",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:32:28]"
+          },
+          {
+            "quote": "PPE is safety vest certainly, but it can be Pump caps, it can be safety gloves, and it can be other types of PPE as well.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:33:01]"
+          }
+        ]
+      },
+      {
+        "label": "Egress and safety equipment obstruction detection",
+        "description": "Detect blocked fire extinguishers and obstructed exits, enforce no‑pedestrian zones, and surface trip hazards to prevent violations and injuries.",
+        "evidence": [
+          {
+            "quote": "And then area controls, whether that's no pedestrian zones, obstructions of exits and doorways...",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:28:42]"
+          },
+          {
+            "quote": "Federal Safety Bureau is not going to let you put a garbage can in front of a fire extinguisher.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:35:45]"
+          },
+          {
+            "quote": "there is a comment over here on the side of walking over pallets is a trip hazard.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:29:40]"
+          }
+        ]
+      },
+      {
+        "label": "Door open/propped duration monitoring",
+        "description": "Alert when warehouse doors are left open or propped to mitigate risk, including unauthorized entry exposure and related safety concerns.",
+        "evidence": [
+          {
+            "quote": "This one's not just safety, but it's kind of a security element as well. When we see that the door is open for a certain amount of time, let's alert on that. Let's not leave the warehouse open and susceptible to strangers coming into the warehouse.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:36:28]"
+          },
+          {
+            "quote": "Boom. That's why your door's propped open. He just put a stick in the door.",
+            "speaker": "Parker Donovan <fake.parker.donovan@voxelai.com>",
+            "timestamp": "[00:40:49]"
+          }
+        ]
+      },
+      {
+        "label": "Yard gate driver behavior logging for carrier compliance",
+        "description": "Log rushing/run‑through incidents at the facility gate that cause damage so CEVA can notify trucking companies to follow yard rules and improve safety at entry points.",
+        "evidence": [
+          {
+            "quote": "we do have drivers that tend to run through here and try to rush it, which has caused damage to it.",
+            "speaker": "Ellis Emery <fake.ellis.emery@masonlinesupply.com>",
+            "timestamp": "[00:48:48]"
+          },
+          {
+            "quote": "I mean, that might be an area where it wouldn't be bad to have that logged.",
+            "speaker": "Ellis Emery <fake.ellis.emery@masonlinesupply.com>",
+            "timestamp": "[00:48:59]"
+          },
+          {
+            "quote": "So we want to identify these trucking companies and notify them, hey, you know, you got to abide by the rule of the art.",
+            "speaker": "Ellis Emery <fake.ellis.emery@masonlinesupply.com>",
+            "timestamp": "[00:49:01]"
+          }
+        ]
+      },
+      {
+        "label": "Safety incident triage and supervisor assignment workflow",
+        "description": "Use Voxel to map incidents, assign them to supervisors, and run targeted pre‑shift coaching based on trends and heat maps.",
+        "evidence": [
+          {
+            "quote": "It is a good tool for, especially. For Health & Safety type things, even just giving you visibility, being able to map stuff out, being able to assign things to supervisors and stuff for actioning, just so far been a very helpful tool.",
+            "speaker": "Blake Sinclair <fake.blake.sinclair@masonlinesupply.com>",
+            "timestamp": "[00:05:58]"
+          },
+          {
+            "quote": "it's a platform that allows you to collaborate and communicate and coach and assign and get the team involved...",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:32:41]"
+          },
+          {
+            "quote": "Now this becomes a workflow. Now I've got triage. I've got collaboration. I've got coaching. I've got training going on in the plan.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:45:53]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Door open/propped duration monitoring",
+        "description": "Alert when warehouse doors are left open or propped to reduce security exposure from unauthorized entry.",
+        "evidence": [
+          {
+            "quote": "This one's not just safety, but it's kind of a security element as well. When we see that the door is open for a certain amount of time, let's alert on that. Let's not leave the warehouse open and susceptible to strangers coming into the warehouse.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:36:28]"
+          },
+          {
+            "quote": "Boom. That's why your door's propped open. He just put a stick in the door.",
+            "speaker": "Parker Donovan <fake.parker.donovan@voxelai.com>",
+            "timestamp": "[00:40:49]"
+          }
+        ]
+      },
+      {
+        "label": "Yard gate driver behavior logging for carrier compliance",
+        "description": "Log and identify trucking companies whose drivers rush the gate and cause damage so CEVA can enforce yard rules with vendors.",
+        "evidence": [
+          {
+            "quote": "we do have drivers that tend to run through here and try to rush it, which has caused damage to it.",
+            "speaker": "Ellis Emery <fake.ellis.emery@masonlinesupply.com>",
+            "timestamp": "[00:48:48]"
+          },
+          {
+            "quote": "I mean, that might be an area where it wouldn't be bad to have that logged.",
+            "speaker": "Ellis Emery <fake.ellis.emery@masonlinesupply.com>",
+            "timestamp": "[00:48:59]"
+          },
+          {
+            "quote": "So we want to identify these trucking companies and notify them, hey, you know, you got to abide by the rule of the art.",
+            "speaker": "Ellis Emery <fake.ellis.emery@masonlinesupply.com>",
+            "timestamp": "[00:49:01]"
+          }
+        ]
+      },
+      {
+        "label": "Operational efficiency insights from video analytics",
+        "description": "Use video-derived insights to spot process inefficiencies (e.g., unnecessary travel to pick nearby items) and improve productivity.",
+        "evidence": [
+          {
+            "quote": "Why are we moving around this entire bay when what he's going after is a moderate distance away? We've got some efficiency gains that we can collaborate on here...",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:35:10]"
+          }
+        ]
+      },
+      {
+        "label": "Safety program analytics and workflow management",
+        "description": "Leverage trends, heat maps, and assignment workflows to prioritize actions and manage follow‑through across teams.",
+        "evidence": [
+          {
+            "quote": "being able to map stuff out, being able to assign things to supervisors and stuff for actioning, just so far been a very helpful tool.",
+            "speaker": "Blake Sinclair <fake.blake.sinclair@masonlinesupply.com>",
+            "timestamp": "[00:06:00]"
+          },
+          {
+            "quote": "I've got a 50-60% increase in no stops. So why don't we drill into that for this morning's pre-coach?",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:43:27]"
+          },
+          {
+            "quote": "But now the heat map is giving me a visual cue as to where these incidents are occurring.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:44:34]"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "meeting_title": "Voxel <> Drift Grid Works Intro ",
+  "start_time": "2023-05-26T14:30:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Forklift safety and vehicle movement in confined areas",
+        "description": "Monitor forklift operations and intersections in confined spaces, inside and outside the buildings, to reduce collision and near-miss risk.",
+        "evidence": [
+          {
+            "quote": "So in the facilities, what we're calling severe incident factors type incidents, we're looking at moving vehicles.",
+            "speaker": "Drew Sullivan <fake.drew.sullivan@driftgridworks.com>",
+            "timestamp": "[00:07:14]"
+          },
+          {
+            "quote": "So it's forklifts.",
+            "speaker": "Drew Sullivan <fake.drew.sullivan@driftgridworks.com>",
+            "timestamp": "[00:07:27]"
+          },
+          {
+            "quote": "But the big ones are the forklifts moving around inside the buildings and outside when we're hauling some of the stuff, the cut in between, and the conveyors.",
+            "speaker": "Drew Sullivan <fake.drew.sullivan@driftgridworks.com>",
+            "timestamp": "[00:09:26]"
+          }
+        ]
+      },
+      {
+        "label": "Caught-in hazards at presses and conveyors",
+        "description": "Detect and mitigate caught-between risks at presses and conveyors, including unsafe behavior around or on conveyors.",
+        "evidence": [
+          {
+            "quote": "And typically in fairly confined areas with the manufacturing plants, we're looking at a lot of presses and conveyors and things that we're concerned with getting caught between and getting hands in or body parts in.",
+            "speaker": "Drew Sullivan <fake.drew.sullivan@driftgridworks.com>",
+            "timestamp": "[00:07:28]"
+          },
+          {
+            "quote": "We have an additional going over the conveyors.",
+            "speaker": "Drew Sullivan <fake.drew.sullivan@driftgridworks.com>",
+            "timestamp": "[00:07:48]"
+          },
+          {
+            "quote": "So traveling up the conveyors.",
+            "speaker": "Drew Sullivan <fake.drew.sullivan@driftgridworks.com>",
+            "timestamp": "[00:07:55]"
+          }
+        ]
+      },
+      {
+        "label": "Confined space risk during oven cleaning",
+        "description": "Address increased confined space hazards associated with oven cleaning, especially if done in-house.",
+        "evidence": [
+          {
+            "quote": "Possibly an increased risk of confined spaces.",
+            "speaker": "Drew Sullivan <fake.drew.sullivan@driftgridworks.com>",
+            "timestamp": "[00:08:02]"
+          },
+          {
+            "quote": "In the other plants, we are not, and we do that with cleaning our ovens.",
+            "speaker": "Drew Sullivan <fake.drew.sullivan@driftgridworks.com>",
+            "timestamp": "[00:08:20]"
+          },
+          {
+            "quote": "If we go in-house, then we definitely have an increased risk of a hazard of confined space entry.",
+            "speaker": "Drew Sullivan <fake.drew.sullivan@driftgridworks.com>",
+            "timestamp": "[00:08:36]"
+          }
+        ]
+      },
+      {
+        "label": "Respirator PPE compliance in paint areas",
+        "description": "Remind and verify respirator use when entering paint areas.",
+        "evidence": [
+          {
+            "quote": "We have some areas like what we call our paint pensions where we go in and out, where we want to start reminding folks to use the respirators when they should going in.",
+            "speaker": "Drew Sullivan <fake.drew.sullivan@driftgridworks.com>",
+            "timestamp": "[00:09:06]"
+          }
+        ]
+      },
+      {
+        "label": "Camera-based red zone to replace light curtains",
+        "description": "Use camera analytics to create exclusion zones around equipment as a replacement for light curtains.",
+        "evidence": [
+          {
+            "quote": "We're even looking at what they call red zone type application, which doesn't, it would be replacing light curtains, but that's not something we're going to, hang on.",
+            "speaker": "Drew Sullivan <fake.drew.sullivan@driftgridworks.com>",
+            "timestamp": "[00:03:37]"
+          }
+        ]
+      },
+      {
+        "label": "around the clock monitoring with real-time alerts for near misses",
+        "description": "Have an always-on eye in the sky to detect near misses and send real-time notifications to designated staff for quick response.",
+        "evidence": [
+          {
+            "quote": "What we're not doing and what we see the benefit for this is that I...",
+            "speaker": "Drew Sullivan <fake.drew.sullivan@driftgridworks.com>",
+            "timestamp": "[00:11:00]"
+          },
+          {
+            "quote": "The whole time we're working.",
+            "speaker": "Drew Sullivan <fake.drew.sullivan@driftgridworks.com>",
+            "timestamp": "[00:11:02]"
+          },
+          {
+            "quote": "So the other software, I'm sure you guys are the same, it sends pings to cell phones or PCs and to the people we identify that needs them to react quickly.",
+            "speaker": "Drew Sullivan <fake.drew.sullivan@driftgridworks.com>",
+            "timestamp": "[00:11:31]"
+          },
+          {
+            "quote": "So what we want to track are those near misses in real time so we can mitigate those before they turn into a, you know, a major injury or major catastrophe.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:11:20]"
+          }
+        ]
+      },
+      {
+        "label": "Hotspot identification to target high-risk areas",
+        "description": "Identify areas with the most violations or potential violations across cameras to focus interventions, including via heat map views.",
+        "evidence": [
+          {
+            "quote": "It definitely had the capability to pick out the hotspots or when the most, the areas that had the most violations or potential violations, but not, not being where it was actually mapping it out in this situation.",
+            "speaker": "Drew Sullivan <fake.drew.sullivan@driftgridworks.com>",
+            "timestamp": "[00:28:22]"
+          },
+          {
+            "quote": "That's very helpful.",
+            "speaker": "Drew Sullivan <fake.drew.sullivan@driftgridworks.com>",
+            "timestamp": "[00:28:38]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Quality control visual inspection with cameras",
+        "description": "Explore using cameras for QC/visual inspection tasks and understand Voxel’s capabilities for such applications.",
+        "evidence": [
+          {
+            "quote": "Now, this other group has been, and we haven't explored it too much, has been saying that they're working with some, particularly paper mills, QC type, quality control, visual inspection type stuff with the cameras.",
+            "speaker": "Drew Sullivan <fake.drew.sullivan@driftgridworks.com>",
+            "timestamp": "[00:15:23]"
+          },
+          {
+            "quote": "We haven't gone down that, but is that something you're familiar with as well?",
+            "speaker": "Drew Sullivan <fake.drew.sullivan@driftgridworks.com>",
+            "timestamp": "[00:15:39]"
+          }
+        ]
+      }
+    ]
+  }
+}

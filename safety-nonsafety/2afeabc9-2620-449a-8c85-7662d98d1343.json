@@ -1,0 +1,87 @@
+{
+  "meeting_title": "Meridian Works Operations / Voxel - use case discussion",
+  "start_time": "2022-10-07T14:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Deploy Voxel safety computer vision at distribution centers",
+        "description": "Meridian Works Operations wants to proceed now with Voxel’s existing safety AI while longer-term adjacent capabilities are explored.",
+        "evidence": [
+          {
+            "quote": "Yeah, his guidance was to continue on with Voxel, like as we're going to go with you guys, you know, for the safety.",
+            "speaker": "Jensen Ellison <fake.jensen.ellison@meridianworksoperations.com>",
+            "timestamp": "[00:11:20]"
+          },
+          {
+            "quote": "But, no, I hope that we can move forward with safety.",
+            "speaker": "Jensen Ellison <fake.jensen.ellison@meridianworksoperations.com>",
+            "timestamp": "[00:29:49]"
+          },
+          {
+            "quote": "It exists.",
+            "speaker": "Jensen Ellison <fake.jensen.ellison@meridianworksoperations.com>",
+            "timestamp": "[00:29:50]"
+          },
+          {
+            "quote": "Let's just get it going.",
+            "speaker": "Jensen Ellison <fake.jensen.ellison@meridianworksoperations.com>",
+            "timestamp": "[00:29:52]"
+          },
+          {
+            "quote": "There are tons of safety AI vendors.",
+            "speaker": "Jensen Ellison <fake.jensen.ellison@meridianworksoperations.com>",
+            "timestamp": "[00:02:49]"
+          },
+          {
+            "quote": "Bring them in. Get the current product out and working.",
+            "speaker": "Jensen Ellison <fake.jensen.ellison@meridianworksoperations.com>",
+            "timestamp": "[00:02:53]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Sensitive product condition monitoring",
+        "description": "Meridian Works Operations is exploring a camera-based solution to monitor packaging state across facilities with varied requirements.",
+        "evidence": [
+          {
+            "quote": "But then we add this inventory-monitoring need to it.",
+            "speaker": "Jensen Ellison <fake.jensen.ellison@meridianworksoperations.com>",
+            "timestamp": "[00:06:00]"
+          },
+          {
+            "quote": "And now we are doing something with AI at Meridian Works Operations.",
+            "speaker": "Jensen Ellison <fake.jensen.ellison@meridianworksoperations.com>",
+            "timestamp": "[00:06:05]"
+          },
+          {
+            "quote": "So we have to do some, it's called emissivity testing.",
+            "speaker": "Jensen Ellison <fake.jensen.ellison@meridianworksoperations.com>",
+            "timestamp": "[00:15:11]"
+          },
+          {
+            "quote": "We're going to have to do some testing to see if these cameras are sensitive enough for that use case.",
+            "speaker": "Jensen Ellison <fake.jensen.ellison@meridianworksoperations.com>",
+            "timestamp": "[00:15:26]"
+          },
+          {
+            "quote": "And if it doesn't, then that approach may not work for us.",
+            "speaker": "Jensen Ellison <fake.jensen.ellison@meridianworksoperations.com>",
+            "timestamp": "[00:15:35]"
+          },
+          {
+            "quote": "he said this imaging approach is different from standard video, so there are additional technical considerations involved.",
+            "speaker": "Lane Oakley <fake.lane.oakley@voxelai.com>",
+            "timestamp": "[00:03:52]"
+          },
+          {
+            "quote": "one of the vendors has a newer camera product with onboard AI capabilities.",
+            "speaker": "Jensen Ellison <fake.jensen.ellison@meridianworksoperations.com>",
+            "timestamp": "[00:13:00]"
+          }
+        ]
+      }
+    ]
+  }
+}

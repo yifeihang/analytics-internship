@@ -1,0 +1,204 @@
+{
+  "meeting_title": "Cobalt Plant Industrial / Voxel pilot discussion",
+  "start_time": "2022-11-28T14:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Centralized safety monitoring and real-time dispatch",
+        "description": "Use site cameras and AI with control-center operators to detect unsafe conditions/behaviors across dispersed zones and immediately notify the responsible safety officer to intervene.",
+        "evidence": [
+          {
+            "quote": "When we are putting these cameras, these cameras will support us how we're going to put operators in the project control center or safety control centers.",
+            "speaker": "Brennan Walker <fake.brennan.walker@cobaltplantindustrial.com>",
+            "timestamp": "[00:03:50]"
+          },
+          {
+            "quote": "Those people will support the safety officer in case they detect any unsafe conditions or behavior.",
+            "speaker": "Brennan Walker <fake.brennan.walker@cobaltplantindustrial.com>",
+            "timestamp": "[00:03:50]"
+          },
+          {
+            "quote": "They immediately call the zone officer.",
+            "speaker": "Brennan Walker <fake.brennan.walker@cobaltplantindustrial.com>",
+            "timestamp": "[00:03:57]"
+          },
+          {
+            "quote": "I want to prevent these things from happening.",
+            "speaker": "Brennan Walker <fake.brennan.walker@cobaltplantindustrial.com>",
+            "timestamp": "[00:10:19]"
+          }
+        ]
+      },
+      {
+        "label": "Vehicle–pedestrian proximity (man–machine interface) alerts",
+        "description": "Detect workers dangerously close to moving equipment (e.g., within ~2 meters) and alert to prevent runovers and near misses.",
+        "evidence": [
+          {
+            "quote": "Man-machine interface, the equipment and the people inside.",
+            "speaker": "Brennan Walker <fake.brennan.walker@cobaltplantindustrial.com>",
+            "timestamp": "[00:07:40]"
+          },
+          {
+            "quote": "The equipment, when they move, they don't see them, and they kill them.",
+            "speaker": "Brennan Walker <fake.brennan.walker@cobaltplantindustrial.com>",
+            "timestamp": "[00:08:08]"
+          },
+          {
+            "quote": "It detect whatever person that comes in like two meters or something from the equipment, and accordingly it will detect and it will give an alarm or something.",
+            "speaker": "Brennan Walker <fake.brennan.walker@cobaltplantindustrial.com>",
+            "timestamp": "[00:09:00]"
+          },
+          {
+            "quote": "So like lifting activities and stacking and storage, people walking around, vehicles moving around people, the vehicle, the machine human interface is there.",
+            "speaker": "Lennon Sawyer <fake.lennon.sawyer@cobaltplantindustrial.com>",
+            "timestamp": "[00:19:14]"
+          }
+        ]
+      },
+      {
+        "label": "PPE compliance monitoring (including hot work PPE)",
+        "description": "Monitor for required PPE such as gloves, goggles/face shields, hard hats, and vests, with emphasis on hot-work areas.",
+        "evidence": [
+          {
+            "quote": "Yeah, I think the PPE is an obvious one.",
+            "speaker": "Brennan Walker <fake.brennan.walker@cobaltplantindustrial.com>",
+            "timestamp": "[00:20:21]"
+          },
+          {
+            "quote": "gloves, eyeglasses, goggles, face shield. Helmets, Vests.",
+            "speaker": "Brennan Walker <fake.brennan.walker@cobaltplantindustrial.com>",
+            "timestamp": "[00:21:00]"
+          },
+          {
+            "quote": "So here, obviously, our focus would be on like, not maybe specifically hard hats, but this one will be like gloves or face shields, those types of things.",
+            "speaker": "Lennon Sawyer <fake.lennon.sawyer@cobaltplantindustrial.com>",
+            "timestamp": "[00:21:08]"
+          }
+        ]
+      },
+      {
+        "label": "Access/egress safety and restricted area intrusion",
+        "description": "Define and monitor no-pedestrian and no-obstruction zones, walkways/crossings, and detect entry into restricted areas.",
+        "evidence": [
+          {
+            "quote": "I don't know if you guys have anything on access and egress.",
+            "speaker": "Lennon Sawyer <fake.lennon.sawyer@cobaltplantindustrial.com>",
+            "timestamp": "[00:23:08]"
+          },
+          {
+            "quote": "Yeah, so we can define, like, no pedestrian zones where people should never be.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:23:13]"
+          },
+          {
+            "quote": "We can do a no obstruction zone, so, like, nothing should be blocking this area.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:23:17]"
+          },
+          {
+            "quote": "Restricted means that there are areas where no one is, for example, allowed to enter these locations.",
+            "speaker": "Brennan Walker <fake.brennan.walker@cobaltplantindustrial.com>",
+            "timestamp": "[00:23:31]"
+          }
+        ]
+      },
+      {
+        "label": "Confined space entry and lone-worker detection",
+        "description": "Detect confined space entry and flag when a person enters alone to trigger an immediate response.",
+        "evidence": [
+          {
+            "quote": "we can go for the confined space if there are people there, one guy alone entering a confined space, fire, PPEs.",
+            "speaker": "Brennan Walker <fake.brennan.walker@cobaltplantindustrial.com>",
+            "timestamp": "[00:20:00]"
+          }
+        ]
+      },
+      {
+        "label": "Working at height compliance and lifting/falling object risks",
+        "description": "Monitor for working at height without scaffolding or full-body harness and identify lifting/falling object hazards.",
+        "evidence": [
+          {
+            "quote": "be careful there is man-machine interface, or people working tight without scaffolding, or no full body harness, or there is a fire, for example, that will support this guy",
+            "speaker": "Brennan Walker <fake.brennan.walker@cobaltplantindustrial.com>",
+            "timestamp": "[00:04:00]"
+          },
+          {
+            "quote": "there are a lot of vests and hazards, falling objects, lifting, walking at height, many, many issues that you can tackle.",
+            "speaker": "Brennan Walker <fake.brennan.walker@cobaltplantindustrial.com>",
+            "timestamp": "[00:20:25]"
+          }
+        ]
+      },
+      {
+        "label": "Zone- and shift-based alert routing in remote areas",
+        "description": "Route safety alerts by zone and shift to the responsible person through available delivery methods, with accommodations for remote areas.",
+        "evidence": [
+          {
+            "quote": "In Zone A, we can make sure that we're sending alerts to just those leaders in that area at that time.",
+            "speaker": "Morgan Hayes <fake.morgan.hayes@voxelai.com>",
+            "timestamp": "[00:13:00]"
+          },
+          {
+            "quote": "I think the best thing would be some tool that gives the safety officer a message with the relevant context.",
+            "speaker": "Brennan Walker <fake.brennan.walker@cobaltplantindustrial.com>",
+            "timestamp": "[00:13:41]"
+          },
+          {
+            "quote": "But what came to mind is what happens if coverage is limited?",
+            "speaker": "Brennan Walker <fake.brennan.walker@cobaltplantindustrial.com>",
+            "timestamp": "[00:14:12]"
+          },
+          {
+            "quote": "Do you have an alternative delivery approach for remote situations?",
+            "speaker": "Brennan Walker <fake.brennan.walker@cobaltplantindustrial.com>",
+            "timestamp": "[00:14:24]"
+          },
+          {
+            "quote": "There are alternate delivery approaches we could consider in that case.",
+            "speaker": "Morgan Hayes <fake.morgan.hayes@voxelai.com>",
+            "timestamp": "[00:14:50]"
+          },
+          {
+            "quote": "And whenever something happens in that zone, for example, zone A, it goes directly to the person responsible.",
+            "speaker": "Brennan Walker <fake.brennan.walker@cobaltplantindustrial.com>",
+            "timestamp": "[00:11:58]"
+          }
+        ]
+      },
+      {
+        "label": "Drone-based remote inspection and auditing",
+        "description": "Integrate AI with drones to conduct remote site walkthroughs from the office to audit teams and inspect conditions.",
+        "evidence": [
+          {
+            "quote": "What about if we do have drones? If we do have drones, can you integrate the system to these drones?",
+            "speaker": "Brennan Walker <fake.brennan.walker@cobaltplantindustrial.com>",
+            "timestamp": "[00:25:34]"
+          },
+          {
+            "quote": "it's a good idea that even from here, if we want to do like a tour or something and make sure that everything in place, I audit my team, I inspect if they're doing their job, I can, I come from here, from my office, I just fly this drone and I just go in my, in my, in my walkthrough.",
+            "speaker": "Brennan Walker <fake.brennan.walker@cobaltplantindustrial.com>",
+            "timestamp": "[00:26:09]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Drone-based remote inspection and auditing",
+        "description": "Integrate AI with drones to conduct remote site walkthroughs from the office to audit teams and inspect conditions.",
+        "evidence": [
+          {
+            "quote": "What about if we do have drones? If we do have drones, can you integrate the system to these drones?",
+            "speaker": "Brennan Walker <fake.brennan.walker@cobaltplantindustrial.com>",
+            "timestamp": "[00:25:34]"
+          },
+          {
+            "quote": "it's a good idea that even from here, if we want to do like a tour or something and make sure that everything in place, I audit my team, I inspect if they're doing their job, I can, I come from here, from my office, I just fly this drone and I just go in my, in my, in my walkthrough.",
+            "speaker": "Brennan Walker <fake.brennan.walker@cobaltplantindustrial.com>",
+            "timestamp": "[00:26:09]"
+          }
+        ]
+      }
+    ]
+  }
+}

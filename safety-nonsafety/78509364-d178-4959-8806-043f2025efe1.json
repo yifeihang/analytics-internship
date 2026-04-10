@@ -1,0 +1,201 @@
+{
+  "meeting_title": "Harbor Harbor Supply Voxel Training ",
+  "start_time": "2024-07-11T16:30:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Exterior crosswalk and stop compliance monitoring",
+        "description": "Monitor the associate entrance drive lane and crosswalk for failure to stop and vehicles blocking the crosswalk to improve pedestrian safety.",
+        "evidence": [
+          {
+            "quote": "Debra wanted me to focus on the exterior camera that we have for our drive lane and crosswalk for outside.",
+            "speaker": "Devon Hale <fake.devon.hale@harborharborsupply.com>",
+            "timestamp": "[00:11:16]"
+          },
+          {
+            "quote": "I think we only have two points of metrics on that singular camera too. It's just a failure to stop and I believe nothing in the crosswalk.",
+            "speaker": "Devon Hale <fake.devon.hale@harborharborsupply.com>",
+            "timestamp": "[00:12:42]"
+          },
+          {
+            "quote": "Yeah, it's the stops right here and then nothing, sort of, no vehicles blocking this region.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:13:03]"
+          }
+        ]
+      },
+      {
+        "label": "Spill detection to prevent slip/corrosive hazards",
+        "description": "Detect and surface spills, including hazardous or corrosive spills, to mitigate slip/fall and exposure risks.",
+        "evidence": [
+          {
+            "quote": "As far as the spills, we did have a pretty substantial spill that Voxel didn't catch",
+            "speaker": "Bellamy Warren <fake.bellamy.warren@harborharborsupply.com>",
+            "timestamp": "[00:15:02]"
+          },
+          {
+            "quote": "It was a corrosive spill, too.",
+            "speaker": "Bellamy Warren <fake.bellamy.warren@harborharborsupply.com>",
+            "timestamp": "[00:15:19]"
+          },
+          {
+            "quote": "Spills weren't turned on here, so that might explain it.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:33:16]"
+          }
+        ]
+      },
+      {
+        "label": "PIT-to-pedestrian and PIT-to-PIT proximity monitoring",
+        "description": "Monitor powered industrial truck (PIT) proximity to pedestrians and other PITs to identify high-risk interactions and focus interventions.",
+        "evidence": [
+          {
+            "quote": "As far as a little bit of feedback on the pit to pits and the person to pits, it's triggering a lot",
+            "speaker": "Bellamy Warren <fake.bellamy.warren@harborharborsupply.com>",
+            "timestamp": "[00:17:43]"
+          },
+          {
+            "quote": "I'm keeping away, I guess, because I'm kind of more frustrated on the person to pit and the pit to pitch just because of the ranging. It'll trigger at anything, basically.",
+            "speaker": "Bellamy Warren <fake.bellamy.warren@harborharborsupply.com>",
+            "timestamp": "[00:31:44]"
+          }
+        ]
+      },
+      {
+        "label": "No pedestrian zones enforcement (inside warehouse)",
+        "description": "Detect pedestrians entering designated no-pedestrian zones to reduce risk of PIT/pedestrian conflicts.",
+        "evidence": [
+          {
+            "quote": "Yeah, so, we could do, you know, on certain things, like no pedestrian zones, this is where I was getting into, like, that area controls",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:13:52]"
+          },
+          {
+            "quote": "Just to reiterate on my side, on the bookmarks, I've been mostly checking up on the no stop at and the vials and the no pedestrian zone.",
+            "speaker": "Bellamy Warren <fake.bellamy.warren@harborharborsupply.com>",
+            "timestamp": "[00:14:47]"
+          }
+        ]
+      },
+      {
+        "label": "Obstruction detection in walk paths and drive lanes",
+        "description": "Identify obstructions that block walk paths or drive lanes to prevent unsafe conditions and congestion.",
+        "evidence": [
+          {
+            "quote": "Again, as far as reviewing for me, I feel more that I'm going to the no stop at end of the stop signs, the obstructions, and also the no pedestrian zone.",
+            "speaker": "Bellamy Warren <fake.bellamy.warren@harborharborsupply.com>",
+            "timestamp": "[00:31:36]"
+          }
+        ]
+      },
+      {
+        "label": "Shift-level safety trend analysis",
+        "description": "Use boards to segment safety incidents by shift to understand where certain unsafe behaviors (e.g., rolling stops) are more prevalent and target interventions.",
+        "evidence": [
+          {
+            "quote": "It's sort of understanding, you know, trends by shifts, understanding sort of what's happening by shift.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:24:00]"
+          },
+          {
+            "quote": "no stops are, you know, almost two X's happening as often during shift three.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:25:00]"
+          }
+        ]
+      },
+      {
+        "label": "Actions workflow to drive behavior change and accountability",
+        "description": "Assign incidents and share clips with supervisors to identify individuals, coach behaviors, and ensure corrective actions are taken.",
+        "evidence": [
+          {
+            "quote": "The whole point is trying to get pertinent examples in the hand of folks that can sort of drive the right behavioral changes and some accountability that the actions are being taken.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:26:19]"
+          },
+          {
+            "quote": "The operations supervisors aren't part of it. But if I wanted to send that URL to them for an identification or whatnot, you know, without having them directly with me or being at the same facility with them, I mean, there's no way to kind of do so without end up going through their WebEx or Teams and doing kind of a screen share",
+            "speaker": "Devon Hale <fake.devon.hale@harborharborsupply.com>",
+            "timestamp": "[00:27:20]"
+          },
+          {
+            "quote": "that's one reason why a lot of our customers will involve those department or shift supervisors, because while you may not know who that person is, they definitely know who the guy in the white hat is.",
+            "speaker": "Gray Ashford <fake.gray.ashford@voxelai.com>",
+            "timestamp": "[00:09:00]"
+          }
+        ]
+      },
+      {
+        "label": "Facility layout adjustments to reduce PIT proximity risk",
+        "description": "Leverage Voxel observations to guide physical changes (e.g., moving railings, expanding drive lanes) that reduce PIT-to-PIT proximity and associated risk.",
+        "evidence": [
+          {
+            "quote": "if there's something that can be done here to, you know, sort of more clearly define those drivelines and not have the proximity trigger, like it is moving a railing back two feet and expanding that drivelines, you would see a pretty significant decrease sort of overnight in terms of the pit-to-pit observations",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:22:24]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Security/area control and after-hours presence detection",
+        "description": "Detect people in restricted areas or during off-hours (e.g., 1 a.m..–6 a.m..) using existing cameras, including exterior views, for security and area control.",
+        "evidence": [
+          {
+            "quote": "We definitely have a lot of customers leveraging us for sort of security and area control type use cases, where it's like, did we detect a person in this area?",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:07:24]"
+          },
+          {
+            "quote": "if we wanted to say, you know, let's make sure that there's no one in this area between the hours of 1 a.m.. and 6 a.m.., you know, we could sort of flag if anyone is there.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:14:16]"
+          }
+        ]
+      },
+      {
+        "label": "Identity resolution for incident investigations (facial recognition request)",
+        "description": "Desire to identify individuals involved in incidents more efficiently; inquiry about AI facial recognition (not supported due to policy).",
+        "evidence": [
+          {
+            "quote": "Is your software capable of, I guess, doing AI facial recognition?",
+            "speaker": "Bellamy Warren <fake.bellamy.warren@harborharborsupply.com>",
+            "timestamp": "[00:07:00]"
+          },
+          {
+            "quote": "I'm finding the infraction perfectly. I'm just not finding the person perfectly.",
+            "speaker": "Bellamy Warren <fake.bellamy.warren@harborharborsupply.com>",
+            "timestamp": "[00:08:38]"
+          },
+          {
+            "quote": "Like, who's the guy with the white hat or the blue hat? And I'm just there for half hour trying to find him.",
+            "speaker": "Bellamy Warren <fake.bellamy.warren@harborharborsupply.com>",
+            "timestamp": "[00:08:41]"
+          }
+        ]
+      },
+      {
+        "label": "Product and infrastructure damage detection (collisions with racks/product)",
+        "description": "Detect collisions involving PITs and stationary objects (racks, pallets, product) to reduce asset damage and support investigations; acknowledged as a capability in development.",
+        "evidence": [
+          {
+            "quote": "There's also, on this camera feed, there was a pit-to-pit hit. Well, a pallet-to-pit still. Still. A unit-to-unit hit, and it didn't trigger, actually, either.",
+            "speaker": "Bellamy Warren <fake.bellamy.warren@harborharborsupply.com>",
+            "timestamp": "[00:19:57]"
+          },
+          {
+            "quote": "if a power-industrial truck were to strike a rack, or, in this case, like, product or a pallet, that's something we're actively working into that detection, but that's not something we have available today.",
+            "speaker": "Gray Ashford <fake.gray.ashford@voxelai.com>",
+            "timestamp": "[00:20:31]"
+          },
+          {
+            "quote": "there's a lot of product damage or, you know, infrastructure damage use cases that our customers are quite interested in.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:20:58]"
+          }
+        ]
+      }
+    ]
+  }
+}

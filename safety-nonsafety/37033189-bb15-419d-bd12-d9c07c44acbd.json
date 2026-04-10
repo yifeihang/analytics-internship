@@ -1,0 +1,158 @@
+{
+  "meeting_title": "Impromptu Anchor Point Meetings Meeting",
+  "start_time": "2024-06-28T13:59:45Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Prioritize ergonomics hotspots and mitigate with engineering controls",
+        "description": "Use heatmaps to find where improper bending and overreaching are most frequent and prioritize fixes like adding lift platforms to reduce bending.",
+        "evidence": [
+          {
+            "quote": "And this, the purpose of this is that I got so many projects going on with the improper bend that I'm trying to resolve them.",
+            "speaker": "Operations Conference Room 1",
+            "timestamp": "[00:14:08]"
+          },
+          {
+            "quote": "If I had this screen a couple of hours ago, it's literally a couple of hours ago, I went with my fab team where we needed to add some platforms to lift the material that sits on the pallet on the floor up because people are bending down to grab that box.",
+            "speaker": "Operations Conference Room 1",
+            "timestamp": "[00:22:00]"
+          },
+          {
+            "quote": "so this would have told me how many hotspots I am resolving because I'm lifting that skid up to waste time, and it's very, very useful.",
+            "speaker": "Operations Conference Room 1",
+            "timestamp": "[00:23:00]"
+          }
+        ]
+      },
+      {
+        "label": "Monitor and prioritize PIT–pedestrian proximity risks by area and severity",
+        "description": "Analyze forklift-to-person proximity incidents at specific cameras (e.g., Rivet Press) and focus on the highest severity events to reduce collision risk.",
+        "evidence": [
+          {
+            "quote": "Forklift-to-Person Failure.",
+            "speaker": "Operations Conference Room 1",
+            "timestamp": "[00:14:01]"
+          },
+          {
+            "quote": "What is most important in rivet press? What is most important in rivet press? Is it the forklift getting close to the person, or is it over bending, improper bend, or is it over reaching?",
+            "speaker": "Operations Conference Room 1",
+            "timestamp": "[00:14:25]"
+          },
+          {
+            "quote": "And you only want to look at the highest severity events.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:19:04]"
+          },
+          {
+            "quote": "Or how fast was the powered industrial truck going?",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:19:10]"
+          }
+        ]
+      },
+      {
+        "label": "Per-camera heatmap drill-down by incident type for safety prioritization",
+        "description": "When clicking a heatmap image, see counts by hazard type (e.g., improper bend, overreaching, forklift-to-person) for that camera to decide what to fix first.",
+        "evidence": [
+          {
+            "quote": "It gives me date, but it doesn't give me what it is, right?",
+            "speaker": "Operations Conference Room 1",
+            "timestamp": "[00:12:12]"
+          },
+          {
+            "quote": "when I click on Riddick Press Camera, I wanted to see, maybe I'm asking for too much, but I want to see how many are improper bend, how many are overreaching, and how many are,",
+            "speaker": "Operations Conference Room 1",
+            "timestamp": "[00:13:08]"
+          },
+          {
+            "quote": "Forklift-to-Person Failure.",
+            "speaker": "Operations Conference Room 1",
+            "timestamp": "[00:14:01]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Show overdue/upcoming actions and allow due date edits",
+        "description": "Display upcoming and overdue assigned actions prominently on the homepage and let assignees propose/edit due dates for approval when projects take longer.",
+        "evidence": [
+          {
+            "quote": "if i have something that is past due i like to one sometimes uh the project takes longer than what it was assigned to be so i like to edit that date or at least be able to edit that day and send it back to the person that assigned it to me and say hey do you agree with this data and then just approve it and say yeah you're good",
+            "speaker": "Operations Conference Room 1",
+            "timestamp": "[00:05:00]"
+          },
+          {
+            "quote": "the first thing that pops up is like hey you hey in a few days uh there's a little activity that you you gotta take care of right a little uh thing that says so instead of the reason activity square on the right hand side something that says you got two activities dude so you better get get going on those right or or take some action right",
+            "speaker": "Operations Conference Room 1",
+            "timestamp": "[00:06:00]"
+          }
+        ]
+      },
+      {
+        "label": "Clarify workflow for rejected assigned actions and reassignment",
+        "description": "Provide guidance or tooling on what happens when an assignee rejects an action and enable easy reassignment to the correct person.",
+        "evidence": [
+          {
+            "quote": "And the supervisor rejected it to me because he says, yeah, that employee is not mine.",
+            "speaker": "Operations Conference Room 1",
+            "timestamp": "[00:07:12]"
+          },
+          {
+            "quote": "But I don't know what happens if somebody rejects my assigned action.",
+            "speaker": "Operations Conference Room 1",
+            "timestamp": "[00:07:21]"
+          }
+        ]
+      },
+      {
+        "label": "Skeleton overlay on action videos to aid review",
+        "description": "Include human pose/skeleton overlays on action videos so reviewers can quickly understand what occurred.",
+        "evidence": [
+          {
+            "quote": "I actually want to thank you for finally adding the skeleton on the action videos or the assign action videos.",
+            "speaker": "Operations Conference Room 1",
+            "timestamp": "[00:03:46]"
+          },
+          {
+            "quote": "So when I get assignments and I don't see the skeleton, I get lost.",
+            "speaker": "Operations Conference Room 1",
+            "timestamp": "[00:04:04]"
+          }
+        ]
+      },
+      {
+        "label": "Per-camera heatmap drill-down by incident type for analysis",
+        "description": "Enable clicking a heatmap image to show incident counts by type for that camera to support deeper analysis and decision-making.",
+        "evidence": [
+          {
+            "quote": "It gives me date, but it doesn't give me what it is, right?",
+            "speaker": "Operations Conference Room 1",
+            "timestamp": "[00:12:12]"
+          },
+          {
+            "quote": "when I click on Riddick Press Camera, I wanted to see, maybe I'm asking for too much, but I want to see how many are improper bend, how many are overreaching, and how many are,",
+            "speaker": "Operations Conference Room 1",
+            "timestamp": "[00:13:08]"
+          },
+          {
+            "quote": "Forklift-to-Person Failure.",
+            "speaker": "Operations Conference Room 1",
+            "timestamp": "[00:14:01]"
+          }
+        ]
+      },
+      {
+        "label": "Access to heatmap exploration tools for power users",
+        "description": "Provide certain user profiles with access to a more detailed heatmap exploration view.",
+        "evidence": [
+          {
+            "quote": "We have heard similar requests from people who want a more interactive way to explore these views.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:21:47]"
+          }
+        ]
+      }
+    ]
+  }
+}

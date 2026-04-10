@@ -1,0 +1,66 @@
+{
+  "meeting_title": "Voxel Mill Motive Solutions Discussion",
+  "start_time": "2024-07-10T14:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "AI detection of leading safety risks from existing cameras",
+        "description": "Use Voxel’s platform to ingest existing camera feeds and detect unsafe conditions and risky behaviors so Simmons can proactively prevent incidents through coaching, training, and engineering controls.",
+        "evidence": [
+          {
+            "quote": "So what our whole purpose of the solution is to help help you keep your folks safe.",
+            "speaker": "Lane Oakley <fake.lane.oakley@voxelai.com>",
+            "timestamp": "[00:08:46]"
+          },
+          {
+            "quote": "and then we apply our AI models to detect leading indicators of safety risk.",
+            "speaker": "Lane Oakley <fake.lane.oakley@voxelai.com>",
+            "timestamp": "[00:09:00]"
+          },
+          {
+            "quote": "So we're looking for unsafe conditions, risky behaviors, and we're isolating that data, those video clips and the data, and putting it into our platform and basically giving your team a way to know, you know, the where, the when, the where and the when of, and what, of what risky behaviors and incidents are occurring, so that your team can, you know, do some additional coaching and training, and oftentimes engineer, put some engineering controls to make the environment safer.",
+            "speaker": "Lane Oakley <fake.lane.oakley@voxelai.com>",
+            "timestamp": "[00:09:19]"
+          },
+          {
+            "quote": "I am excited about being able to use their technology and being able to, seeing the platform and how it can help us call out incidents before it happens.",
+            "speaker": "Ainsley Farrell <fake.ainsley.farrell@millmotivesolutions.com>",
+            "timestamp": "[00:10:28]"
+          }
+        ]
+      },
+      {
+        "label": "Define and enforce site-specific safety rules (no pedestrian/parking zones with alerts)",
+        "description": "Configure camera-based rules such as no pedestrian zones and no parking areas with time thresholds, triggering alerts when violations occur.",
+        "evidence": [
+          {
+            "quote": "Live scoping is actually drawing the rules on the camera itself.",
+            "speaker": "Sawyer Turner <fake.sawyer.turner@voxelai.com>",
+            "timestamp": "[00:21:08]"
+          },
+          {
+            "quote": "So saying, hey, this area is going to be a no pedestrian zone, area is going to be a no parking zone.",
+            "speaker": "Sawyer Turner <fake.sawyer.turner@voxelai.com>",
+            "timestamp": "[00:21:12]"
+          },
+          {
+            "quote": "So, for example, we would sit down with your safety team and say, hey, we don't want people parking anywhere on this right side of the screen.",
+            "speaker": "Sawyer Turner <fake.sawyer.turner@voxelai.com>",
+            "timestamp": "[00:26:00]"
+          },
+          {
+            "quote": "And then I don't want them parking there for more than 15 seconds or more than maybe like a few minutes, however many seconds I want them.",
+            "speaker": "Sawyer Turner <fake.sawyer.turner@voxelai.com>",
+            "timestamp": "[00:26:22]"
+          },
+          {
+            "quote": "And if anybody walks within this area for more than 10 seconds, yeah, the self-inflecting polygon, so I have to make sure it doesn't overlap, then it will alert me to that.",
+            "speaker": "Sawyer Turner <fake.sawyer.turner@voxelai.com>",
+            "timestamp": "[00:26:37]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": []
+  }
+}

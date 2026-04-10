@@ -1,0 +1,144 @@
+{
+  "meeting_title": "Summit Span Solutions / Voxel Sync",
+  "start_time": "2023-10-22T16:30:00Z",
+  "extraction": {
+    "safety_use_cases": [],
+    "nonsafety_use_cases": [
+      {
+        "label": "Getting sites onto the same schedule",
+        "description": "Discuss getting sites onto the same schedule and simplifying future paperwork without keeping detailed renewal terms.",
+        "evidence": [
+          {
+            "quote": "We talked about getting multiple sites onto the same schedule going forward.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:04:34]"
+          },
+          {
+            "quote": "We also talked about paperwork that would make things simpler to manage over time.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:04:49]"
+          },
+          {
+            "quote": "It would also help to standardize how this is handled across sites so there are fewer surprises.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:08:41]"
+          }
+        ]
+      },
+      {
+        "label": "Timing follow-up around internal planning",
+        "description": "Discuss when routine follow-up should happen so it lines up better with the customer's internal planning process without keeping detailed billing mechanics.",
+        "evidence": [
+          {
+            "quote": "What would the site need from us for that next round of follow-up?",
+            "speaker": "Teagan Monroe <fake.teagan.monroe@summitspansolutions.com>",
+            "timestamp": "[00:05:39]"
+          },
+          {
+            "quote": "We just need enough lead time to plan for it internally.",
+            "speaker": "Teagan Monroe <fake.teagan.monroe@summitspansolutions.com>",
+            "timestamp": "[00:05:53]"
+          },
+          {
+            "quote": "We should try to line this up with your internal planning cycle.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:06:05]"
+          },
+          {
+            "quote": "There would also be another follow-up shortly after that next renewal point.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:06:27]"
+          },
+          {
+            "quote": "It would be better if that follow-up lined up more closely with your internal planning cycle.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:08:24]"
+          }
+        ]
+      },
+      {
+        "label": "Update contracts to reflect new leadership and stakeholders",
+        "description": "Provide executed order forms or a new contract that includes the new plant director, removes outdated contacts, and brings the EHS consulting firm into the agreement.",
+        "evidence": [
+          {
+            "quote": "Now, I know that we have the contract somewhere, but when you send out the bill, do you also send out a new contract for the new leadership?",
+            "speaker": "Teagan Monroe <fake.teagan.monroe@summitspansolutions.com>",
+            "timestamp": "[00:11:30]"
+          },
+          {
+            "quote": "Yeah, we can send out, we can sign out the executed order forms, and then if we come together, we could, if we wanted to craft something new to supersede these, you know, we could draft something new that we could then sign.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:11:51]"
+          },
+          {
+            "quote": "Because I think we need that, no, I don't think, I know that we need to, at the very least, to include Rich Turvey, the plant, the new plant.",
+            "speaker": "Teagan Monroe <fake.teagan.monroe@summitspansolutions.com>",
+            "timestamp": "[00:12:00]"
+          },
+          {
+            "quote": "Director on this, since he's going to be signing off on it.",
+            "speaker": "Teagan Monroe <fake.teagan.monroe@summitspansolutions.com>",
+            "timestamp": "[00:12:05]"
+          },
+          {
+            "quote": "And then also, too, we can probably pull out, you know, I guess, Ryan Rouse as well.",
+            "speaker": "Teagan Monroe <fake.teagan.monroe@summitspansolutions.com>",
+            "timestamp": "[00:12:11]"
+          },
+          {
+            "quote": "And we need to actually contract that out with the EHS consultation firm.",
+            "speaker": "Teagan Monroe <fake.teagan.monroe@summitspansolutions.com>",
+            "timestamp": "[00:12:28]"
+          }
+        ]
+      },
+      {
+        "label": "Contract renewal language clarification",
+        "description": "Clarify how the existing renewal language works and what written notice could affect in future periods, without preserving the exact clause mechanics.",
+        "evidence": [
+          {
+            "quote": "I want to confirm what our obligations are under the current contract timing.",
+            "speaker": "Teagan Monroe <fake.teagan.monroe@summitspansolutions.com>",
+            "timestamp": "[00:05:14]"
+          },
+          {
+            "quote": "My understanding is that written notice after the upcoming renewal point could affect a later period.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:09:34]"
+          },
+          {
+            "quote": "So written notice could still be submitted shortly after that renewal timing.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:10:23]"
+          },
+          {
+            "quote": "And then that notice would be taken into account for the following period.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:10:30]"
+          }
+        ]
+      },
+      {
+        "label": "Longer-term commercial options",
+        "description": "Discuss longer-term commercial options in general terms to make adoption more manageable without preserving specific pricing or renewal changes.",
+        "evidence": [
+          {
+            "quote": "Leadership is putting a lot more pressure on us to show clear value for anything we buy right now.",
+            "speaker": "Teagan Monroe <fake.teagan.monroe@summitspansolutions.com>",
+            "timestamp": "[00:03:00]"
+          },
+          {
+            "quote": "We have a few ideas that could make the arrangement easier for the team to manage.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:03:36]"
+          },
+          {
+            "quote": "We also talked about a longer-duration option with adjusted terms and a simpler renewal process.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:11:08]"
+          }
+        ]
+      }
+    ]
+  }
+}

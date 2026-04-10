@@ -1,0 +1,140 @@
+{
+  "meeting_title": "Rail Mill Transport / Voxel Check-in",
+  "start_time": "2022-05-17T20:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Prompt alerts for excessive speeding with configurable threshold",
+        "description": "Rail Mill Transport wants prompt alerts when vehicle speeds exceed a higher threshold so supervisors can intervene as incidents occur, using available notification channels.",
+        "evidence": [
+          {
+            "quote": "I was going to ask if there was a way to set up a notification when someone exceeds a higher speed threshold so we can address it as it is happening.",
+            "speaker": "Evan Rivers <fake.evan.rivers@railmilltransport.com>",
+            "timestamp": "[00:08:25]"
+          },
+          {
+            "quote": "That should be possible through existing notification options, and we can circle back with the team to see if we can set it for that higher threshold.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:09:00]"
+          },
+          {
+            "quote": "Yes, it is designed to notify you promptly after the event occurs.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:09:43]"
+          },
+          {
+            "quote": "In that case, my recommendation would be we up it to 10, just so you're really getting flagged on those outliers",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:12:21]"
+          }
+        ]
+      },
+      {
+        "label": "Forklift and pedestrian proximity monitoring",
+        "description": "They want to focus on monitoring and addressing forklift–pedestrian proximity events to reduce interaction risk in the warehouse.",
+        "evidence": [
+          {
+            "quote": "I believe that what we were really trying to go over in this last week was the speeding and the proximity alerts.",
+            "speaker": "Evan Rivers <fake.evan.rivers@railmilltransport.com>",
+            "timestamp": "[00:08:11]"
+          },
+          {
+            "quote": "I think we'll have to go a little bit over with the pedestrian, also the close, the proximity of the forklifts.",
+            "speaker": "Wren Nash <fake.wren.nash@railmilltransport.com>",
+            "timestamp": "[00:14:02]"
+          }
+        ]
+      },
+      {
+        "label": "Ergonomic risk monitoring and coaching (overreaching, lifting/carrying)",
+        "description": "They want to identify and act on ergonomic hazards like overreaching during pallet wrapping and improper manual handling (e.g., carrying a propane tank), including coaching on proper lifting and using a dolly.",
+        "evidence": [
+          {
+            "quote": "I know it seems like speeding is kind of a primary focus and certainly the pit interactions, but there might be some kind of some low-hanging fruit areas in the overreaching category.",
+            "speaker": "Lane Oakley <fake.lane.oakley@voxelai.com>",
+            "timestamp": "[00:18:23]"
+          },
+          {
+            "quote": "There's several different things that I've picked up on, whether it's pallets over the head or there's one where when they're wrapping a pallet and they can't quite reach the top because it's several stacks above their head.",
+            "speaker": "Lane Oakley <fake.lane.oakley@voxelai.com>",
+            "timestamp": "[00:18:35]"
+          },
+          {
+            "quote": "There was someone carrying a keg behind their neck, so I think there's, there might be just a, it could be a good topic to bring up in a, in a weekly meeting about proper lifting techniques and ergo.",
+            "speaker": "Lane Oakley <fake.lane.oakley@voxelai.com>",
+            "timestamp": "[00:19:01]"
+          },
+          {
+            "quote": "Oh, it would have been a gas tank, a propane gas tank.",
+            "speaker": "Lane Oakley <fake.lane.oakley@voxelai.com>",
+            "timestamp": "[00:20:13]"
+          },
+          {
+            "quote": "Yeah, I need to get them to start using a dolly instead of carrying that.",
+            "speaker": "Evan Rivers <fake.evan.rivers@railmilltransport.com>",
+            "timestamp": "[00:21:43]"
+          }
+        ]
+      },
+      {
+        "label": "Speeding analytics and compliance reporting",
+        "description": "They request analytics such as average speeds for speeding incidents over selectable date ranges and compliance metrics (e.g., percent of movements within limit) to track improvement daily/weekly.",
+        "evidence": [
+          {
+            "quote": "On the speeding, I'm kind of focusing on the speeding right now, to get an average speeding, I mean, an average speed captured by the system?",
+            "speaker": "Evan Rivers <fake.evan.rivers@railmilltransport.com>",
+            "timestamp": "[00:15:00]"
+          },
+          {
+            "quote": "But at the same time, if I had the average for the day, then of just, not obviously, of just the speeding incidents, if I see that number going down, then that would also indicate that we are getting a better",
+            "speaker": "Evan Rivers <fake.evan.rivers@railmilltransport.com>",
+            "timestamp": "[00:15:48]"
+          },
+          {
+            "quote": "I mean, ultimately, I would like to be able to select the day range and just get the average myself.",
+            "speaker": "Evan Rivers <fake.evan.rivers@railmilltransport.com>",
+            "timestamp": "[00:17:13]"
+          },
+          {
+            "quote": "So giving you a percentage of how many speedings we're seeing of all vehicle movements.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:16:25]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Per-user language localization to Spanish",
+        "description": "They want the Voxel platform available in Spanish on a per-user basis to support their team’s usage.",
+        "evidence": [
+          {
+            "quote": "Tamara, if you can hear us, on the last meeting, we mentioned the translation to Spanish.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:04:37]"
+          },
+          {
+            "quote": "That is now officially live.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:04:43]"
+          },
+          {
+            "quote": "For the rest of the team here, if anyone else wants Voxel to be displayed in any other language, Spanish included, you know, we recently rolled that out, so we can support that across the board.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:05:00]"
+          },
+          {
+            "quote": "It's per user.",
+            "speaker": "Rowan Rowe <fake.rowan.rowe@voxelai.com>",
+            "timestamp": "[00:05:22]"
+          },
+          {
+            "quote": "You just go into your user profile and you can just toggle it on and off.",
+            "speaker": "Rowan Rowe <fake.rowan.rowe@voxelai.com>",
+            "timestamp": "[00:05:34]"
+          }
+        ]
+      }
+    ]
+  }
+}

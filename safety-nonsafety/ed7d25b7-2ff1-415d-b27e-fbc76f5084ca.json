@@ -1,0 +1,198 @@
+{
+  "meeting_title": "Oak Motive Solutions / Voxel Bi-Weekly Sync",
+  "start_time": "2023-01-10T14:30:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Lockout/Tagout and machine guarding hazard-zone monitoring (no-pedestrian zones)",
+        "description": "Use cameras to create no-pedestrian/work-hazard zones around machinery to detect entry, support LOTO compliance, and coach workers to prevent bypassing guards or entering energized areas.",
+        "evidence": [
+          {
+            "quote": "Yeah, but it's a matter of lockout, tagout procedures, that's right, that's right.",
+            "speaker": "Dylan Tatum <fake.dylan.tatum@oakmotivesolutions.com>",
+            "timestamp": "[00:00:54]"
+          },
+          {
+            "quote": "Violated machine guarding, went behind a guard, with part of the machine still running.",
+            "speaker": "Dylan Tatum <fake.dylan.tatum@oakmotivesolutions.com>",
+            "timestamp": "[00:01:00]"
+          },
+          {
+            "quote": "Those are areas of opportunity for our company to develop in terms of lockout, tagout, machine guard.",
+            "speaker": "Jules Blaine <fake.jules.blaine@voxelai.com>",
+            "timestamp": "[00:04:00]"
+          },
+          {
+            "quote": "You know, what we can do today from a no pedestrian zone, know, work hazard zone use case is extremely applicable here.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:04:45]"
+          },
+          {
+            "quote": "We put a no-ped zone there to capture anybody going in and out just to kind of have those trainings towards, you know, is this locked out, tagged out procedure been followed?",
+            "speaker": "Jules Blaine <fake.jules.blaine@voxelai.com>",
+            "timestamp": "[00:11:42]"
+          }
+        ]
+      },
+      {
+        "label": "PIT proximity monitoring (person-to-PIT and PIT-to-PIT)",
+        "description": "Monitor forklifts for pedestrian proximity and PIT-to-PIT spacing to reduce collision and near-miss risk in busy areas.",
+        "evidence": [
+          {
+            "quote": "So, I just put on improper band, overreaching, person to pit, and pit to pit.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:16:51]"
+          },
+          {
+            "quote": "So like I said, whenever we added this camera, this is one that captured the forklift versus forklift incident.",
+            "speaker": "Dylan Tatum <fake.dylan.tatum@oakmotivesolutions.com>",
+            "timestamp": "[00:18:16]"
+          },
+          {
+            "quote": "So it's, I was thinking like a pit to pit proximity thing, like the fork was falling too close to the other.",
+            "speaker": "Dylan Tatum <fake.dylan.tatum@oakmotivesolutions.com>",
+            "timestamp": "[00:20:22]"
+          },
+          {
+            "quote": "So, yeah, I'll be really interested in that area to see pit to pit and person to pit is a big thing I'm looking for in that area.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:24:22]"
+          }
+        ]
+      },
+      {
+        "label": "Ergonomic risk detection (overreaching/improper bend)",
+        "description": "Detect overreaching and improper bending postures across the view to reduce ergonomic injuries.",
+        "evidence": [
+          {
+            "quote": "So, I just put on improper band, overreaching, person to pit, and pit to pit.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:16:51]"
+          },
+          {
+            "quote": "So right now, improper bend and overreaching are for the entire view.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:17:09]"
+          },
+          {
+            "quote": "Let's get overreaching in there.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:18:06]"
+          }
+        ]
+      },
+      {
+        "label": "Hard hat PPE compliance at Maintenance Propane Station",
+        "description": "Monitor the propane station area to detect ‘no hard hat’ events, especially among vendors and delivery drivers.",
+        "evidence": [
+          {
+            "quote": "Actually, that will be another good place for a no hard hat because we have a lot of vendors and delivery drivers come through there and if they're not wearing their hard hat, I need to know that as well.",
+            "speaker": "Dylan Tatum <fake.dylan.tatum@oakmotivesolutions.com>",
+            "timestamp": "[00:24:46]"
+          },
+          {
+            "quote": "So I will add hard hat to that one whenever I pre-scope it.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:25:19]"
+          }
+        ]
+      },
+      {
+        "label": "Forklift speeding detection",
+        "description": "Detect and flag PIT speeding; the team is considering enabling a speeding use case pending additional data.",
+        "evidence": [
+          {
+            "quote": "As we're going through this, Trey, has Sam mentioned to you putting speeding?",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:15:50]"
+          },
+          {
+            "quote": "He's asked me about five times. Eden and I have discussed it.",
+            "speaker": "Jules Blaine <fake.jules.blaine@voxelai.com>",
+            "timestamp": "[00:15:56]"
+          },
+          {
+            "quote": "I'm not quite ready yet. I've got to do some more data.",
+            "speaker": "Jules Blaine <fake.jules.blaine@voxelai.com>",
+            "timestamp": "[00:16:07]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Automated reminders for overdue actions",
+        "description": "Send automatic email reminders or nudges to assignees when actions are pending or past due to improve follow-through.",
+        "evidence": [
+          {
+            "quote": "Is there a way to send them like a reminder or anything like that, that they've got actions pending or like they get an email like, hey, your actions past due or your about a week past due or whatever it is.",
+            "speaker": "Dylan Tatum <fake.dylan.tatum@oakmotivesolutions.com>",
+            "timestamp": "[00:02:24]"
+          },
+          {
+            "quote": "Not today, but it is something we expect to support later.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:02:44]"
+          },
+          {
+            "quote": "I'll follow up on that and just kind of give you just kind of a time frame of when that will be out.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:03:13]"
+          }
+        ]
+      },
+      {
+        "label": "Maintenance window suppression (no incident capture during scheduled work)",
+        "description": "Configure the platform to suppress incident capturing during Sunday maintenance windows to reduce noise and false positives.",
+        "evidence": [
+          {
+            "quote": "So their normal maintenance day is on Sundays.",
+            "speaker": "Dylan Tatum <fake.dylan.tatum@oakmotivesolutions.com>",
+            "timestamp": "[00:20:48]"
+          },
+          {
+            "quote": "So we need to add that in to the, no incident capturing Sundays from.",
+            "speaker": "Dylan Tatum <fake.dylan.tatum@oakmotivesolutions.com>",
+            "timestamp": "[00:20:51]"
+          },
+          {
+            "quote": "6A to 6P.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:21:00]"
+          },
+          {
+            "quote": "All right. I'll get that added in there.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:21:07]"
+          }
+        ]
+      },
+      {
+        "label": "Increase camera coverage for monitoring and business case",
+        "description": "Expand camera coverage so critical areas (including seldom-accessed zones) are visible for monitoring and to support the business case for broader deployment.",
+        "evidence": [
+          {
+            "quote": "We don't have a closer camera right there, and that's what I was thinking about because, actually, the event's not even on camera.",
+            "speaker": "Dylan Tatum <fake.dylan.tatum@oakmotivesolutions.com>",
+            "timestamp": "[00:06:18]"
+          },
+          {
+            "quote": "These cameras aggravate me sometimes with this motion detection because it only records whenever it detects motion.",
+            "speaker": "Dylan Tatum <fake.dylan.tatum@oakmotivesolutions.com>",
+            "timestamp": "[00:06:33]"
+          },
+          {
+            "quote": "making sure that all of the routinely accessed areas and all the areas that are, you know, not necessarily routinely accessed, but, you know, seldomly accessed, have have coverage that you can leverage, you know, our type of technology for that.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:07:15]"
+          },
+          {
+            "quote": "Rich Mills is wanting to increase camera coverage. And this helps, like, feed into that entire business case conversation as to why we need more coverage in the plant besides the several cameras.",
+            "speaker": "Jules Blaine <fake.jules.blaine@voxelai.com>",
+            "timestamp": "[00:12:28]"
+          }
+        ]
+      }
+    ]
+  }
+}

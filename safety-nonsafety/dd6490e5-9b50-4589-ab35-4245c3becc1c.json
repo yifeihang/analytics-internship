@@ -1,0 +1,110 @@
+{
+  "meeting_title": "Kodiak Point Fabrication/Kodiak Point Fabrication + Voxel - Deployment Sync",
+  "start_time": "2024-08-30T20:30:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Outdoor vehicle speeding detection",
+        "description": "Detect and flag vehicles exceeding site speed limits in the yard/lot using external cameras with configurable thresholds.",
+        "evidence": [
+          {
+            "quote": "We can do speeding, stopping.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:05:46]"
+          },
+          {
+            "quote": "We just need measurements to do speed for them.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:05:49]"
+          },
+          {
+            "quote": "You could tell us, hey, it's 15 miles an hour.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:06:37]"
+          },
+          {
+            "quote": "And so if anyone goes over that, we would flag that.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:06:55]"
+          },
+          {
+            "quote": "So they know if their drivers are, you know, ripping through the lot.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:06:03]"
+          }
+        ]
+      },
+      {
+        "label": "Stop sign/required stop compliance",
+        "description": "Monitor whether vehicles stop where required before proceeding at entrances/exits or intersections.",
+        "evidence": [
+          {
+            "quote": "So they did some stops, right, no stops, where vehicles are supposed to stop before proceeding,",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:05:53]"
+          }
+        ]
+      },
+      {
+        "label": "PIT–pedestrian proximity and forklift fork hazards",
+        "description": "Identify unsafe interactions between pedestrians and forklifts, including walking over forks and related slip/trip risks.",
+        "evidence": [
+          {
+            "quote": "person to pit, walking over forks while wrapping",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:07:00]"
+          },
+          {
+            "quote": "slip trip,",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:07:00]"
+          },
+          {
+            "quote": "you see this person walking over the forks right here.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:07:00]"
+          }
+        ]
+      },
+      {
+        "label": "Dock and high‑collision area safety monitoring",
+        "description": "Prioritize monitoring of dock areas and other high collision potential zones to address common safety risks.",
+        "evidence": [
+          {
+            "quote": "For you guys, it's been a lot of, especially if we're only going to do 20 in a larger facility, I would say it's going to be mainly your dock areas.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:05:08]"
+          },
+          {
+            "quote": "And, you know, Metro Site is like, you're probably better off looking at your dock and maybe your high collision potential areas.",
+            "speaker": "Shawn Finch <fake.shawn.finch@kodiakpointfabrication.com>",
+            "timestamp": "[00:09:42]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Parking duration monitoring",
+        "description": "Track parking duration/dwell time in areas such as the lot or truck wash to understand how long vehicles remain parked.",
+        "evidence": [
+          {
+            "quote": "Stopping and Starting, Parking,",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:07:00]"
+          },
+          {
+            "quote": "Truck Wash, curious,",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:07:00]"
+          },
+          {
+            "quote": "no, we haven't got a parking duration there yet",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:07:00]"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "meeting_title": "Blue Base Supply / Voxel:  Discovery discussion and platform overview",
+  "start_time": "2023-04-18T19:30:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "PIT and pedestrian interaction risk monitoring",
+        "description": "Identify and reduce risks from inexperienced PIT operators and congested areas, including PIT–pedestrian proximity, speeding, stop compliance, seatbelt use, and other near-miss behaviors.",
+        "evidence": [
+          {
+            "quote": "with all of the pit and pedestrian traffic, there could potentially be a need for the Voxel solution, and kind of talked about it with the team, but, and there was interest in understanding how it can help for capturing the near misses,",
+            "speaker": "Emerson Whitaker <fake.emerson.whitaker@falconpointfabrication.com>",
+            "timestamp": "[00:03:00]"
+          },
+          {
+            "quote": "But we've got, I would say my biggest concern for all of our warehouses is the inexperience of our pit operators, right?",
+            "speaker": "Shiloh Dover <fake.shiloh.dover@bluebasesupply.com>",
+            "timestamp": "[00:05:13]"
+          },
+          {
+            "quote": "Is a pit getting too close to a pedestrian? Is a pit speeding in the facility? Is a pit getting too close to another pit?",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:22:22]"
+          },
+          {
+            "quote": "the rule is we've got a no-stop at this door... we always have to stop at the door.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:27:35]"
+          },
+          {
+            "quote": "They almost amputated an ankle right there.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:26:34]"
+          }
+        ]
+      },
+      {
+        "label": "Ergonomics risk detection (Posture Risk Index) for bends and overreach",
+        "description": "Monitor improper bends, overreaching, and unsafe pallet stacking using Posture Risk Index to coach lifting technique and re-engineer tasks to reduce repetitive-motion injuries.",
+        "evidence": [
+          {
+            "quote": "but also any unsafe ergonomics,",
+            "speaker": "Emerson Whitaker <fake.emerson.whitaker@falconpointfabrication.com>",
+            "timestamp": "[00:03:00]"
+          },
+          {
+            "quote": "The platform is monitoring for ergonomic risk... We're using the Posture Risk Index assessment, Rapid Entire Body Assessment, to understand whether that bend has exceeded an ergonomic risk from a repetitive motion perspective.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:21:39]"
+          },
+          {
+            "quote": "as she is bending over and picking up this tote... object in hand sees repetitive motion. That's an improper bend.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:24:00]"
+          },
+          {
+            "quote": "From this warehouse perspective, pallet stacking is always a challenge... That's an unnecessary material handling there.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:24:34]"
+          }
+        ]
+      },
+      {
+        "label": "PPE compliance monitoring (including eye protection)",
+        "description": "Detect when required PPE is not worn in designated areas (e.g., hair/beard nets, gloves, eye protection) and surface events to coach compliance.",
+        "evidence": [
+          {
+            "quote": "or if there are any PPE, folks not wearing it,",
+            "speaker": "Emerson Whitaker <fake.emerson.whitaker@falconpointfabrication.com>",
+            "timestamp": "[00:03:00]"
+          },
+          {
+            "quote": "We monitor, are we wearing the appropriate PPE at the appropriate time in the appropriate area?",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:22:07]"
+          },
+          {
+            "quote": "the midnight shift that sanitizes the equipment is pushing chemicals through the fence to an individual standing on its stool without eye protection, potentially slip trip, fall hazard, burn hazard, you name it.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:31:28]"
+          }
+        ]
+      },
+      {
+        "label": "No-pedestrian zones and area controls (rollers, spills)",
+        "description": "Define exclusion zones (e.g., conveyors/rollers) and detect violations, spills, and other area hazards to prevent unsafe access and slip/trip incidents.",
+        "evidence": [
+          {
+            "quote": "We've got area controls. We'll touch on these a little bit. Maybe some liquid spills, open door durations, no pedestrian zones,",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:22:36]"
+          },
+          {
+            "quote": "I can draw a zone that says nobody should ever get up on a roll... we've got the individual coming up here, jumping up on top of those rollers, ready to loosen it up. That could have come flying right at them.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:28:57]"
+          }
+        ]
+      },
+      {
+        "label": "Heat maps to locate safety hotspots and guide pre-shift coaching",
+        "description": "Visualize where incidents occur by area and shift so safety leaders can target coaching and process changes in the highest-risk zones.",
+        "evidence": [
+          {
+            "quote": "We have a concept called heat maps. The heat maps, just like a weather map, tells me where the lightning is striking, tells me where to focus my attention.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:30:31]"
+          },
+          {
+            "quote": "Is it possible to generate a heat map of the facility of where cameras are noticing the most frequent incidents?",
+            "speaker": "Shiloh Dover <fake.shiloh.dover@bluebasesupply.com>",
+            "timestamp": "[00:38:01]"
+          },
+          {
+            "quote": "This heat map drew their eyes to that very quickly and said, hey, stop what you're doing.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:32:01]"
+          }
+        ]
+      },
+      {
+        "label": "Cold storage door/condensation/ice monitoring (safety and energy)",
+        "description": "Detect open doors, condensation, and ice formation in cold storage to prevent slip/trip/fall hazards and reduce energy loss.",
+        "evidence": [
+          {
+            "quote": "tremendous use cases in cold storage, not only for safety, but energy consumption, open doors, condensation, ice falling on the floor, slip-trip fall hazard.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:40:13]"
+          },
+          {
+            "quote": "I saved hundreds of thousands of dollars in energy just by noticing that there was a door that was two feet open in Modesto, California, about two days a week.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:40:49]"
+          }
+        ]
+      },
+      {
+        "label": "Suspended load exposure monitoring",
+        "description": "Detect workers under suspended loads/hoists beyond allowed angles to prevent struck-by or crush hazards.",
+        "evidence": [
+          {
+            "quote": "bringing in suspended loads as an example. Customer-driven use case. I needed to have hoists and know that people want 45 degrees under any suspended load in the facility.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:37:35]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Cold storage door monitoring for energy savings",
+        "description": "Identify open doors in refrigerated areas to reduce energy waste and associated costs.",
+        "evidence": [
+          {
+            "quote": "tremendous use cases in cold storage, not only for safety, but energy consumption, open doors, condensation, ice falling on the floor, slip-trip fall hazard.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:40:13]"
+          },
+          {
+            "quote": "I saved hundreds of thousands of dollars in energy just by noticing that there was a door that was two feet open in Modesto, California, about two days a week.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:40:49]"
+          }
+        ]
+      },
+      {
+        "label": "Operations analytics: congestion and repeated task measurement",
+        "description": "Use computer vision to quantify operational slowdowns (e.g., congestion) and rework/repeat tasks to inform process improvements.",
+        "evidence": [
+          {
+            "quote": "how frequently are operators stopped because of congestion, right? Is there a way to tally something as simple as that? How often does an operator have to repeat a task?",
+            "speaker": "Shiloh Dover <fake.shiloh.dover@bluebasesupply.com>",
+            "timestamp": "[00:47:20]"
+          },
+          {
+            "quote": "looking for us to come to the table with some ideas on some material handling best practices and optimization.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:48:01]"
+          },
+          {
+            "quote": "Operations is one, absolutely, that we have on our short list.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:48:11]"
+          }
+        ]
+      },
+      {
+        "label": "Quality inspection via computer vision",
+        "description": "Apply CV to detect product or process defects (e.g., ink/tears on paper, weld quality, dimensional checks) for QA purposes.",
+        "evidence": [
+          {
+            "quote": "The other is quality. So a lot of our customers in the manufacturing world are saying, hey, I need to be able to, I can see using this for quality.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:48:46]"
+          },
+          {
+            "quote": "If I'm a paper — it might be looking for ink or tears or dots. If I'm an automotive stamping facility, it might be looking for weld quality or outside diameter of a precision drill.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:49:01]"
+          }
+        ]
+      }
+    ]
+  }
+}

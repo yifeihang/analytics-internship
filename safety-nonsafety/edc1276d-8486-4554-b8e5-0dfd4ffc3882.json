@@ -1,0 +1,112 @@
+{
+  "meeting_title": "Kelsey Everett Technical Deep Dive - Voxel AI",
+  "start_time": "2022-12-05T20:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Working at heights detection",
+        "description": "POC focus on detecting and alerting for working-at-heights activities/violations, with tuned clip durations and appropriate camera placement.",
+        "evidence": [
+          {
+            "quote": "And the POC is mostly working at heights, so I think we should be hyper-specific for our before and after there.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:16:30]"
+          },
+          {
+            "quote": "know that Aaron's told me previously that the scope for the POC is just working at heights,",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:24:16]"
+          },
+          {
+            "quote": "It's primarily working at height, so there's some nuance to the placement of those cameras in terms of, you know, what you want to look at and what angle you want to look at things so that you can, you know, have the most accurate, you know, and most precise experience possible.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:35:01]"
+          }
+        ]
+      },
+      {
+        "label": "Forklift–pedestrian near-miss detection",
+        "description": "Monitor forklift safety to detect and review near misses between forklifts and pedestrians; enable this incident type on selected cameras during the POC.",
+        "evidence": [
+          {
+            "quote": "one of the videos you guys sent as part of the RFP process, was the forklift pedestrian near misses, we're happy to kind of enable those so you can see it.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:24:26]"
+          },
+          {
+            "quote": "Our software kind of comes with all of our use cases, like forklift safety and ergonomics.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:23:44]"
+          }
+        ]
+      },
+      {
+        "label": "No‑pedestrian zone intrusion",
+        "description": "Detect when people enter designated no‑pedestrian zones (e.g., around rollers), with configurable duration thresholds.",
+        "evidence": [
+          {
+            "quote": "we say, hey, this region, the camera, nobody's supposed to be walking in it. So it's called the no-ped zone.",
+            "speaker": "Sawyer Turner <fake.sawyer.turner@voxelai.com>",
+            "timestamp": "[00:12:05]"
+          },
+          {
+            "quote": "Usually it's like, hey, a noped zone is a very specific, very prescriptive one, like rollers or something.",
+            "speaker": "Sawyer Turner <fake.sawyer.turner@voxelai.com>",
+            "timestamp": "[00:16:13]"
+          }
+        ]
+      },
+      {
+        "label": "Obstruction/blocking pathway detection",
+        "description": "Identify when pathways are blocked and measure how long obstructions persist to support clearance and egress safety.",
+        "evidence": [
+          {
+            "quote": "Some of the longer videos that we see are routinely around obstructions because you not only want to track and identify that something is blocking a pathway, but maybe how long it's been.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:16:50]"
+          }
+        ]
+      },
+      {
+        "label": "Spill detection",
+        "description": "Detect spill events as safety incidents and capture relevant video clips for review.",
+        "evidence": [
+          {
+            "quote": "I know we used to do longer for certain types, like for a spill, would be sitting there for like hours, and so we'd give you like a five-minute clip, but that just gave additional load for no real benefit, and so we've trimmed that down a bit,",
+            "speaker": "Sawyer Turner <fake.sawyer.turner@voxelai.com>",
+            "timestamp": "[00:15:16]"
+          }
+        ]
+      },
+      {
+        "label": "Ergonomics risk detection",
+        "description": "Monitor ergonomics-related risks as part of the platform’s available incident types.",
+        "evidence": [
+          {
+            "quote": "Our software kind of comes with all of our use cases, like forklift safety and ergonomics.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:23:44]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "No‑parking zone enforcement",
+        "description": "Alert when vehicles or equipment are parked in restricted zones longer than a set threshold to support site compliance.",
+        "evidence": [
+          {
+            "quote": "We'd enable certain incident types. Like for example, I mentioned a no pedestrian zone or a no parking zone.",
+            "speaker": "Sawyer Turner <fake.sawyer.turner@voxelai.com>",
+            "timestamp": "[00:22:27]"
+          },
+          {
+            "quote": "So like, hey, if you're parked in this area for more than 10 seconds, then give me an incident, right?",
+            "speaker": "Sawyer Turner <fake.sawyer.turner@voxelai.com>",
+            "timestamp": "[00:22:33]"
+          }
+        ]
+      }
+    ]
+  }
+}

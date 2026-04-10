@@ -1,0 +1,306 @@
+{
+  "meeting_title": "Voxel Safety Intro: Copper Forge Industrial",
+  "start_time": "2022-05-26T20:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Automated near-miss detection and hotspot visibility in DC",
+        "description": "Use Voxel to automatically detect near misses and identify high-risk areas across the million-square-foot distribution center to improve proactive safety oversight.",
+        "evidence": [
+          {
+            "quote": "We do get a lot of close calls, though.",
+            "speaker": "Jamie Flynn <fake.jamie.flynn@copperforgeindustrial.com>",
+            "timestamp": "[00:02:12]"
+          },
+          {
+            "quote": "Now, if I'm not mistaken, this thing will kind of help identify those areas?",
+            "speaker": "Jamie Flynn <fake.jamie.flynn@copperforgeindustrial.com>",
+            "timestamp": "[00:02:15]"
+          },
+          {
+            "quote": "And we would detect safety risks and near misses in real time.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:02:33]"
+          }
+        ]
+      },
+      {
+        "label": "Forklift/PIT behavior monitoring (speeding, stops, proximity) during peak loading",
+        "description": "Monitor forklift operations to catch failures to stop at intersections, speeding, and pedestrian/vehicle near-misses, especially during the high-traffic loading window each afternoon.",
+        "evidence": [
+          {
+            "quote": "Because come 3 o'clock in the afternoon is when they start loading trailers, and that's when everybody kind of condenses down and starts putting things away real quick.",
+            "speaker": "Jamie Flynn <fake.jamie.flynn@copperforgeindustrial.com>",
+            "timestamp": "[00:15:37]"
+          },
+          {
+            "quote": "And for about a couple of hours out of the day, it's almost ridiculous the forklift traffic that's going.",
+            "speaker": "Jamie Flynn <fake.jamie.flynn@copperforgeindustrial.com>",
+            "timestamp": "[00:15:51]"
+          },
+          {
+            "quote": "But they don't have a whole lot of forklift incidents, but I know they've had a lot of close ones.",
+            "speaker": "Jamie Flynn <fake.jamie.flynn@copperforgeindustrial.com>",
+            "timestamp": "[00:16:04]"
+          },
+          {
+            "quote": "We can do things around speeding, stopping at intersections, and near misses.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:13:55]"
+          },
+          {
+            "quote": "This is an example of a forklift not stopping at an intersection.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:32:40]"
+          }
+        ]
+      },
+      {
+        "label": "Ergonomics risk detection (improper bending, overreaching, heavy lifts)",
+        "description": "Detect improper lifting posture and overreaching to reduce MSD risk, including handling 60–a heavy load rubber rolls where workers may lift improperly despite available aids.",
+        "evidence": [
+          {
+            "quote": "That middle one that you got the improper bend or whatever, that's what would come in handy for us as well.",
+            "speaker": "Jamie Flynn <fake.jamie.flynn@copperforgeindustrial.com>",
+            "timestamp": "[00:18:21]"
+          },
+          {
+            "quote": "Because, I mean, we're dealing with anything from 60 to a heavy load roll of rubber also.",
+            "speaker": "Jamie Flynn <fake.jamie.flynn@copperforgeindustrial.com>",
+            "timestamp": "[00:18:28]"
+          },
+          {
+            "quote": "And they've been given every possible lift combination there is, and they still choose to throw them over their shoulder.",
+            "speaker": "Jamie Flynn <fake.jamie.flynn@copperforgeindustrial.com>",
+            "timestamp": "[00:18:34]"
+          },
+          {
+            "quote": "So we're looking at like lifting posture, overreaching, improper bending.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:13:38]"
+          }
+        ]
+      },
+      {
+        "label": "Detect unsafe pallet behaviors to reduce ankle injuries",
+        "description": "Identify walking-on-pallet behaviors and issues with aging/unsound pallets that contribute to rolled ankles and other lower-extremity injuries.",
+        "evidence": [
+          {
+            "quote": "Well, right now, there was a big uptick, like I said, in the ankles to the point where they were almost going to start requiring boots.",
+            "speaker": "Jamie Flynn <fake.jamie.flynn@copperforgeindustrial.com>",
+            "timestamp": "[00:16:23]"
+          },
+          {
+            "quote": "So most of our stuff is shoulders, ankles, you know, lots of rolled ankles when you're walking on pallets and stuff like that.",
+            "speaker": "Jamie Flynn <fake.jamie.flynn@copperforgeindustrial.com>",
+            "timestamp": "[00:06:02]"
+          },
+          {
+            "quote": "And they're structurally not sound anymore.",
+            "speaker": "Jamie Flynn <fake.jamie.flynn@copperforgeindustrial.com>",
+            "timestamp": "[00:16:45]"
+          },
+          {
+            "quote": "Yeah, we're definitely going to be able to help with identifying pallet behavior.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:17:03]"
+          }
+        ]
+      },
+      {
+        "label": "No-pedestrian zone monitoring (e.g., conveyors/rollers)",
+        "description": "Define and monitor no-pedestrian zones such as conveyors/rollers to flag entries in hazardous areas and reduce lower-extremity injury risks.",
+        "evidence": [
+          {
+            "quote": "So when you get this set up, for instance, if we went with this type of deal, would we have to flag, like, the no pedestrian zones and, you know what I mean?",
+            "speaker": "Jamie Flynn <fake.jamie.flynn@copperforgeindustrial.com>",
+            "timestamp": "[00:37:36]"
+          },
+          {
+            "quote": "So in this case, they don't want anyone on the conveyor or the roller here, but it happens all the time because these pallets get stuck.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:36:49]"
+          },
+          {
+            "quote": "And you could tell me, okay, that no pedestrian zone is going to be here.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:38:32]"
+          }
+        ]
+      },
+      {
+        "label": "Use incident videos for safety training and coaching (with privacy blurring)",
+        "description": "Leverage flagged video clips in new-employee training and coaching, optionally with body blurring for privacy or broader sharing.",
+        "evidence": [
+          {
+            "quote": "The goal is not necessarily to be punitive or, like, use this as a punishment tool, but rather just improve visibility in the near misses, and you can incorporate into new employee training, your existing safety programs, and things of that nature.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:06:25]"
+          },
+          {
+            "quote": "So if you want to use videos for like training or coaching in a more public setting, we can blur the videos for you.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:31:00]"
+          },
+          {
+            "quote": "But, yeah, if you had it all on video, can't really argue with that.",
+            "speaker": "Jamie Flynn <fake.jamie.flynn@copperforgeindustrial.com>",
+            "timestamp": "[00:48:14]"
+          }
+        ]
+      },
+      {
+        "label": "Retail shop safety monitoring (tire inflation, lifts/blocking, falling tires)",
+        "description": "Apply Voxel in retail tire service shops to monitor hazardous tasks like tire inflation and vehicle lifting/blocking, given recent serious injuries in stores.",
+        "evidence": [
+          {
+            "quote": "We haven't had a very good year in the retail side of things at the stores.",
+            "speaker": "Jamie Flynn <fake.jamie.flynn@copperforgeindustrial.com>",
+            "timestamp": "[00:05:13]"
+          },
+          {
+            "quote": "There's been several pretty serious injuries.",
+            "speaker": "Jamie Flynn <fake.jamie.flynn@copperforgeindustrial.com>",
+            "timestamp": "[00:05:16]"
+          },
+          {
+            "quote": "We had a 20-year-old girl, blew a tire up while she was standing over it, threw her back about eight feet, cut her up across the front, and shot air where it wasn't supposed to go in a bad way.",
+            "speaker": "Jamie Flynn <fake.jamie.flynn@copperforgeindustrial.com>",
+            "timestamp": "[00:05:21]"
+          },
+          {
+            "quote": "And then we've had a couple pickups fall, like they didn't leave the blocks up when they had them on the lift, and they weren't paying attention, and they rolled to check them while somebody's walking behind them and it rolled off.",
+            "speaker": "Jamie Flynn <fake.jamie.flynn@copperforgeindustrial.com>",
+            "timestamp": "[00:05:35]"
+          },
+          {
+            "quote": "How would it work, though, if you, like I said, you're not really into the retail part yet, but you think that might be coming?",
+            "speaker": "Jamie Flynn <fake.jamie.flynn@copperforgeindustrial.com>",
+            "timestamp": "[00:49:11]"
+          }
+        ]
+      },
+      {
+        "label": "Quantify impact of safety interventions with leading indicators and markers",
+        "description": "Track trends in risky behaviors and use markers to correlate training or engineering changes with reductions in risk to quantify impact before injury data arrives.",
+        "evidence": [
+          {
+            "quote": "We can incorporate, you can see the small note here, we can incorporate these things called markers to show safety, training changes, behavior changes, conversations, to see what the impact is of the changes that we're making from a safety perspective.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:12:34]"
+          },
+          {
+            "quote": "But now we can actually look at the leading indicator data to say, okay, we added more lift tables, or we've done X, Y, and Z.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:13:00]"
+          },
+          {
+            "quote": "We've added a stop sign here to try to change forklift driving behaviors.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:13:07]"
+          },
+          {
+            "quote": "Now we can have a really good indication of has that been impactful or not.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:13:13]"
+          }
+        ]
+      },
+      {
+        "label": "Assign and track safety actions with role-based access",
+        "description": "Route flagged clips to the responsible supervisor for coaching, track action completion, and limit user visibility by role/shift to reduce inter-shift friction.",
+        "evidence": [
+          {
+            "quote": "I can take the video and send it to Bill and say, hey, this is what you guys are doing right now.",
+            "speaker": "Jamie Flynn <fake.jamie.flynn@copperforgeindustrial.com>",
+            "timestamp": "[00:33:49]"
+          },
+          {
+            "quote": "It gets an email with this video gets sent to Bill.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:34:01]"
+          },
+          {
+            "quote": "So you can add whoever you want to, to have access to this and not everyone has to be able to see everything.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:35:21]"
+          },
+          {
+            "quote": "So I can go here, click edit role, and I can kind of pick what level of access they should get to that site.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:35:36]"
+          },
+          {
+            "quote": "Like there's always a battle between the shifts and the supervisors.",
+            "speaker": "Jamie Flynn <fake.jamie.flynn@copperforgeindustrial.com>",
+            "timestamp": "[00:36:15]"
+          },
+          {
+            "quote": "So, yeah, if you could limit, like I wouldn't have to show our swing shift guy that they shift stuff or vice versa because then those two like to, you know, get after each other.",
+            "speaker": "Jamie Flynn <fake.jamie.flynn@copperforgeindustrial.com>",
+            "timestamp": "[00:36:28]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Quantify impact of safety interventions with leading indicators and markers",
+        "description": "Track trends and use markers to correlate program or engineering changes with risk reductions, providing measurable impact and ROI before injury data accrues.",
+        "evidence": [
+          {
+            "quote": "We can incorporate, you can see the small note here, we can incorporate these things called markers to show safety, training changes, behavior changes, conversations, to see what the impact is of the changes that we're making from a safety perspective.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:12:34]"
+          },
+          {
+            "quote": "But now we can actually look at the leading indicator data to say, okay, we added more lift tables, or we've done X, Y, and Z.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:13:00]"
+          },
+          {
+            "quote": "We've added a stop sign here to try to change forklift driving behaviors.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:13:07]"
+          },
+          {
+            "quote": "Now we can have a really good indication of has that been impactful or not.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:13:13]"
+          }
+        ]
+      },
+      {
+        "label": "Assign and track safety actions with role-based access",
+        "description": "Use an assignment workflow to route clips to the right supervisors, track completion, and tailor access by role/shift to streamline follow-up and reduce friction.",
+        "evidence": [
+          {
+            "quote": "I can take the video and send it to Bill and say, hey, this is what you guys are doing right now.",
+            "speaker": "Jamie Flynn <fake.jamie.flynn@copperforgeindustrial.com>",
+            "timestamp": "[00:33:49]"
+          },
+          {
+            "quote": "It gets an email with this video gets sent to Bill.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:34:01]"
+          },
+          {
+            "quote": "So you can add whoever you want to, to have access to this and not everyone has to be able to see everything.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:35:21]"
+          },
+          {
+            "quote": "So I can go here, click edit role, and I can kind of pick what level of access they should get to that site.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:35:36]"
+          },
+          {
+            "quote": "So, yeah, if you could limit, like I wouldn't have to show our swing shift guy that they shift stuff or vice versa because then those two like to, you know, get after each other.",
+            "speaker": "Jamie Flynn <fake.jamie.flynn@copperforgeindustrial.com>",
+            "timestamp": "[00:36:28]"
+          }
+        ]
+      }
+    ]
+  }
+}

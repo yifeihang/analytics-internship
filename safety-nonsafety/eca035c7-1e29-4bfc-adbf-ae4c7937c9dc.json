@@ -1,0 +1,141 @@
+{
+  "meeting_title": "Forge Axis Solutions / Voxel Bi-Weekly Sync",
+  "start_time": "2024-01-23T18:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Detect safety glasses (PPE) presence",
+        "description": "Customer wants the system to detect whether people are wearing glasses/safety eyewear to support PPE compliance, even if it can’t distinguish prescription vs. safety glasses.",
+        "evidence": [
+          {
+            "quote": "We wanted to ask, does the system, could the system check for glasses?",
+            "speaker": "Kit Peyton <fake.kit.peyton@forgeaxissolutions.com>",
+            "timestamp": "[00:02:15]"
+          },
+          {
+            "quote": "No, you're like safety glasses?",
+            "speaker": "Kit Peyton <fake.kit.peyton@forgeaxissolutions.com>",
+            "timestamp": "[00:02:26]"
+          },
+          {
+            "quote": "I know it probably wouldn't, yeah, wouldn't differ, it wouldn't, I know it'd be hard for it to tell whether prescription or safety glasses, but just glasses in general.",
+            "speaker": "Kit Peyton <fake.kit.peyton@forgeaxissolutions.com>",
+            "timestamp": "[00:02:29]"
+          },
+          {
+            "quote": "Not at this time, but that is something the team may consider in the future.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:02:41]"
+          }
+        ]
+      },
+      {
+        "label": "Monitor no-pedestrian zones and hotspots",
+        "description": "Use Voxel to capture and quantify no-ped zone events, identify high-risk areas (assembly cells and tempering), review videos, and inform changes.",
+        "evidence": [
+          {
+            "quote": "I mean, the thing that stands out is that, you know, the no-ped zone.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:03:31]"
+          },
+          {
+            "quote": "Y'all have, in the last about a month, a little over 41,000.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:03:36]"
+          },
+          {
+            "quote": "Yeah, and we know our big areas is between our assembly cells and then over in tempering.",
+            "speaker": "Kit Peyton <fake.kit.peyton@forgeaxissolutions.com>",
+            "timestamp": "[00:04:04]"
+          },
+          {
+            "quote": "So, yeah, it is capturing, and we are looking at the videos.",
+            "speaker": "Kit Peyton <fake.kit.peyton@forgeaxissolutions.com>",
+            "timestamp": "[00:04:11]"
+          },
+          {
+            "quote": "We just, it'll be a big project to put in and make changes and such.",
+            "speaker": "Kit Peyton <fake.kit.peyton@forgeaxissolutions.com>",
+            "timestamp": "[00:04:15]"
+          }
+        ]
+      },
+      {
+        "label": "Ergonomics risk monitoring",
+        "description": "Leverage the system for ergonomic-related observations in addition to pedestrian safety.",
+        "evidence": [
+          {
+            "quote": "It's been so helpful, not just for like the pedestrian stuff or the ergonomic stuff, but we've had some incidents where we've been able to go back and look at those because of the cameras just simply being there.",
+            "speaker": "Kit Peyton <fake.kit.peyton@forgeaxissolutions.com>",
+            "timestamp": "[00:05:14]"
+          }
+        ]
+      },
+      {
+        "label": "Post-incident video review",
+        "description": "Use camera footage to review incidents after they occur to understand what happened.",
+        "evidence": [
+          {
+            "quote": "we've had some incidents where we've been able to go back and look at those because of the cameras just simply being there.",
+            "speaker": "Kit Peyton <fake.kit.peyton@forgeaxissolutions.com>",
+            "timestamp": "[00:05:19]"
+          }
+        ]
+      },
+      {
+        "label": "Assign incidents and track accountability",
+        "description": "Share the platform with managers/supervisors to assign safety follow-ups and track open/resolved actions and accountability.",
+        "evidence": [
+          {
+            "quote": "we do want to get it to the managers and supervisors so then we can actually start assigning stuff to the supervisors.",
+            "speaker": "Kit Peyton <fake.kit.peyton@forgeaxissolutions.com>",
+            "timestamp": "[00:05:41]"
+          },
+          {
+            "quote": "And so it's going to be different the way that you assign incidents.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:07:28]"
+          },
+          {
+            "quote": "So you're going to be able to report out on, like, what actions were open, what are resolved, and what is going on.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:08:36]"
+          },
+          {
+            "quote": "And we're really going to be able just to track that accountability piece more than we can today.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:09:32]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Assign incidents and track accountability",
+        "description": "Share the platform with managers/supervisors to assign follow-ups and use enhanced reporting to track open/resolved actions and accountability.",
+        "evidence": [
+          {
+            "quote": "we do want to get it to the managers and supervisors so then we can actually start assigning stuff to the supervisors.",
+            "speaker": "Kit Peyton <fake.kit.peyton@forgeaxissolutions.com>",
+            "timestamp": "[00:05:41]"
+          },
+          {
+            "quote": "And so it's going to be different the way that you assign incidents.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:07:28]"
+          },
+          {
+            "quote": "So you're going to be able to report out on, like, what actions were open, what are resolved, and what is going on.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:08:36]"
+          },
+          {
+            "quote": "And we're really going to be able just to track that accountability piece more than we can today.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:09:32]"
+          }
+        ]
+      }
+    ]
+  }
+}

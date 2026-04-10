@@ -1,0 +1,175 @@
+{
+  "meeting_title": "Voxel<>Beacon Line Supply Intro ",
+  "start_time": "2023-05-08T15:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Near-miss detection and proactive monitoring",
+        "description": "Use computer vision to detect near misses and people–equipment interactions to enable proactive intervention before incidents occur.",
+        "evidence": [
+          {
+            "quote": "how it picks up near misses, people and equipment interactions, and then the data compilation and interactive reporting if we want our foremen to get those, or if we want to keep it in the HSC department at first, so we can take a more proactive approach before issues become bigger problems.",
+            "speaker": "Arden Rutherford <fake.arden.rutherford@beaconlinesupply.com>",
+            "timestamp": "[00:12:00]"
+          },
+          {
+            "quote": "We want to get to where we're in front of it in a more proactive.",
+            "speaker": "Arden Rutherford <fake.arden.rutherford@beaconlinesupply.com>",
+            "timestamp": "[00:17:00]"
+          },
+          {
+            "quote": "Leading indicator type scenario that are lagging.",
+            "speaker": "Arden Rutherford <fake.arden.rutherford@beaconlinesupply.com>",
+            "timestamp": "[00:17:00]"
+          }
+        ]
+      },
+      {
+        "label": "Forklift and vehicle–pedestrian interaction monitoring",
+        "description": "Monitor equipment–employee interfaces, material movement, and traffic flow to reduce collision and near-collision risks in a consolidated facility.",
+        "evidence": [
+          {
+            "quote": "the equipment and employee interface, right? Loading, unloading material to, you know, movie material.",
+            "speaker": "Arden Rutherford <fake.arden.rutherford@beaconlinesupply.com>",
+            "timestamp": "[00:19:40]"
+          },
+          {
+            "quote": "in the new facility, in or around other shops, because we're going to be in one house.",
+            "speaker": "Arden Rutherford <fake.arden.rutherford@beaconlinesupply.com>",
+            "timestamp": "[00:19:20]"
+          },
+          {
+            "quote": "but we're ramping up. We could very well see 100 to 200 in that facility, in and around equipment, and not only like forklifts, but also rotating equipment, saws, and so on and so forth.",
+            "speaker": "Arden Rutherford <fake.arden.rutherford@beaconlinesupply.com>",
+            "timestamp": "[00:20:00]"
+          }
+        ]
+      },
+      {
+        "label": "Ergonomic risk detection and coaching",
+        "description": "Identify ergonomic strain risks (e.g., bending behaviors) across fabrication tasks to reduce injuries.",
+        "evidence": [
+          {
+            "quote": "Well, a lot of it is ergonomics with what we do and what we make.",
+            "speaker": "Arden Rutherford <fake.arden.rutherford@beaconlinesupply.com>",
+            "timestamp": "[00:19:05]"
+          }
+        ]
+      },
+      {
+        "label": "PPE compliance and restricted area controls",
+        "description": "Enforce PPE requirements and zone controls (e.g., welding areas) by alerting when people enter without proper PPE.",
+        "evidence": [
+          {
+            "quote": "Maybe there is a welding area that, you know, if you're not wearing the proper PPE, people can't be in that area.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:24:27]"
+          },
+          {
+            "quote": "the ergonomics, PPE, vehicle safety, and area, yeah, spills, yeah, that's our environmental, yeah, all that looks good.",
+            "speaker": "Arden Rutherford <fake.arden.rutherford@beaconlinesupply.com>",
+            "timestamp": "[00:25:00]"
+          }
+        ]
+      },
+      {
+        "label": "Spill detection and timely cleanup alerts",
+        "description": "Detect spills (e.g., paint) and alert if not cleaned within a set time to prevent slip/trip hazards and environmental issues.",
+        "evidence": [
+          {
+            "quote": "maybe you guys are painting something within the facility and paint spills. Well, I want to be alerted if the paint is sitting on the ground for more than a few minutes and no one's cleaning it up. We're going to be able to alert you in real time that that happened.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:24:11]"
+          },
+          {
+            "quote": "spills, yeah, that's our environmental, yeah, all that looks good.",
+            "speaker": "Arden Rutherford <fake.arden.rutherford@beaconlinesupply.com>",
+            "timestamp": "[00:25:00]"
+          }
+        ]
+      },
+      {
+        "label": "Safety analytics and interactive reporting across shops",
+        "description": "Compile safety data into interactive reports for foremen and HSC to drive leading indicators, recognition programs, and cross-shop communication.",
+        "evidence": [
+          {
+            "quote": "interactive reporting if we want our foreman to get those, or we just want to keep it in the HSC department and then ease into that at an earlier date",
+            "speaker": "Arden Rutherford <fake.arden.rutherford@beaconlinesupply.com>",
+            "timestamp": "[00:12:00]"
+          },
+          {
+            "quote": "We have a reporting process as well as an inspection process and an observation. We use a system called HammerTech. We enter all that data, but that's lagging indicators is what they are.",
+            "speaker": "Arden Rutherford <fake.arden.rutherford@beaconlinesupply.com>",
+            "timestamp": "[00:16:31]"
+          },
+          {
+            "quote": "We could tie a recognition program to it, right, if they bring it up versus AI bringing it up and then having the discussions and building more of a collaborative effort because we've got five different shops, right?",
+            "speaker": "Arden Rutherford <fake.arden.rutherford@beaconlinesupply.com>",
+            "timestamp": "[00:18:00]"
+          },
+          {
+            "quote": "And the value I see in this system is it's communication across the board, right?... You're not siloing the information. It's overall, how is our fabrication shop performing when it comes to safety?",
+            "speaker": "Arden Rutherford <fake.arden.rutherford@beaconlinesupply.com>",
+            "timestamp": "[00:18:26]"
+          }
+        ]
+      },
+      {
+        "label": "Incident investigation via video review",
+        "description": "Use recorded camera footage to review and investigate safety incidents after they occur.",
+        "evidence": [
+          {
+            "quote": "New facility, security cameras are going in, and they're going to be used for, like, security. And then, honestly, I'm the district HSC manager, so if they have any incidents, we can go back to the video and try to do some investigation type work, and so on and so forth.",
+            "speaker": "Arden Rutherford <fake.arden.rutherford@beaconlinesupply.com>",
+            "timestamp": "[00:11:40]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Facility security monitoring with CCTV",
+        "description": "Deploy cameras in the new facility primarily for security purposes.",
+        "evidence": [
+          {
+            "quote": "New facility, security cameras are going in, and they're going to be used for, like, security.",
+            "speaker": "Arden Rutherford <fake.arden.rutherford@beaconlinesupply.com>",
+            "timestamp": "[00:11:40]"
+          }
+        ]
+      },
+      {
+        "label": "Open door monitoring for security",
+        "description": "Alert when doors are left open or open unexpectedly to address security concerns.",
+        "evidence": [
+          {
+            "quote": "I mean, I like the open door thing for the security reasons too as well.",
+            "speaker": "Arden Rutherford <fake.arden.rutherford@beaconlinesupply.com>",
+            "timestamp": "[00:24:52]"
+          }
+        ]
+      },
+      {
+        "label": "Safety analytics and interactive reporting across shops",
+        "description": "Compile safety data into interactive reports for foremen and HSC to support performance tracking and cross-team communication.",
+        "evidence": [
+          {
+            "quote": "interactive reporting if we want our foreman to get those, or we just want to keep it in the HSC department and then ease into that at an earlier date",
+            "speaker": "Arden Rutherford <fake.arden.rutherford@beaconlinesupply.com>",
+            "timestamp": "[00:12:00]"
+          },
+          {
+            "quote": "We have a reporting process as well as an inspection process and an observation. We use a system called HammerTech. We enter all that data, but that's lagging indicators is what they are.",
+            "speaker": "Arden Rutherford <fake.arden.rutherford@beaconlinesupply.com>",
+            "timestamp": "[00:16:31]"
+          },
+          {
+            "quote": "And the value I see in this system is it's communication across the board, right?... You're not siloing the information. It's overall, how is our fabrication shop performing when it comes to safety?",
+            "speaker": "Arden Rutherford <fake.arden.rutherford@beaconlinesupply.com>",
+            "timestamp": "[00:18:26]"
+          }
+        ]
+      }
+    ]
+  }
+}

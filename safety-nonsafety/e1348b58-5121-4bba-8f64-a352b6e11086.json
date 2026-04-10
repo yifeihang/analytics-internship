@@ -1,0 +1,151 @@
+{
+  "meeting_title": "Riley Winslow - Atlas Signal Materials",
+  "start_time": "2023-07-24T16:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Housekeeping and egress obstruction monitoring",
+        "description": "Detect and alert on goods placed in the wrong area, pallets left in drive aisles, and blocked fire extinguishers/electrical panels/emergency exits, with configurable time thresholds.",
+        "evidence": [
+          {
+            "quote": "Like maybe you have goods that are placed in the wrong area, like you don't want to choke off a pedestrian pathway or a powered industrial truck pathway, or maybe somebody leaves a pallet in the middle of one of your drive aisles, and that's all time adjustable, you know.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:25:17]"
+          },
+          {
+            "quote": "So you don't care if it's there for a minute or two because they're working off that pallet.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:25:30]"
+          },
+          {
+            "quote": "But if it gets left there for a couple hours or tens of minutes, you want to know.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:25:34]"
+          },
+          {
+            "quote": "Same thing for like blocking your fire extinguishers, your electrical panels, you know, your emergency exits or egress areas.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:25:37]"
+          }
+        ]
+      },
+      {
+        "label": "Working under suspended loads detection",
+        "description": "Identify and alert when people are working under suspended loads (e.g., under grapplers) to mitigate critical risks.",
+        "evidence": [
+          {
+            "quote": "So one of them being like working under suspended loads.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:27:10]"
+          },
+          {
+            "quote": "So big concern for them anytime somebody gets under one of those grapplers.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:27:17]"
+          }
+        ]
+      },
+      {
+        "label": "Working at heights/climbing racks detection",
+        "description": "Detect individuals climbing into storage racks to prevent falls and enforce safe work-at-heights practices.",
+        "evidence": [
+          {
+            "quote": "Another one that we did that you would be able to take advantage of out of the gate would be working at heights.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:27:33]"
+          },
+          {
+            "quote": "So people climbing up and into those racks",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:27:38]"
+          }
+        ]
+      },
+      {
+        "label": "Ergonomic risk assessment via cameras",
+        "description": "Use appropriately angled camera views to analyze worker ergonomics and flag risky postures or motions.",
+        "evidence": [
+          {
+            "quote": "So like, if you think about like directly overhead, and if I was looking down on somebody and you wanted to look at them from an ergonomic perspective, it's a little bit more difficult.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:22:18]"
+          },
+          {
+            "quote": "It's not impossible, it's a little more difficult because it's truly a 2D view.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:22:26]"
+          },
+          {
+            "quote": "But if you add any angulation to that whatsoever, the ergonomic models pick right up",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:22:29]"
+          }
+        ]
+      },
+      {
+        "label": "Unwrapped pallet/shrink-wrap tails (“kigtails”) detection in racks",
+        "description": "Atlas Signal Materials asked about detecting unwrapped pallets or torn shrink wrap in reserves/top stock and receiving alerts when these conditions are present.",
+        "evidence": [
+          {
+            "quote": "Just as an example, in our racks, the equipment operators that leave circumstances in those racks that are less than ideal, unwrapped pallets of rotors, things like that.",
+            "speaker": "Hayden Wilder",
+            "timestamp": "[00:24:42]"
+          },
+          {
+            "quote": "Does this technology identify circumstance as well as behavior?",
+            "speaker": "Hayden Wilder",
+            "timestamp": "[00:24:55]"
+          },
+          {
+            "quote": "here's an area of our reserves, a.k.a. top stock, that is what we refer to as kigtails, right?",
+            "speaker": "Rowan Weston <fake.rowan.weston@atlassignalmaterials.com>",
+            "timestamp": "[00:26:10]"
+          },
+          {
+            "quote": "It's the torn shrink wrap blowing in the wind.",
+            "speaker": "Rowan Weston <fake.rowan.weston@atlassignalmaterials.com>",
+            "timestamp": "[00:26:15]"
+          },
+          {
+            "quote": "Is that something that if we said, hey, take the next several months to develop it so that it captures this and send us an alert that this is an unwrapped pallet?",
+            "speaker": "Rowan Weston <fake.rowan.weston@atlassignalmaterials.com>",
+            "timestamp": "[00:26:18]"
+          },
+          {
+            "quote": "The example that you identified there isn't necessarily something that we're currently supporting, but really when it comes to computer vision, mean, the sky's the limit in terms of what you want to be able to identify.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:25:01]"
+          },
+          {
+            "quote": "You just have to be able to train the model on.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:25:12]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Operational anomaly detection",
+        "description": "Identify operational anomalies using camera-based monitoring as an operationally focused use case that can scale broadly across sites.",
+        "evidence": [
+          {
+            "quote": "because it's more of an operationally focused use case and something that's less safety focused, we think that we.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:27:54]"
+          },
+          {
+            "quote": "We can expand this more broadly across sites rather than doing it only in a few places at a time.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:28:00]"
+          },
+          {
+            "quote": "And that example for them was doing something a bit outside our usual scope, which was identifying operational anomalies with camera-based monitoring.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:28:14]"
+          }
+        ]
+      }
+    ]
+  }
+}

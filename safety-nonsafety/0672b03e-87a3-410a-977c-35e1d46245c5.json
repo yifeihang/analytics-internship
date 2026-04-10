@@ -1,0 +1,152 @@
+{
+  "meeting_title": "Signal Grid Works / Voxel Bi-Weekly Sync",
+  "start_time": "2024-03-05T17:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Retail front-of-store monitoring",
+        "description": "Monitor customer areas at the front of the store to reduce incidents and compliance issues.",
+        "evidence": [
+          {
+            "quote": "We're exploring front-of-store retail use cases to help with liability issues.",
+            "speaker": "Gray Ashford <fake.gray.ashford@voxelai.com>",
+            "timestamp": "[00:01:10]"
+          },
+          {
+            "quote": "Think broadly about what can go wrong in customer areas and the compliance issues that come with it.",
+            "speaker": "Gray Ashford <fake.gray.ashford@voxelai.com>",
+            "timestamp": "[00:01:19]"
+          }
+        ]
+      },
+      {
+        "label": "PIT-to-pedestrian proximity trend analysis with rolling average",
+        "description": "Track PIT-to-pedestrian proximity using trend metrics (e.g., 4-week rolling average) to assess the impact of layout changes and reduce risky interactions.",
+        "evidence": [
+          {
+            "quote": "so in this pit to pet stuff that you guys sent over, over here, I added a four-week rolling average, right?",
+            "speaker": "Denver Ellery <fake.denver.ellery@signalgridworks.com>",
+            "timestamp": "[00:03:07]"
+          },
+          {
+            "quote": "So like, for example, like pit to pet, it was 21.5, 23.5, 22.5, and it basically stayed at 2, and then we changed the layout over there by grand, and now it's at 9.",
+            "speaker": "Denver Ellery <fake.denver.ellery@signalgridworks.com>",
+            "timestamp": "[00:03:25]"
+          },
+          {
+            "quote": "And we didn't see a change until that actually happened, so it went from 21 to 19 to 18 to 17 to 15.",
+            "speaker": "Denver Ellery <fake.denver.ellery@signalgridworks.com>",
+            "timestamp": "[00:03:45]"
+          }
+        ]
+      },
+      {
+        "label": "Ergonomics risk reduction via safety orientation and targeted coaching",
+        "description": "Address improper bending and overreaching through a new safety orientation with hands-on practice and targeted refresher training for repeat behaviors.",
+        "evidence": [
+          {
+            "quote": "Kind of talked to them about the incidents and stuff like that and kind of showed them, you know, certain stuff with the improper bending and overreaching, kind of like get their perspective from it and what they think we can do about it.",
+            "speaker": "Denver Ellery <fake.denver.ellery@signalgridworks.com>",
+            "timestamp": "[00:04:09]"
+          },
+          {
+            "quote": "We're currently in the middle of designing for orientation, like a safety class kind of a thing that they're going to go through.",
+            "speaker": "Denver Ellery <fake.denver.ellery@signalgridworks.com>",
+            "timestamp": "[00:07:00]"
+          },
+          {
+            "quote": "They take boxes off the conveyor, how they should do it, use their power zone, bend properly, how to use – we have the orange cards, how to stack things properly, make sure it's not going to fall over, things of that nature.",
+            "speaker": "Denver Ellery <fake.denver.ellery@signalgridworks.com>",
+            "timestamp": "[00:07:13]"
+          },
+          {
+            "quote": "if people – we see people consistently, you know, improperly bending, we can kind of take them to that coaching station or whatever we're going to call it and have them go through like a training. Like, hey, this is how we should be doing this.",
+            "speaker": "Denver Ellery <fake.denver.ellery@signalgridworks.com>",
+            "timestamp": "[00:07:49]"
+          }
+        ]
+      },
+      {
+        "label": "Pedestrian walkway compliance and no-ped/no-stop zone enforcement",
+        "description": "Focus monitoring on areas like the training office/ship desk to enforce no-pedestrian and no-stop rules within pedestrian walkways.",
+        "evidence": [
+          {
+            "quote": "just that, that training office, ship deck, ship desk camera, and really tackling the no-ped zones, like the no-stops in those, like those pedestrian walkways.",
+            "speaker": "Gray Ashford <fake.gray.ashford@voxelai.com>",
+            "timestamp": "[00:18:22]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Retail front-of-store liability reduction",
+        "description": "Use monitoring in customer areas near the front of the store to help reduce liability exposure.",
+        "evidence": [
+          {
+            "quote": "We're exploring front-of-store retail use cases to help with liability issues.",
+            "speaker": "Gray Ashford <fake.gray.ashford@voxelai.com>",
+            "timestamp": "[00:01:10]"
+          },
+          {
+            "quote": "Think broadly about what can go wrong in customer areas and the compliance issues that come with it.",
+            "speaker": "Gray Ashford <fake.gray.ashford@voxelai.com>",
+            "timestamp": "[00:01:19]"
+          }
+        ]
+      },
+      {
+        "label": "Supervisor accountability and action tracking in Voxel",
+        "description": "Track supervisor engagement and follow-through using Voxel Actions and usage analytics, and export line items to existing coaching trackers.",
+        "evidence": [
+          {
+            "quote": "The actions really can help you track from beginning to end what is going on with, you know, those events, as well as it puts those markers automatically within the platform so that you're not having to constantly remind us or telling us what's going on where those markers get put in. We can actually track what is happening and then we can report that out to you.",
+            "speaker": "Eden Quill <fake.eden.quill@voxelai.com>",
+            "timestamp": "[00:12:13]"
+          },
+          {
+            "quote": "we can see the number of times, and we don't need to go down by person, but you can go by person, but we can see the number of times those supervisors are logging in, the number of times they're creating an action or commenting, so when you start thinking about what your expectation of a supervisor is and are they living up to that expectation, it becomes a little, it'll be easier for you to track, right?",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[00:13:00]"
+          },
+          {
+            "quote": "If they did or didn't do two a week, whatever your goal was, and that way it becomes a little bit more tangible to try to have to go through, and then the other point is we can definitely export those out.",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[00:13:26]"
+          },
+          {
+            "quote": "If you want the line items to add to your tracker, that way you are keeping it in one consolidated place, we can pass that information over as well.",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[00:13:37]"
+          }
+        ]
+      },
+      {
+        "label": "Use of Voxel boards for simple data visualization and team communication",
+        "description": "Supervisors use Voxel boards to view and discuss data with their teams, preferring it over other confusing tools.",
+        "evidence": [
+          {
+            "quote": "I know they have been using it and they like it more than we have another way to look at data as far as our observations through, I forgot the name of the company, but there's another company we use and all the information there is very very confusing.",
+            "speaker": "Denver Ellery <fake.denver.ellery@signalgridworks.com>",
+            "timestamp": "[00:10:15]"
+          },
+          {
+            "quote": "So they compared it to that and they're like, well, this is a lot easier to like understand, like it's pretty straightforward.",
+            "speaker": "Denver Ellery <fake.denver.ellery@signalgridworks.com>",
+            "timestamp": "[00:10:31]"
+          },
+          {
+            "quote": "Or like how you navigate it, it's a lot cleaner. The other website, it's like, it's a nightmare, honestly. I'm pretty good with technology and I have no idea like how to use half that stuff.",
+            "speaker": "Denver Ellery <fake.denver.ellery@signalgridworks.com>",
+            "timestamp": "[00:10:36]"
+          },
+          {
+            "quote": "So I think for the most part, it's just as of right now, it's them using just the data and kind of talking to their team with what they see.",
+            "speaker": "Denver Ellery <fake.denver.ellery@signalgridworks.com>",
+            "timestamp": "[00:11:06]"
+          }
+        ]
+      }
+    ]
+  }
+}

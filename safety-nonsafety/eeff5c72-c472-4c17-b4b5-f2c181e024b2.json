@@ -1,0 +1,223 @@
+{
+  "meeting_title": "Foundry Harbor Manufacturing / Voxel Sync",
+  "start_time": "2023-04-08T14:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Ergonomic overreach/improper bend monitoring at CRFM",
+        "description": "They are seeing many overreach and improper bend events on the CRFM I-dozens of camera and want to validate sensitivity and review the footage.",
+        "evidence": [
+          {
+            "quote": "So we saw a lot of them in CRFM, both overreach and improper bend.",
+            "speaker": "Kendall Bennett <fake.kendall.bennett@foundryharbormanufacturing.com>",
+            "timestamp": "[00:06:36]"
+          },
+          {
+            "quote": "I'm not sure that those are actually overreaching.",
+            "speaker": "Kendall Bennett <fake.kendall.bennett@foundryharbormanufacturing.com>",
+            "timestamp": "[00:06:50]"
+          },
+          {
+            "quote": "Let's go overreach.",
+            "speaker": "Briar Langley <fake.briar.langley@foundryharbormanufacturing.com>",
+            "timestamp": "[00:07:12]"
+          },
+          {
+            "quote": "The 38, I-dozens of camera.",
+            "speaker": "Briar Langley <fake.briar.langley@foundryharbormanufacturing.com>",
+            "timestamp": "[00:07:22]"
+          }
+        ]
+      },
+      {
+        "label": "Heatmaps to locate ergonomic hotspots and adjust workflow",
+        "description": "Use embedded heat maps to pinpoint where overreaching occurs and explore changes to tote loading/stacking to reduce risk.",
+        "evidence": [
+          {
+            "quote": "we have heat maps now embedded here.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:07:32]"
+          },
+          {
+            "quote": "So this is sort of the, this is the hotspot right here.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:07:36]"
+          },
+          {
+            "quote": "That's something we can look at as far as maybe they're loading too many in there.",
+            "speaker": "Kendall Bennett <fake.kendall.bennett@foundryharbormanufacturing.com>",
+            "timestamp": "[00:08:03]"
+          },
+          {
+            "quote": "Yeah, it looks like it's going to be to overreach to set them down in the middle.",
+            "speaker": "Briar Langley <fake.briar.langley@foundryharbormanufacturing.com>",
+            "timestamp": "[00:08:19]"
+          },
+          {
+            "quote": "Reaching over the top, taking it out of an empty, or taking it out of one, and putting it into one that's, yeah.",
+            "speaker": "Kendall Bennett <fake.kendall.bennett@foundryharbormanufacturing.com>",
+            "timestamp": "[00:09:36]"
+          }
+        ]
+      },
+      {
+        "label": "Change impact markers after lowering rack at Headliners",
+        "description": "After lowering a rack, they want a timeline marker across reports to measure the effect on overreaching and improper bending.",
+        "evidence": [
+          {
+            "quote": "We lowered a rack at Headliners on the 21st of March.",
+            "speaker": "Briar Langley <fake.briar.langley@foundryharbormanufacturing.com>",
+            "timestamp": "[00:03:22]"
+          },
+          {
+            "quote": "And so we've already seen a pretty big reduction there, but I was wondering if we could get a marker thrown in.",
+            "speaker": "Briar Langley <fake.briar.langley@foundryharbormanufacturing.com>",
+            "timestamp": "[00:03:30]"
+          },
+          {
+            "quote": "Maybe all of them, just because some of that may, the change in the racks may actually reduce some of the improper bending, too.",
+            "speaker": "Briar Langley <fake.briar.langley@foundryharbormanufacturing.com>",
+            "timestamp": "[00:04:07]"
+          },
+          {
+            "quote": "You should see that on your side now for any reports that you run on the headliner camera.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:05:13]"
+          }
+        ]
+      },
+      {
+        "label": "Obstruction detection tuning due to false positives",
+        "description": "They disabled obstruction detections because the system was misidentifying a rug, indicating a need to tune or adjust the feature.",
+        "evidence": [
+          {
+            "quote": "Dropped the obstructions because I found it kept just randomly picking up a rug.",
+            "speaker": "Briar Langley <fake.briar.langley@foundryharbormanufacturing.com>",
+            "timestamp": "[00:05:50]"
+          }
+        ]
+      },
+      {
+        "label": "Assign and track safety follow-ups with Actions",
+        "description": "Use the Actions workflow to assign owners, subscribers, and due dates for safety-related process changes like revisiting tote loading.",
+        "evidence": [
+          {
+            "quote": "I wanted to walk you guys through this new Actions workflow that we released.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:10:23]"
+          },
+          {
+            "quote": "let's just put sort of revisit process for loading totes.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:11:26]"
+          },
+          {
+            "quote": "I could add you as a subscriber.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:11:45]"
+          },
+          {
+            "quote": "I could put a due date here.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:11:51]"
+          },
+          {
+            "quote": "So when I click on this and I go to the Action page, it says Revisit Process for Loading Totes, is there a, how do you close it?",
+            "speaker": "Kendall Bennett <fake.kendall.bennett@foundryharbormanufacturing.com>",
+            "timestamp": "[00:13:01]"
+          },
+          {
+            "quote": "and then you can mark it as complete.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:13:27]"
+          }
+        ]
+      },
+      {
+        "label": "Shift-segmented safety dashboards and gamification",
+        "description": "Create boards by shift covering all events and cameras to compare safety performance and enable weekly/monthly rewards.",
+        "evidence": [
+          {
+            "quote": "Do you guys have any more progress on kind of breaking up a dashboard by shift?",
+            "speaker": "Briar Langley <fake.briar.langley@foundryharbormanufacturing.com>",
+            "timestamp": "[00:15:01]"
+          },
+          {
+            "quote": "So would you want something initially, just three boards with all of the events, all of the cameras for each shift?",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:15:47]"
+          },
+          {
+            "quote": "we can include shifts, and this is a way to segment the data now.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:15:32]"
+          },
+          {
+            "quote": "Yes, that would be the idea, and we can kind of gamify it and find a reward system. Weekly, and then probably monthly.",
+            "speaker": "Briar Langley <fake.briar.langley@foundryharbormanufacturing.com>",
+            "timestamp": "[00:15:55]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Assign and track follow-ups with Actions",
+        "description": "Use the Actions workflow to manage accountability and completion of operational follow-ups discovered from video clips and data trends.",
+        "evidence": [
+          {
+            "quote": "I wanted to walk you guys through this new Actions workflow that we released.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:10:23]"
+          },
+          {
+            "quote": "let's just put sort of revisit process for loading totes.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:11:26]"
+          },
+          {
+            "quote": "I could add you as a subscriber.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:11:45]"
+          },
+          {
+            "quote": "I could put a due date here.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:11:51]"
+          },
+          {
+            "quote": "and then you can mark it as complete.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:13:27]"
+          }
+        ]
+      },
+      {
+        "label": "Shift-based dashboards and gamification",
+        "description": "Build separate dashboards for first, second, and third shift across all events and cameras to compare performance and support a weekly/monthly rewards program.",
+        "evidence": [
+          {
+            "quote": "Do you guys have any more progress on kind of breaking up a dashboard by shift?",
+            "speaker": "Briar Langley <fake.briar.langley@foundryharbormanufacturing.com>",
+            "timestamp": "[00:15:01]"
+          },
+          {
+            "quote": "So would you want something initially, just three boards with all of the events, all of the cameras for each shift?",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:15:47]"
+          },
+          {
+            "quote": "we can include shifts, and this is a way to segment the data now.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:15:32]"
+          },
+          {
+            "quote": "Yes, that would be the idea, and we can kind of gamify it and find a reward system. Weekly, and then probably monthly.",
+            "speaker": "Briar Langley <fake.briar.langley@foundryharbormanufacturing.com>",
+            "timestamp": "[00:15:55]"
+          }
+        ]
+      }
+    ]
+  }
+}

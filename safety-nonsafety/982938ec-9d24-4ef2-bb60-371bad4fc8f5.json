@@ -1,0 +1,190 @@
+{
+  "meeting_title": "Mesa Span Solutions + Voxel Demo",
+  "start_time": "2023-01-11T15:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Forklift intersection compliance and PIT–pedestrian near-miss detection",
+        "description": "Detect forklifts not stopping at intersections and identify PIT-to-pedestrian near misses to drive coaching and prevent incidents.",
+        "evidence": [
+          {
+            "quote": "Obviously, no-stop-in-intersection is trending 3-4% in the wrong direction."
+          },
+          {
+            "quote": "They also had a pit-to-pedestrian incident."
+          },
+          {
+            "quote": "so a forklift hitting a pedestrian."
+          },
+          {
+            "quote": "Our computer vision AI sits on top of the existing cameras, and then we'll monitor and capture for near misses and unsafe behaviors, and save that clip, notify you, and curate data reports of when, where, and how often those incidents are occurring within the facilities."
+          }
+        ]
+      },
+      {
+        "label": "PPE compliance monitoring (safety vests)",
+        "description": "Monitor PPE usage, such as safety vests, and track trends to reinforce compliance.",
+        "evidence": [
+          {
+            "quote": "if you look at safety vests, there's 111 and it's trending 80-90% in the right direction."
+          },
+          {
+            "quote": "We have PPE compliance."
+          }
+        ]
+      },
+      {
+        "label": "Ergonomics risk detection with heat maps",
+        "description": "Identify improper bends and other ergonomic risks and use heat maps to pinpoint where they occur for targeted interventions.",
+        "evidence": [
+          {
+            "quote": "They probably turned ergonomics on for the whole scene."
+          },
+          {
+            "quote": "So an improper bend is an improper bend across all of our customer base."
+          },
+          {
+            "quote": "we can even pinpoint exactly where your ergonomics are taking place that are flowing into Voxel."
+          }
+        ]
+      },
+      {
+        "label": "PIT-to-PIT collision/proximity monitoring",
+        "description": "Monitor forklift-to-forklift interactions to reduce pit-to-pit collision risks.",
+        "evidence": [
+          {
+            "quote": "They probably turned on pit-to-pit and pit-to-ped for the whole scene, so on and so forth."
+          },
+          {
+            "quote": "We have vehicle movements."
+          }
+        ]
+      },
+      {
+        "label": "Timely alerts for critical safety events",
+        "description": "Configure proactive notifications for high-severity events so supervisors are notified promptly.",
+        "evidence": [
+          {
+            "quote": "We set up proactive notifications so that if something hits Voxel, it goes out to the appropriate individual based on how you configure it."
+          },
+          {
+            "quote": "like a pit to pedestrian near miss."
+          },
+          {
+            "quote": "You might want to set that up as an automatic notification to whoever you designate."
+          }
+        ]
+      },
+      {
+        "label": "Fill room safety monitoring in new production facility",
+        "description": "Apply AI camera monitoring to the new production facility’s fill room (and possibly the warehouse) to identify unsafe behaviors and mitigate risks.",
+        "evidence": [
+          {
+            "quote": "would this be something worth looking into in our new production facility, specifically around our, what we call the fill room, where they basically, the operations around the packaging and known for the"
+          },
+          {
+            "quote": "The warehouse is more restricted and maybe a little less risky, but still could be in scope."
+          }
+        ]
+      },
+      {
+        "label": "Protect laser-guided vehicles (AGVs) from forklift interactions",
+        "description": "Use video analytics to detect and mitigate risks of forklift operators crashing into or interfering with expensive laser-guided vehicles.",
+        "evidence": [
+          {
+            "quote": "the new laser-guided vehicles that were obviously expensive, but forklift drivers and operators potentially crashing into those or causing havoc with those or risk around those."
+          }
+        ]
+      },
+      {
+        "label": "Enterprise safety analytics and site benchmarking",
+        "description": "Use the all-sites and single-site dashboards to spot trends, identify hotspots by rule and location, and share best practices across sites to guide coaching and process changes.",
+        "evidence": [
+          {
+            "quote": "All Sites Dashboard, this is going to see how you're going to see all of your sites trending across the corporation."
+          },
+          {
+            "quote": "And then from there, we break it down even further by rule set or use case."
+          },
+          {
+            "quote": "maybe we jump into no-stop-in-intersection and see across the org and which location needs coaching or where we can pull best practices from Market Street, because they seem to be doing well with that and incorporate that over at Harrison Street."
+          }
+        ]
+      },
+      {
+        "label": "Training and toolbox talks using bookmarked clips",
+        "description": "Bookmark illustrative incident clips to use in toolbox talks and trainings for coaching on safe behaviors.",
+        "evidence": [
+          {
+            "quote": "A lot of our customers will use this in their toolbox talks or even trainings."
+          },
+          {
+            "quote": "They'll bookmark specific clips that will allow them to just pull them up quickly and coach them through trainings."
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Door/asset damage prevention via intersection monitoring",
+        "description": "Reduce costly property damage, such as roll-up door impacts, by monitoring for no-stop-at-intersection behaviors at specific doors.",
+        "evidence": [
+          {
+            "quote": "They had to replace the door three different times, cost them up to REDACTED."
+          },
+          {
+            "quote": "they wanted to have a... No Stop at Intersection at this door."
+          }
+        ]
+      },
+      {
+        "label": "Enterprise analytics and benchmarking across sites",
+        "description": "Provide executives and regional managers with cross-site dashboards to compare trends by site and rule, and propagate best practices.",
+        "evidence": [
+          {
+            "quote": "All Sites Dashboard, this is going to see how you're going to see all of your sites trending across the corporation."
+          },
+          {
+            "quote": "And then from there, we break it down even further by rule set or use case."
+          },
+          {
+            "quote": "where we can pull best practices from Market Street, because they seem to be doing well with that and incorporate that over at Harrison Street."
+          }
+        ]
+      },
+      {
+        "label": "Training content efficiency using bookmarked clips",
+        "description": "Use bookmarked video clips to streamline creating and delivering training/toolbox talks.",
+        "evidence": [
+          {
+            "quote": "A lot of our customers will use this in their toolbox talks or even trainings."
+          },
+          {
+            "quote": "They'll bookmark specific clips that will allow them to just pull them up quickly and coach them through trainings."
+          }
+        ]
+      },
+      {
+        "label": "Staff efficiency and mobile guidance",
+        "description": "Guide field staff to hotspots and minimize review time with mobile-friendly workflows and concise daily usage.",
+        "evidence": [
+          {
+            "quote": "Voxel's mobile-friendly as well. So, you guys, a lot of our customers, Voxel kind of tells them where to go."
+          },
+          {
+            "quote": "our end users probably at most spending 15 to tens of minutes per day within the platform."
+          }
+        ]
+      },
+      {
+        "label": "Protect laser-guided vehicles (AGVs) from damage",
+        "description": "Safeguard expensive laser-guided vehicles from damage caused by forklift operators to avoid costly downtime and repairs.",
+        "evidence": [
+          {
+            "quote": "the new laser-guided vehicles that were obviously expensive, but forklift drivers and operators potentially crashing into those or causing havoc with those or risk around those."
+          }
+        ]
+      }
+    ]
+  }
+}

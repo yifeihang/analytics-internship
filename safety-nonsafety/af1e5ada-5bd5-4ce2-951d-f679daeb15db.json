@@ -1,0 +1,156 @@
+{
+  "meeting_title": "River Ridge Works | Voxel Sync",
+  "start_time": "2024-01-08T15:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Ladder safety and fixed ladder elimination",
+        "description": "Address ladder-related incidents by reviewing and reducing reliance on fixed ladders, replacing them with safer alternatives like stairs.",
+        "evidence": [
+          {
+            "quote": "Another big one we got coming is we're going to be looking pretty hard at ladders.",
+            "speaker": "Stevie Yates <fake.stevie.yates@riverridgeworks.com>",
+            "timestamp": "[00:04:24]"
+          },
+          {
+            "quote": "In our siding group, they had an injury where someone slipped off a ladder.",
+            "speaker": "Stevie Yates <fake.stevie.yates@riverridgeworks.com>",
+            "timestamp": "[00:04:30]"
+          },
+          {
+            "quote": "we're getting ready to put the full court press on fixed ladders and not just from a regulatory standpoint, but work when we eliminate them or put stairs in, things like that.",
+            "speaker": "Stevie Yates <fake.stevie.yates@riverridgeworks.com>",
+            "timestamp": "[00:04:34]"
+          }
+        ]
+      },
+      {
+        "label": "AI video analytics to gain visibility and reduce injuries",
+        "description": "Evaluate Voxel to increase visibility into safety issues and reduce recordable injuries across operations by engaging operational stakeholders early.",
+        "evidence": [
+          {
+            "quote": "Right now, it's just our safety performance in general.",
+            "speaker": "Stevie Yates <fake.stevie.yates@riverridgeworks.com>",
+            "timestamp": "[00:03:53]"
+          },
+          {
+            "quote": "We've had more recordable injuries in my group, none of them that crazy or that severe, but it's just been a huge distraction for everybody.",
+            "speaker": "Stevie Yates <fake.stevie.yates@riverridgeworks.com>",
+            "timestamp": "[00:04:01]"
+          },
+          {
+            "quote": "But, you know, I do think there's a place for Voxel to help you guys gain some visibility and, you know, even some reductions in those injuries.",
+            "speaker": "Jules Blaine <fake.jules.blaine@voxelai.com>",
+            "timestamp": "[00:12:14]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Integrate with existing cameras and minimize IT burden",
+        "description": "Need clarity on using existing (closed-loop) cameras and a simple, low-lift deployment to avoid purchasing new hardware and to address IT hesitations.",
+        "evidence": [
+          {
+            "quote": "Apparently, they're looking at going away from those anyway, and they're closed loop, and there's some other stuff that they're telling me.",
+            "speaker": "Stevie Yates <fake.stevie.yates@riverridgeworks.com>",
+            "timestamp": "[00:16:44]"
+          },
+          {
+            "quote": "But they had some hesitation on doing certain things with their cameras, so it may be helpful.",
+            "speaker": "Stevie Yates <fake.stevie.yates@riverridgeworks.com>",
+            "timestamp": "[00:16:51]"
+          },
+          {
+            "quote": "They're tied back to our servers, and we're going to talk through it, but I thought they were trying to upgrade what we're doing, or what they're doing, and at least that's the sense I get, but I'm going to talk to them more this week, because my assumption from the beginning of this is, well, we'd be able to tag into whatever we have, and that saves a cost, except I don't want have to go out and buy a bunch of cameras that I didn't think about, and I know we have them, all my plants have them, so I just got to learn more about our IT side and what we need to do there.",
+            "speaker": "Stevie Yates <fake.stevie.yates@riverridgeworks.com>",
+            "timestamp": "[00:18:01]"
+          },
+          {
+            "quote": "We call it a standard phased method.",
+            "speaker": "Jules Blaine <fake.jules.blaine@voxelai.com>",
+            "timestamp": "[00:19:43]"
+          },
+          {
+            "quote": "It's like three questions, several hours of their time.",
+            "speaker": "Jules Blaine <fake.jules.blaine@voxelai.com>",
+            "timestamp": "[00:19:45]"
+          },
+          {
+            "quote": "And within several weeks, we have data flowing.",
+            "speaker": "Jules Blaine <fake.jules.blaine@voxelai.com>",
+            "timestamp": "[00:19:48]"
+          }
+        ]
+      },
+      {
+        "label": "AI governance and security compliance review",
+        "description": "Any AI solution must pass an internal AI governance board review and complete security and AI questionnaires before proceeding.",
+        "evidence": [
+          {
+            "quote": "Like, I learned that we have an AI board now who review AI things.",
+            "speaker": "Stevie Yates <fake.stevie.yates@riverridgeworks.com>",
+            "timestamp": "[00:12:37]"
+          },
+          {
+            "quote": "we have basically a security and AI questionnaire.",
+            "speaker": "Stevie Yates <fake.stevie.yates@riverridgeworks.com>",
+            "timestamp": "[00:20:21]"
+          },
+          {
+            "quote": "And because it, it all, it all goes, I guess gets reviewed by them.",
+            "speaker": "Stevie Yates <fake.stevie.yates@riverridgeworks.com>",
+            "timestamp": "[00:20:43]"
+          }
+        ]
+      },
+      {
+        "label": "Cost-sensitive vendor evaluation (incl. Falcon Peak Vision)",
+        "description": "Actively comparing Voxel with other vendors, especially Falcon Peak Vision, with cost as a key decision factor given current market constraints.",
+        "evidence": [
+          {
+            "quote": "And to be completely honest with you, I'm evaluating other companies as well, just to make sure we're on the right track.",
+            "speaker": "Stevie Yates <fake.stevie.yates@riverridgeworks.com>",
+            "timestamp": "[00:13:14]"
+          },
+          {
+            "quote": "And I guess my biggest concern right now with Voxel is the cost.",
+            "speaker": "Stevie Yates <fake.stevie.yates@riverridgeworks.com>",
+            "timestamp": "[00:13:22]"
+          },
+          {
+            "quote": "While I like what you have, y'all are, you're a lot higher than some of your competition.",
+            "speaker": "Stevie Yates <fake.stevie.yates@riverridgeworks.com>",
+            "timestamp": "[00:13:28]"
+          },
+          {
+            "quote": "And that's going to be, that would be kind of a tough sell with the market we're in right now, especially when similar companies are, I don't think cheaper, but they don't cost near as much.",
+            "speaker": "Stevie Yates <fake.stevie.yates@riverridgeworks.com>",
+            "timestamp": "[00:13:35]"
+          },
+          {
+            "quote": "Just to be honest with you, the one that I'm probably leaning right now or is closer to you guys is Falcon Peak Vision.",
+            "speaker": "Stevie Yates <fake.stevie.yates@riverridgeworks.com>",
+            "timestamp": "[00:14:33]"
+          }
+        ]
+      },
+      {
+        "label": "Implementing VelocityEHS system",
+        "description": "Design and deployment of a new VelocityEHS system is an ongoing project consuming significant time and attention.",
+        "evidence": [
+          {
+            "quote": "My group, the Summit Track Systems, that's probably taking up a lot of the most time at the moment, just because we're right in the middle of the design of that new system.",
+            "speaker": "Stevie Yates <fake.stevie.yates@riverridgeworks.com>",
+            "timestamp": "[00:05:00]"
+          },
+          {
+            "quote": "And I think that's about to, I think we almost have our part done, but that's taken up a lot.",
+            "speaker": "Stevie Yates <fake.stevie.yates@riverridgeworks.com>",
+            "timestamp": "[00:05:12]"
+          }
+        ]
+      }
+    ]
+  }
+}

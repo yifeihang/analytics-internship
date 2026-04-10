@@ -1,0 +1,141 @@
+{
+  "meeting_title": "Gray Connect",
+  "start_time": "2024-07-04T13:30:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Hazard hotspot mitigation using heat maps and rapid interventions (e.g., cones)",
+        "description": "Use Voxel heat maps to identify problem areas (e.g., the Zone Red) and implement quick physical controls like cones, then use platform feedback to assess impact and iterate.",
+        "evidence": [
+          {
+            "quote": "I think John and Jay and Josh had said that they plan on putting some cones down and, you know, working through some things, but that may not happen for a couple weeks or months, which I think that is, like, the platform is meant to allow you to take action without having a perfect plan in place, right?",
+            "speaker": "Gray Ashford <fake.gray.ashford@voxelai.com>",
+            "timestamp": "[00:02:27]"
+          },
+          {
+            "quote": "So I think we were waiting a little bit before, I think the heat maps was the next big thing, but we have those and I should probably put that on my list to do.",
+            "speaker": "Terry Drake <fake.terry.drake@signalgridworks.com>",
+            "timestamp": "[00:04:30]"
+          },
+          {
+            "quote": "We're going to tell you whether or not that action is going to have the desired outcome or not very quickly, right?",
+            "speaker": "Gray Ashford <fake.gray.ashford@voxelai.com>",
+            "timestamp": "[00:03:02]"
+          },
+          {
+            "quote": "Here's what the platform told us.",
+            "speaker": "Gray Ashford <fake.gray.ashford@voxelai.com>",
+            "timestamp": "[00:03:40]"
+          }
+        ]
+      },
+      {
+        "label": "Use assigned clips and resolutions for coaching to reduce event frequencies",
+        "description": "Drive safety improvements by assigning AI-detected clips and tracking resolutions, enabling coaching conversations that correlate with drops in event frequencies.",
+        "evidence": [
+          {
+            "quote": "But where we see, like, the assigning of clips and resolutions, like, where we see a lot of those actions taking place is –",
+            "speaker": "Gray Ashford <fake.gray.ashford@voxelai.com>",
+            "timestamp": "[00:10:52]"
+          },
+          {
+            "quote": "Typically, there's a direct correlation between that and a success metric.",
+            "speaker": "Gray Ashford <fake.gray.ashford@voxelai.com>",
+            "timestamp": "[00:11:00]"
+          },
+          {
+            "quote": "We're seeing drop in frequencies, et cetera, because people are taking the data and having coaching conversations or taking action, right?",
+            "speaker": "Gray Ashford <fake.gray.ashford@voxelai.com>",
+            "timestamp": "[00:11:06]"
+          },
+          {
+            "quote": "To be honest, I don't think anything was assigned or resolved in January.",
+            "speaker": "Gray Ashford <fake.gray.ashford@voxelai.com>",
+            "timestamp": "[00:11:16]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Change management impact tracking and leadership storytelling",
+        "description": "Measure the effects of interventions with Voxel data and build a clear before/after story to present to leadership, including course corrections based on platform feedback.",
+        "evidence": [
+          {
+            "quote": "It'd be really nice to have some data around, like, hey, we identified this issue of Zone Red.",
+            "speaker": "Gray Ashford <fake.gray.ashford@voxelai.com>",
+            "timestamp": "[00:03:32]"
+          },
+          {
+            "quote": "Here are the steps we took.",
+            "speaker": "Gray Ashford <fake.gray.ashford@voxelai.com>",
+            "timestamp": "[00:03:38]"
+          },
+          {
+            "quote": "Here's what the platform told us.",
+            "speaker": "Gray Ashford <fake.gray.ashford@voxelai.com>",
+            "timestamp": "[00:03:40]"
+          },
+          {
+            "quote": "So actually implementing it, I think, is the next step, and I'll get with the steer co, and we can see what we can do to really push that in the next couple of weeks to actually measure what we're doing and get you guys a story to tell to leadership.",
+            "speaker": "Terry Drake <fake.terry.drake@signalgridworks.com>",
+            "timestamp": "[00:06:10]"
+          }
+        ]
+      },
+      {
+        "label": "Platform adoption and usage analytics reporting",
+        "description": "Provide regular usage metrics (e.g., logins, assignments/resolutions) to drive adoption and ensure sites are engaging with the platform.",
+        "evidence": [
+          {
+            "quote": "for the month of January, entire month of January, we only had dozens of logins to the platform from the Signal Grid Works side.",
+            "speaker": "Gray Ashford <fake.gray.ashford@voxelai.com>",
+            "timestamp": "[00:08:17]"
+          },
+          {
+            "quote": "Like JM didn't log into the platform once in January.",
+            "speaker": "Gray Ashford <fake.gray.ashford@voxelai.com>",
+            "timestamp": "[00:08:52]"
+          },
+          {
+            "quote": "those are metrics that we have easy access to that I can provide to you at whatever frequency you would want",
+            "speaker": "Gray Ashford <fake.gray.ashford@voxelai.com>",
+            "timestamp": "[00:09:00]"
+          },
+          {
+            "quote": "at the end of each month, I can just kind of give you a report around that, too, just so you have, like, a line of sight.",
+            "speaker": "Gray Ashford <fake.gray.ashford@voxelai.com>",
+            "timestamp": "[00:10:05]"
+          }
+        ]
+      },
+      {
+        "label": "Email summaries for insight without platform login",
+        "description": "Use daily email summaries to provide awareness and insights to stakeholders who may not log into the platform.",
+        "evidence": [
+          {
+            "quote": "Yeah, I mean, outside of that, they're getting, like, daily email summaries, right?",
+            "speaker": "Terry Drake <fake.terry.drake@signalgridworks.com>",
+            "timestamp": "[00:09:47]"
+          },
+          {
+            "quote": "So there's, like, information they're getting that allows them to get, like, some insight into what's happening without logging into the platform",
+            "speaker": "Gray Ashford <fake.gray.ashford@voxelai.com>",
+            "timestamp": "[00:09:51]"
+          }
+        ]
+      },
+      {
+        "label": "Potential expansion to retail stores",
+        "description": "Consider deploying Voxel beyond distribution centers into retail stores.",
+        "evidence": [
+          {
+            "quote": "I think it's a super smart and effective tool that I think we should use, I think, definitely at our DCs, but maybe in the stores too, which would be cool.",
+            "speaker": "Terry Drake <fake.terry.drake@signalgridworks.com>",
+            "timestamp": "[00:12:27]"
+          }
+        ]
+      }
+    ]
+  }
+}

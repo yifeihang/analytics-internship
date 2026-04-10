@@ -1,0 +1,137 @@
+{
+  "meeting_title": "East Bridge Systems + Voxel Pilot Discussion",
+  "start_time": "2022-06-24T18:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Forklift and pedestrian safety in very narrow aisle (VNA) racking",
+        "description": "East Bridge Systems anticipates a shift in risk from manual handling to forklift-related incidents as they convert to VNA racking and wants AI-enabled camera coverage down each aisle to monitor vehicle movements and struck-by risks.",
+        "evidence": [
+          {
+            "quote": "So essentially, a third to maybe a half of our warehouse, we might be converting into very narrow aisle racking systems, which is going to have to increase those cameras.",
+            "speaker": "Kai Fletcher <fake.kai.fletcher@eastbridgesystems.com>",
+            "timestamp": "[00:03:36]"
+          },
+          {
+            "quote": "we're going to probably change a little bit of our risk area from the manual handling to the forklift type stuff.",
+            "speaker": "Kai Fletcher <fake.kai.fletcher@eastbridgesystems.com>",
+            "timestamp": "[00:04:10]"
+          },
+          {
+            "quote": "More, because you're going to want to have one looking down each aisle, potentially.",
+            "speaker": "Kai Fletcher <fake.kai.fletcher@eastbridgesystems.com>",
+            "timestamp": "[00:06:00]"
+          },
+          {
+            "quote": "Material handling, ergonomics, vehicle movements, struck buys, right?",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:14:48]"
+          }
+        ]
+      },
+      {
+        "label": "Ergonomics and manual material handling injury reduction",
+        "description": "They want to address existing injuries from manual/material handling and use AI to identify and reduce ergonomic risks.",
+        "evidence": [
+          {
+            "quote": "That insurance information with our history of injuries that are mainly due to material handling, manual handling of our equipment.",
+            "speaker": "Kai Fletcher <fake.kai.fletcher@eastbridgesystems.com>",
+            "timestamp": "[00:04:00]"
+          },
+          {
+            "quote": "Material handling, ergonomics, vehicle movements, struck buys, right?",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:14:48]"
+          }
+        ]
+      },
+      {
+        "label": "Slip, trip, and fall detection",
+        "description": "Use AI video to detect and reduce slip, trip, and fall hazards in the warehouse.",
+        "evidence": [
+          {
+            "quote": "Slip trips and falls.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:14:54]"
+          }
+        ]
+      },
+      {
+        "label": "PPE compliance monitoring",
+        "description": "Monitor and improve PPE compliance using AI from existing cameras.",
+        "evidence": [
+          {
+            "quote": "PPE compliance, right, like things that we can actually help you with.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:15:02]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Business case support for internal stakeholders",
+        "description": "Help internal stakeholders review the opportunity using operating context and prior incident history.",
+        "evidence": [
+          {
+            "quote": "We can put together some internal analysis to support that conversation using your historical data.",
+            "speaker": "Taylor Nash <fake.taylor.nash@voxelai.com>",
+            "timestamp": "[00:02:43]"
+          },
+          {
+            "quote": "We usually turn that historical performance into something leadership can review without getting too deep into assumptions.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:14:17]"
+          },
+          {
+            "quote": "They want to hear it from somebody outside of us.",
+            "speaker": "Kai Fletcher <fake.kai.fletcher@eastbridgesystems.com>",
+            "timestamp": "[00:07:28]"
+          }
+        ]
+      },
+      {
+        "label": "Paid pilot to validate Voxel with an existing camera environment",
+        "description": "Run a short paid pilot using the site's existing camera environment to validate compatibility and performance before broader rollout.",
+        "evidence": [
+          {
+            "quote": "We could even do some sort of pilot program because our operations team said, let's just move forward and we'll pilot in one location. IT says, that ain't going to happen because I need to verify everything's going to work before I sign off on to it",
+            "speaker": "Kai Fletcher <fake.kai.fletcher@eastbridgesystems.com>",
+            "timestamp": "[00:09:39]"
+          },
+          {
+            "quote": "It sounds like the current setup already supports an evaluation path.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:10:14]"
+          },
+          {
+            "quote": "I'm sure I could get sign-off on doing a limited camera trial for a short period to show that it works.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:11:00]"
+          }
+        ]
+      },
+      {
+        "label": "Simple integration with an existing camera platform and IT onboarding",
+        "description": "Leverage Voxel’s ease of integration with an existing camera platform to streamline IT onboarding and implementation.",
+        "evidence": [
+          {
+            "quote": "When we hear that camera platform, we are generally optimistic because it tends to be straightforward for us to integrate with.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:10:30]"
+          },
+          {
+            "quote": "With that camera platform, the local setup is usually pretty simple.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:16:20]"
+          },
+          {
+            "quote": "Within that camera platform, there is a simple configuration step to enable the feed we need.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:16:23]"
+          }
+        ]
+      }
+    ]
+  }
+}

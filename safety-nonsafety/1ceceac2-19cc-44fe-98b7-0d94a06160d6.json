@@ -1,0 +1,147 @@
+{
+  "meeting_title": "Harbor Harbor Supply // Voxel",
+  "start_time": "2023-05-06T17:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Slip and fall prevention via spill detection and timely notifications",
+        "description": "Detect liquid spills across sales floor aisles and back-of-house, then notify and auto-assign cleanup to reduce employee and customer slip-and-fall incidents. Can support platform notifications, with additional delivery options discussed.",
+        "evidence": [
+          {
+            "quote": "Oh man, what keeps me up at night is our slips and falls.",
+            "speaker": "Sidney Sinclair <fake.sidney.sinclair@harborharborsupply.com>",
+            "timestamp": "[00:02:10]"
+          },
+          {
+            "quote": "I want to say a large share of our incident costs and claims come from slips and falls.",
+            "speaker": "Sidney Sinclair <fake.sidney.sinclair@harborharborsupply.com>",
+            "timestamp": "[00:02:17]"
+          },
+          {
+            "quote": "So liquid spills, it will pull into, and this is going right into the platform, and it will notify you.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:19:27]"
+          },
+          {
+            "quote": "There are platform notifications available, with other delivery options discussed.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:20:01]"
+          },
+          {
+            "quote": "For example, if there is a spill in an aisle, I can auto-assign it so the right people are made aware quickly and can go address it.",
+            "speaker": "Sidney Sinclair <fake.sidney.sinclair@harborharborsupply.com>",
+            "timestamp": "[00:33:15]"
+          }
+        ]
+      },
+      {
+        "label": "Ergonomics monitoring for strains and sprains (Posture Risk Index) with corrective actions",
+        "description": "Monitor ergonomic risks like overreaching and bending using Posture Risk Index scoring to identify high-risk tasks and times, then drive training or engineering controls (e.g., raising work height) to reduce strains and sprains, including heavy box handling in fresh/meat departments.",
+        "evidence": [
+          {
+            "quote": "So we use Posture Risk Index, rapid body assessment.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:11:04]"
+          },
+          {
+            "quote": "So what you can do from that is behavioral or procedural, right? ... Or procedural is engineer it out, right? This is too low. Maybe we put it on a pallet or put it on something that's a little bit higher.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:12:14]"
+          },
+          {
+            "quote": "An aging workforce, especially in like the fresh departments where, I mean our meat department especially, you can have some of those boxes that go up to like 80, a heavy load, and these guys are expected to see, you know, take them off pallets and slim limits.",
+            "speaker": "Sidney Sinclair <fake.sidney.sinclair@harborharborsupply.com>",
+            "timestamp": "[00:13:00]"
+          }
+        ]
+      },
+      {
+        "label": "Forklift/PIT safety: proximity and collision monitoring to prevent struck-by incidents",
+        "description": "Track PIT-to-PIT and PIT-to-pedestrian proximity and detect unsafe forklift behaviors and collisions to prevent struck-by incidents and property damage in back-of-store areas.",
+        "evidence": [
+          {
+            "quote": "Then like forklifts. I don't know if you guys use forklift. That's another thing like pit to pit or pit to pet. Like how close are they coming into each other? The machinery, how close are they getting close to your workers?",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:11:14]"
+          },
+          {
+            "quote": "the forklift incidents, when we do have them, they're usually, like, you know, forklift ran into a stack, which then, you know, caused a box to fall and struck by incidents would probably be the third highest, um, reportable.",
+            "speaker": "Sidney Sinclair <fake.sidney.sinclair@harborharborsupply.com>",
+            "timestamp": "[00:25:30]"
+          },
+          {
+            "quote": "They're like dinging. They don't wait for the door to go up or down, right? They're not stopping.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:26:14]"
+          }
+        ]
+      },
+      {
+        "label": "PPE compliance monitoring in parking lots (safety vests and other PPE)",
+        "description": "Detect associates in parking lots without required high-visibility safety vests by distinguishing employees (e.g., red uniform shirts) from customers, and monitor other PPE like hard hats, bump caps, and gloves as needed.",
+        "evidence": [
+          {
+            "quote": "I see safety vests there. So the one place that would be applicable for us is on the parking lot. If we have associates out there, we require them to wear a safety vest when they're out there.",
+            "speaker": "Sidney Sinclair <fake.sidney.sinclair@harborharborsupply.com>",
+            "timestamp": "[00:23:32]"
+          },
+          {
+            "quote": "But how would the camera or the AI distinguish a customer from an associate?",
+            "speaker": "Sidney Sinclair <fake.sidney.sinclair@harborharborsupply.com>",
+            "timestamp": "[00:23:52]"
+          },
+          {
+            "quote": "That's probably the easiest way is to identify, hey, this person's wearing red. A person's wearing red with a vest. A person's wearing red without a vest, right? And then flag that, right? And it's all PPE, hard hats, bump caps, gloves.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:24:23]"
+          }
+        ]
+      },
+      {
+        "label": "Back-of-store obstruction, fire-exit clearance, and no-idling/no-parking monitoring",
+        "description": "Monitor exterior and back-of-store areas to flag vehicles dwelling or parked where prohibited, detect obstructions, and ensure fire safety exits and pathways remain clear.",
+        "evidence": [
+          {
+            "quote": "This is like outside. So this is actually at a port. But just like you talked about, cameras facing at parking lots, we can do this at the back of the stores as well. People do like no pad or no idling. So to make sure like no cars are standing there, no trucks are standing there for too long of a time, no obstructions, right? So to make sure no fire safety exits are being blocked, you know, boxes are not just just randomly a strew all over the place.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:28:32]"
+          }
+        ]
+      },
+      {
+        "label": "Detect prohibited e-bikes/e-scooters indoors to mitigate lithium battery fire risk",
+        "description": "Identify e-bikes or e-scooters stored inside back rooms or sales areas against policy, using zone/object rules to flag and remove them due to lithium-ion spontaneous combustion risk.",
+        "evidence": [
+          {
+            "quote": "One of the things that we just put in the place that I'm sorry is a policy against e-bikes and e-scooters in the building. So that's something the platform can pick up like, hey, there's an e-bike in the back room or this person storing an e-bike in the store.",
+            "speaker": "Sidney Sinclair <fake.sidney.sinclair@harborharborsupply.com>",
+            "timestamp": "[00:29:30]"
+          },
+          {
+            "quote": "Well, I wonder if we can put that under like a no-ped zone. So if we want to analyze something that can't be stored, or is it typically people put bikes in a place? ... we could probably use notepad for that, and that will analyze, you know, an item, right, that's not supposed to be, there are no obstruction, and it'd be like, okay, someone brought their e-bike or their scooter...",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:29:55]"
+          },
+          {
+            "quote": "there's a concern about, you know, those lithium-ion batteries, spontaneous combustion.",
+            "speaker": "Sidney Sinclair <fake.sidney.sinclair@harborharborsupply.com>",
+            "timestamp": "[00:30:30]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Reduce shrink by detecting product damage from PIT impacts",
+        "description": "Identify forklift collisions and near-misses that nick or damage product to address causes of shrink and product loss.",
+        "evidence": [
+          {
+            "quote": "Or they nick like a product, and that can also impact shrink. So that could be something that we can track as well.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:26:24]"
+          }
+        ]
+      }
+    ]
+  }
+}

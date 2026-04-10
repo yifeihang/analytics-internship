@@ -1,0 +1,219 @@
+{
+  "meeting_title": "Voxel sync",
+  "start_time": "2024-09-01T17:30:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "No-stop at end of aisle enforcement (focus on Quality Corner A)",
+        "description": "Use Voxel to monitor and reduce incidents where PIT operators do not stop at aisle ends, with targeted focus on the Quality Corner A hotspot.",
+        "evidence": [
+          {
+            "quote": "I would love to get this number down to, like, maybe, hopefully zero, but like, one or two, because it's, it's a clear rule of the site, right, that people should stop at the end of the aisle.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:03:50]"
+          },
+          {
+            "quote": "But even with No Stop at End of Isle, almost all of it's happening in Quality Corner A.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:06:00]"
+          },
+          {
+            "quote": "let's keep no stop at the top of mind and seeing if we can drive down those numbers.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:07:18]"
+          },
+          {
+            "quote": "know, they just gotta stop before they exit and look both ways.",
+            "speaker": "Jesse Sloane <fake.jesse.sloane@gritstackoperations.com>",
+            "timestamp": "[00:20:43]"
+          }
+        ]
+      },
+      {
+        "label": "PIT-to-PIT proximity and one-machine-per-lane policy",
+        "description": "Detect and address two forklifts operating in the same aisle and close PIT-to-PIT proximity to enforce the one-machine-per-lane rule and prevent collisions.",
+        "evidence": [
+          {
+            "quote": "pit to pit. Seems like it's actually going in the right direction, that's good,",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:05:52]"
+          },
+          {
+            "quote": "I know that one of the main concerns was also two pits in the same aisle,",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:21:00]"
+          },
+          {
+            "quote": "so it was a no-stop, and then there was a pit-to-pit proximity, but this is what they didn't want.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:21:17]"
+          },
+          {
+            "quote": "And as you can see, it's very rare to see any close calls like that, but we do have that policy in play with only one machine per lane.",
+            "speaker": "Campbell Kingsley <fake.campbell.kingsley@gritstackoperations.com>",
+            "timestamp": "[00:22:54]"
+          }
+        ]
+      },
+      {
+        "label": "No-pedestrian zones and PIT-to-person proximity",
+        "description": "Monitor and reduce pedestrians entering aisles and close PIT-to-person interactions to keep people out of vehicle aisles.",
+        "evidence": [
+          {
+            "quote": "No pedestrian zones. That's a little bit trickier, because a lot of it's happening.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:05:58]"
+          },
+          {
+            "quote": "The no-pedestrian zones, the main thing that people were interested in was, like, people not going in the aisles.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:09:41]"
+          },
+          {
+            "quote": "Yeah, sometimes we're flagging people that are just on the edge here, and not actually in the aisle, but we do find some where they're actually walking in the aisle as well.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:11:16]"
+          },
+          {
+            "quote": "We see some good movement for pit-to-pit and pit-to-person.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:16:58]"
+          }
+        ]
+      },
+      {
+        "label": "Ergonomics risk identification via heat maps and repetition analysis",
+        "description": "Use ergonomics detections and heat maps to identify repetitive lifting risks, target hotspots, and encourage safer practices like team lifts.",
+        "evidence": [
+          {
+            "quote": "whereas ergonomics, like it's the nature of the job, there might be some improper lifting happening, and it's hard to, it's hard to change that, especially in your industry, with your, with, with furniture and things of that nature,",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:03:25]"
+          },
+          {
+            "quote": "It's still good with the tune, just for, like, the heat mapping is really helpful here for, like, figuring out what the actions are that are happening most repetitively.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:09:25]"
+          },
+          {
+            "quote": "once we have key maps live, it'll be a lot easier to see, like, where your hotspots are for every camera.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:18:48]"
+          },
+          {
+            "quote": "there's been more, you can see more using the tools, asking for help, more team lifts.",
+            "speaker": "Campbell Kingsley <fake.campbell.kingsley@gritstackoperations.com>",
+            "timestamp": "[00:14:42]"
+          }
+        ]
+      },
+      {
+        "label": "Distracted operation (cell phone use) detection and coaching",
+        "description": "Flag cell phone use during PIT operation and use the footage for one-on-one coaching to reduce distraction-related risks.",
+        "evidence": [
+          {
+            "quote": "I know we highlighted a video that someone was using their cell phone, like, not stopping at the end of the line.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:13:41]"
+          },
+          {
+            "quote": "that person, yeah, we had a one-on-one, definitely, about that one.",
+            "speaker": "Jesse Sloane <fake.jesse.sloane@gritstackoperations.com>",
+            "timestamp": "[00:13:50]"
+          }
+        ]
+      },
+      {
+        "label": "Walking over forks slip/trip hazard",
+        "description": "Identify and discourage associates from walking over PIT forks to prevent slip, trip, and fall incidents.",
+        "evidence": [
+          {
+            "quote": "This is what Brian from our team likes to talk about this all the time, which is like walking over forks.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:10:10]"
+          },
+          {
+            "quote": "Is walking over the forks, like what he did here, is a risk for you? Like, is that like something you guys want to know about?",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:10:21]"
+          },
+          {
+            "quote": "Walking over the forks? Um, the guys tend to do that on the EPJs often. I don't know if that's a very safety concern, but, um.",
+            "speaker": "Jesse Sloane <fake.jesse.sloane@gritstackoperations.com>",
+            "timestamp": "[00:10:27]"
+          },
+          {
+            "quote": "he says that like walking over forks is like a slip chip and fall hazard.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:10:41]"
+          }
+        ]
+      },
+      {
+        "label": "Load securement/stop before retrieving fallen items",
+        "description": "Detect events where loads fall from a moving PIT and reinforce the requirement to stop the forklift completely before addressing the load.",
+        "evidence": [
+          {
+            "quote": "This was, this smelled off of a moving pit. I think the box just fell off, but the pit was still moving. We usually want the forklift to come to a complete set.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:17:38]"
+          }
+        ]
+      },
+      {
+        "label": "Safety tallying and follow-up workflow (tracking repeat offenders/situations)",
+        "description": "Leverage Voxel’s counts to create spreadsheets that track individuals and recurring situations for coaching or discipline and to measure improvement over time.",
+        "evidence": [
+          {
+            "quote": "Voxel does exactly what we're asking it to do, which is just to keep a tally.",
+            "speaker": "Campbell Kingsley <fake.campbell.kingsley@gritstackoperations.com>",
+            "timestamp": "[00:23:32]"
+          },
+          {
+            "quote": "With that tally, we can then react accordingly, discipline accordingly, coach accordingly, whatever the situation may be.",
+            "speaker": "Campbell Kingsley <fake.campbell.kingsley@gritstackoperations.com>",
+            "timestamp": "[00:23:46]"
+          },
+          {
+            "quote": "maybe sharing a spreadsheet where we tally that up, because the tally's already there for us, that's why Voxel's here.",
+            "speaker": "Campbell Kingsley <fake.campbell.kingsley@gritstackoperations.com>",
+            "timestamp": "[00:24:24]"
+          },
+          {
+            "quote": "Definitely, I could create a spreadsheet over here from this side, just on, you know, associates that, you know, have major infractions, and just keep a tally, so then we could have that reported.",
+            "speaker": "Jesse Sloane <fake.jesse.sloane@gritstackoperations.com>",
+            "timestamp": "[00:25:21]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Safety tallying and follow-up workflow (tracking repeat offenders/situations)",
+        "description": "Use Voxel’s counts to build spreadsheets for operational tracking of associates and scenarios, enabling coaching/discipline workflows and trend measurement.",
+        "evidence": [
+          {
+            "quote": "Voxel does exactly what we're asking it to do, which is just to keep a tally.",
+            "speaker": "Campbell Kingsley <fake.campbell.kingsley@gritstackoperations.com>",
+            "timestamp": "[00:23:32]"
+          },
+          {
+            "quote": "With that tally, we can then react accordingly, discipline accordingly, coach accordingly, whatever the situation may be.",
+            "speaker": "Campbell Kingsley <fake.campbell.kingsley@gritstackoperations.com>",
+            "timestamp": "[00:23:46]"
+          },
+          {
+            "quote": "maybe sharing a spreadsheet where we tally that up, because the tally's already there for us, that's why Voxel's here.",
+            "speaker": "Campbell Kingsley <fake.campbell.kingsley@gritstackoperations.com>",
+            "timestamp": "[00:24:24]"
+          },
+          {
+            "quote": "Definitely, I could create a spreadsheet over here from this side, just on, you know, associates that, you know, have major infractions, and just keep a tally, so then we could have that reported.",
+            "speaker": "Jesse Sloane <fake.jesse.sloane@gritstackoperations.com>",
+            "timestamp": "[00:25:21]"
+          }
+        ]
+      }
+    ]
+  }
+}

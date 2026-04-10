@@ -1,0 +1,53 @@
+{
+  "meeting_title": "Voxel Training- Cassidy @ Cedar Brook Foods",
+  "start_time": "2022-03-29T18:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "PIT-to-PIT proximity monitoring",
+        "description": "Monitor and analyze forklift-to-forklift proximity events to track safety risk trends, camera hotspots, and peak times at the site.",
+        "evidence": [
+          {
+            "quote": "So this is one of your use cases that you're tracking today for Cedar Brook Foods pit-to-pit proximity.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:05:30]"
+          },
+          {
+            "quote": "at the camera-specific level, which of these have captured the most incidents in the past about a month over pit-to-pit proximity?",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:07:00]"
+          }
+        ]
+      },
+      {
+        "label": "Safety trend review and recommendations",
+        "description": "Conduct regular reviews of incident trends detected by Voxel to identify opportunities and recommend changes for improving site safety.",
+        "evidence": [
+          {
+            "quote": "So that's when we really get together. Review the trends, understand what opportunities exist at the site, and then make recommendations for changes.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:11:58]"
+          },
+          {
+            "quote": "I'm going to add you to our sinks that we have on a biweekly cadence.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:11:40]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Video footage retrieval",
+        "description": "Retrieve camera footage from the platform as needed.",
+        "evidence": [
+          {
+            "quote": "I do do a little bit of footage retrieval, but for the most part, more so technical manager of the system.",
+            "speaker": "Cassidy Keaton <fake.cassidy.keaton@liftfieldmaterials.com>",
+            "timestamp": "[00:02:00]"
+          }
+        ]
+      }
+    ]
+  }
+}

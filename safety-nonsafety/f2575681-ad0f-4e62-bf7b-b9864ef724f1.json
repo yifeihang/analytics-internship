@@ -1,0 +1,206 @@
+{
+  "meeting_title": "Iron Flow Manufacturing + Voxel - Reconnect",
+  "start_time": "2023-10-06T20:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Ergonomic risk detection for pallet handling and overexertions",
+        "description": "Identify and flag unsafe pallet handling and overexertion/overreach movements to reduce their largest injury category in inbound operations.",
+        "evidence": [
+          {
+            "quote": "Half of our injuries are overexertions, effectively.",
+            "speaker": "Jamie Valentine",
+            "timestamp": "[00:13:29]"
+          },
+          {
+            "quote": "there's a proper way to pick up pallets and set them down in?",
+            "speaker": "Jamie Valentine",
+            "timestamp": "[00:24:00]"
+          },
+          {
+            "quote": "they just take that pallet and kind of chuck it, right?",
+            "speaker": "Jamie Valentine",
+            "timestamp": "[00:24:12]"
+          },
+          {
+            "quote": "Would you effectively record the safe way of doing it, and if it detects somebody's picked up a pallet and done it incorrectly, then that triggers a flag to where it gets recorded, or how are you able to implement any rules?",
+            "speaker": "Jamie Valentine",
+            "timestamp": "[00:24:26]"
+          }
+        ]
+      },
+      {
+        "label": "PIT safety monitoring (no-stops, proximity, seatbelts)",
+        "description": "Monitor forklift safety behaviors and hazards like no-stop violations, PIT-to-pedestrian and PIT-to-PIT proximity, and interest in seatbelt compliance to reduce severe equipment incidents.",
+        "evidence": [
+          {
+            "quote": "And then the E is for equipment, because those are our least frequent but most severe injuries.",
+            "speaker": "Jamie Valentine",
+            "timestamp": "[00:13:39]"
+          },
+          {
+            "quote": "Guarantee you can see that every day.",
+            "speaker": "Jamie Valentine",
+            "timestamp": "[00:37:30]"
+          },
+          {
+            "quote": "Are you able to, you mentioned not wearing a seatbelt, right? Are you able to tell that as a flag?",
+            "speaker": "Jamie Valentine",
+            "timestamp": "[00:35:12]"
+          }
+        ]
+      },
+      {
+        "label": "Signage effectiveness and traffic control analytics",
+        "description": "Use camera analytics to identify intersections needing controls and to evaluate the impact of the regulatory signage project across sites.",
+        "evidence": [
+          {
+            "quote": "Being able to look at it more holistically, whether that's PPE or, you know, regulatory and signage or anything like that, we're kind of chipping away at that piece to kind of make that impact same building to building.",
+            "speaker": "Jamie Valentine",
+            "timestamp": "[00:12:10]"
+          },
+          {
+            "quote": "So there's our continuation of our regulatory signage project once it rolls out. It's like, hey, you guys don't have to go look at it. Yeah, yeah, we can just pull this up and be like, huh.",
+            "speaker": "Jamie Valentine",
+            "timestamp": "[00:32:13]"
+          }
+        ]
+      },
+      {
+        "label": "Proactive near-miss detection and visibility",
+        "description": "Gain visibility into near misses and property damage events beyond self-reporting, shifting from reactive CCTV reviews to proactive detection.",
+        "evidence": [
+          {
+            "quote": "Whether it's near miss or property damage, claims a lot of things that our AP partners are currently asking for. The near miss is the biggest one. We just, we only know what's been reported, right? And we don't have visibility to that.",
+            "speaker": "Jamie Valentine",
+            "timestamp": "[00:56:26]"
+          },
+          {
+            "quote": "We have instant reviews after every incident. We have serious instant reviews for very severe incidents, right? And part of that is always reviewing the CCTV, but it's limited, right? ... But like, to your point, it is always reactive.",
+            "speaker": "Jamie Valentine",
+            "timestamp": "[00:33:23]"
+          }
+        ]
+      },
+      {
+        "label": "Enterprise-wide safety visibility and hotspot identification",
+        "description": "Provide an enterprise view (e.g., heat maps, trends) to help a small central team oversee safety across 200+ distribution centers and varied platforms.",
+        "evidence": [
+          {
+            "quote": "Yeah, typically when we roll projects out, you know, we might be able to, we might focus on one versus the other, but we have oversight over the entire enterprise.",
+            "speaker": "Jamie Valentine",
+            "timestamp": "[00:07:06]"
+          },
+          {
+            "quote": "I mean, for context, Joe, there's Rochelle, my counterparts, the two managers, and two analysts that handle all of the safety, field support, environmental regulatory, hazmat, and project rollouts for our 200-plus distribution centers.",
+            "speaker": "Jamie Valentine",
+            "timestamp": "[00:32:23]"
+          },
+          {
+            "quote": "So something like this would be very beneficial.",
+            "speaker": "Jamie Valentine",
+            "timestamp": "[00:32:52]"
+          },
+          {
+            "quote": "So I love the heat map functionality, at least for all the categories that we're able to set up.",
+            "speaker": "Jamie Valentine",
+            "timestamp": "[01:00:01]"
+          }
+        ]
+      },
+      {
+        "label": "Restricted-area and egress/asset obstruction monitoring",
+        "description": "Surface policy violations such as people entering no-pedestrian zones (e.g., stepping onto rollers) and blocking emergency exits or fire equipment.",
+        "evidence": [
+          {
+            "quote": "Rochelle, this would be like 10 policy violations in a matter of 5 seconds.",
+            "speaker": "Jamie Valentine",
+            "timestamp": "[00:44:03]"
+          },
+          {
+            "quote": "There's definitely some things that we have a number of programs that this kind of almost is a solve for, right?",
+            "speaker": "Jamie Valentine",
+            "timestamp": "[00:45:09]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Near-miss and property damage data for AP claims/investigations",
+        "description": "Provide AP with objective data and clips on near misses and property damage beyond voluntary reports to support claims and investigations.",
+        "evidence": [
+          {
+            "quote": "Whether it's near miss or property damage, claims a lot of things that our AP partners are currently asking for. The near miss is the biggest one. We just, we only know what's been reported, right? And we don't have visibility to that.",
+            "speaker": "Jamie Valentine",
+            "timestamp": "[00:56:26]"
+          },
+          {
+            "quote": "We have instant reviews after every incident. We have serious instant reviews for very severe incidents, right? And part of that is always reviewing the CCTV, but it's limited, right? ... But like, to your point, it is always reactive.",
+            "speaker": "Jamie Valentine",
+            "timestamp": "[00:33:23]"
+          }
+        ]
+      },
+      {
+        "label": "Monitor progress and impact of pilots/program changes",
+        "description": "Track and measure the effectiveness of new procedures, programs, or PPE pilots over time using markers and reports.",
+        "evidence": [
+          {
+            "quote": "So, you had any clients that, you know, they have a distribution center, their teams are trying to roll out a... A new pilot, whether it's a procedure, program, PPE, et cetera, and they've used Voxel as a means to monitor the progress of that pilot as it's, you know, running.",
+            "speaker": "Jamie Valentine",
+            "timestamp": "[00:48:59]"
+          }
+        ]
+      },
+      {
+        "label": "Data export/API integration for custom analytics",
+        "description": "Pull raw data via exports or APIs to feed internal systems and customize reporting beyond the native platform.",
+        "evidence": [
+          {
+            "quote": "Are you – do you guys have functionality as far as setting up APIs with us for pulling, like, raw data if we want to spin it however we like? Or is it pretty much you guys grab it and put it on the platform when we're limited to? The reporting that's currently available, what you're planning to roll out?",
+            "speaker": "Jamie Valentine",
+            "timestamp": "[00:57:47]"
+          },
+          {
+            "quote": "API is massive in this space, so it's trying to figure out what makes sense and what does.",
+            "speaker": "Jamie Valentine",
+            "timestamp": "[00:58:21]"
+          }
+        ]
+      },
+      {
+        "label": "Automated alerts/digests and assignment workflows",
+        "description": "Automate follow-ups and deliver concise alerts or digests with action items to reduce time leaders spend searching dashboards.",
+        "evidence": [
+          {
+            "quote": "Are you able to auto-trigger, like, based on our rules, like, follow-ups?",
+            "speaker": "Jamie Valentine",
+            "timestamp": "[00:46:08]"
+          },
+          {
+            "quote": "we want to keep our leaders focused on the operation and making things safe and not sitting behind the computer all day. And so any ways that we would be able to trigger alerts, kind of concatenate them and send them out to give people action items rather than them searching the dashboard, you know, every week to try to find those pieces.",
+            "speaker": "Jamie Valentine",
+            "timestamp": "[00:58:34]"
+          },
+          {
+            "quote": "I could see this being, like, two or three full-time jobs just to look at all the opportunities that we have and then turning that into a project.",
+            "speaker": "Jamie Valentine",
+            "timestamp": "[00:59:01]"
+          }
+        ]
+      },
+      {
+        "label": "Link incident logs to camera footage for leader review",
+        "description": "Tie incident records to corresponding camera clips and provide periodic digests so leaders can quickly review relevant footage.",
+        "evidence": [
+          {
+            "quote": "being able to, oh, we have this list of incidents, and being able to quickly kind of tie all of those a few camera feeds, right? Like, so look at all of our incidents and then being able to have that digest period of, you know, here's all the footage of those incidents based on the point in time that they were recorded or reported, and finding that would be something that our leaders would probably want as well, so.",
+            "speaker": "Jamie Valentine",
+            "timestamp": "[01:00:01]"
+          }
+        ]
+      }
+    ]
+  }
+}

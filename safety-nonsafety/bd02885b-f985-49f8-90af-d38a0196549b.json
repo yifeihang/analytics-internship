@@ -1,0 +1,56 @@
+{
+  "meeting_title": "Granite Ridge Works / Voxel: Monthly",
+  "start_time": "2022-02-06T19:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Speeding detection across existing cameras at Hub East",
+        "description": "Enable speeding detection by calibrating selected camera views with fixed-point measurements so Granite Ridge Works can flag vehicle speeding across their existing cameras at the Hub East facility.",
+        "evidence": [
+          {
+            "quote": "there is an expansion opportunity here with them, but we're having, they want to add some new use cases around speeding just across their existing cameras.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:04:25]"
+          },
+          {
+            "quote": "Really, the only thing that's super top of mind for me is getting speeding enabled.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:09:17]"
+          },
+          {
+            "quote": "We need to pick two points on these and measure the distance, distances between them.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:09:44]"
+          },
+          {
+            "quote": "As soon as we have those distances, we'll get speeding enabled on our side.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:10:30]"
+          }
+        ]
+      },
+      {
+        "label": "Eliminate 517 warehouse blind spot to capture PPE violations",
+        "description": "Add or re-scope camera coverage in the 517 AA Mail area to remove blind spots so Voxel can detect PPE non-compliance (e.g., missing vests) and activity in that zone.",
+        "evidence": [
+          {
+            "quote": "I found a blind spot in the 517 warehouse, but I didn't know how to let you know where it is and if we have cameras there.",
+            "speaker": "Morgan Marlowe <fake.morgan.marlowe@graniteridgeworks.com>",
+            "timestamp": "[00:14:04]"
+          },
+          {
+            "quote": "this lady kept walking past me with no vest on, and I'm like, wait a minute, I'm not getting any indication.",
+            "speaker": "Morgan Marlowe <fake.morgan.marlowe@graniteridgeworks.com>",
+            "timestamp": "[00:15:00]"
+          },
+          {
+            "quote": "And that whole area where the red bag carts are, we have no coverage of.",
+            "speaker": "Morgan Marlowe <fake.morgan.marlowe@graniteridgeworks.com>",
+            "timestamp": "[00:22:01]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": []
+  }
+}

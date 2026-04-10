@@ -1,0 +1,61 @@
+{
+  "meeting_title": "Granite Ridge Works / Voxel: Bi-Weekly",
+  "start_time": "2024-04-20T19:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Vehicle speeding detection across lanes",
+        "description": "Granite Ridge Works wants Voxel to detect and track vehicle speeding across multiple warehouse and dock lanes at Hub East, using bi-directional monitoring and fixed-point distance measurements to calibrate speed and better track incidents.",
+        "evidence": [
+          {
+            "quote": "The door, which is, and also if we wanted to, we could do a speed camera, which we're going to talk about next, right, Shawn?",
+            "speaker": "Morgan Marlowe <fake.morgan.marlowe@graniteridgeworks.com>",
+            "timestamp": "[00:08:47]"
+          },
+          {
+            "quote": "All right, so here we've got the speeding shots pulled up.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:11:54]"
+          },
+          {
+            "quote": "So in terms of how speeding works, we need to pick, first off, we can do bi-directional.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:12:00]"
+          },
+          {
+            "quote": "So we need to, we need you guys to measure a point, two different points, and give us the distance.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:12:26]"
+          },
+          {
+            "quote": "And from camera angles, I do agree that the speed limits will definitely help us with being able to track those incidents a lot better.",
+            "speaker": "Darian Pryor <fake.darian.pryor@graniteridgeworks.com>",
+            "timestamp": "[00:22:45]"
+          }
+        ]
+      },
+      {
+        "label": "Safety vest (PPE) compliance monitoring in designated areas",
+        "description": "Granite Ridge Works is using Voxel to monitor safety vest compliance within marked zones and troubleshoot areas where designated safety-vest spots are not being detected.",
+        "evidence": [
+          {
+            "quote": "Are we going to have to put the safety vest lines in there now, Gio?",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:22:03]"
+          },
+          {
+            "quote": "The lines, everything's still on there for safety vests and everything.",
+            "speaker": "Tatum Whitman <fake.tatum.whitman@graniteridgeworks.com>",
+            "timestamp": "[00:22:15]"
+          },
+          {
+            "quote": "We might, I might call you about a few spots that are, that are not, that are designated as safety vest spots, but they're not picking up, but.",
+            "speaker": "Morgan Marlowe <fake.morgan.marlowe@graniteridgeworks.com>",
+            "timestamp": "[00:23:29]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": []
+  }
+}

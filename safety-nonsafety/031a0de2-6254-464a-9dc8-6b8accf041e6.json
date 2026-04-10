@@ -1,0 +1,173 @@
+{
+  "meeting_title": "Ember Transit Logistics / Voxel Monthly",
+  "start_time": "2024-06-22T20:30:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Housekeeping: product on floor and palletization",
+        "description": "Address frequent product left on the floor by ensuring items are staged on pallets to reduce safety hazards.",
+        "evidence": [
+          {
+            "quote": "I would say Ember Transit Logistics's biggest issue is constant product on the floor.",
+            "speaker": "Parker Donovan <fake.parker.donovan@voxelai.com>",
+            "timestamp": "[00:16:09]"
+          },
+          {
+            "quote": "Just make sure products on a pallet.",
+            "speaker": "Parker Donovan <fake.parker.donovan@voxelai.com>",
+            "timestamp": "[00:16:15]"
+          },
+          {
+            "quote": "I'm not going to, you know, make sure there's a pallet under the box.",
+            "speaker": "Parker Donovan <fake.parker.donovan@voxelai.com>",
+            "timestamp": "[00:14:37]"
+          }
+        ]
+      },
+      {
+        "label": "Ergonomic overreach prevention",
+        "description": "Reduce high overreach by properly palletizing and staging product instead of pushing items on the floor.",
+        "evidence": [
+          {
+            "quote": "tell them to put the product on the pallet.",
+            "speaker": "Parker Donovan <fake.parker.donovan@voxelai.com>",
+            "timestamp": "[00:10:13]"
+          },
+          {
+            "quote": "Quit pushing it on the floor to get this, you know, high overreach.",
+            "speaker": "Parker Donovan <fake.parker.donovan@voxelai.com>",
+            "timestamp": "[00:10:17]"
+          }
+        ]
+      },
+      {
+        "label": "Safe tool use for packaging (no tearing tape with teeth)",
+        "description": "Prevent injuries from tearing tape with teeth by using the proper hand wrap tool.",
+        "evidence": [
+          {
+            "quote": "Don't use your teeth to tear the tape.",
+            "speaker": "Parker Donovan <fake.parker.donovan@voxelai.com>",
+            "timestamp": "[00:15:37]"
+          },
+          {
+            "quote": "That's how you cut your mouth.",
+            "speaker": "Parker Donovan <fake.parker.donovan@voxelai.com>",
+            "timestamp": "[00:15:40]"
+          },
+          {
+            "quote": "But right, guys, that simple communication to say, use your hand wrap tool to cut it off.",
+            "speaker": "Parker Donovan <fake.parker.donovan@voxelai.com>",
+            "timestamp": "[00:16:25]"
+          }
+        ]
+      },
+      {
+        "label": "PIT use compliance for material movement",
+        "description": "Encourage use of powered industrial trucks when moving items instead of manual handling to reduce risk.",
+        "evidence": [
+          {
+            "quote": "Please use your pit when you're moving things, right?",
+            "speaker": "Parker Donovan <fake.parker.donovan@voxelai.com>",
+            "timestamp": "[00:14:42]"
+          }
+        ]
+      },
+      {
+        "label": "Timely corrective actions and due dates for high-severity safety events",
+        "description": "Use Voxel actions with defined due dates to ensure prompt closure of high-risk safety items per SOPs.",
+        "evidence": [
+          {
+            "quote": "Now we have actions where I'll give you a time frame that you have till a week from today to finish it.",
+            "speaker": "Parker Donovan <fake.parker.donovan@voxelai.com>",
+            "timestamp": "[00:14:16]"
+          },
+          {
+            "quote": "I think that's effective, but at least we can start with, hey, your due date's X.",
+            "speaker": "Parker Donovan <fake.parker.donovan@voxelai.com>",
+            "timestamp": "[00:14:26]"
+          },
+          {
+            "quote": "our SOP for the highs are within several hours.",
+            "speaker": "Brooks Sutton <fake.brooks.sutton@embertransitlogistics.com>",
+            "timestamp": "[00:15:02]"
+          },
+          {
+            "quote": "So maybe like a few days. Let's do it that way.",
+            "speaker": "Brooks Sutton <fake.brooks.sutton@embertransitlogistics.com>",
+            "timestamp": "[00:15:08]"
+          },
+          {
+            "quote": "through actions to keep that accountability loop going and closing all of those open items.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:12:40]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Supervisor training and adoption support",
+        "description": "Provide targeted, condensed training and outreach to supervisors—especially non-users—to make Voxel usage consistent and efficient.",
+        "evidence": [
+          {
+            "quote": "And directly train them.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:06:59]"
+          },
+          {
+            "quote": "So that they know exactly how to use Voxel, because I think something that typically customers see as a deterrent at first is they go in, they don't know what to look for, and they think, oh my God, the volume of events is so high.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:07:00]"
+          },
+          {
+            "quote": "I think maybe if you wouldn't even mind, maybe the ones that are not doing it, because those would be the ones that are really kind of, worried about with them, why aren't they at least going in there once or logging in?",
+            "speaker": "Brooks Sutton <fake.brooks.sutton@embertransitlogistics.com>",
+            "timestamp": "[00:08:19]"
+          },
+          {
+            "quote": "go into the dashboard five or a few minutes a couple of times per week.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:12:36]"
+          }
+        ]
+      },
+      {
+        "label": "Usage analytics to monitor and pinpoint adoption",
+        "description": "Leverage the new homepage data to see who is logging in and use it to pinpoint managers and drive accountability.",
+        "evidence": [
+          {
+            "quote": "I really love the new page, the first page where I'm able to get all the data and the accurate of everybody who's been on.",
+            "speaker": "Brooks Sutton <fake.brooks.sutton@embertransitlogistics.com>",
+            "timestamp": "[00:01:58]"
+          },
+          {
+            "quote": "Being used and, you know, through the program, giving me all that data has been really helpful to really pinpoint with these managers.",
+            "speaker": "Brooks Sutton <fake.brooks.sutton@embertransitlogistics.com>",
+            "timestamp": "[00:02:00]"
+          }
+        ]
+      },
+      {
+        "label": "Voxel-assigned actions to drive engagement and accountability",
+        "description": "Have the Voxel team assign low-hanging fruit actions to specific supervisors with Tara CC’d to help drive the work and re-engage users.",
+        "evidence": [
+          {
+            "quote": "I can see something that's low-hanging fruit, and I can assign the action, and I can make you the CC, the contributor.",
+            "speaker": "Parker Donovan <fake.parker.donovan@voxelai.com>",
+            "timestamp": "[00:09:13]"
+          },
+          {
+            "quote": "As long as I know, person and shift, I can coordinate with my team to go, just give me one a day, or whatever you give me as a list.",
+            "speaker": "Parker Donovan <fake.parker.donovan@voxelai.com>",
+            "timestamp": "[00:09:52]"
+          },
+          {
+            "quote": "now work at Ember Transit Logistics, and just dip the toe back in there a little bit, get them feeling good about it, commenting on it.",
+            "speaker": "Parker Donovan <fake.parker.donovan@voxelai.com>",
+            "timestamp": "[00:11:14]"
+          }
+        ]
+      }
+    ]
+  }
+}

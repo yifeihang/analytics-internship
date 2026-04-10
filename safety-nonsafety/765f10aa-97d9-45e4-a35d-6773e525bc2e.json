@@ -1,0 +1,270 @@
+{
+  "meeting_title": "Forge Axis Solutions / Voxel Monthly Sync",
+  "start_time": "2022-06-24T17:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Tune no-pedestrian zone detection to focus on real pedestrian/forklift risks",
+        "description": "Resize and relocate no-ped regions so shipping prep doesn’t generate excessive alerts while still flagging pedestrians walking in forklift aisles.",
+        "evidence": [
+          {
+            "quote": "But Parker, I'll start by kicking things over to you just to talk about some things you wanted to raise about no-ped zone.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "00:01:53"
+          },
+          {
+            "quote": "But if I hit the three dots and then I go to the active regions, I'm specifically looking at no-ped and this is where you're getting dinged is right here when you prep that pallet and when you prep the pallet down here.",
+            "speaker": "Parker Donovan <fake.parker.donovan@voxelai.com>",
+            "timestamp": "00:03:27"
+          },
+          {
+            "quote": "Yeah, I would say if we move that area and kind of cut it in half.",
+            "speaker": "Nell Alden <fake.nell.alden@forgeaxissolutions.com>",
+            "timestamp": "00:05:16"
+          },
+          {
+            "quote": "because they really shouldn't be walking in the forklift aisle all the way to the right against that barrier.",
+            "speaker": "Nell Alden <fake.nell.alden@forgeaxissolutions.com>",
+            "timestamp": "00:05:19"
+          },
+          {
+            "quote": "So I will save and submit this and it'll go live this afternoon.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "00:07:37"
+          },
+          {
+            "quote": "I just figured we get that no pedestrian fixed, and now you can start focusing on the real risk.",
+            "speaker": "Parker Donovan <fake.parker.donovan@voxelai.com>",
+            "timestamp": "00:09:03"
+          }
+        ]
+      },
+      {
+        "label": "Reduce aisle obstacles/obstructions based on Voxel alerts",
+        "description": "Use alerts to identify and remove racks/obstructions from aisleways, replicating improvements from East Prime to West Prime.",
+        "evidence": [
+          {
+            "quote": "we kept saying, hey, we're getting dinged for obstacles and obstructions.",
+            "speaker": "Nell Alden <fake.nell.alden@forgeaxissolutions.com>",
+            "timestamp": "00:06:31"
+          },
+          {
+            "quote": "We stopped putting racks there.",
+            "speaker": "Nell Alden <fake.nell.alden@forgeaxissolutions.com>",
+            "timestamp": "00:06:41"
+          },
+          {
+            "quote": "I'm like, yes, but now we've to do it on West Prime as well.",
+            "speaker": "Nell Alden <fake.nell.alden@forgeaxissolutions.com>",
+            "timestamp": "00:06:42"
+          }
+        ]
+      },
+      {
+        "label": "Monitor and mitigate ergonomic risks (overreaching/improper bend)",
+        "description": "Track overreaching and improper bending, identify parts/processes that cause spikes, and target interventions accordingly.",
+        "evidence": [
+          {
+            "quote": "So overreaching down 5-10%, improper bend 10-15%, obstruction 5-10%, safety vest 5-10%, a slight dip up in parking duration, though that's nothing that would concern me.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "00:09:44"
+          },
+          {
+            "quote": "It's all more of a constant effort, especially with overreaching.",
+            "speaker": "Nell Alden <fake.nell.alden@forgeaxissolutions.com>",
+            "timestamp": "00:10:02"
+          },
+          {
+            "quote": "But if we just jump up and use this one part for a few days, and that's all of our overreaching incidents, we're like, oh, crap.",
+            "speaker": "Nell Alden <fake.nell.alden@forgeaxissolutions.com>",
+            "timestamp": "00:10:17"
+          },
+          {
+            "quote": "And so we have used that quite a bit.",
+            "speaker": "Nell Alden <fake.nell.alden@forgeaxissolutions.com>",
+            "timestamp": "00:10:24"
+          }
+        ]
+      },
+      {
+        "label": "Encourage pop-up conveyor use at 497 unload to reduce manual handling",
+        "description": "Promote the installed pop-up conveyor at the 497 unload area to cut overreaching/manual handling despite worker resistance to changing long-standing habits.",
+        "evidence": [
+          {
+            "quote": "But the 497 unload, we're still trying to get them to use the pop-up conveyor that we installed.",
+            "speaker": "Nell Alden <fake.nell.alden@forgeaxissolutions.com>",
+            "timestamp": "00:11:10"
+          },
+          {
+            "quote": "But they're like, well, I haven't, I've done this for several years this way. Why would I change it?",
+            "speaker": "Nell Alden <fake.nell.alden@forgeaxissolutions.com>",
+            "timestamp": "00:11:16"
+          }
+        ]
+      },
+      {
+        "label": "Monitor safety vest PPE compliance and manage seasonal impacts",
+        "description": "Track safety vest usage and prepare for potential compliance/detection issues as temperatures drop and jackets are worn.",
+        "evidence": [
+          {
+            "quote": "safety vest 5-10%",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "00:09:49"
+          },
+          {
+            "quote": "Safety vests, I mean, that's just, I'm hoping it stays on a downward trend, but I just sent something out today because the temperatures are actually dropping.",
+            "speaker": "Nell Alden <fake.nell.alden@forgeaxissolutions.com>",
+            "timestamp": "00:10:28"
+          },
+          {
+            "quote": "So it'll be interesting to see if people start to wear jackets again and do all that stuff.",
+            "speaker": "Nell Alden <fake.nell.alden@forgeaxissolutions.com>",
+            "timestamp": "00:10:39"
+          },
+          {
+            "quote": "So I'm hoping it stays pretty neutral, but I'm scared that one might spike going a little bit forward.",
+            "speaker": "Nell Alden <fake.nell.alden@forgeaxissolutions.com>",
+            "timestamp": "00:10:45"
+          }
+        ]
+      },
+      {
+        "label": "Plan for new thin hi-viz PPE and adjust detection accordingly",
+        "description": "Evaluate moving to a PPE garment with a thin hi-viz stripe that may not be reliably detected and coordinate disabling or retraining detection as needed.",
+        "evidence": [
+          {
+            "quote": "I think Pat was involved about a possible new PPE garment with kind of a thinner stripe of HiViz.",
+            "speaker": "Nell Alden <fake.nell.alden@forgeaxissolutions.com>",
+            "timestamp": "00:14:07"
+          },
+          {
+            "quote": "And so if we did end up going to that, we would probably remove HiViz off of some of it because I don't believe Voxel can fully capture it.",
+            "speaker": "Nell Alden <fake.nell.alden@forgeaxissolutions.com>",
+            "timestamp": "00:14:15"
+          },
+          {
+            "quote": "And mean, it is maybe like a three inch stripe, so that wouldn't, it's not anything on you guys.",
+            "speaker": "Nell Alden <fake.nell.alden@forgeaxissolutions.com>",
+            "timestamp": "00:14:22"
+          },
+          {
+            "quote": "I could always see also with our perception team if there is a possibility of like training the AI to maybe pick up that small of a surface.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "00:14:39"
+          }
+        ]
+      },
+      {
+        "label": "Use Actions workflow to assign and track safety interventions",
+        "description": "Leverage the Actions workflow to assign follow-ups and measure the impact of interventions via automatic markers in reports.",
+        "evidence": [
+          {
+            "quote": "Now, since we spoke last, that has been rolled out fully to all of our customers.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "00:12:06"
+          },
+          {
+            "quote": "I have not been able to assign as many actions because I've been like, okay, what's the high risk today?",
+            "speaker": "Nell Alden <fake.nell.alden@forgeaxissolutions.com>",
+            "timestamp": "00:12:21"
+          },
+          {
+            "quote": "once you guys actually complete an action, the good part about this process is it actually automatically inserts a marker in your data in the platform.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "00:12:48"
+          },
+          {
+            "quote": "what did I do? When did I do it? And what effect is it having?",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "00:13:29"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Tune no-pedestrian zone detection to reduce alert noise",
+        "description": "Adjust camera regions to remove noise from routine shipping prep so users can more efficiently review incidents and prioritize meaningful events.",
+        "evidence": [
+          {
+            "quote": "But if I hit the three dots and then I go to the active regions, I'm specifically looking at no-ped and this is where you're getting dinged is right here when you prep that pallet and when you prep the pallet down here.",
+            "speaker": "Parker Donovan <fake.parker.donovan@voxelai.com>",
+            "timestamp": "00:03:27"
+          },
+          {
+            "quote": "Would you like to keep it? Or do you want us to remove the noise and narrow that scope?",
+            "speaker": "Parker Donovan <fake.parker.donovan@voxelai.com>",
+            "timestamp": "00:05:03"
+          },
+          {
+            "quote": "So I will save and submit this and it'll go live this afternoon.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "00:07:37"
+          },
+          {
+            "quote": "I just figured we get that no pedestrian fixed, and now you can start focusing on the real risk.",
+            "speaker": "Parker Donovan <fake.parker.donovan@voxelai.com>",
+            "timestamp": "00:09:03"
+          }
+        ]
+      },
+      {
+        "label": "Exclude planned events from analytics to avoid skewed metrics",
+        "description": "Hide or remove timeframes for fire drills or family days so unusual pedestrian traffic and PPE exceptions don’t inflate incident counts.",
+        "evidence": [
+          {
+            "quote": "And I will say if we do get a spike right now, which we shouldn't, but we're doing our fire drills this week.",
+            "speaker": "Nell Alden <fake.nell.alden@forgeaxissolutions.com>",
+            "timestamp": "00:07:43"
+          },
+          {
+            "quote": "That's something we can hide.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "00:08:02"
+          },
+          {
+            "quote": "Like if you want to select a particular time frame, we can actually remove that information because it's not contributing to your overall efforts for safety.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "00:08:03"
+          },
+          {
+            "quote": "It's definitely for those instances where some customers come to me and are like, hey, we have families on site today.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "00:08:25"
+          },
+          {
+            "quote": "You know, there's not going to be safety vests.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "00:08:31"
+          }
+        ]
+      },
+      {
+        "label": "Use Actions workflow to manage corrective actions and track impact",
+        "description": "Adopt the Actions workflow to assign actions and visualize their impact via report markers that show changes in incident trends.",
+        "evidence": [
+          {
+            "quote": "Now, since we spoke last, that has been rolled out fully to all of our customers.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "00:12:06"
+          },
+          {
+            "quote": "I have not been able to assign as many actions because I've been like, okay, what's the high risk today?",
+            "speaker": "Nell Alden <fake.nell.alden@forgeaxissolutions.com>",
+            "timestamp": "00:12:21"
+          },
+          {
+            "quote": "once you guys actually complete an action, the good part about this process is it actually automatically inserts a marker in your data in the platform.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "00:12:48"
+          },
+          {
+            "quote": "So are we trending down? Are we staying the same? Are we going up?",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "00:13:11"
+          }
+        ]
+      }
+    ]
+  }
+}

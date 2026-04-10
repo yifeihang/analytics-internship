@@ -1,0 +1,268 @@
+{
+  "meeting_title": "South Track Dynamics / Voxel Monthly",
+  "start_time": "2023-04-04T17:30:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "PPE compliance monitoring (bump caps and safety vests) with tuning and zoning",
+        "description": "Monitor hat/vest compliance, reduce false positives by increasing minimum violation duration, and exclude entry areas where PPE is not required.",
+        "evidence": [
+          {
+            "quote": "I usually take a look at the Wednesday and Thursdays to see if anyone forgot to put their hat on or their vest, but I noticed it wasn't coming up.",
+            "speaker": "Nico Blaine <fake.nico.blaine@southtrackdynamics.com>",
+            "timestamp": "[00:02:00]"
+          },
+          {
+            "quote": "I want to go back through the cameras, because we are finding a lot of things like bump caps that are popping up.",
+            "speaker": "Gale Hadley <fake.gale.hadley@southtrackdynamics.com>",
+            "timestamp": "[00:07:36]"
+          },
+          {
+            "quote": "Okay, yeah, that would definitely be, I mean, if we went to like 15 seconds, I think that would be fine. It may give someone the opportunity to take their hat off, you know, wipe their brow, whatever they're doing.",
+            "speaker": "Gale Hadley <fake.gale.hadley@southtrackdynamics.com>",
+            "timestamp": "[00:11:14]"
+          },
+          {
+            "quote": "Well, the bump caps they need to have in all areas anyways.",
+            "speaker": "Gale Hadley <fake.gale.hadley@southtrackdynamics.com>",
+            "timestamp": "[00:11:54]"
+          },
+          {
+            "quote": "And or bump caps are not required because folks are coming in and out of the building.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:13:00]"
+          },
+          {
+            "quote": "For the Safety Vest?",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:26:23]"
+          },
+          {
+            "quote": "For the Safety Vest timeframes?",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:26:25]"
+          }
+        ]
+      },
+      {
+        "label": "PIT–pedestrian proximity monitoring and walkway zoning/coverage",
+        "description": "Address PIT-to-person proximity by improving camera angles/coverage and defining pedestrian walkways to reduce false positives.",
+        "evidence": [
+          {
+            "quote": "But they have, like, designated walkways, right?",
+            "speaker": "Gale Hadley <fake.gale.hadley@southtrackdynamics.com>",
+            "timestamp": "[00:07:49]"
+          },
+          {
+            "quote": "Unfortunately, we don't have that as clearly defined here.",
+            "speaker": "Gale Hadley <fake.gale.hadley@southtrackdynamics.com>",
+            "timestamp": "[00:07:54]"
+          },
+          {
+            "quote": "So we are having kind of what we call, like. False readings, and I'd like to kind of sit down and go through that with you again and see if we can kind of re-lay out some of the boxes and whatnot.",
+            "speaker": "Gale Hadley <fake.gale.hadley@southtrackdynamics.com>",
+            "timestamp": "[00:08:01]"
+          },
+          {
+            "quote": "we get pit to person sometimes, and the angle I think makes it look like they're within that three-foot range when they're, realistically, they're about five feet.",
+            "speaker": "Gale Hadley <fake.gale.hadley@southtrackdynamics.com>",
+            "timestamp": "[00:08:14]"
+          },
+          {
+            "quote": "it might make sense for us to re-allocate a different camera to maybe get a better view of a different area.",
+            "speaker": "Gale Hadley <fake.gale.hadley@southtrackdynamics.com>",
+            "timestamp": "[00:08:32]"
+          }
+        ]
+      },
+      {
+        "label": "PIT parking duration monitoring at inbound docks",
+        "description": "Detect and alert when powered industrial trucks are parked too long at docks to prevent dock leveler damage, with an extended threshold during active loading.",
+        "evidence": [
+          {
+            "quote": "So, the parking duration, Rob, popped up recently that we haven't seen and it was during the working time.",
+            "speaker": "Nico Blaine <fake.nico.blaine@southtrackdynamics.com>",
+            "timestamp": "[00:15:59]"
+          },
+          {
+            "quote": "I can tell the idea was dock levelers. We don't want damaging the dock levelers.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:16:16]"
+          },
+          {
+            "quote": "Our rule is set up for 60 seconds.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:17:12]"
+          },
+          {
+            "quote": "Maybe set for tens of minutes or something.",
+            "speaker": "Quinn Tobin <fake.quinn.tobin@southtrackdynamics.com>",
+            "timestamp": "[00:17:28]"
+          }
+        ]
+      },
+      {
+        "label": "Ergonomic risk detection and multi-actor capture",
+        "description": "Monitor improper lifting/overreaching and ensure simultaneous unsafe acts by multiple people are each detected and clipped.",
+        "evidence": [
+          {
+            "quote": "Right now, honestly, I think bump caps is probably the biggest one, other than the ergonomics ones, right?",
+            "speaker": "Gale Hadley <fake.gale.hadley@southtrackdynamics.com>",
+            "timestamp": "[00:13:28]"
+          },
+          {
+            "quote": "I know one of the things that was written down a while back ago was AI wasn't able to identify two people at the same time, overreaching.",
+            "speaker": "Nico Blaine <fake.nico.blaine@southtrackdynamics.com>",
+            "timestamp": "[00:19:32]"
+          },
+          {
+            "quote": "It only caught the one person, not the other person.",
+            "speaker": "Nico Blaine <fake.nico.blaine@southtrackdynamics.com>",
+            "timestamp": "[00:20:01]"
+          },
+          {
+            "quote": "That should have not happened, just to be clear.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:20:28]"
+          },
+          {
+            "quote": "But if people are doing simultaneously the same thing, it should create two different clips, a.k.a. two different data points.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>"
+          }
+        ]
+      },
+      {
+        "label": "Proactive safety analytics (heat maps and action/insights)",
+        "description": "Use heat maps and AI-driven insights to highlight hotspots and suggest actions to reduce spikes in improper bending and other incidents.",
+        "evidence": [
+          {
+            "quote": "heat map should be coming here. Hopefully by the end of this month, it'll be live for every customer.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:21:18]"
+          },
+          {
+            "quote": "Voxel will start, air quotes, saying, hey, you you guys are having improper bend spikes around this time of the week.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:21:40]"
+          },
+          {
+            "quote": "Here's four options that may help, you know, make that incident count go down in that area.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:21:50]"
+          }
+        ]
+      },
+      {
+        "label": "Supervisor-specific boards and action follow-up for safety",
+        "description": "Assign specific cameras to supervisors via boards for focused monitoring, assignment, and closing out safety actions after stand-ups.",
+        "evidence": [
+          {
+            "quote": "Are we able to assign specific cameras to those individuals?",
+            "speaker": "Nico Blaine <fake.nico.blaine@southtrackdynamics.com>",
+            "timestamp": "[00:22:09]"
+          },
+          {
+            "quote": "Yes, you guys can. So we can do that through boards.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:22:13]"
+          },
+          {
+            "quote": "So the way we'll set it up is this supervisor needs these a few cameras, all use cases, whatever you guys want to name it, we'll name it.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:23:22]"
+          },
+          {
+            "quote": "It's, you they're still kind of, you know, learning the process, but, like, I know we signed some to our supervisor of materials, and I know she responded back, and, you know, they went and had an action with their team and, you know, discussed the situation.",
+            "speaker": "Gale Hadley <fake.gale.hadley@southtrackdynamics.com>",
+            "timestamp": "[00:24:55]"
+          },
+          {
+            "quote": "So, I think part of it is just our own internal, making sure they know that once they've done, you know, their safety stand up to resolve the action, so that way it's not pending.",
+            "speaker": "Gale Hadley <fake.gale.hadley@southtrackdynamics.com>",
+            "timestamp": "[00:25:12]"
+          }
+        ]
+      },
+      {
+        "label": "Daily summary incident emails for safety review",
+        "description": "Rely on daily incident summary emails to review PPE and other findings, including weekend checks; ensure consistent delivery.",
+        "evidence": [
+          {
+            "quote": "I stopped getting Voxel notifications on August 21st.",
+            "speaker": "Nico Blaine <fake.nico.blaine@southtrackdynamics.com>",
+            "timestamp": "[00:00:47]"
+          },
+          {
+            "quote": "Usually, I get a daily report.",
+            "speaker": "Nico Blaine <fake.nico.blaine@southtrackdynamics.com>",
+            "timestamp": "[00:00:57]"
+          },
+          {
+            "quote": "Support showing incidents and findings.",
+            "speaker": "Nico Blaine <fake.nico.blaine@southtrackdynamics.com>",
+            "timestamp": "[00:01:00]"
+          },
+          {
+            "quote": "I usually take a look at the Wednesday and Thursdays to see if anyone forgot to put their hat on or their vest, but I noticed it wasn't coming up.",
+            "speaker": "Nico Blaine <fake.nico.blaine@southtrackdynamics.com>",
+            "timestamp": "[00:02:00]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Daily summary email delivery and notifications",
+        "description": "Ensure the daily report emails are being delivered reliably and troubleshoot when they stop arriving.",
+        "evidence": [
+          {
+            "quote": "I stopped getting Voxel notifications on August 21st.",
+            "speaker": "Nico Blaine <fake.nico.blaine@southtrackdynamics.com>",
+            "timestamp": "[00:00:47]"
+          },
+          {
+            "quote": "Usually, I get a daily report.",
+            "speaker": "Nico Blaine <fake.nico.blaine@southtrackdynamics.com>",
+            "timestamp": "[00:00:57]"
+          },
+          {
+            "quote": "Support showing incidents and findings.",
+            "speaker": "Nico Blaine <fake.nico.blaine@southtrackdynamics.com>",
+            "timestamp": "[00:01:00]"
+          },
+          {
+            "quote": "Oh, and we'll follow up on the emails, the Daily Summer emails, Alex.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:26:53]"
+          }
+        ]
+      },
+      {
+        "label": "Role-based boards and camera access for supervisors",
+        "description": "Create boards that partition specific cameras and incident types for individual supervisors to streamline monitoring and close out assigned actions.",
+        "evidence": [
+          {
+            "quote": "Are we able to assign specific cameras to those individuals?",
+            "speaker": "Nico Blaine <fake.nico.blaine@southtrackdynamics.com>",
+            "timestamp": "[00:22:09]"
+          },
+          {
+            "quote": "Yes, you guys can. So we can do that through boards.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:22:13]"
+          },
+          {
+            "quote": "So the way we'll set it up is this supervisor needs these a few cameras, all use cases, whatever you guys want to name it, we'll name it.",
+            "speaker": "Alex Carver <fake.alex.carver@voxelai.com>",
+            "timestamp": "[00:23:22]"
+          },
+          {
+            "quote": "It's, you they're still kind of, you know, learning the process, but, like, I know we signed some to our supervisor of materials, and I know she responded back, and, you know, they went and had an action with their team and, you know, discussed the situation.",
+            "speaker": "Gale Hadley <fake.gale.hadley@southtrackdynamics.com>",
+            "timestamp": "[00:24:55]"
+          }
+        ]
+      }
+    ]
+  }
+}

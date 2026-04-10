@@ -1,0 +1,331 @@
+{
+  "meeting_title": "Voxel - Cobalt Ridge Fabrication",
+  "start_time": "2024-01-17T12:15:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "PIT speed and stop compliance monitoring",
+        "description": "Monitor PIT (powered industrial truck) speeding and enforce intersection stops, using Voxel data to guide actions like installing speed governors and adding stop-sign compliance alerts.",
+        "evidence": [
+          {
+            "quote": "getting the governors set from the beginning and, you know, potentially I do need to circle back and understand if you guys ended up paying that little bit of extra money to Iron Harbor Fleet for a password-protected governor.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:44:08]"
+          },
+          {
+            "quote": "remember how they have the one where if you don't stop at a stop sign, it'll trigger something for it.",
+            "speaker": "Operations Conference Room 2",
+            "timestamp": "[00:46:31]"
+          },
+          {
+            "quote": "The only thing that, can I just say something, if you're using this for anything else, can we change forklift to PIT, since most of our stuff is PIT and not, I'd rather it be identified as PIT and not forklift.",
+            "speaker": "Operations Conference Room 2",
+            "timestamp": "[00:50:12]"
+          }
+        ]
+      },
+      {
+        "label": "Detect unsafe pallet jack practices for coaching",
+        "description": "Identify hazardous pallet jack behaviors (e.g., unlocked wheels, riding pallets) captured by Voxel and adapt Coaching Workshop training accordingly.",
+        "evidence": [
+          {
+            "quote": "And then we see on Voxel, the guy loading a pallet jack without turning the handle so the wheels weren't locked in place.",
+            "speaker": "Operations Conference Room 2",
+            "timestamp": "[00:14:16]"
+          },
+          {
+            "quote": "And then the pallet jack is moving while he's loading it, and then he stands on it, on the pallet to put something on it as it's moving.",
+            "speaker": "Operations Conference Room 2",
+            "timestamp": "[00:14:26]"
+          },
+          {
+            "quote": "we—you have about the forklift, and we, you know, we've learned some things and have adapted our Coaching Workshop with some of the knowledge that we've gained.",
+            "speaker": "Operations Conference Room 2",
+            "timestamp": "[00:13:28]"
+          }
+        ]
+      },
+      {
+        "label": "Ergonomics monitoring at receiving doors (overreaching, improper bends, load stand use)",
+        "description": "Use Voxel to detect overreaching and improper bending during trailer unloads at Bay 014 and coach on team lifting and proper use of step stools/load stands.",
+        "evidence": [
+          {
+            "quote": "just highlighting that at the Bay 014, the receiving doc, Taylor, you already hit on this, right, where you're getting most of your activity, 70-80% of your ergo risks are in that one area.",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[01:00:25]"
+          },
+          {
+            "quote": "Then we've got an improper bend in the trailer.",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[01:20:38]"
+          },
+          {
+            "quote": "Out of 100 videos, we had dozens of instances where the step stool was in the trailer and not used, and I had dozens of instances where it was available outside the trailer and was not used.",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[01:34:21]"
+          }
+        ]
+      },
+      {
+        "label": "Conveyor congestion/pile-up detection to prevent falling objects",
+        "description": "Detect build-ups on conveyors (e.g., multiple layers of boxes, stalled flow) and alert to prevent hazardous pile-ups and falling boxes near workers.",
+        "evidence": [
+          {
+            "quote": "Is there anything where you guys can see where boxes are starting to back up and build a, like, start to build up in a certain line?",
+            "speaker": "Operations Conference Room 2",
+            "timestamp": "[00:32:03]"
+          },
+          {
+            "quote": "it then boxed up, and then it pushed over a a moderate load box off of a probably a long distance in the air, and missed a colleague by, yeah, I mean, literally.",
+            "speaker": "Operations Conference Room 2",
+            "timestamp": "[00:32:27]"
+          },
+          {
+            "quote": "it's the highest it's a single layer of boxes right so it's like anytime it goes above one like we need to know about that because something because yeah absolutely that would be a good way to put it",
+            "speaker": "Operations Conference Room 2",
+            "timestamp": "[00:34:01]"
+          },
+          {
+            "quote": "I think the no movement, and we'll understand when the conveyor's off, we call out, hey, no movement on X conveyor, and they could say, shut down.",
+            "speaker": "Operations Conference Room 2",
+            "timestamp": "[00:39:06]"
+          }
+        ]
+      },
+      {
+        "label": "Pedestrian no-go zone monitoring (temporarily disabled during contractor work)",
+        "description": "Monitor pedestrians entering restricted automation areas; disable the alerts where contractors are present to avoid false positives and re-enable later.",
+        "evidence": [
+          {
+            "quote": "should we remove the pedestrian zone activity at the moment?",
+            "speaker": "Operations Conference Room 2",
+            "timestamp": "[00:54:16]"
+          },
+          {
+            "quote": "So go ahead and remove them now. We can always add them back in post-December.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:56:34]"
+          },
+          {
+            "quote": "So we'll just remove all zone instances from training camera. Historically.",
+            "speaker": "Operations Conference Room 2",
+            "timestamp": "[00:57:05]"
+          }
+        ]
+      },
+      {
+        "label": "Slip/trip/fall and fall-from-height risk at docks/trailers",
+        "description": "Identify hazards such as box avalanches and potential unguarded edge exposures, prompting cleanup and controls to prevent slips, trips, and falls.",
+        "evidence": [
+          {
+            "quote": "in an issue because we have a four-foot unguarded fall risk.",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[01:20:02]"
+          },
+          {
+            "quote": "So, again, what do you do when you do have the avalanche, right? First, you have to clear a pathway before you start pulling out more product.",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[01:42:55]"
+          },
+          {
+            "quote": "now there's a slip, trip, and fall risk because Monday at 1 p.m..",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[01:43:24]"
+          }
+        ]
+      },
+      {
+        "label": "Unsafe behavior around conveyors and struck-by risk (pull-and-jump, leaning/sitting)",
+        "description": "Detect risky behaviors near conveyors such as pull-and-jump actions and leaning/sitting on active equipment that can lead to struck-by or caught-in injuries.",
+        "evidence": [
+          {
+            "quote": "We've got a little struck by risk.",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[01:38:55]"
+          },
+          {
+            "quote": "There is a video that I just sent, and it was two colleagues sitting and hanging on the outside watching two colleagues.",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[01:41:23]"
+          },
+          {
+            "quote": "And it's the weekend. Like, leaning on. Leaning on. Leaning on.",
+            "speaker": "Operations Conference Room 2",
+            "timestamp": "[01:41:26]"
+          }
+        ]
+      },
+      {
+        "label": "Heat maps to identify safety hotspots and guide layout/5S improvements",
+        "description": "Use Voxel heat maps to pinpoint where safety risks concentrate (e.g., ergonomics, pedestrian movement) and inform continuous improvement such as 5S changes.",
+        "evidence": [
+          {
+            "quote": "a heat map is extremely powerful when you're looking at it in a really busy area, know, sort of at full peak, full production, what do we need to focus on?",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:31:19]"
+          },
+          {
+            "quote": "what I have here is the heat map first and foremost.",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[01:13:59]"
+          },
+          {
+            "quote": "You've already started doing that when you 5S, like, the overhead door areas, right? Like, being able to, you know, monitor compliance with that.",
+            "speaker": "Operations Conference Room 2",
+            "timestamp": "[00:52:37]"
+          }
+        ]
+      },
+      {
+        "label": "Coaching Workshop and coaching using blurred videos and Voxel insights",
+        "description": "Bring Voxel clips, heat maps, and trends into Coaching Workshop and review groups to coach behaviors, with legal-approved blurring to share examples more broadly.",
+        "evidence": [
+          {
+            "quote": "the data introduced in Coaching Workshop. I mean, this is this is the best practice that we've seen.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:29:39]"
+          },
+          {
+            "quote": "once we look, because I don't think we looked at the new blurring, we're going to go back to them and say, is this blurred enough to be able to share with others? We can share the data.",
+            "speaker": "Operations Conference Room 2",
+            "timestamp": "[00:27:13]"
+          },
+          {
+            "quote": "I just got permission from Union Ridge Counsel to show blurred video.",
+            "speaker": "Operations Conference Room 2",
+            "timestamp": "[01:39:11]"
+          }
+        ]
+      },
+      {
+        "label": "Open door duration tracking tied to ergonomics/pressure during live unloads",
+        "description": "Track open dock door duration for live unloads to correlate longer unload times with ergonomic risk and operational pressure windows.",
+        "evidence": [
+          {
+            "quote": "it's also possible to turn on open door duration so that if you knew your turnaround time was, for example, no more than, say, under an hour, you wanted the truck to turn around in, you could start the open door duration so you'd have some line of sight to when it's there longer.",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[01:10:10]"
+          },
+          {
+            "quote": "But does open door duration pick up when... The door's open and there's a truck in the bay.",
+            "speaker": "Operations Conference Room 2",
+            "timestamp": "[01:11:02]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Conveyor congestion detection for operational efficiency",
+        "description": "Use cameras to detect conveyor backups (pile-ups, no movement) to intervene sooner, reduce downtime, and manage flow beyond safety prevention.",
+        "evidence": [
+          {
+            "quote": "Is there anything where you guys can see where boxes are starting to back up and build a, like, start to build up in a certain line?",
+            "speaker": "Operations Conference Room 2",
+            "timestamp": "[00:32:03]"
+          },
+          {
+            "quote": "To sum that up, there is definitely an operational-efficiency opportunity in addition to the safety piece if material starts to pile up.",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[00:41:34]"
+          },
+          {
+            "quote": "a heat map is extremely powerful when you're looking at it in a really busy area, know, sort of at full peak, full production, what do we need to focus on? And we have customers that use those, you know, day in, day out to identify operational bottlenecks",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:31:19]"
+          }
+        ]
+      },
+      {
+        "label": "Heat maps to identify operational bottlenecks and movement patterns",
+        "description": "Leverage Voxel heat maps to understand flow patterns and chokepoints and drive continuous improvement in busy areas.",
+        "evidence": [
+          {
+            "quote": "So what's working, what are sort of the key flow patterns, pain points, choke points, know, certain areas that are leading to potentially more risk than others, really adding that visibility in place to make sure you guys are continuing to operate with the, you know, at scale with sort of the best data possible.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:12:24]"
+          },
+          {
+            "quote": "a heat map is extremely powerful when you're looking at it in a really busy area, know, sort of at full peak, full production, what do we need to focus on? And we have customers that use those, you know, day in, day out to identify operational bottlenecks",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:31:19]"
+          }
+        ]
+      },
+      {
+        "label": "Cross-facility summary view for benchmarking",
+        "description": "Provide leadership a summary view to compare trends across facilities, identify outliers, and direct attention where needed.",
+        "evidence": [
+          {
+            "quote": "So, this is a sample site view. In a multi-site setup, you can switch between locations from a single summary view.",
+            "speaker": "Operations Conference Room 2",
+            "timestamp": "[01:54:41]"
+          },
+          {
+            "quote": "we're going to highlight the trends over the last about a month by facility, right?",
+            "speaker": "Operations Conference Room 2",
+            "timestamp": "[01:55:02]"
+          },
+          {
+            "quote": "now see which locations are contributing most and where I should spend time, while also comparing what is working well at one site versus another.",
+            "speaker": "Operations Conference Room 2",
+            "timestamp": "[01:55:03]"
+          }
+        ]
+      },
+      {
+        "label": "Automated reporting and notifications",
+        "description": "Subscribe stakeholders to tailored, automated data feeds and notifications to reduce manual platform checks and improve information distribution.",
+        "evidence": [
+          {
+            "quote": "This reporting approach is intended to let you subscribe to the data you want and receive automated updates, which could reduce how often you need to go into the platform directly.",
+            "speaker": "Operations Conference Room 2",
+            "timestamp": "[02:09:04]"
+          },
+          {
+            "quote": "There should be a way to receive notifications through the tools people already use as well.",
+            "speaker": "Operations Conference Room 2",
+            "timestamp": "[02:10:17]"
+          }
+        ]
+      },
+      {
+        "label": "API and BI integration for leading/lagging metrics",
+        "description": "Integrate Voxel data with external reporting systems to combine leading and lagging indicators, automate reporting, and support incident records.",
+        "evidence": [
+          {
+            "quote": "another really exciting thing is broader API access ... how do we supplement or enhance what is going into an external risk system with our data?",
+            "speaker": "Operations Conference Room 2",
+            "timestamp": "[02:12:29]"
+          },
+          {
+            "quote": "possibly having APIs from both systems and using a reporting layer that lets you see proactive, leading, and lagging indicators together.",
+            "speaker": "Operations Conference Room 2",
+            "timestamp": "[02:13:45]"
+          },
+          {
+            "quote": "We already do daily reporting from one system into another reporting layer today.",
+            "speaker": "Operations Conference Room 2",
+            "timestamp": "[02:14:25]"
+          }
+        ]
+      },
+      {
+        "label": "Open door duration tracking for turn-time management",
+        "description": "Track dock door open durations during live unloads to monitor turn-time and coordinate staffing/scheduling, while also correlating with risk windows.",
+        "evidence": [
+          {
+            "quote": "it's also possible to turn on open door duration so that if you knew your turnaround time was, for example, no more than, say, under an hour, you wanted the truck to turn around in, you could start the open door duration so you'd have some line of sight to when it's there longer.",
+            "speaker": "Quinn Madden <fake.quinn.madden@voxelai.com>",
+            "timestamp": "[01:10:10]"
+          },
+          {
+            "quote": "And the turn time, like trailer load and unload, that's something we're tackling, like, operationally as well, right?",
+            "speaker": "Operations Conference Room 2",
+            "timestamp": "[01:11:36]"
+          }
+        ]
+      }
+    ]
+  }
+}

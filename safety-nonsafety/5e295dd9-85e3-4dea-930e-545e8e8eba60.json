@@ -1,0 +1,124 @@
+{
+  "meeting_title": "Prairie Bridge Systems / Voxel Monthly Sync",
+  "start_time": "2022-04-07T17:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Ergonomics monitoring at Glenville dock",
+        "description": "Monitor ergonomic risks on the Glenville dock using the adjusted camera view.",
+        "evidence": [
+          {
+            "quote": "Maybe some ergo back there for the, yeah, the Glenville dock, I believe that got adjusted.",
+            "speaker": "Hayden Easton <fake.hayden.easton@prairiebridgesystems.com>",
+            "timestamp": "[00:01:00]"
+          }
+        ]
+      },
+      {
+        "label": "Detect equipment set on dock plates",
+        "description": "Use the camera to detect when a machine/equipment is set on the dock plates and ensure it is captured.",
+        "evidence": [
+          {
+            "quote": "And then, like, if they're setting a machine on the dock plates itself, I would like that covered.",
+            "speaker": "Hayden Easton <fake.hayden.easton@prairiebridgesystems.com>",
+            "timestamp": "[00:00:49]"
+          }
+        ]
+      },
+      {
+        "label": "Actions coaching to impact safety event counts",
+        "description": "Leverage Voxel’s Actions coaching platform to record coaching and see its effect on overall event counts.",
+        "evidence": [
+          {
+            "quote": "So what I'd like to do is get folks on a call because we have an entirely new coaching platform embedded within Voxel called Actions.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:07:22]"
+          },
+          {
+            "quote": "It also puts markers in your data when you complete coaching actions to show what the after effect is on your overall event count.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:07:36]"
+          }
+        ]
+      },
+      {
+        "label": "Timely alerting for safety issues",
+        "description": "Expand use of alerting to improve visibility and response to events.",
+        "evidence": [
+          {
+            "quote": "We're expanding our alerting capabilities.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:07:56]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Dock door open-duration tracking",
+        "description": "Track how long dock doors remain open at the Glenville dock.",
+        "evidence": [
+          {
+            "quote": "I know, I think we have open door duration might be one.",
+            "speaker": "Hayden Easton <fake.hayden.easton@prairiebridgesystems.com>",
+            "timestamp": "[00:00:44]"
+          }
+        ]
+      },
+      {
+        "label": "Detect equipment set on dock plates",
+        "description": "Use the camera to detect when a machine/equipment is set on the dock plates and ensure it is captured.",
+        "evidence": [
+          {
+            "quote": "And then, like, if they're setting a machine on the dock plates itself, I would like that covered.",
+            "speaker": "Hayden Easton <fake.hayden.easton@prairiebridgesystems.com>",
+            "timestamp": "[00:00:49]"
+          }
+        ]
+      },
+      {
+        "label": "Quarterly shareholder reporting",
+        "description": "Provide an end-of-year (Q4) report for shareholders and set up ongoing quarterly reporting cadence.",
+        "evidence": [
+          {
+            "quote": "I to say thank you for getting me that report for my shareholders.",
+            "speaker": "Hayden Easton <fake.hayden.easton@prairiebridgesystems.com>",
+            "timestamp": "[00:03:00]"
+          },
+          {
+            "quote": "Could I get it to you the week of the 15th?",
+            "speaker": "Hayden Easton <fake.hayden.easton@prairiebridgesystems.com>",
+            "timestamp": "[00:03:37]"
+          },
+          {
+            "quote": "March 15th, get that Q4 report to you.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:03:52]"
+          }
+        ]
+      },
+      {
+        "label": "Automated weekly snapshots and data delivery",
+        "description": "Receive weekly snapshots and in-depth data delivered automatically for ongoing visibility.",
+        "evidence": [
+          {
+            "quote": "We're updating, you know, in terms of snapshots, like weekly snapshots and in-depth data that you can get delivered right to you.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:07:46]"
+          }
+        ]
+      },
+      {
+        "label": "API feed updates/integration",
+        "description": "Leverage updated API feeds for improved data integration and reporting.",
+        "evidence": [
+          {
+            "quote": "In addition to that, we're updating some other API feeds.",
+            "speaker": "Kendall Keller <fake.kendall.keller@voxelai.com>",
+            "timestamp": "[00:07:43]"
+          }
+        ]
+      }
+    ]
+  }
+}

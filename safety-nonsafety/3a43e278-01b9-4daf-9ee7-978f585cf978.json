@@ -1,0 +1,167 @@
+{
+  "meeting_title": "(ext) Voxel | Falcon Point Fabrication (LP brief)",
+  "start_time": "2024-02-28T19:30:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Working at heights hazard detection in mills",
+        "description": "Detect and surface unsafe elevated work behaviors such as climbing on machines/guards, going under machinery without proper controls, and stepping hazards around logs.",
+        "evidence": [
+          {
+            "quote": "But we've got some new use cases surrounding working at heights.",
+            "speaker": "Jules Blaine <fake.jules.blaine@voxelai.com>",
+            "timestamp": "[00:21:00]"
+          },
+          {
+            "quote": "And so working at heights brings about a plethora of, I won't say notification, but incidents, near-miss incidents to us.",
+            "speaker": "Jules Blaine <fake.jules.blaine@voxelai.com>",
+            "timestamp": "[00:21:04]"
+          },
+          {
+            "quote": "And what we have found with that working at heights, we have found people climbing on machines, on machine guards, climbing underneath machines while they're not locked out, tagged out, stepping where they could have broken an ankle on parts of these logs.",
+            "speaker": "Jules Blaine <fake.jules.blaine@voxelai.com>",
+            "timestamp": "[00:21:15]"
+          },
+          {
+            "quote": "And like, there's a lot of working at elevated heights with the railings and everything, of course, right?",
+            "speaker": "Jody Nolan <fake.jody.nolan@falconpointfabrication.com>",
+            "timestamp": "[00:21:48]"
+          },
+          {
+            "quote": "But they're up on scaffolding and watching these machines.",
+            "speaker": "Jody Nolan <fake.jody.nolan@falconpointfabrication.com>",
+            "timestamp": "[00:21:55]"
+          }
+        ]
+      },
+      {
+        "label": "LOTO compliance and jam-clearing risk monitoring",
+        "description": "Monitor and prevent workers from intervening in jammed machinery without proper energy isolation to avoid catastrophic injuries.",
+        "evidence": [
+          {
+            "quote": "climbing underneath machines while they're not locked out, tagged out",
+            "speaker": "Jules Blaine <fake.jules.blaine@voxelai.com>",
+            "timestamp": "[00:21:20]"
+          },
+          {
+            "quote": "Yeah, the problem comes in when something jams.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:22:06]"
+          },
+          {
+            "quote": "Then it's like, do I quick get up there and yank that board out of there?",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:22:10]"
+          },
+          {
+            "quote": "Or do I go through the whole, you know, energy isolation process?",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:22:14]"
+          },
+          {
+            "quote": "And that's where we've been able to show a lot of value around preventing those catastrophic injuries within this specific industry as well.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:22:17]"
+          }
+        ]
+      },
+      {
+        "label": "SIF/CIF precursor and serious-risk detection",
+        "description": "Identify serious injury and fatality-related precursors and potential injuries early to enable prevention.",
+        "evidence": [
+          {
+            "quote": "And within the first about a month of turning our solution on there, we found over, I think it was six CIF-related and like potential injuries that were preventable with the Voxel solution.",
+            "speaker": "Jules Blaine <fake.jules.blaine@voxelai.com>",
+            "timestamp": "[00:20:23]"
+          }
+        ]
+      },
+      {
+        "label": "Leading indicator and behavior change tracking",
+        "description": "Track reductions in leading indicators of risk and observe modified worker behaviors to quantify safety culture improvements.",
+        "evidence": [
+          {
+            "quote": "The leading indicators of risk or being able to witness modified behaviors, you know, seeing that workers are now choosing to do something more safely by utilizing tools that are available to them to, you know, reduce risk is really powerful.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:17:00]"
+          }
+        ]
+      },
+      {
+        "label": "Machine shutdown use case (safety)",
+        "description": "Discuss a possible machine shutdown workflow with safety as the main priority.",
+        "evidence": [
+          {
+            "quote": "However, safety is our main priority.",
+            "speaker": "Jules Blaine <fake.jules.blaine@voxelai.com>",
+            "timestamp": "[00:22:55]"
+          },
+          {
+            "quote": "A machine shutdown workflow is one example of an area we may explore.",
+            "speaker": "Jules Blaine <fake.jules.blaine@voxelai.com>",
+            "timestamp": "[00:23:00]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Operational productivity and safety program efficiency gains",
+        "description": "Improve operational productivity by reducing lost time and identify efficiency gains in administering safety programs, correlating pre- and post-implementation costs.",
+        "evidence": [
+          {
+            "quote": "From an operational standpoint, you know, over time we can certainly prove out productivity gains.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:16:04]"
+          },
+          {
+            "quote": "Generally those are, you know, more related to workers being at work and not actually being out, you know, due to suffering a lost time injury.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:16:10]"
+          },
+          {
+            "quote": "But also we can generally identify savings around kind of like the efficiency gains associated with managing safety.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:16:20]"
+          },
+          {
+            "quote": "we're often able to, you know, correlate what the cost of that program was to administer in a pre and a post-Voxel state.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:16:29]"
+          },
+          {
+            "quote": "how can they be more efficient?",
+            "speaker": "Jules Blaine <fake.jules.blaine@voxelai.com>",
+            "timestamp": "[00:22:49]"
+          },
+          {
+            "quote": "How can they be more productive?",
+            "speaker": "Jules Blaine <fake.jules.blaine@voxelai.com>",
+            "timestamp": "[00:22:49]"
+          }
+        ]
+      },
+      {
+        "label": "Machine shutdown use case (operations)",
+        "description": "Discuss a possible machine shutdown workflow to support operational objectives.",
+        "evidence": [
+          {
+            "quote": "A machine shutdown workflow is one example of an area we may explore.",
+            "speaker": "Jules Blaine <fake.jules.blaine@voxelai.com>",
+            "timestamp": "[00:23:00]"
+          },
+          {
+            "quote": "But at the end of the day, the operation really has to buy into the solution to make it work.",
+            "speaker": "Jules Blaine <fake.jules.blaine@voxelai.com>",
+            "timestamp": "[00:23:21]"
+          },
+          {
+            "quote": "And so we've really found some key use cases for the operation that has really got their interest.",
+            "speaker": "Jules Blaine <fake.jules.blaine@voxelai.com>",
+            "timestamp": "[00:23:25]"
+          }
+        ]
+      }
+    ]
+  }
+}

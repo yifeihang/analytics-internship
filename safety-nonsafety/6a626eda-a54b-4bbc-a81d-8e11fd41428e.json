@@ -1,0 +1,178 @@
+{
+  "meeting_title": "Riley/Cleo Check In",
+  "start_time": "2024-07-19T15:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Build workplace safety culture with AI",
+        "description": "Use AI to help develop and reinforce a workplace safety culture, as previously presented to this audience.",
+        "evidence": [
+          {
+            "quote": "So, you know, last year we did a piece on, you know, building a workplace safety culture through AI.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:05:00]"
+          }
+        ]
+      },
+      {
+        "label": "Working at Heights detection/monitoring in supply chain",
+        "description": "Detect and address Working at Heights risks in supply chain environments using Voxel’s capabilities.",
+        "evidence": [
+          {
+            "quote": "So now we've launched Working at Heights.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:09:05]"
+          },
+          {
+            "quote": "So I could do a whole piece around Working at Heights.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:09:07]"
+          },
+          {
+            "quote": "We've had some success within the supply chain there.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:09:10]"
+          },
+          {
+            "quote": "Not necessarily retail supply chain, but supply chain around Working at Heights.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:09:13]"
+          }
+        ]
+      },
+      {
+        "label": "Enterprise-scale rollout across DCs and storefronts",
+        "description": "Expand from pilot to full enterprise deployment of the safety solution across all distribution centers and storefronts.",
+        "evidence": [
+          {
+            "quote": "we've seen customers that have moved beyond their initial pilot site or sites and have actually blown Voxel out across their entire organization.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:09:23]"
+          },
+          {
+            "quote": "One recent example was a customer that expanded from an initial pilot to a broader multi-site rollout.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:09:34]"
+          },
+          {
+            "quote": "And that now also includes a storefront component as well.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:09:41]"
+          }
+        ]
+      },
+      {
+        "label": "Address Federal Safety Bureau/regulatory compliance in safety programs",
+        "description": "Align safety technology and programs with Federal Safety Bureau and regulatory expectations amid enforcement ambiguities, aiming to meet or exceed compliance levels.",
+        "evidence": [
+          {
+            "quote": "And if you're able to layer in anything from a Federal Safety Bureau compliance, Federal Safety Bureau compliance standpoint, you know, regulatory compliance, like, there's so many ambiguities right now, know, with, you",
+            "speaker": "Cleo Corbett <fake.cleo.corbett@highlineliftdynamics.com>",
+            "timestamp": "[00:12:46]"
+          },
+          {
+            "quote": "So are the feds going to enforce that?",
+            "speaker": "Cleo Corbett <fake.cleo.corbett@highlineliftdynamics.com>",
+            "timestamp": "[00:13:00]"
+          },
+          {
+            "quote": "Are local OSHAs going to enforce that?",
+            "speaker": "Cleo Corbett <fake.cleo.corbett@highlineliftdynamics.com>",
+            "timestamp": "[00:13:03]"
+          },
+          {
+            "quote": "until somebody tells us how they're going to enforce this, we're going to run the safest programs possible, and we're going to invest in the safety of our people, and we're going to do these things.",
+            "speaker": "Cleo Corbett <fake.cleo.corbett@highlineliftdynamics.com>",
+            "timestamp": "[00:13:06]"
+          },
+          {
+            "quote": "this is at the level or exceeds the level of what regulatory compliance folks will be looking for.",
+            "speaker": "Cleo Corbett <fake.cleo.corbett@highlineliftdynamics.com>",
+            "timestamp": "[00:13:27]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Food safety PPE compliance (hair nets and beard nets)",
+        "description": "Monitor compliance with hair nets and beard nets for food safety and hygiene requirements.",
+        "evidence": [
+          {
+            "quote": "We also do hair nets and beard nets.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:09:17]"
+          },
+          {
+            "quote": "Those are obviously more food safety focused, though potentially relevant.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:09:18]"
+          }
+        ]
+      },
+      {
+        "label": "Enterprise-scale rollout across DCs and storefronts",
+        "description": "Expand from pilot to full enterprise deployment of the solution across all distribution centers and storefronts.",
+        "evidence": [
+          {
+            "quote": "we've seen customers that have moved beyond their initial pilot site or sites and have actually blown Voxel out across their entire organization.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:09:23]"
+          },
+          {
+            "quote": "One recent example was a customer that expanded from an initial pilot to a broader multi-site rollout.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:09:34]"
+          },
+          {
+            "quote": "And that now also includes a storefront component as well.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:09:41]"
+          }
+        ]
+      },
+      {
+        "label": "Select scalable, multi-domain solutions within budget constraints",
+        "description": "Prioritize solutions that are not one‑trick ponies, can scale, and apply across storefront and supply chain while meeting budget limitations.",
+        "evidence": [
+          {
+            "quote": "they're challenged on their budgetary spends, they're challenged on the solutions, the scalability of solutions that they're going after.",
+            "speaker": "Cleo Corbett <fake.cleo.corbett@highlineliftdynamics.com>",
+            "timestamp": "[00:10:07]"
+          },
+          {
+            "quote": "is this a one-trick pony? Like, does Voxel just do X versus doing Y?",
+            "speaker": "Cleo Corbett <fake.cleo.corbett@highlineliftdynamics.com>",
+            "timestamp": "[00:10:31]"
+          },
+          {
+            "quote": "Are the solutions you're looking at, are you now being more considerate of solutions that can be applied storefront to supply chain, front of house, back of house?",
+            "speaker": "Cleo Corbett <fake.cleo.corbett@highlineliftdynamics.com>",
+            "timestamp": "[00:11:00]"
+          }
+        ]
+      },
+      {
+        "label": "Cross-functional IT vetting and stakeholder alignment for adoption",
+        "description": "Navigate internal processes by engaging IT and other stakeholders to evaluate and approve new technology deployments.",
+        "evidence": [
+          {
+            "quote": "for them to potentially utilize Voxel, they had to make sure that, you know, their IT team was involved and what kind of questions their IT team asked and what does that process look like?",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>",
+            "timestamp": "[00:07:32]"
+          },
+          {
+            "quote": "as you guys are thinking about bringing in new solutions, who is in that room in that conversation?",
+            "speaker": "Cleo Corbett <fake.cleo.corbett@highlineliftdynamics.com>",
+            "timestamp": "[00:11:16]"
+          },
+          {
+            "quote": "Is it IT? Is it this partner? Is it that partner? Who are those key individuals that are in that room?",
+            "speaker": "Cleo Corbett <fake.cleo.corbett@highlineliftdynamics.com>",
+            "timestamp": "[00:11:24]"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "meeting_title": "Voxel <> Noble Base Supply continued ",
+  "start_time": "2023-07-09T14:30:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Ergonomic improper bending detection",
+        "description": "Detect and quantify improper bends and lifts to target high-risk areas and reduce ergonomic injuries.",
+        "evidence": [
+          {
+            "quote": "So with the Voxel platform, obviously, very similar to the no stop and the forklift rules, but we're going to be able to see the, you know, the day in which our incidents happened most frequently.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:03:29]"
+          },
+          {
+            "quote": "what you're going to see is this red, yellow, and green muscular skeleton overlay on every person in the frame that starts to bend in a way they shouldn't be.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:04:08]"
+          },
+          {
+            "quote": "as we start to, you know, bend down and lift improperly from our legs, we're going to start to flag that as, you know, an ergonomic risk within the platform.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:04:29]"
+          },
+          {
+            "quote": "this will help us be able to look at their motions and see opportunities to be more proactive in terms of reducing potential injuries.",
+            "speaker": "Gray Merritt <fake.gray.merritt@noblebasesupply.com>",
+            "timestamp": "[00:06:36]"
+          }
+        ]
+      },
+      {
+        "label": "Ergonomic overreaching and overhead lifting risk",
+        "description": "Identify overreaching and overhead lifts (e.g., from high pallet stacking) and drive simple changes like limiting stack height to reduce severity of ergonomic alerts.",
+        "evidence": [
+          {
+            "quote": "We'll go to overreaching, another part of the ergonomic piece.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:05:19]"
+          },
+          {
+            "quote": "If we watch in the bottom portion of the screen here, lifting overhead, you know, every day people are doing this, but we're not catching this every single day.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:05:49]"
+          },
+          {
+            "quote": "We simply met with the team and we said, hey, we cannot be stacking the pallets, you know, 10, 11, 12, 13 pallets high. Let's cut it at 3.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:06:03]"
+          }
+        ]
+      },
+      {
+        "label": "Stop sign compliance (No Stop) monitoring",
+        "description": "Monitor and report instances of vehicles running stop signs at aisle intersections to prevent PIT-pedestrian conflicts and track improvement over time.",
+        "evidence": [
+          {
+            "quote": "we have these stop signs in place within the facility. All day long, people are going to run through these. And we want to know how many times people are actually running through these stop signs because eventually, you know, we might make connection with that person crossing the aisleway here.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:07:18]"
+          },
+          {
+            "quote": "So again, going to flag that to you guys instantaneously. You're going to be able to get that, you know, 30, 60, 90 report on how you're improving or, you know, maybe we're getting worse on it and we need to go back to the drawing board here and make some operational changes.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:07:45]"
+          }
+        ]
+      },
+      {
+        "label": "Housekeeping hazard monitoring (exits, walkways, debris)",
+        "description": "Detect and alert on blocked emergency exits, clutter in pedestrian walkways, and debris like plastic on floors using customizable dwell-time thresholds to reduce tripping and egress hazards.",
+        "evidence": [
+          {
+            "quote": "I think some of the common things that we would want to have this help is, just like you said, right, clutter, especially on emergency exits.",
+            "speaker": "Gray Merritt <fake.gray.merritt@noblebasesupply.com>",
+            "timestamp": "[00:08:37]"
+          },
+          {
+            "quote": "Another thing that I said that I would see is probably overflowing of bins, dumping their trash or plastic, and then that can cause the plastic to kind of fall on the floor.",
+            "speaker": "Frankie Valentine <fake.frankie.valentine@noblebasesupply.com>",
+            "timestamp": "[00:09:22]"
+          },
+          {
+            "quote": "We set this up where we don't want anything blocking these exit doors because, you know, there's a fire extinguisher right here. We can't have a pallet in front of that fire extinguisher. This door needs to be accessible as a fire exit.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:10:11]"
+          },
+          {
+            "quote": "if that garbage can sits there for more than 60 seconds, 90 seconds, a few minutes, then you'll get that alert.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:10:45]"
+          },
+          {
+            "quote": "if anything steps, or not steps, but gets inside of that pedestrian walkway for more than a few minutes, it's considered a tripping hazard. So we will alert you.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:15:45]"
+          }
+        ]
+      },
+      {
+        "label": "PIT-to-PIT proximity detection",
+        "description": "Detect forklifts operating too close to each other to surface near-miss conditions that operators may not report.",
+        "evidence": [
+          {
+            "quote": "Let's do a, we can do pit proximity right here.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:12:33]"
+          },
+          {
+            "quote": "So this is going to be for the forklift to forklift. I've obviously big jam up right here. And. Stuff like this, know, these guys are working in close quarters all day long. Like they're not going to stop and report this on each other because they just want to get the job done and as quickly as possible.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:12:53]"
+          }
+        ]
+      },
+      {
+        "label": "PIT-to-pedestrian proximity and walkway enforcement",
+        "description": "Alert when pedestrians get too close to moving forklifts and enforce defined or AI-drawn pedestrian walkways to prevent PIT-pedestrian incidents.",
+        "evidence": [
+          {
+            "quote": "Do you have any videos that sort of help, you know, to see when people are close or head to a pit?",
+            "speaker": "Gray Merritt <fake.gray.merritt@noblebasesupply.com>",
+            "timestamp": "[00:12:24]"
+          },
+          {
+            "quote": "boom, this guy is within three feet of a moving forklift underneath that suspended object. He, once he gets too close, that red line is going to flash red and you're going to get that alert.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:14:46]"
+          },
+          {
+            "quote": "if you have, you know, those defined, semi-defined walkways, we're going to draw those invisible AI rules on that walkway. So what we're going to say is if a forklift crosses into that walkway, we want an alert. If a human leaves that walkway and gets too close to a forklift, we're going to get that alert.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:15:24]"
+          }
+        ]
+      },
+      {
+        "label": "No pedestrian zone enforcement",
+        "description": "Define restricted areas where pedestrians should not enter (e.g., loading or machinery zones) and alert on violations.",
+        "evidence": [
+          {
+            "quote": "that goes for the same for the no pedestrian zone use case. So if there's areas in which the facility people should not be walking, maybe there is, you know, a loading area, um, an area where machinery people should not be near the machinery, we can set those rules for you as well.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:16:01]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Safety reporting and coaching workflows",
+        "description": "Track compliance trends, assign incidents to team members, and close coaching loops with real-time, downloadable reports.",
+        "evidence": [
+          {
+            "quote": "you're going to be able to get that, you know, 30, 60, 90 report on how you're improving or, you know, maybe we're getting worse on it and we need to go back to the drawing board here and make some operational changes.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:07:45]"
+          },
+          {
+            "quote": "assigning these incidents to specific team members to close that coaching loop... Kimberly's been assigned seven. She's only completed and coached on four of those seven loops.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:17:25]"
+          },
+          {
+            "quote": "We can then implement this bar onto this graph and we can see how we're trending up or we're trending down after that rule change was made.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:18:30]"
+          },
+          {
+            "quote": "It's all going to populate in real time. So you're going to know exactly what is going on.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:19:42]"
+          }
+        ]
+      },
+      {
+        "label": "Cross-site and shift compliance benchmarking",
+        "description": "Compare compliance across sites and shifts to pinpoint problem areas and target communications or operational changes.",
+        "evidence": [
+          {
+            "quote": "You're going to be able to see that overarching site view. So when we look at this specific use case across all sites, we can easily pinpoint which site is, you know, the least compliant for the rules we have in place.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:09:48]"
+          },
+          {
+            "quote": "we can see which shift is being the most compliant with the rules we have in place... we need to go back to the drawing board here and, you know, mention this on our Friday stand-up to all shifts.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:11:24]"
+          }
+        ]
+      },
+      {
+        "label": "Integration with an external workflow tool via API/data export",
+        "description": "Export or push safety data directly into an external workflow tool to keep reporting consolidated in existing systems.",
+        "evidence": [
+          {
+            "quote": "We're going to be able to push that safety data into an external workflow tool, either by downloading and uploading the data or by using an API to push it directly over.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:19:00]"
+          }
+        ]
+      },
+      {
+        "label": "Reduce time spent on manual observations",
+        "description": "Use automated video analyses to quickly surface risk areas and save time compared to standing on the floor observing workers.",
+        "evidence": [
+          {
+            "quote": "within 10, 15 seconds of clicking on this, this use case in the platform, you're going to be able to target that area of concern very quickly. I'm going to save you time from, you know, standing out there all day and watching two, three people.",
+            "speaker": "Drew Emery <fake.drew.emery@voxelai.com>",
+            "timestamp": "[00:06:47]"
+          }
+        ]
+      }
+    ]
+  }
+}

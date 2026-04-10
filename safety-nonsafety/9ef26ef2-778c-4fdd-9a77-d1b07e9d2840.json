@@ -1,0 +1,87 @@
+{
+  "meeting_title": "Cobalt Plant Industrial + Voxel IT/Network call",
+  "start_time": "2024-08-08T14:00:00Z",
+  "extraction": {
+    "safety_use_cases": [],
+    "nonsafety_use_cases": [
+      {
+        "label": "Pilot Voxel on an existing fixed-camera area",
+        "description": "Use an existing fixed-camera area and available site infrastructure to run a Voxel pilot and validate basic performance.",
+        "evidence": [
+          {
+            "quote": "there are a number of cameras in that area already.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:04:16]"
+          },
+          {
+            "quote": "That's probably going to be the easiest from an integration standpoint because you have existing cameras there and the supporting infrastructure is already in place.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:05:00]"
+          },
+          {
+            "quote": "Yeah, we have what we need there to support a test.",
+            "speaker": "Lane Donovan <fake.lane.donovan@cobaltplantindustrial.com>",
+            "timestamp": "[00:18:28]"
+          },
+          {
+            "quote": "But as for the lay-down area, I think maybe it will be good to test you guys' equipment there and see how it works for us.",
+            "speaker": "Lennon Sawyer <fake.lennon.sawyer@cobaltplantindustrial.com>",
+            "timestamp": "[00:23:29]"
+          }
+        ]
+      },
+      {
+        "label": "Monitoring across dispersed facilities",
+        "description": "Enable monitoring across dispersed facilities using movable camera setups where permanent infrastructure is limited.",
+        "evidence": [
+          {
+            "quote": "we don't have a closed site. We are working in the desert, you know, it's already, like, under the, like, for 100 kilometers and more.",
+            "speaker": "Lane Donovan <fake.lane.donovan@cobaltplantindustrial.com>",
+            "timestamp": "[00:22:28]"
+          },
+          {
+            "quote": "The construction moves forward, so the cameras will have to be on a mobile unit with a portable setup in place.",
+            "speaker": "Lennon Sawyer <fake.lennon.sawyer@cobaltplantindustrial.com>",
+            "timestamp": "[00:23:15]"
+          },
+          {
+            "quote": "whether we might be able to use an alternative setup, because one approach may not be reliable enough for what we need.",
+            "speaker": "Reese Dalton <fake.reese.dalton@voxelai.com>",
+            "timestamp": "[00:25:24]"
+          },
+          {
+            "quote": "we can use a separate setup for each camera if needed. It adds complexity and cost, but it can be done.",
+            "speaker": "Lane Donovan <fake.lane.donovan@cobaltplantindustrial.com>",
+            "timestamp": "[00:28:27]"
+          },
+          {
+            "quote": "It's really something we would like to explore.",
+            "speaker": "Lennon Sawyer <fake.lennon.sawyer@cobaltplantindustrial.com>",
+            "timestamp": "[00:35:01]"
+          }
+        ]
+      },
+      {
+        "label": "Prevent theft/tampering of mobile camera units",
+        "description": "Address physical security for mobile camera units in remote areas to prevent theft or removal of equipment.",
+        "evidence": [
+          {
+            "quote": "maybe think about maybe how they can help us with mobile units with but as how to secure it from...",
+            "speaker": "Lennon Sawyer <fake.lennon.sawyer@cobaltplantindustrial.com>",
+            "timestamp": "[00:22:49]"
+          },
+          {
+            "quote": "Theft, because there are some people come and collect it.",
+            "speaker": "Lane Donovan <fake.lane.donovan@cobaltplantindustrial.com>",
+            "timestamp": "[00:23:00]"
+          },
+          {
+            "quote": "this should be decided by our top management also, about the security of these cameras, how we can install it there and ensure that it will not be removed.",
+            "speaker": "Lane Donovan <fake.lane.donovan@cobaltplantindustrial.com>",
+            "timestamp": "[00:28:39]"
+          }
+        ]
+      }
+    ]
+  }
+}

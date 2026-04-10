@@ -1,0 +1,203 @@
+{
+  "meeting_title": "Quarry Span Solutions VOXEL AI PARTNERSHIP",
+  "start_time": "2024-07-15T16:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Slip and spill hazard detection with near-real-time alerts",
+        "description": "Detect liquid or produce spills on sales floors and alert teams quickly, including accountability when employees pass hazards without acting.",
+        "evidence": [
+          {
+            "quote": "Let's say for a grocery store, could think about like liquid spills or any kind of like spill on the ground that could be a slipship and fall hazard,"
+          },
+          {
+            "quote": "Let's say there was a spill on the floor and employees walking by it, right, not doing anything about it, right? We would like to know that, right?"
+          },
+          {
+            "quote": "Lastly, for spills, we can do liquid spills, but also we're happy to explore, like, produce spills for you guys,"
+          },
+          {
+            "quote": "It's like, it'll be like a few minutes max. So like, it's near real time."
+          }
+        ]
+      },
+      {
+        "label": "Employee ergonomics monitoring (improper bending and overreaching)",
+        "description": "Monitor for improper lifting/bending and overreaching while stocking, and surface hotspots to reduce musculoskeletal injuries.",
+        "evidence": [
+          {
+            "quote": "we can do things like ergonomics around proper lifting or overreaching."
+          },
+          {
+            "quote": "So essentially, for ergonomics, we can do two types. Improper bending, so when they're bending their back beyond 60 degrees, they'll lift something off the ground, perhaps, or overreaching with, reaching over their shoulder height."
+          },
+          {
+            "quote": "So overreaching, right, while stocking, not using a proper steps tool, standing on a milk crate, things of that nature, right?"
+          }
+        ]
+      },
+      {
+        "label": "PPE compliance in kitchens/deli/meat (gloves, hairnets, cut-resistant/mesh gloves)",
+        "description": "Detect PPE compliance such as gloves, hairnets, and cut‑resistant or mesh gloves during food prep, slicing, and knife use.",
+        "evidence": [
+          {
+            "quote": "In your kitchen areas or in the deli, we can do PPE. So if you would be wearing gloves or hairnets,"
+          },
+          {
+            "quote": "service deli, whenever team members are using a knife, cut-resistant gloves should be on, cleaning or handling slicers, cut-resistant gloves should be on, produce department right now, we're rolling out a brand new program, we're cutting fruit at straw level, same thing back there."
+          },
+          {
+            "quote": "Of course, in the meat department, all day long they use knives, mesh gloves, all that, right?"
+          }
+        ]
+      },
+      {
+        "label": "Obstruction monitoring for blocked egress and eyewash stations",
+        "description": "Detect and alert on blocked exits/egress paths and eyewash stations to maintain safe access and compliance.",
+        "evidence": [
+          {
+            "quote": "Obstructions. So this would be like blocked egresses in the back of the store, anywhere you don't want something or an object to be."
+          },
+          {
+            "quote": "I always think the word food safety is to think of any kind of food safety type of violations within the facility, doors being left open, eyewash station blocked, those type of things."
+          },
+          {
+            "quote": "In terms of obstructions, in terms of blocked exits, egress areas, eyewash stations, whatever it might be."
+          }
+        ]
+      },
+      {
+        "label": "Forklift/pallet jack and pedestrian safety in back rooms",
+        "description": "Monitor PIT behaviors such as stopping at intersections and pedestrian proximity in back rooms to reduce collision risks.",
+        "evidence": [
+          {
+            "quote": "We do like vehicle safety, so forklift safety.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>"
+          },
+          {
+            "quote": "we can do stop at the intersections, forklift and remissives, and things of that nature."
+          },
+          {
+            "quote": "Back rooms, we have pallet jacks, we have forklifts running around. So definitely want it there."
+          }
+        ]
+      },
+      {
+        "label": "No‑pedestrian zone enforcement (blended safety and security)",
+        "description": "Use virtual no‑pedestrian zones to keep people out of hazardous areas (e.g., around rollers) and control presence by location/time as needed.",
+        "evidence": [
+          {
+            "quote": "No pedestrian zone. This could be used for safety or security."
+          },
+          {
+            "quote": "From a safety perspective here, you're going to see this area right here where the rollers are, and they don't want anyone in the roller area."
+          },
+          {
+            "quote": "Think about your loading docks, your back of buildings, some of those areas where you could potentially have loitering as an issue. You could have some shrink, et cetera."
+          }
+        ]
+      },
+      {
+        "label": "Employee vs. customer distinction via uniform for safety accountability",
+        "description": "Differentiate employees from customers using apron/uniform to target safety rules and accountability (e.g., ensure employees address spills and follow ergonomic practices).",
+        "evidence": [
+          {
+            "quote": "How would you distinguish between employees and customers?"
+          },
+          {
+            "quote": "All employees working on the sales floor would be wearing the same art apron, right? Would that be enough to distinguish?"
+          },
+          {
+            "quote": "Let's say there was a spill on the floor and employees walking by it, right, not doing anything about it, right? We would like to know that, right?"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "No‑pedestrian zone and after‑hours presence monitoring for LP/security",
+        "description": "Use no‑pedestrian zones and time‑based rules to detect unauthorized presence, loitering, and potential shrink in areas like registers, docks, back rooms, and after hours.",
+        "evidence": [
+          {
+            "quote": "No pedestrian zone. This could be used for safety or security."
+          },
+          {
+            "quote": "From a safety perspective here, you're going to see this area right here where the rollers are, and they don't want anyone in the roller area."
+          },
+          {
+            "quote": "Think about your loading docks, your back of buildings, some of those areas where you could potentially have loitering as an issue. You could have some shrink, et cetera."
+          }
+        ]
+      },
+      {
+        "label": "Restricted access behind registers and counters using rules/uniforms",
+        "description": "Detect non‑employees in restricted zones (e.g., registers, behind counters) using area/time rules and uniform detection to reduce internal theft.",
+        "evidence": [
+          {
+            "quote": "registers? Nobody should be in the registers if you're not an employee, that kind of thing. Behind the counters. Would that be part of this, where you can set up just places and times maybe?"
+          },
+          {
+            "quote": "So the rule that I would think about is like, if someone's not wearing an apron, this is a no-pedestrian zone."
+          },
+          {
+            "quote": "We've got a lot of employee theft for just, you know, you're sweeping the broom and the cash is laid out, right?"
+          }
+        ]
+      },
+      {
+        "label": "Open cooler/freezer door monitoring for energy/product protection",
+        "description": "Detect walk‑in cooler/freezer doors left open to reduce energy waste and protect product quality.",
+        "evidence": [
+          {
+            "quote": "And lastly, can do things around, like, open doors. We've launched this in Brian's facility at AmeriCold in Modesto way back when to help with, like, making sure freezer doors weren't being left open."
+          },
+          {
+            "quote": "say this was a walk-in cooler and the doors were left open, that would be something you guys would also do, right? For energy or those types of things, right?"
+          }
+        ]
+      },
+      {
+        "label": "Customer service area staffing monitoring",
+        "description": "Ensure the customer service area is attended by flagging durations where it is left unattended beyond a set threshold.",
+        "evidence": [
+          {
+            "quote": "you can also make sure that people are where you want them to be. Like, for instance, if you always wanted to make sure that the customer service area always had somebody there, you know, but no more than a few minutes where maybe it's unattended"
+          }
+        ]
+      },
+      {
+        "label": "Use Voxel videos in training and explore LMS (Cornerstone) integration",
+        "description": "Leverage detected clips for new‑employee training and explore integration with Cornerstone to track training assignments and completion.",
+        "evidence": [
+          {
+            "quote": "We use a learning management system called Cornerstone. Can this be tied into Cornerstone so we can keep track of training whenever we assign training? Is that a possibility?"
+          },
+          {
+            "quote": "New decks or presentations, they have like videos from Voxel, they use that for new employee training."
+          },
+          {
+            "quote": "So you can use our videos for training, but the main purpose is like real-time risk detection and prevention."
+          }
+        ]
+      },
+      {
+        "label": "Safety performance analytics, gamification, and automated reporting",
+        "description": "Use dashboards and weekly CSV exports to track trends, support store‑to‑store competition, and report improvements to leadership.",
+        "evidence": [
+          {
+            "quote": "What do you guys see as a ROI as far as getting better, right? So do we use this as a store competition or a warehouse competition? Like, hey, guys, the store down the road is kicking your butt."
+          },
+          {
+            "quote": "Gamification definitely works. Make it fun."
+          },
+          {
+            "quote": "we just set that up with you on like a pushable CSV file. So you say like, hey, I want that every Tuesday morning and it just gets pushed out to you."
+          },
+          {
+            "quote": "That way we would see our weekly stats and have to not go in there. And if we needed them for, you know, the CEO or something, we could export it and say, hey, here's all your accidents in the beginning. Here's what we've done and here's how it's decreased."
+          }
+        ]
+      }
+    ]
+  }
+}

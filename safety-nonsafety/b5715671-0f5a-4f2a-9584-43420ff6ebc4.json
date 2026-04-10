@@ -1,0 +1,236 @@
+{
+  "meeting_title": "Cedar Field Materials // Voxel (Camera Assessment)",
+  "start_time": "2022-02-03T17:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "PPE compliance monitoring in production areas",
+        "description": "Monitor required PPE usage (bump caps, vests, hearing protection, safety glasses, hair/beard nets, safety shoes) in packaging and similar areas.",
+        "evidence": [
+          {
+            "quote": "What about like PPE?"
+          },
+          {
+            "quote": "So that would be our bump caps, our safety vests, hearing protection, safety glasses, hair nets, beard nets, all of those.",
+            "speaker": "Cory Barton <fake.cory.barton@cedarfieldmaterials.com>"
+          },
+          {
+            "quote": "And the safety shoes.",
+            "speaker": "Cory Barton <fake.cory.barton@cedarfieldmaterials.com>"
+          },
+          {
+            "quote": "Yeah, so PPE would do just fine here.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>"
+          }
+        ]
+      },
+      {
+        "label": "Ergonomic risk detection in packaging/seasoning and bagger film changes",
+        "description": "Identify ergonomic risks such as overreaching and manual handling that can cause strains, including back strain from changing bagger film rolls.",
+        "evidence": [
+          {
+            "quote": "These are some of the new equipment you haven't seen yet. So some cool ergo stuff we'll talk about later.",
+            "speaker": "Arielle Sterling <fake.arielle.sterling@cedarfieldmaterials.com>"
+          },
+          {
+            "quote": "Yeah, probably a heavy Ergo scene.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>"
+          },
+          {
+            "quote": "Yeah, so there may be some ergonomic risk here in this area. Maybe overreaching.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>"
+          },
+          {
+            "quote": "We had someone get a backstrain first aid, but still notable."
+          },
+          {
+            "quote": "So even though this is a limited view, it might be a learning.",
+            "speaker": "Arielle Sterling <fake.arielle.sterling@cedarfieldmaterials.com>"
+          }
+        ]
+      },
+      {
+        "label": "PIT–pedestrian interaction and near-miss detection (staging/warehouse/tote dumping)",
+        "description": "Monitor forklift and pedestrian interactions in staging, warehouse, and tote dumping areas to detect and reduce near misses.",
+        "evidence": [
+          {
+            "quote": "So this is a drive aisle for pit.",
+            "speaker": "Arielle Sterling <fake.arielle.sterling@cedarfieldmaterials.com>"
+          },
+          {
+            "quote": "So to Cory's point, this is the area where a lot of near misses have been happening,"
+          },
+          {
+            "quote": "I would assume you're using powered industrial trucks to move the totes around.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>"
+          },
+          {
+            "quote": "Yeah, so forklift will load the bins of veggies into the dumper to then go down via processing.",
+            "speaker": "Arielle Sterling <fake.arielle.sterling@cedarfieldmaterials.com>"
+          },
+          {
+            "quote": "Courtney, though, I think this one might be of interest, palletizing 7, so it's where all your forklift pickup occurs.",
+            "speaker": "Arielle Sterling <fake.arielle.sterling@cedarfieldmaterials.com>"
+          }
+        ]
+      },
+      {
+        "label": "Spill detection and liquid hazard monitoring (processing/oil room; note outdoor limitations)",
+        "description": "Detect and respond to spills in processing and the oil room to reduce slip and contamination hazards; outdoor spill detection at tanker unloading is limited due to rain.",
+        "evidence": [
+          {
+            "quote": "Do we want to track spills as well? Is that something we want to keep an eye on them for?",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>"
+          },
+          {
+            "quote": "Definitely in processing.",
+            "speaker": "Arielle Sterling <fake.arielle.sterling@cedarfieldmaterials.com>"
+          },
+          {
+            "quote": "the oil room would be lifting spills for sure.",
+            "speaker": "Arielle Sterling <fake.arielle.sterling@cedarfieldmaterials.com>"
+          },
+          {
+            "quote": "right here for the team is where all the bulk oil unloading occurs.",
+            "speaker": "Arielle Sterling <fake.arielle.sterling@cedarfieldmaterials.com>"
+          },
+          {
+            "quote": "So spill potential is high.",
+            "speaker": "Arielle Sterling <fake.arielle.sterling@cedarfieldmaterials.com>"
+          },
+          {
+            "quote": "problem with spills is when it rains, it's going to cause a problem.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>"
+          },
+          {
+            "quote": "Yeah, spills outside are tough.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>"
+          }
+        ]
+      },
+      {
+        "label": "Conveyor misuse/working at heights monitoring",
+        "description": "Detect unsafe behavior such as stepping on or crossing conveyors improperly and working at heights on conveyors, while excluding designated crossovers.",
+        "evidence": [
+          {
+            "quote": "if you like wanted to do something, I don't know, like working at heights where people getting up on top of conveyors, you'd be better, it'd be better soon.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>"
+          },
+          {
+            "quote": "You'd be shocked how people cross conveyors, even when there's a pretty obvious, safe, and rather convenient path.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>"
+          },
+          {
+            "quote": "If no one steps on a conveyor here, you get to do and dash me lunch. So if someone goes over conveyors, I got you.",
+            "speaker": "Arielle Sterling <fake.arielle.sterling@cedarfieldmaterials.com>"
+          },
+          {
+            "quote": "When we do final scoping, we just got to know where the crossovers are, and we'll make sure to not scope in that area.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>"
+          }
+        ]
+      },
+      {
+        "label": "Lockout/Tagout (LOTO) compliance in robotic palletizing cells",
+        "description": "Verify that energy isolation protocols are followed when entering robotic palletizing cells, especially during jam clearance.",
+        "evidence": [
+          {
+            "quote": "That area, mean, that robotic palletizing area is of interest to me.",
+            "speaker": "Finley Tatum <fake.finley.tatum@summitflowlogistics.com>"
+          },
+          {
+            "quote": "You know, if people are taking the right energy isolation protocols when they're entering into that space.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>"
+          },
+          {
+            "quote": "So the nice piece, all of this, you won't have to do lotto, it's just the robotic cells. So where the actual heads are.",
+            "speaker": "Arielle Sterling <fake.arielle.sterling@cedarfieldmaterials.com>"
+          }
+        ]
+      },
+      {
+        "label": "Uncover unknown safety risks across shifts (around the clock)",
+        "description": "Use continuous monitoring to identify safety issues that occur on off-shifts (e.g., overnight) that leadership may not see.",
+        "evidence": [
+          {
+            "quote": "So our goal is to know what we don't know today.",
+            "speaker": "Arielle Sterling <fake.arielle.sterling@cedarfieldmaterials.com>"
+          },
+          {
+            "quote": "what is happening at 4 a.m.. at the plants when Courtney is asleep, right?",
+            "speaker": "Arielle Sterling <fake.arielle.sterling@cedarfieldmaterials.com>"
+          }
+        ]
+      },
+      {
+        "label": "Yard/Outside vehicle behavior (idling/speeding)",
+        "description": "Track outside vehicle behaviors such as idling and speeding to reduce risk in exterior areas.",
+        "evidence": [
+          {
+            "quote": "Is there anything outside that we want to track as well?",
+            "speaker": "Cory Barton <fake.cory.barton@cedarfieldmaterials.com>"
+          },
+          {
+            "quote": "Like, and we have great area controls, like, I mean, idling, you know, speeding, you know, stuff.",
+            "speaker": "Arielle Sterling <fake.arielle.sterling@cedarfieldmaterials.com>"
+          }
+        ]
+      },
+      {
+        "label": "Distraction detection (cellphone use)",
+        "description": "Detect employees using cellphones on the floor as a potential distraction and safety risk.",
+        "evidence": [
+          {
+            "quote": "this guy's on his phone, which is, you know, maybe fine, maybe not, I don't know. Is that something that the cameras could pick up and flag as unsafe if people had something like a phone in their hand, or is that too small or innocuous for it to delineate a phone versus a tool of some sort?",
+            "speaker": "Finley Tatum <fake.finley.tatum@summitflowlogistics.com>"
+          },
+          {
+            "quote": "Yeah, it's not something we're natively capturing at the moment,",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Pilot KPI tracking and weekly reviews",
+        "description": "Define measures of success for the trial, set KPIs, and hold regular (weekly/bi-weekly) reviews to track trends, compare to other organizations, and surface wins in the data.",
+        "evidence": [
+          {
+            "quote": "what are the measures of success? I would love for you to help me build that. How do we track that on a certain frequency?"
+          },
+          {
+            "quote": "How does this compare to other organizations? And helping me find the wins in the data would be helpful.",
+            "speaker": "Arielle Sterling <fake.arielle.sterling@cedarfieldmaterials.com>"
+          },
+          {
+            "quote": "And typically, probably a weekly meeting is probably the best, right?... But we can set those parameters and KPIs, right?",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>"
+          },
+          {
+            "quote": "And then we'll put together, you know, a project plan for you that hits on those milestones and has things and deliverables and measurables that we're targeting and working towards together.",
+            "speaker": "Riley Winslow <fake.riley.winslow@voxelai.com>"
+          }
+        ]
+      },
+      {
+        "label": "Trial validation of detection and workflow integration",
+        "description": "During the trial, validate that Voxel detects the targeted events, that the platform and data workflows fit Cedar Field Materials’s processes, and establish an action plan based on identified opportunities.",
+        "evidence": [
+          {
+            "quote": "It does, Voxel actually pick up the things that we say we're going to, so detection capabilities.",
+            "speaker": "Noel Monroe <fake.noel.monroe@voxelai.com>"
+          },
+          {
+            "quote": "the trends and just getting the data in there, the interoperability with the platform, right? Making sure you like the way it works and that it fits with your workflow.",
+            "speaker": "Noel Monroe <fake.noel.monroe@voxelai.com>"
+          },
+          {
+            "quote": "starting to put a plan in place for taking action on those opportunities for improvement.",
+            "speaker": "Noel Monroe <fake.noel.monroe@voxelai.com>"
+          }
+        ]
+      }
+    ]
+  }
+}

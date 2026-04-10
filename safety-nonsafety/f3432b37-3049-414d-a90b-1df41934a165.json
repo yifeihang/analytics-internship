@@ -1,0 +1,135 @@
+{
+  "meeting_title": "Voxel Grit Stack Operations sync",
+  "start_time": "2024-02-23T15:30:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Powered equipment and vehicle safety monitoring in HDCs",
+        "description": "Monitor areas with powered equipment and vehicle movement to reduce incidents at HDCs.",
+        "evidence": [
+          {
+            "quote": "And probably prioritize the ones that do have powered equipment, which is about half of them at this time.",
+            "speaker": "Eden Wilder <fake.eden.wilder@gritstackoperations.com>",
+            "timestamp": "[00:02:55]"
+          },
+          {
+            "quote": "from a safety perspective, as you know, like ergonomics, vehicle safety, PPE, area controls",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:15:00]"
+          }
+        ]
+      },
+      {
+        "label": "PPE compliance monitoring",
+        "description": "Detect and alert on PPE non-compliance to improve worker safety.",
+        "evidence": [
+          {
+            "quote": "from a safety perspective, as you know, like ergonomics, vehicle safety, PPE, area controls",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:15:00]"
+          }
+        ]
+      },
+      {
+        "label": "Area controls for no-pedestrian zones",
+        "description": "Alert when people enter restricted/no-pedestrian zones or walk in the wrong areas.",
+        "evidence": [
+          {
+            "quote": "area controls could be like, and you can use this for security. So like no pedestrian zones could be, to your point, also like after hours or when people shouldn't be somewhere from a time perspective, not necessarily a location, but it could also be from a location, people not walking in the right area.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:15:14]"
+          }
+        ]
+      },
+      {
+        "label": "Working at heights hazard detection",
+        "description": "Detect unsafe working at heights conditions to prevent falls and related incidents.",
+        "evidence": [
+          {
+            "quote": "Now, working at heights, obstructions, obstruction would be like blocked fire exits, things of that nature, anywhere where there shouldn't be an object",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:15:29]"
+          }
+        ]
+      },
+      {
+        "label": "Obstruction and blocked fire exit detection",
+        "description": "Identify obstructions such as blocked fire exits to maintain safe egress routes.",
+        "evidence": [
+          {
+            "quote": "obstructions, obstruction would be like blocked fire exits, things of that nature, anywhere where there shouldn't be an object",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:15:29]"
+          }
+        ]
+      },
+      {
+        "label": "Ergonomics risk monitoring",
+        "description": "Flag ergonomic risks on the floor to reduce strain and injury.",
+        "evidence": [
+          {
+            "quote": "from a safety perspective, as you know, like ergonomics, vehicle safety, PPE, area controls",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:15:00]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "After-hours dock door open alert (lights off)",
+        "description": "Trigger an alert if building lights are off and a dock door remains open after hours.",
+        "evidence": [
+          {
+            "quote": "we want to fire an automatic alert if all lights go out in a building and a dock door is still open",
+            "speaker": "Eden Wilder <fake.eden.wilder@gritstackoperations.com>",
+            "timestamp": "[00:12:00]"
+          },
+          {
+            "quote": "So we can do open doors today. But we can add a separate rule that if the lights are turned off, for example, we can flag that.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:14:41]"
+          }
+        ]
+      },
+      {
+        "label": "After-hours presence/time-based access monitoring",
+        "description": "Alert when people are present in facilities after hours or at unauthorized times.",
+        "evidence": [
+          {
+            "quote": "area controls could be like, and you can use this for security. So like no pedestrian zones could be, to your point, also like after hours or when people shouldn't be somewhere from a time perspective",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:15:14]"
+          }
+        ]
+      },
+      {
+        "label": "Trash/returns processing late-status alert",
+        "description": "Send alerts or dashboard summaries if trash or returns processing is still pending past a set time (e.g., 5 a.m..).",
+        "evidence": [
+          {
+            "quote": "for our trash or returns processing, we want to send an alert or some sort of a summary, or have it show up on a dashboard if something still shows at 12 a.m..",
+            "speaker": "Eden Wilder <fake.eden.wilder@gritstackoperations.com>",
+            "timestamp": "[00:12:00]"
+          }
+        ]
+      },
+      {
+        "label": "Trailer detention and turnaround time tracking",
+        "description": "Track trailer detention and turnaround time from inbound arrival to completion to improve operational efficiency.",
+        "evidence": [
+          {
+            "quote": "For us, our trailer detention time and turnaround time from the time that we get an inbound load to the time that our labor force is able to move on to the next task is kind of a critical method.",
+            "speaker": "Eden Wilder <fake.eden.wilder@gritstackoperations.com>",
+            "timestamp": "[00:17:40]"
+          },
+          {
+            "quote": "in terms of that trailer time and, like, that turnaround time, definitely something that we're interested in.",
+            "speaker": "Dakota Kendrick <fake.dakota.kendrick@voxelai.com>",
+            "timestamp": "[00:19:34]"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "meeting_title": "Voxel / South Track Dynamics Connect",
+  "start_time": "2022-05-22T19:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Cross-site safety incident trend monitoring and leaderboards",
+        "description": "View incident trends by safety incident type across all sites, including leaders/laggards, to understand where safety risks are increasing or decreasing.",
+        "evidence": [
+          {
+            "quote": "you'll see your pit-to-pit proximity events, you'll see total events in that trend, a bit more of like a visual on how you're trending on that.",
+            "speaker": "Keegan York <fake.keegan.york@voxelai.com>",
+            "timestamp": "[00:10:36]"
+          },
+          {
+            "quote": "who has the largest positive trend, so who is seeing the most decrease, who has the largest negative trend, so who has the most increasing in this time frame, and then just total incident count overall.",
+            "speaker": "Keegan York <fake.keegan.york@voxelai.com>",
+            "timestamp": "[00:10:36]"
+          }
+        ]
+      },
+      {
+        "label": "Use incident videos for safety training and coaching",
+        "description": "Leverage incident clips to coach safe behaviors and show examples of 'what good looks like.'",
+        "evidence": [
+          {
+            "quote": "I may hit create action. I'm going to hit train and retain the team on proper lift.",
+            "speaker": "Keegan York <fake.keegan.york@voxelai.com>",
+            "timestamp": "[00:18:15]"
+          },
+          {
+            "quote": "one of the things we know our customers love to do is leverage these videos as like a, here's what good looks like, or here's what, you know, opportunity looks like and we need to do that.",
+            "speaker": "Keegan York <fake.keegan.york@voxelai.com>",
+            "timestamp": "[00:16:18]"
+          }
+        ]
+      },
+      {
+        "label": "Measure impact of safety actions with markers on incident trends",
+        "description": "Automatically mark when actions are completed and correlate with incident trend lines to see if safety risk is decreasing; escalate to engineering or process changes if not.",
+        "evidence": [
+          {
+            "quote": "when an action is completed, you will be able to, that will automatically add a marker.",
+            "speaker": "Keegan York <fake.keegan.york@voxelai.com>",
+            "timestamp": "[00:25:54]"
+          },
+          {
+            "quote": "are the actions that the team is taking, is it making an impact?",
+            "speaker": "Keegan York <fake.keegan.york@voxelai.com>",
+            "timestamp": "[00:26:13]"
+          },
+          {
+            "quote": "if you aren't seeing the, you know, risk reduction that you hope for, that's a great opportunity to engage with the site leader or whoever and say, hey, we need to try something else. We need to, you know, maybe it's an engineering control or a process change. The coaching's not working",
+            "speaker": "Keegan York <fake.keegan.york@voxelai.com>",
+            "timestamp": "[00:26:42]"
+          }
+        ]
+      },
+      {
+        "label": "Annotate videos to highlight safety concerns not auto-detected",
+        "description": "Freeze frames and circle items in videos to call out additional safety issues beyond what the AI highlights.",
+        "evidence": [
+          {
+            "quote": "in videos, being able to use a pen to circle things, like to freeze a frame and circle things, because again, it's not always about what",
+            "speaker": "Kelsey Parker <fake.kelsey.parker@southtrackdynamics.com>",
+            "timestamp": "[00:05:45]"
+          },
+          {
+            "quote": "But the Voxel camera's picking up and highlighting, but it's other things that I'm seeing in the videos that I want to also call out that would make that easier.",
+            "speaker": "Kelsey Parker <fake.kelsey.parker@southtrackdynamics.com>",
+            "timestamp": "[00:06:00]"
+          }
+        ]
+      },
+      {
+        "label": "Assign and track corrective safety actions with owners, due dates, and reporting",
+        "description": "Create actionable follow-ups from incidents with a single accountable owner, subscribers, due dates, and reporting on totals and average time to complete.",
+        "evidence": [
+          {
+            "quote": "we heard a lot of feedback that you want like that single person to be know that they're accountable for carrying out this action.",
+            "speaker": "Keegan York <fake.keegan.york@voxelai.com>",
+            "timestamp": "[00:18:33]"
+          },
+          {
+            "quote": "the final thing here, which is new. is the due date.",
+            "speaker": "Keegan York <fake.keegan.york@voxelai.com>",
+            "timestamp": "[00:19:00]"
+          },
+          {
+            "quote": "you're going to see the totals, how many were assigned, how many were completed, and that average completion time.",
+            "speaker": "Keegan York <fake.keegan.york@voxelai.com>",
+            "timestamp": "[00:23:42]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Executive all-sites dashboard with custom date ranges for weekly leadership reporting",
+        "description": "Enable custom date ranges and a rolled-up executive view to support weekly dashboards and discussions with regional leadership.",
+        "evidence": [
+          {
+            "quote": "be able to put in specific time frame and not just look at like the last about a week or the last about a month or the last month, but to be able to specifically look at, I want to see Wednesday to Saturday or something, you know, is specific.",
+            "speaker": "Kelsey Parker <fake.kelsey.parker@southtrackdynamics.com>",
+            "timestamp": "[00:04:42]"
+          },
+          {
+            "quote": "I want to look at a weekly dashboard that I go to our, you know, our regional leadership team with and say, here's the things I'm seeing.",
+            "speaker": "Kelsey Parker <fake.kelsey.parker@southtrackdynamics.com>",
+            "timestamp": "[00:05:02]"
+          }
+        ]
+      },
+      {
+        "label": "Report subscriptions and exports (PDF/CSV/PPT) for stakeholder sharing",
+        "description": "Subscribe to receive weekly summaries and export dashboards as PDFs, raw CSV data, or editable PowerPoint slides for broader reporting.",
+        "evidence": [
+          {
+            "quote": "we also have options like subscriptions. So being able to say, hey, I want a weekly download of this information sent to my inbox.",
+            "speaker": "Keegan York <fake.keegan.york@voxelai.com>",
+            "timestamp": "[00:08:50]"
+          },
+          {
+            "quote": "the ability to export not only. Like a PDF format of this, but also the raw data",
+            "speaker": "Keegan York <fake.keegan.york@voxelai.com>",
+            "timestamp": "[00:08:58]"
+          },
+          {
+            "quote": "we're looking at three formats. The first being PDF... The second is that raw data exports... The third ... more of like a PowerPoint style export",
+            "speaker": "Keegan York <fake.keegan.york@voxelai.com>",
+            "timestamp": "[00:13:03]"
+          }
+        ]
+      },
+      {
+        "label": "Embed incident videos in presentation decks",
+        "description": "Insert specific incident videos into slide decks so they play during presentations to showcase examples.",
+        "evidence": [
+          {
+            "quote": "be able to take a specific video and embed it... I want to showcase this one thing and put it in that, and then allow it to run as a video in the presentation mode, would be great.",
+            "speaker": "Kelsey Parker <fake.kelsey.parker@southtrackdynamics.com>",
+            "timestamp": "[00:15:28]"
+          },
+          {
+            "quote": "if we can provide like a one click to do that, that would be, it sounds like that would be super helpful.",
+            "speaker": "Keegan York <fake.keegan.york@voxelai.com>",
+            "timestamp": "[00:16:08]"
+          }
+        ]
+      },
+      {
+        "label": "Team engagement leaderboards and gamification",
+        "description": "Show actions completed by site and teammate with leaders and laggards to drive engagement and healthy competition across sites.",
+        "evidence": [
+          {
+            "quote": "showing actions completed by site and actions completed by teammate, the leader of that for that timeframe, as well as kind of the legger in that.",
+            "speaker": "Keegan York <fake.keegan.york@voxelai.com>",
+            "timestamp": "[00:09:26]"
+          },
+          {
+            "quote": "a little healthy competition is good, you know, so like seeing that leaderboard concept... it's a great way to leverage kind of that gamification aspect",
+            "speaker": "Keegan York <fake.keegan.york@voxelai.com>",
+            "timestamp": "[00:28:13]"
+          }
+        ]
+      },
+      {
+        "label": "Assign and track actions with accountability and reporting",
+        "description": "Use an actions workflow with a single assignee, subscribers, due dates, and reports on counts and average completion time to manage follow-ups.",
+        "evidence": [
+          {
+            "quote": "We've switched this to being multiple to just single because we heard a lot of feedback that you want like that single person to be know that they're accountable for carrying out this action.",
+            "speaker": "Keegan York <fake.keegan.york@voxelai.com>",
+            "timestamp": "[00:18:33]"
+          },
+          {
+            "quote": "This is optional, but you can toggle that on and you can add a due date any day from today forward.",
+            "speaker": "Keegan York <fake.keegan.york@voxelai.com>",
+            "timestamp": "[00:19:10]"
+          },
+          {
+            "quote": "you're going to see the totals, how many were assigned, how many were completed, and that average completion time.",
+            "speaker": "Keegan York <fake.keegan.york@voxelai.com>",
+            "timestamp": "[00:23:42]"
+          }
+        ]
+      },
+      {
+        "label": "Reminders for past-due actions",
+        "description": "Send nudges when action due dates pass so assignees are reminded to complete overdue items.",
+        "evidence": [
+          {
+            "quote": "since we've, you know, this instances where we assign a due date, what happens when that due date passes? is, question is, is... And no, actually, is there reminders?",
+            "speaker": "Kelsey Parker <fake.kelsey.parker@southtrackdynamics.com>",
+            "timestamp": "[00:21:00]"
+          },
+          {
+            "quote": "The one thing we don't have that you said that we've heard already from a lot of folks is reminders for past due. Like, how do we nudge someone when something's past due? We do foresee that being in the next phase of this.",
+            "speaker": "Keegan York <fake.keegan.york@voxelai.com>",
+            "timestamp": "[00:21:23]"
+          }
+        ]
+      }
+    ]
+  }
+}

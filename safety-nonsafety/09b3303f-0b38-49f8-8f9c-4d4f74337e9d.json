@@ -1,0 +1,260 @@
+{
+  "meeting_title": "Mason Line Supply + Voxel",
+  "start_time": "2023-12-04T18:30:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Ergonomic risk detection (improper bending and overreaching)",
+        "description": "Detect and score improper bending and overreaching ergonomics to surface risky motions for coaching, using a defined thresholding method.",
+        "evidence": [
+          {
+            "quote": "So I've been looking through it and I've seen the flames.",
+            "speaker": "Harper Sullivan",
+            "timestamp": "[00:03:19]"
+          },
+          {
+            "quote": "And first of all, it shows you like improper bend.",
+            "speaker": "Harper Sullivan",
+            "timestamp": "[00:03:23]"
+          },
+          {
+            "quote": "You know, it picks out the person who's going to bend improperly or the person who's going to overreach to get a piece of freight.",
+            "speaker": "Harper Sullivan",
+            "timestamp": "[00:03:30]"
+          },
+          {
+            "quote": "Okay, so the way that we categorize or determine threshold level on improper bend and overreaching, so our ergonomic use cases, is going to be with the Posture Risk Index scoring method, certain severity levels assigned to that.",
+            "speaker": "Logan Harlow <fake.logan.harlow@voxelai.com>",
+            "timestamp": "[00:04:00]"
+          }
+        ]
+      },
+      {
+        "label": "PIT–pedestrian proximity monitoring",
+        "description": "Monitor and flag close interactions between forklifts and pedestrians, including when a stationary person is near a moving PIT and during scanning at dock plates.",
+        "evidence": [
+          {
+            "quote": "When we work, like sometimes we have two people working on a similar trailer.",
+            "speaker": "Blake Sinclair <fake.blake.sinclair@masonlinesupply.com>",
+            "timestamp": "[00:08:19]"
+          },
+          {
+            "quote": "While the machine is in, uh, is in motion.",
+            "speaker": "Blake Sinclair <fake.blake.sinclair@masonlinesupply.com>",
+            "timestamp": "[00:08:40]"
+          },
+          {
+            "quote": "so that thing is a little bit, you know, um, I think it's, it must have showing red flags on that for sure.",
+            "speaker": "Blake Sinclair <fake.blake.sinclair@masonlinesupply.com>",
+            "timestamp": "[00:08:44]"
+          },
+          {
+            "quote": "Now does it flag it if the pit is in motion but the person is standing still?",
+            "speaker": "Blake Sinclair <fake.blake.sinclair@masonlinesupply.com>",
+            "timestamp": "[00:09:17]"
+          },
+          {
+            "quote": "But in the case of a person, a stationary person in a mobile pit will flag.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:09:45]"
+          },
+          {
+            "quote": "What should be happening is the forklift stops on the dock plate and comes with a complete stop, the guy scans it, and then he backs up, and then the forklift goes in.",
+            "speaker": "Blake Sinclair <fake.blake.sinclair@masonlinesupply.com>",
+            "timestamp": "[00:10:23]"
+          }
+        ]
+      },
+      {
+        "label": "PIT–PIT proximity monitoring",
+        "description": "Detect and report close interactions between moving forklifts; identify and reduce PIT-to-PIT proximity incidents.",
+        "evidence": [
+          {
+            "quote": "So both pits have to be moving to flag.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:09:38]"
+          },
+          {
+            "quote": "So a pit going by a stationary pit will not flag.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:09:42]"
+          },
+          {
+            "quote": "pit-to-pit procs down 40-80%.",
+            "speaker": "Logan Harlow <fake.logan.harlow@voxelai.com>",
+            "timestamp": "[00:12:26]"
+          }
+        ]
+      },
+      {
+        "label": "PIT speeding monitoring",
+        "description": "Track and reduce forklift speeding incidents as a safety KPI.",
+        "evidence": [
+          {
+            "quote": "To see a 15-20% reduction across the board is significant, and then you're knocking it out of the park at almost every single category, 40-80% speeding.",
+            "speaker": "Logan Harlow <fake.logan.harlow@voxelai.com>",
+            "timestamp": "[00:12:00]"
+          }
+        ]
+      },
+      {
+        "label": "Safety risk hotspot and time-of-day analytics",
+        "description": "Use analytics to uncover systemic patterns of risk by location and time (e.g., hotspots and peak risk windows) to target floor interventions.",
+        "evidence": [
+          {
+            "quote": "It's less about the one-off instance and really more about being able to uncover those systemic patterns of risk.",
+            "speaker": "Logan Harlow <fake.logan.harlow@voxelai.com>",
+            "timestamp": "[00:10:47]"
+          },
+          {
+            "quote": "And so once you're into the platform, being able to dig into that, this is the location, the roll-up doors that has the highest area or location of frequency.",
+            "speaker": "Logan Harlow <fake.logan.harlow@voxelai.com>",
+            "timestamp": "[00:11:09]"
+          },
+          {
+            "quote": "And Saturdays at 12 p.m..",
+            "speaker": "Logan Harlow <fake.logan.harlow@voxelai.com>",
+            "timestamp": "[00:11:21]"
+          },
+          {
+            "quote": "is going to be that peak risk window.",
+            "speaker": "Logan Harlow <fake.logan.harlow@voxelai.com>",
+            "timestamp": "[00:11:23]"
+          }
+        ]
+      },
+      {
+        "label": "Monthly safety meeting content using Voxel clips",
+        "description": "Receive a brief deck with example clips highlighting good and bad behaviors to use in monthly safety meetings.",
+        "evidence": [
+          {
+            "quote": "If there, if it was possible to shoot us some, like you did last time, we had a PowerPoint presentation with a couple examples kind of built into it, just something very brief, you know, four or several instances, but just things, you know, a couple that call out of good, like kudos to us.",
+            "speaker": "Blake Sinclair <fake.blake.sinclair@masonlinesupply.com>",
+            "timestamp": "[00:14:44]"
+          },
+          {
+            "quote": "then another one few that called out like, Hey, this is, this is, this is bad.",
+            "speaker": "Blake Sinclair <fake.blake.sinclair@masonlinesupply.com>",
+            "timestamp": "[00:15:01]"
+          },
+          {
+            "quote": "Um, and then we can show that we can use that in our monthly safety meeting.",
+            "speaker": "Blake Sinclair <fake.blake.sinclair@masonlinesupply.com>",
+            "timestamp": "[00:15:04]"
+          },
+          {
+            "quote": "I'm happy to provide it.",
+            "speaker": "Logan Harlow <fake.logan.harlow@voxelai.com>",
+            "timestamp": "[00:15:11]"
+          }
+        ]
+      },
+      {
+        "label": "Daily safety incident digest and assignment workflow",
+        "description": "Use daily email breakdowns from Voxel to review and assign issues to the appropriate supervisors for follow-up.",
+        "evidence": [
+          {
+            "quote": "So what I've started doing is going through every morning because I get an email that gives me like a breakdown, I go through it and I assign some.",
+            "speaker": "Blake Sinclair <fake.blake.sinclair@masonlinesupply.com>",
+            "timestamp": "[00:07:52]"
+          },
+          {
+            "quote": "So like if I see it's an issue, then I assign it.",
+            "speaker": "Blake Sinclair <fake.blake.sinclair@masonlinesupply.com>",
+            "timestamp": "[00:08:04]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Open dock door duration monitoring and threshold tuning",
+        "description": "Monitor doors left open and adjust alert duration thresholds to reflect operational realities (e.g., ongoing loading with dock plate up); note current inability to detect dock plate status.",
+        "evidence": [
+          {
+            "quote": "I have a question regarding the doors open.",
+            "speaker": "Blake Sinclair <fake.blake.sinclair@masonlinesupply.com>",
+            "timestamp": "[00:05:02]"
+          },
+          {
+            "quote": "example, we are working on door number four, and it's now we are going continuously into that door because we have some freight which comes in and it takes maybe 15, tens of minutes or half an hour, but we still have to keep that door open with a plate up.",
+            "speaker": "Blake Sinclair <fake.blake.sinclair@masonlinesupply.com>",
+            "timestamp": "[00:05:05]"
+          },
+          {
+            "quote": "So that still shows as, you know, it's an alarming sign for us.",
+            "speaker": "Blake Sinclair <fake.blake.sinclair@masonlinesupply.com>",
+            "timestamp": "[00:05:22]"
+          },
+          {
+            "quote": "And so we we do set up each of the use cases, including open door duration specifically.",
+            "speaker": "Logan Harlow <fake.logan.harlow@voxelai.com>",
+            "timestamp": "[00:06:00]"
+          },
+          {
+            "quote": "I think, currently, your open-door monitoring is set to a longer duration, meaning you would not receive a notice for shorter openings.",
+            "speaker": "Logan Harlow <fake.logan.harlow@voxelai.com>",
+            "timestamp": "[00:06:48]"
+          },
+          {
+            "quote": "We're able to adjust that if you want it to be set differently.",
+            "speaker": "Logan Harlow <fake.logan.harlow@voxelai.com>",
+            "timestamp": "[00:07:11]"
+          },
+          {
+            "quote": "Would it be able to recognize when a dog plate is on the trailer?",
+            "speaker": "Blake Sinclair <fake.blake.sinclair@masonlinesupply.com>",
+            "timestamp": "[00:07:18]"
+          },
+          {
+            "quote": "It wouldn't be able to make the distinction with that at this time.",
+            "speaker": "Logan Harlow <fake.logan.harlow@voxelai.com>",
+            "timestamp": "[00:07:30]"
+          }
+        ]
+      },
+      {
+        "label": "PIT parking duration monitoring and camera zone tuning",
+        "description": "Track extended PIT parking durations that may reflect normal work (e.g., lunch, labeling) and refine camera zones to exclude expected parking areas.",
+        "evidence": [
+          {
+            "quote": "I think that that has to do with most of the time because they park their vehicle and they go for lunch or they park their vehicle.",
+            "speaker": "Harper Sullivan",
+            "timestamp": "[00:16:18]"
+          },
+          {
+            "quote": "So the vehicle will be parked for a while before it's actually moved.",
+            "speaker": "Harper Sullivan",
+            "timestamp": "[00:16:46]"
+          },
+          {
+            "quote": "So that I think will always be going up instead of going down.",
+            "speaker": "Harper Sullivan",
+            "timestamp": "[00:17:00]"
+          },
+          {
+            "quote": "Yeah, and I think there's also, Harper, there's some fine-tuning we can do on the camera views for where we expect PIT to be parked, because I know that's changed recently, and where we expect freight to sit and where not to sit, because I know today, I painted the brush quite broad to try and capture everything, and then now we're just going to narrow it down a bit to not focus on some of those areas.",
+            "speaker": "Blake Sinclair <fake.blake.sinclair@masonlinesupply.com>",
+            "timestamp": "[00:17:00]"
+          }
+        ]
+      },
+      {
+        "label": "Security monitoring use cases (yard/internal)",
+        "description": "Explore and define new security-focused use cases for yard and internal areas; schedule a session to capture requirements.",
+        "evidence": [
+          {
+            "quote": "Their special project, enhancing and building out some use cases that are slanted more to the security side of the house, safety, and so I would love to get kind of your take on what would be important from a security perspective, whether it's yard, internal, whatever, but I got to get one of our new product marketing folks online for that.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:18:00]"
+          },
+          {
+            "quote": "So just a heads up, I'd love to grab a half hour of your time and just do a deep dive on what would be important to you all from the security standpoint for some new use cases.",
+            "speaker": "Hollis Sawyer <fake.hollis.sawyer@voxelai.com>",
+            "timestamp": "[00:18:22]"
+          }
+        ]
+      }
+    ]
+  }
+}

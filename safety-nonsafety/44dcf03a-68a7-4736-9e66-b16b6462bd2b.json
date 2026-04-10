@@ -1,0 +1,315 @@
+{
+  "meeting_title": " Foundry Harbor Manufacturing Call",
+  "start_time": "2024-02-25T14:30:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Ergonomics risk detection",
+        "description": "Monitor improper bends and overreaching to flag ergonomic risks and score severity using body angulation.",
+        "evidence": [
+          {
+            "quote": "We have improper bends, overreachings, such as any ergonomic related observations here, and then person to vehicle, so person to pit, proximity and pit to pit proximity.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:02:46]"
+          },
+          {
+            "quote": "So improper bend and overreaching, basically it captures, you know, vast majority of overhead and then, you know, bending down behaviors that we would, that we would, that you would expect to see.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:14:09]"
+          },
+          {
+            "quote": "So everything's using the RIVA score and then we'll, we'll, we'll, um, mark the severity of the incidents based off the angulations of the body.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:14:22]"
+          }
+        ]
+      },
+      {
+        "label": "PIT/pedestrian and PIT-to-PIT proximity",
+        "description": "Detect and report close interactions between forklifts and pedestrians, and between forklifts.",
+        "evidence": [
+          {
+            "quote": "We have improper bends, overreachings, such as any ergonomic related observations here, and then person to vehicle, so person to pit, proximity and pit to pit proximity.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:02:46]"
+          },
+          {
+            "quote": "Next thing would be forklift traffic and a forklift in a cross pattern.",
+            "speaker": "Ryan Archer <fake.ryan.archer@foundryharbormanufacturing.com>",
+            "timestamp": "[00:06:18]"
+          }
+        ]
+      },
+      {
+        "label": "Truck going off dock detection",
+        "description": "Monitor docks to detect and prevent trucks or forklifts going off the dock edge.",
+        "evidence": [
+          {
+            "quote": "trucks going off docks.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:02:25]"
+          },
+          {
+            "quote": "I said, for trucks going off the dock.",
+            "speaker": "Oakley Winslow <fake.oakley.winslow@foundryharbormanufacturing.com>",
+            "timestamp": "[00:02:32]"
+          }
+        ]
+      },
+      {
+        "label": "PPE safety vest compliance",
+        "description": "Ensure workers wear safety vests in required zones and exclude designated walkways where vests are not required.",
+        "evidence": [
+          {
+            "quote": "Any PPE?",
+            "speaker": "Marlowe Vaughn <fake.marlowe.vaughn@foundryharbormanufacturing.com>",
+            "timestamp": "[00:03:32]"
+          },
+          {
+            "quote": "Safety vests?",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:03:34]"
+          },
+          {
+            "quote": "Vests, yes.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:03:35]"
+          },
+          {
+            "quote": "Everybody in that area should have a vest on.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:20:48]"
+          }
+        ]
+      },
+      {
+        "label": "Cellphone distraction while walking",
+        "description": "Identify employees walking while looking at their phones to address distraction-related hazards.",
+        "evidence": [
+          {
+            "quote": "Employees looking at their phone and walking.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:05:57]"
+          },
+          {
+            "quote": "That would be the biggest thing.",
+            "speaker": "Ryan Archer <fake.ryan.archer@foundryharbormanufacturing.com>",
+            "timestamp": "[00:06:00]"
+          },
+          {
+            "quote": "It's an area, a use case we're looking into.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:06:05]"
+          }
+        ]
+      },
+      {
+        "label": "Crosswalk compliance monitoring",
+        "description": "Track that pedestrians use designated crosswalks within the facility.",
+        "evidence": [
+          {
+            "quote": "But should be at the designated walkway, because where you have the end of the rack on your left.",
+            "speaker": "Ryan Archer <fake.ryan.archer@foundryharbormanufacturing.com>",
+            "timestamp": "[00:06:39]"
+          },
+          {
+            "quote": "One of things also, we want to make sure that employees are following the crosswalks, but there's no designated stops for co-drivers.",
+            "speaker": "Ryan Archer <fake.ryan.archer@foundryharbormanufacturing.com>",
+            "timestamp": "[00:07:09]"
+          }
+        ]
+      },
+      {
+        "label": "No-pedestrian zones in docks/aisles",
+        "description": "Define and enforce no-pedestrian zones to minimize foot traffic through dock areas and high-risk aisles.",
+        "evidence": [
+          {
+            "quote": "So we don't want any foot traffic from the docks.",
+            "speaker": "Ryan Archer <fake.ryan.archer@foundryharbormanufacturing.com>",
+            "timestamp": "[00:31:36]"
+          },
+          {
+            "quote": "And there'll be a no-ped zone as well.",
+            "speaker": "Ryan Archer <fake.ryan.archer@foundryharbormanufacturing.com>",
+            "timestamp": "[00:36:14]"
+          }
+        ]
+      },
+      {
+        "label": "Obstruction/egress/walkway clearance monitoring",
+        "description": "Alert on materials obstructing taped no-parking zones, fire equipment, exits, walkways, and forklift aisles with time thresholds.",
+        "evidence": [
+          {
+            "quote": "So that means that nothing should be parked over there.",
+            "speaker": "Ryan Archer <fake.ryan.archer@foundryharbormanufacturing.com>",
+            "timestamp": "[00:12:21]"
+          },
+          {
+            "quote": "There should be no materials sitting over there at all.",
+            "speaker": "Ryan Archer <fake.ryan.archer@foundryharbormanufacturing.com>",
+            "timestamp": "[00:12:24]"
+          },
+          {
+            "quote": "Like 60 seconds?",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:12:31]"
+          },
+          {
+            "quote": "In any walkways, we don't want material sitting on the walkways for more than a minute.",
+            "speaker": "Ryan Archer <fake.ryan.archer@foundryharbormanufacturing.com>",
+            "timestamp": "[00:33:25]"
+          },
+          {
+            "quote": "You don't want anything in the middle of any of those areas.",
+            "speaker": "Marlowe Vaughn <fake.marlowe.vaughn@foundryharbormanufacturing.com>",
+            "timestamp": "[00:44:07]"
+          }
+        ]
+      },
+      {
+        "label": "Door open duration policy enforcement (electrical and dock doors)",
+        "description": "Monitor door open durations: electrical room doors should not be open, and dock doors should remain closed unless loading/unloading; flag open dock doors with no trailer.",
+        "evidence": [
+          {
+            "quote": "Anything around like open door duration that we want to track here?",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:19:18]"
+          },
+          {
+            "quote": "It's just an electrical door.",
+            "speaker": "Ryan Archer <fake.ryan.archer@foundryharbormanufacturing.com>",
+            "timestamp": "[00:19:55]"
+          },
+          {
+            "quote": "So we shouldn't have it open.",
+            "speaker": "Ryan Archer <fake.ryan.archer@foundryharbormanufacturing.com>",
+            "timestamp": "[00:19:55]"
+          },
+          {
+            "quote": "Technically, they're not supposed to leave the doors open unless they're loading or unloading.",
+            "speaker": "Marlowe Vaughn <fake.marlowe.vaughn@foundryharbormanufacturing.com>",
+            "timestamp": "[00:23:30]"
+          },
+          {
+            "quote": "That one's open and there's no truck in the door.",
+            "speaker": "Marlowe Vaughn <fake.marlowe.vaughn@foundryharbormanufacturing.com>",
+            "timestamp": "[00:24:02]"
+          },
+          {
+            "quote": "That's a safety violation.",
+            "speaker": "Marlowe Vaughn <fake.marlowe.vaughn@foundryharbormanufacturing.com>",
+            "timestamp": "[00:24:05]"
+          },
+          {
+            "quote": "So let's set this maybe to start with tens of minutes and see what type of data we're getting.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:25:13]"
+          },
+          {
+            "quote": "It should not be open.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:34:36]"
+          }
+        ]
+      },
+      {
+        "label": "Forklifts entering dock on red light",
+        "description": "Detect forklifts entering a dock when the dock light is red.",
+        "evidence": [
+          {
+            "quote": "Is there any way you could move that zone to cover that light on the dock, the dock light?",
+            "speaker": "Ryan Archer <fake.ryan.archer@foundryharbormanufacturing.com>",
+            "timestamp": "[00:22:26]"
+          },
+          {
+            "quote": "Because I want to see if forklifts are entering the docks when it's red.",
+            "speaker": "Ryan Archer <fake.ryan.archer@foundryharbormanufacturing.com>",
+            "timestamp": "[00:22:32]"
+          },
+          {
+            "quote": "So can't exactly do that today, but I'm trying to think.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:22:42]"
+          }
+        ]
+      },
+      {
+        "label": "Forklift driving direction with obstructed view",
+        "description": "Verify forklift drivers are driving backwards when their forward view is blocked by loads or racks.",
+        "evidence": [
+          {
+            "quote": "Like one of the things is, you know, are the 4K drivers driving backwards when they have tracks in front that might block their view?",
+            "speaker": "Ryan Archer <fake.ryan.archer@foundryharbormanufacturing.com>",
+            "timestamp": "[00:27:38]"
+          },
+          {
+            "quote": "Let's just get that added.",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:28:02]"
+          }
+        ]
+      },
+      {
+        "label": "Collision/impact detection on yellow posts",
+        "description": "Detect forklift impacts with protective yellow posts to address collision hotspots.",
+        "evidence": [
+          {
+            "quote": "One of the things that we do find is the folk of ours do hit those yellow posts quite a bit.",
+            "speaker": "Ryan Archer <fake.ryan.archer@foundryharbormanufacturing.com>",
+            "timestamp": "[00:29:00]"
+          }
+        ]
+      },
+      {
+        "label": "Forklift pre-use inspection compliance",
+        "description": "Check whether drivers are taking time to complete required forklift inspections before operation.",
+        "evidence": [
+          {
+            "quote": "Doing the forklift inspection or taking the time, but I don't know how that is, how we can do that.",
+            "speaker": "Ryan Archer <fake.ryan.archer@foundryharbormanufacturing.com>",
+            "timestamp": "[00:42:01]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Fork truck idle time monitoring (via Sterling Axis Insights)",
+        "description": "Track forklift idle time, which the team plans to monitor using Sterling Axis Insights rather than Voxel.",
+        "evidence": [
+          {
+            "quote": "Do you want to do fork truck idle time or no?",
+            "speaker": "Oakley Winslow <fake.oakley.winslow@foundryharbormanufacturing.com>",
+            "timestamp": "[00:03:16]"
+          },
+          {
+            "quote": "So we're installing the Sterling Axis Insights, so we don't really need that.",
+            "speaker": "Marlowe Vaughn <fake.marlowe.vaughn@foundryharbormanufacturing.com>",
+            "timestamp": "[00:03:20]"
+          },
+          {
+            "quote": "Once that's installed, it'll tell us idle time.",
+            "speaker": "Marlowe Vaughn <fake.marlowe.vaughn@foundryharbormanufacturing.com>",
+            "timestamp": "[00:03:25]"
+          }
+        ]
+      },
+      {
+        "label": "Charger parking duration telemetry",
+        "description": "Measure how long forklifts remain at the charging station, though the team does not see a need for this right now.",
+        "evidence": [
+          {
+            "quote": "You still have the existing vehicle use cases over there, mean, anything around parking duration to see if they're, how long they're on the charger?",
+            "speaker": "Shawn Abbott <fake.shawn.abbott@voxelai.com>",
+            "timestamp": "[00:41:40]"
+          },
+          {
+            "quote": "No, it's like, you know, they just arrive and they just jump on the lift and unplug and they go, you know.",
+            "speaker": "Ryan Archer <fake.ryan.archer@foundryharbormanufacturing.com>",
+            "timestamp": "[00:41:49]"
+          }
+        ]
+      }
+    ]
+  }
+}

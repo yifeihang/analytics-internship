@@ -1,0 +1,45 @@
+{
+  "meeting_title": "Meridian Works Operations MMS / Voxel - site safety touch base",
+  "start_time": "2024-11-13T13:30:00Z",
+  "extraction": {
+    "safety_use_cases": [],
+    "nonsafety_use_cases": [
+      {
+        "label": "Sensitive-inventory monitoring pilot",
+        "description": "Meridian Works Operations has a specific maintenance need, and the team discussed an early-stage pilot to address it.",
+        "evidence": [
+          {
+            "quote": "We're going to do a pilot.",
+            "speaker": "Lane Oakley <fake.lane.oakley@voxelai.com>",
+            "timestamp": "[00:00:52]"
+          },
+          {
+            "quote": "The timing is still being worked through.",
+            "speaker": "Lane Oakley <fake.lane.oakley@voxelai.com>",
+            "timestamp": "[00:00:55]"
+          },
+          {
+            "quote": "of what that will entail, but they had a very specific maintenance need, and we are exploring ways to support it.",
+            "speaker": "Lane Oakley <fake.lane.oakley@voxelai.com>",
+            "timestamp": "[00:01:00]"
+          },
+          {
+            "quote": "So we put together an early concept to review last week, and we'll keep working on it.",
+            "speaker": "Lane Oakley <fake.lane.oakley@voxelai.com>",
+            "timestamp": "[00:01:14]"
+          },
+          {
+            "quote": "And so, but the maintenance kind of issue came up as top priority.",
+            "speaker": "Lane Oakley <fake.lane.oakley@voxelai.com>",
+            "timestamp": "[00:02:20]"
+          },
+          {
+            "quote": "So we put together a way to meet that.",
+            "speaker": "Lane Oakley <fake.lane.oakley@voxelai.com>",
+            "timestamp": "[00:02:27]"
+          }
+        ]
+      }
+    ]
+  }
+}

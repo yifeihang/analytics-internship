@@ -1,0 +1,319 @@
+{
+  "meeting_title": "Orion Forge Industrial // Voxel",
+  "start_time": "2022-06-30T13:00:00Z",
+  "extraction": {
+    "safety_use_cases": [
+      {
+        "label": "Forklift collision and intersection compliance monitoring",
+        "description": "Detect and alert on PIT-to-PIT and PIT-to-pedestrian proximity and failures to stop at intersections to prevent warehouse collisions.",
+        "evidence": [
+          {
+            "quote": "And typically these are more high risk, like pit to pit, which is power industrial trucks or pit to pit into civilians.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:02:45]"
+          },
+          {
+            "quote": "This is tracking two things, pit to pit and no stop at intersection.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:03:21]"
+          }
+        ]
+      },
+      {
+        "label": "Suspended load hazard detection",
+        "description": "Monitor and alert when people are under or near suspended loads to prevent severe or fatal injuries.",
+        "evidence": [
+          {
+            "quote": "Like we have a suspended load that's coming out. Actually, think it might have just been released, and that's like, you need that split second, because if that thing falls, or whatever falls on that person, that person might be dead or memed, right?",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:04:48]"
+          },
+          {
+            "quote": "No speeding, no idling, suspended load when they're moving those, you know, those large boxes. Like you don't want anyone standing under those.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:29:14]"
+          }
+        ]
+      },
+      {
+        "label": "PPE compliance monitoring (hard hats/vests)",
+        "description": "Ensure workers wear required PPE such as hard hats and high-visibility vests at industrial sites like ports.",
+        "evidence": [
+          {
+            "quote": "PPE, right? That's, you know, you've got to have the hard hats and vests and stuff like that.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:29:25]"
+          }
+        ]
+      },
+      {
+        "label": "Retail floor hazard detection",
+        "description": "Detect floor hazards and notify staff to reduce customer-facing risk in stores and other high-risk zones.",
+        "evidence": [
+          {
+            "quote": "We point to examples like this and say you probably want to watch this area more closely because it is higher risk.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:09:30]"
+          },
+          {
+            "quote": "They had something on the floor that led to a costly customer incident.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:28:30]"
+          },
+          {
+            "quote": "With our camera, we are going to see those floor hazards and notify them quickly so someone can address them sooner.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:28:41]"
+          }
+        ]
+      },
+      {
+        "label": "Ergonomic risk detection (improper bending/overreaching)",
+        "description": "Identify ergonomic violations like improper bending and overreaching to drive coaching and reduce strains and sprains.",
+        "evidence": [
+          {
+            "quote": "Is there a way to, you know, improper bend, also bad, but not really bad, and overreaching, same thing.",
+            "speaker": "Payton Granger <fake.payton.granger@orionforgeindustrial.com>",
+            "timestamp": "[00:04:23]"
+          },
+          {
+            "quote": "So again, like ergo, it's probably gonna happen a thousand times a day, and it's not something that's like an imminent danger.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:04:41]"
+          },
+          {
+            "quote": "oh, actually, ergo is your biggest issue or overreaching is your biggest issue.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:11:07]"
+          }
+        ]
+      },
+      {
+        "label": "Cell phone distraction monitoring",
+        "description": "Detect and report workers using cell phones on the floor to reduce distraction-related safety risks.",
+        "evidence": [
+          {
+            "quote": "like we add like cell phones are coming out where we want to track people having, using their cell phones.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:16:30]"
+          }
+        ]
+      },
+      {
+        "label": "Timely notifications and corrective action workflows",
+        "description": "Send prompt notifications on safety incidents and enable assignment of corrective actions with owners and due dates.",
+        "evidence": [
+          {
+            "quote": "From here, you get notified through the available channels.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:03:25]"
+          },
+          {
+            "quote": "So if I want to sign this to someone, right? ... Like, want this done by today.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:03:40]"
+          }
+        ]
+      },
+      {
+        "label": "Robot cell intrusion and safety interlock compliance monitoring",
+        "description": "Watch robot workcells to detect people entering or bypassing fences/safety locks and prevent serious injuries.",
+        "evidence": [
+          {
+            "quote": "I install one camera to cover four robots so that anybody who goes near the robot when it's trying to do something can also, there's great videos of, you know, people getting killed as they approach a robot, which just swung around.",
+            "speaker": "Payton Granger <fake.payton.granger@orionforgeindustrial.com>",
+            "timestamp": "[00:20:13]"
+          },
+          {
+            "quote": "having something that's kind of like a big brother, then I'll come back to that big brother watching over to make sure nobody. It's jerry-rigging the fence and the security safety systems, the safety locks.",
+            "speaker": "Payton Granger <fake.payton.granger@orionforgeindustrial.com>",
+            "timestamp": "[00:20:51]"
+          }
+        ]
+      },
+      {
+        "label": "Vehicle speed monitoring (ports)",
+        "description": "Monitor vehicle speeding in port operations to enforce safe driving behaviors and site rules.",
+        "evidence": [
+          {
+            "quote": "No speeding, no idling, suspended load when they're moving those, you know, those large boxes.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:29:14]"
+          }
+        ]
+      },
+      {
+        "label": "Racking/structure impact detection and driver violation analysis",
+        "description": "Detect forklift impacts on racking/structures and analyze preceding violations like speeding or failure to stop.",
+        "evidence": [
+          {
+            "quote": "every upright in his warehouse is destroyed. so I'm to the point where I walk through and I'm like, you need to shut down this entire aisle, like you can't put product in this aisle because all of it is so damaged",
+            "speaker": "Payton Granger <fake.payton.granger@orionforgeindustrial.com>",
+            "timestamp": "[00:43:48]"
+          },
+          {
+            "quote": "You can do no PEDSA, no speeding, stopping, like, so we can track that, like, okay, he hit this, he went too fast, he didn't stop. And you can see that indicator.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:44:42]"
+          },
+          {
+            "quote": "on Wednesday, Jimmy decided back into the corner of this structure, caused this much damage, yada, yada, yada, right?",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:45:10]"
+          }
+        ]
+      },
+      {
+        "label": "Incident severity scoring and prioritization",
+        "description": "Classify detected events by severity so teams focus response on the most dangerous issues first.",
+        "evidence": [
+          {
+            "quote": "Is there a way to kind of assign numbers to this, or is there, is that fraught with danger, severity?",
+            "speaker": "Payton Granger <fake.payton.granger@orionforgeindustrial.com>",
+            "timestamp": "[00:04:31]"
+          },
+          {
+            "quote": "There's stuff that we want to classify the severity that might, you know, distinguish, you know, your reaction or what needs to be taken in a course of action.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:05:00]"
+          }
+        ]
+      },
+      {
+        "label": "Safety hotspot heat mapping",
+        "description": "Use heat maps to locate where most incidents occur and prioritize monitoring and interventions.",
+        "evidence": [
+          {
+            "quote": "What we do is heat mapping. If we want to do an analyzation of where the most instances are, we'll show you.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:09:07]"
+          }
+        ]
+      },
+      {
+        "label": "Reduce injury and liability costs via targeted safety interventions",
+        "description": "Review historical incident patterns to identify top injury and liability drivers and target them with monitoring and coaching.",
+        "evidence": [
+          {
+            "quote": "One of the lower-hanging opportunities is reducing injury and liability costs.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:09:58]"
+          },
+          {
+            "quote": "we look at their historical incident data to understand the main drivers.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:10:06]"
+          },
+          {
+            "quote": "we create a summary presentation showing the main opportunity areas and the kinds of improvements customers often look for.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:11:13]"
+          }
+        ]
+      }
+    ],
+    "nonsafety_use_cases": [
+      {
+        "label": "Food safety and controlled-environment compliance monitoring",
+        "description": "Track hairnets/beard nets and monitor door open durations in controlled environments to support food safety and product integrity.",
+        "evidence": [
+          {
+            "quote": "They want to track food safety items like beard nets, hair nets, PPE, and door-open durations in sensitive areas.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:01:43]"
+          }
+        ]
+      },
+      {
+        "label": "Retail floor hazard detection to reduce liability exposure",
+        "description": "Detect floor hazards and notify staff to reduce customer incident risk and associated liability exposure.",
+        "evidence": [
+          {
+            "quote": "They had something on the floor that led to a costly customer incident.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:28:30]"
+          },
+          {
+            "quote": "With our camera, we are going to see those floor hazards and notify them quickly.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:28:41]"
+          }
+        ]
+      },
+      {
+        "label": "Vehicle idling monitoring (ports)",
+        "description": "Monitor idling to enforce operational policies and reduce fuel/emissions alongside speeding enforcement.",
+        "evidence": [
+          {
+            "quote": "No speeding, no idling, suspended load when they're moving those, you know, those large boxes.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:29:14]"
+          }
+        ]
+      },
+      {
+        "label": "Conveyor jam/no-obstruction detection and root-cause review",
+        "description": "Use no-obstruction zones and captured video clips to detect conveyor jams and review pre-event footage for diagnosis.",
+        "evidence": [
+          {
+            "quote": "No obstruction zones, no blocking, like fire exits. You can do that on conveyor belts.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:48:30]"
+          },
+          {
+            "quote": "Whatever the duration you want to track, and then when it violates it for like 15, 30 seconds, you get flagged.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:48:48]"
+          },
+          {
+            "quote": "once we have a jam eye, we have this trigger event that says, hey, you've got a jam, but I would wonder if there's an ability to go back in time and say, look, this is the five seconds before that jam that happened, right?",
+            "speaker": "Payton Granger <fake.payton.granger@orionforgeindustrial.com>",
+            "timestamp": "[00:50:01]"
+          },
+          {
+            "quote": "wonder if there is a, when we collect that information, if how long the video clip is",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:50:52]"
+          }
+        ]
+      },
+      {
+        "label": "Shrink/loss prevention from mishandling impacts",
+        "description": "Identify mishandling or collision events that could lead to product damage and shrink, enabling corrective action.",
+        "evidence": [
+          {
+            "quote": "That could have been shrink right there. So that product could have fell off and that could have been, you know, a loss for that.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:03:08]"
+          },
+          {
+            "quote": "From a efficiency standpoint, we can help be more efficient, reduce shrink.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:12:34]"
+          }
+        ]
+      },
+      {
+        "label": "Reduce injury and liability costs via targeted interventions",
+        "description": "Leverage incident data to cut injury and liability costs by focusing on the main drivers.",
+        "evidence": [
+          {
+            "quote": "One of the lower-hanging opportunities is reducing injury and liability costs.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:09:58]"
+          },
+          {
+            "quote": "we look at their historical incident data to understand the main drivers.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:10:06]"
+          },
+          {
+            "quote": "we create a summary presentation that focuses on the main opportunity areas and the kinds of improvements teams are looking for.",
+            "speaker": "Indigo Vaughn <fake.indigo.vaughn@voxelai.com>",
+            "timestamp": "[00:11:13]"
+          }
+        ]
+      }
+    ]
+  }
+}
