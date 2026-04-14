@@ -1,0 +1,183 @@
+concept_group,concept_type,filtered_n_nonsafety_cases,filtered_n_nonsafety_calls,example_labels,unfiltered_n_nonsafety_cases,signal_purity,calls_score,cases_score,opportunity_score
+dashboard / heatmap / reporting workflow,safety_adjacent_workflow,28,22,"['API and BI integration for leading/lagging metrics', 'Automated reporting and notifications', 'Automated surfacing of near-misses to address underreporting', 'Behavior-based safety analytics with heat maps (pilot)', 'Boards for targeted monitoring and trend detection']",42,0.6666666666666666,1.0,1.0,0.9333333333333333
+action tracking / accountability,safety_adjacent_workflow,18,15,"['Action management workflow with ownership, cross-shift follow-up, timelines, and impact markers', 'Action tracking and accountability for safety interventions', 'Action workflow and accountability tracking', 'Actions workflow for incident and task management', 'Actions workflow to assign and track safety corrective actions']",23,0.782608695652174,0.6818181818181818,0.6428571428571429,0.6902879728966685
+deployment / infrastructure / camera rollout,true_nonsafety_or_adjacent_domain,12,8,"['AI risk monitoring deployment across sites', 'Cross-functional IT vetting and stakeholder alignment for adoption', 'Enterprise safety analytics and summary view', 'Enterprise-scale rollout across DCs and storefronts', 'Implementing VelocityEHS system']",14,0.8571428571428571,0.36363636363636365,0.42857142857142855,0.4818181818181818
+training / coaching / adoption support,safety_adjacent_workflow,7,7,"['AI detection of leading safety risks from existing cameras', 'Accountable coaching and training via Actions tied to incident clips', 'Action management and coaching workflow for safety remediation', 'Actions coaching to impact safety event counts', 'Address PIT parking duration impacting aisle flow at central crossway']",9,0.7777777777777778,0.3181818181818182,0.25,0.38964646464646463
+security / theft / tampering / loss prevention,true_nonsafety_or_adjacent_domain,7,6,"['AI governance and security compliance review', 'Facility security monitoring with CCTV', 'Open door monitoring for security', 'Perimeter fence intrusion/security monitoring', 'Prevent theft/tampering of mobile camera units']",9,0.7777777777777778,0.2727272727272727,0.25,0.3669191919191919
+yard / dock / trailer safety,core_safety,4,4,"['After-hours dock door open alert (lights off)', 'Detect equipment set on dock plates', 'Dock and high‑collision area safety monitoring', 'Loading dock driver confinement monitoring', 'Open dock door duration monitoring and threshold tuning']",5,0.8,0.18181818181818182,0.14285714285714285,0.2937662337662338
+ergonomics and body mechanics,core_safety,2,2,"['Access heatmaps for improper bend and overreaching', 'Adjust ergonomics detection for exoskeleton users', 'Employee ergonomics monitoring (improper bending and overreaching)', 'Encourage pop-up conveyor use at 497 unload to reduce manual handling', 'Ergonomic improper bending and overreaching reduction']",2,1.0,0.09090909090909091,0.07142857142857142,0.2668831168831169
+customer / liability / security evidence capture,true_nonsafety_or_adjacent_domain,2,2,"['Customer-incident evidence capture and faster closure', 'Driver exoneration using video evidence after a crash']",2,1.0,0.09090909090909091,0.07142857142857142,0.2668831168831169
+trailer detention / turnaround / utilization,true_nonsafety_or_adjacent_domain,2,2,"['Trailer detention and turnaround time tracking', 'Yard gate driver behavior logging for carrier compliance']",2,1.0,0.09090909090909091,0.07142857142857142,0.2668831168831169
+customer service / staffing / wait-time monitoring,true_nonsafety_or_adjacent_domain,2,2,"['Customer service alerts at fabric cutting and service areas', 'Customer service area staffing monitoring']",2,1.0,0.09090909090909091,0.07142857142857142,0.2668831168831169
+noise / support / admin,noise_or_admin,3,3,"['Daily summary email delivery and notifications', 'Ongoing partnership and customer success support', 'Responsive customer support and troubleshooting']",4,0.75,0.13636363636363635,0.10714285714285714,0.25032467532467534
+door / dwell / open-duration monitoring,true_nonsafety_or_adjacent_domain,4,4,"['Cold storage door/condensation/ice monitoring (safety and energy)', 'Dock door open-duration tracking', 'Door open duration policy enforcement (electrical and dock doors)', 'LOTO compliance and jam-clearing risk monitoring', 'Lockout/Tagout (LOTO) compliance in robotic palletizing cells']",8,0.5,0.18181818181818182,0.14285714285714285,0.23376623376623376
+fire / severe incident detection,core_safety,1,1,"['Compliance monitoring: blocked exits and extinguishers', 'Detect and prevent catastrophic safety events', 'Detect prohibited e-bikes/e-scooters indoors to mitigate lithium battery fire risk', 'Early fire-related issue detection in mills', 'Fire-related issue alerts']",1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+augment lean store teams with automated observations alerts,unclear,1,1,['Augment lean store teams with automated observations/alerts'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+drone based remote inspection and auditing,unclear,1,1,['Drone-based remote inspection and auditing'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+equipment issue monitoring,unclear,1,1,['Equipment issue monitoring'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+automate camera monitoring to save staff time,unclear,1,1,['Automate camera monitoring to save staff time'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+automated global regulation monitoring for customs services,true_nonsafety_or_adjacent_domain,1,1,['Automated global regulation monitoring for customs services'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+build business case and drive cultural retention benefits with voxel,core_safety,1,1,['Build business case and drive cultural/retention benefits with Voxel'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+business case support for internal stakeholders,safety_adjacent_workflow,1,1,['Business case support for internal stakeholders'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+camera coverage planning and rescoping to address blind spots,unclear,1,1,['Camera coverage planning and rescoping to address blind spots'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+change management impact tracking and leadership storytelling,unclear,1,1,['Change management impact tracking and leadership storytelling'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+charger parking duration telemetry,core_safety,1,1,['Charger parking duration telemetry'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+continuous ai safety coverage vs human observation,noise_or_admin,1,1,['Continuous AI safety coverage vs human observation'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+continuous ai safety coverage vs human observation,noise_or_admin,1,1,['Continuous AI safety coverage vs human observation'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+contract renewal language clarification,unclear,1,1,['Contract renewal language clarification'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+conversational ai overlay for customs platform,safety_adjacent_workflow,1,1,['Conversational AI overlay for customs platform'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+conveyor congestion detection for operational efficiency,unclear,1,1,['Conveyor congestion detection for operational efficiency'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+cost sensitive vendor evaluation incl falcon peak vision,unclear,1,1,['Cost-sensitive vendor evaluation (incl. Falcon Peak Vision)'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+door asset damage prevention via intersection monitoring,unclear,1,1,['Door/asset damage prevention via intersection monitoring'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+early issue detection for downtime prevention,unclear,1,1,['Early issue detection for downtime prevention'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+email summaries for insight without platform login,unclear,1,1,['Email summaries for insight without platform login'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+embed incident videos in presentation decks,unclear,1,1,['Embed incident videos in presentation decks'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+evaluate value using claims and injury trends,safety_adjacent_workflow,1,1,['Evaluate value using claims and injury trends'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+exclude planned events from analytics to avoid skewed metrics,core_safety,1,1,['Exclude planned events from analytics to avoid skewed metrics'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+high accuracy alerting and broad hazard detection coverage,core_safety,1,1,['High‑accuracy alerting and broad hazard detection coverage'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+iot devices for the general supply chain,unclear,1,1,['IoT devices for the general supply chain'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+link incident logs to camera footage for leader review,safety_adjacent_workflow,1,1,['Link incident logs to camera footage for leader review'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+longer term commercial options,safety_adjacent_workflow,1,1,['Longer-term commercial options'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+lower workers comp premiums by demonstrating improved risk,unclear,1,1,['Lower workers’ comp premiums by demonstrating improved risk'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+maintenance window suppression no incident capture during scheduled work,unclear,1,1,['Maintenance window suppression (no incident capture during scheduled work)'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+merchandising / shopper behavior analytics,true_nonsafety_or_adjacent_domain,1,1,['Merchandising analytics: dwell/end-cap engagement'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+monitor progress and impact of pilots program changes,core_safety,1,1,['Monitor progress and impact of pilots/program changes'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+noise reduction via selective use case scoping,unclear,1,1,['Noise reduction via selective use case scoping'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+operations analytics congestion and repeated task measurement,unclear,1,1,['Operations analytics: congestion and repeated task measurement'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+pilot kpi tracking and weekly reviews,safety_adjacent_workflow,1,1,['Pilot KPI tracking and weekly reviews'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+pit parking duration and dwell time analytics for operational flow,core_safety,1,1,['PIT parking duration and dwell-time analytics for operational flow'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+pit parking duration monitoring and camera zone tuning,core_safety,1,1,['PIT parking duration monitoring and camera zone tuning'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+potential expansion to retail stores,unclear,1,1,['Potential expansion to retail stores'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+product and infrastructure damage detection collisions with racks product,core_safety,1,1,['Product and infrastructure damage detection (collisions with racks/product)'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+product condition and dwell time detection,unclear,1,1,['Product condition and dwell-time detection'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+quality control visual inspection with cameras,unclear,1,1,['Quality control visual inspection with cameras'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+re scope cameras zones to manage alert volume and reduce false positives,unclear,1,1,['Re-scope cameras/zones to manage alert volume and reduce false positives'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+safety program analytics and workflow management,safety_adjacent_workflow,1,1,['Safety program analytics and workflow management'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+select scalable multi domain solutions within budget constraints,unclear,1,1,"['Select scalable, multi-domain solutions within budget constraints']",1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+skeleton overlay on action videos to aid review,safety_adjacent_workflow,1,1,['Skeleton overlay on action videos to aid review'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+staff efficiency and mobile guidance,safety_adjacent_workflow,1,1,['Staff efficiency and mobile guidance'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+standardize monitored incident types across sites,unclear,1,1,['Standardize monitored incident types across sites'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+timing follow up around internal planning,core_safety,1,1,['Timing follow-up around internal planning'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+update contracts to reflect new leadership and stakeholders,unclear,1,1,['Update contracts to reflect new leadership and stakeholders'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+validate detection accuracy precision and false positive negative thresholds in dense production cells,unclear,1,1,['Validate detection accuracy/precision and false positive/negative thresholds in dense production cells'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+warehouse productivity via wearable device optimization,unclear,1,1,['Warehouse productivity via wearable device optimization'],1,1.0,0.045454545454545456,0.03571428571428571,0.23344155844155845
+safety benchmarking / goal tracking,safety_adjacent_workflow,3,3,"['Cross-facility summary view for benchmarking', 'Cross‑site safety analytics and benchmarking', 'Enterprise analytics and benchmarking across sites', 'Enterprise safety analytics and site benchmarking', 'Safety performance benchmarking and goal tracking']",5,0.6,0.13636363636363635,0.10714285714285714,0.2203246753246753
+usage analytics / adoption analytics,safety_adjacent_workflow,3,3,"['Attendance visibility and office usage analytics', 'Gamify adoption and safety behaviors', 'Gamify safety performance to drive adoption and outcomes', 'Usage analytics to monitor and pinpoint adoption']",5,0.6,0.13636363636363635,0.10714285714285714,0.2203246753246753
+restricted access / robot-cell / interlock safety,core_safety,3,3,"['Access/egress safety and restricted area intrusion', 'After-hours restricted area monitoring (time-based no-ped zones)', 'Area controls for no-pedestrian zones', 'Area controls monitoring: liquid spills and no-pedestrian zones', 'Boards for targeted safety monitoring and trend detection']",6,0.5,0.13636363636363635,0.10714285714285714,0.20032467532467532
+incident investigation / footage retrieval workflow,safety_adjacent_workflow,2,2,"['Incident investigation via video review', 'Post-incident video review', 'Reduce manual video review workload', 'Video footage retrieval']",3,0.6666666666666666,0.09090909090909091,0.07142857142857142,0.2002164502164502
+pit / forklift / vehicle safety,core_safety,2,2,"['Camera enhancements for safety oversight (Voxel-like)', 'Camera-based alternative/complement to forklift telematics', 'Coach against forks-first forklift driving and PIT-pedestrian near-misses using Voxel clips', 'Collision/impact detection on yellow posts', 'Detect PIT–pedestrian proximity, PIT–PIT interactions, PPE compliance, and spills']",5,0.4,0.09090909090909091,0.07142857142857142,0.1468831168831169
+housekeeping / floor hazard detection,core_safety,2,2,"['Aisle obstruction and pallet buildup monitoring and remediation', 'Aisle obstruction and pallet buildup monitoring to improve pallet flow', 'Aisle obstruction monitoring', 'Conveyor jam/no-obstruction detection and root-cause review', 'Egress and safety equipment obstruction detection']",5,0.4,0.09090909090909091,0.07142857142857142,0.1468831168831169
+historical review / internal review,safety_adjacent_workflow,1,1,"['Safety trend review and recommendations', 'Use historical data to support internal review']",2,0.5,0.045454545454545456,0.03571428571428571,0.13344155844155844
+ppe compliance,core_safety,1,1,"['Detect safety glasses (PPE) presence', 'Eliminate 517 warehouse blind spot to capture PPE violations', 'Handle low-visibility safety vests in PPE detection', 'Hard hat PPE compliance at Maintenance Propane Station', 'High-visibility safety vest compliance monitoring']",3,0.3333333333333333,0.045454545454545456,0.03571428571428571,0.1001082251082251
+continuous ai safety coverage vs human observation,unclear,0,1,['Continuous AI safety coverage vs human observation'],1,0.0,0.045454545454545456,0.0,0.022727272727272728
+continuous ai safety coverage vs human observation,unclear,0,1,['Continuous AI safety coverage vs human observation'],1,0.0,0.045454545454545456,0.0,0.022727272727272728
+pedestrian / zone / walkway safety,core_safety,0,0,"['Area controls (restricted zones and product placement policies)', 'Crosswalk compliance monitoring', 'Exterior crosswalk and stop compliance monitoring', 'Forklift aisle and pedestrian walkway safety monitoring', 'Forklift–pedestrian proximity and walkway compliance monitoring']",1,0.0,0.0,0.0,0.0
+stop / speed / traffic compliance safety,core_safety,0,0,"['End-of-aisle stop compliance enforcement', 'Intersection and end-of-aisle stop compliance', 'Outdoor vehicle speeding detection', 'PIT speed and stop compliance monitoring', 'Prompt alerts for excessive speeding with configurable threshold']",0,0.0,0.0,0.0,0.0
+working at heights hazard detection,core_safety,0,0,['Working at heights hazard detection'],0,0.0,0.0,0.0,0.0
+address federal safety bureau regulatory compliance in safety programs,unclear,0,0,['Address Federal Safety Bureau/regulatory compliance in safety programs'],0,0.0,0.0,0.0,0.0
+ai video analytics to gain visibility and reduce injuries,unclear,0,0,['AI video analytics to gain visibility and reduce injuries'],0,0.0,0.0,0.0,0.0
+alerting and intervention on at risk behaviors,unclear,0,0,['Alerting and intervention on at-risk behaviors'],0,0.0,0.0,0.0,0.0
+annotate videos to highlight safety concerns not auto detected,unclear,0,0,['Annotate videos to highlight safety concerns not auto-detected'],0,0.0,0.0,0.0,0.0
+around the clock monitoring with real time alerts for near misses,unclear,0,0,['around the clock monitoring with real-time alerts for near misses'],0,0.0,0.0,0.0,0.0
+automated near miss detection and hotspot visibility in dc,unclear,0,0,['Automated near-miss detection and hotspot visibility in DC'],0,0.0,0.0,0.0,0.0
+baseline and trend safety events before after to measure impact,unclear,0,0,['Baseline and trend safety events (before/after) to measure impact'],0,0.0,0.0,0.0,0.0
+build workplace safety culture with ai,unclear,0,0,['Build workplace safety culture with AI'],0,0.0,0.0,0.0,0.0
+camera based red zone to replace light curtains,unclear,0,0,['Camera-based red zone to replace light curtains'],0,0.0,0.0,0.0,0.0
+caught in hazards at presses and conveyors,core_safety,0,0,['Caught-in hazards at presses and conveyors'],0,0.0,0.0,0.0,0.0
+cell phone distraction monitoring,safety_adjacent_workflow,0,0,['Cell phone distraction monitoring'],0,0.0,0.0,0.0,0.0
+cellphone distraction while walking,core_safety,0,0,['Cellphone distraction while walking'],0,0.0,0.0,0.0,0.0
+centralized safety monitoring and real time dispatch,unclear,0,0,['Centralized safety monitoring and real-time dispatch'],0,0.0,0.0,0.0,0.0
+confined space entry and lone worker detection,unclear,0,0,['Confined space entry and lone-worker detection'],0,0.0,0.0,0.0,0.0
+confined space risk during oven cleaning,core_safety,0,0,['Confined space risk during oven cleaning'],0,0.0,0.0,0.0,0.0
+conveyor congestion pile up detection to prevent falling objects,core_safety,0,0,['Conveyor congestion/pile-up detection to prevent falling objects'],0,0.0,0.0,0.0,0.0
+conveyor misuse working at heights monitoring,core_safety,0,0,['Conveyor misuse/working at heights monitoring'],0,0.0,0.0,0.0,0.0
+daily summary incident emails for safety review,core_safety,0,0,['Daily summary incident emails for safety review'],0,0.0,0.0,0.0,0.0
+deploy voxel safety computer vision at distribution centers,unclear,0,0,['Deploy Voxel safety computer vision at distribution centers'],0,0.0,0.0,0.0,0.0
+detect dangerous zone intrusions to drive engineering redesign,core_safety,0,0,['Detect dangerous zone intrusions to drive engineering redesign'],0,0.0,0.0,0.0,0.0
+detect unsafe pallet behaviors to reduce ankle injuries,unclear,0,0,['Detect unsafe pallet behaviors to reduce ankle injuries'],0,0.0,0.0,0.0,0.0
+distraction detection cellphone use,safety_adjacent_workflow,0,0,['Distraction detection (cellphone use)'],0,0.0,0.0,0.0,0.0
+dolly brake tongue position compliance,unclear,0,0,['Dolly brake/tongue position compliance'],0,0.0,0.0,0.0,0.0
+door open propped duration monitoring,core_safety,0,0,['Door open/propped duration monitoring'],0,0.0,0.0,0.0,0.0
+ehs management software adoption,safety_adjacent_workflow,0,0,['EHS management software adoption'],0,0.0,0.0,0.0,0.0
+ergonomic risk detection and coaching,core_safety,0,0,['Ergonomic risk detection and coaching'],0,0.0,0.0,0.0,0.0
+fill room safety monitoring in new production facility,unclear,0,0,['Fill room safety monitoring in new production facility'],0,0.0,0.0,0.0,0.0
+foremen owned safety notifications with tuned thresholds,unclear,0,0,['Foremen-owned safety notifications with tuned thresholds'],0,0.0,0.0,0.0,0.0
+forklift and pedestrian proximity monitoring,core_safety,0,0,['Forklift and pedestrian proximity monitoring'],0,0.0,0.0,0.0,0.0
+forklift and pedestrian safety monitoring,core_safety,0,0,['Forklift and pedestrian safety monitoring'],0,0.0,0.0,0.0,0.0
+forklift and vehicle pedestrian interaction monitoring,core_safety,0,0,['Forklift and vehicle–pedestrian interaction monitoring'],0,0.0,0.0,0.0,0.0
+forklift pallet jack and pedestrian safety in back rooms,core_safety,0,0,['Forklift/pallet jack and pedestrian safety in back rooms'],0,0.0,0.0,0.0,0.0
+forklift pedestrian collision prevention and intersection compliance,core_safety,0,0,['Forklift–pedestrian collision prevention and intersection compliance'],0,0.0,0.0,0.0,0.0
+forklift pedestrian near miss detection,core_safety,0,0,['Forklift–pedestrian near-miss detection'],0,0.0,0.0,0.0,0.0
+forklift seatbelt compliance,core_safety,0,0,['Forklift seatbelt compliance'],0,0.0,0.0,0.0,0.0
+forklift speed and intersection stop compliance,core_safety,0,0,['Forklift speed and intersection stop compliance'],0,0.0,0.0,0.0,0.0
+forklift speeding detection,core_safety,0,0,['Forklift speeding detection'],0,0.0,0.0,0.0,0.0
+forklift stop at intersection compliance tracking and analytics,core_safety,0,0,['Forklift stop-at-intersection compliance tracking and analytics'],1,0.0,0.0,0.0,0.0
+forklifts entering dock on red light,core_safety,0,0,['Forklifts entering dock on red light'],0,0.0,0.0,0.0,0.0
+four pin walk around pin unlock detection with real time alerts,unclear,0,0,['Four-pin walk-around/pin unlock detection with real-time alerts'],0,0.0,0.0,0.0,0.0
+front of store hotspot monitoring,unclear,0,0,['Front-of-store hotspot monitoring'],0,0.0,0.0,0.0,0.0
+gamify safety compliance to reduce no stops,unclear,0,0,['Gamify safety compliance to reduce no-stops'],0,0.0,0.0,0.0,0.0
+hazardous machinery safeguarding detection,core_safety,0,0,['Hazardous machinery safeguarding detection'],0,0.0,0.0,0.0,0.0
+heat maps and hotspot analytics to target high risk areas,core_safety,0,0,['Heat maps and hotspot analytics to target high-risk areas'],0,0.0,0.0,0.0,0.0
+housekeeping hazard monitoring exits walkways debris,core_safety,0,0,"['Housekeeping hazard monitoring (exits, walkways, debris)']",0,0.0,0.0,0.0,0.0
+incident severity scoring and prioritization,unclear,0,0,['Incident severity scoring and prioritization'],0,0.0,0.0,0.0,0.0
+ladder safety and fixed ladder elimination,safety_adjacent_workflow,0,0,['Ladder safety and fixed ladder elimination'],0,0.0,0.0,0.0,0.0
+leading indicator and behavior change tracking,unclear,0,0,['Leading indicator and behavior change tracking'],0,0.0,0.0,0.0,0.0
+machine shutdown use case safety,safety_adjacent_workflow,0,0,['Machine shutdown use case (safety)'],0,0.0,0.0,0.0,0.0
+monthly safety meeting content using voxel clips,unclear,0,0,['Monthly safety meeting content using Voxel clips'],0,0.0,0.0,0.0,0.0
+near miss detection and proactive monitoring,safety_adjacent_workflow,0,0,['Near-miss detection and proactive monitoring'],0,0.0,0.0,0.0,0.0
+near miss risk identification,unclear,0,0,['Near-miss risk identification'],0,0.0,0.0,0.0,0.0
+obstruction and blocked fire exit detection,core_safety,0,0,['Obstruction and blocked fire exit detection'],0,0.0,0.0,0.0,0.0
+parking / idling / utilization analytics,true_nonsafety_or_adjacent_domain,0,0,"['Back-of-store obstruction, fire-exit clearance, and no-idling/no-parking monitoring']",3,0.0,0.0,0.0,0.0
+pit and pedestrian interaction risk monitoring,core_safety,0,0,['PIT and pedestrian interaction risk monitoring'],0,0.0,0.0,0.0,0.0
+pit and pedestrian proximity near miss detection,core_safety,0,0,['PIT and pedestrian proximity/near‑miss detection'],0,0.0,0.0,0.0,0.0
+pit pedestrian interaction and near miss detection staging warehouse tote dumping,core_safety,0,0,['PIT–pedestrian interaction and near-miss detection (staging/warehouse/tote dumping)'],0,0.0,0.0,0.0,0.0
+pit pedestrian interaction monitoring,core_safety,0,0,['PIT–pedestrian interaction monitoring'],0,0.0,0.0,0.0,0.0
+pit pedestrian interaction monitoring and reduction,core_safety,0,0,['PIT/pedestrian interaction monitoring and reduction'],0,0.0,0.0,0.0,0.0
+pit speeding monitoring,core_safety,0,0,['PIT speeding monitoring'],0,0.0,0.0,0.0,0.0
+pit stop compliance at door intersections,core_safety,0,0,['PIT stop compliance at door intersections'],0,0.0,0.0,0.0,0.0
+pit to pedestrian proximity alerts,core_safety,0,0,['PIT-to-pedestrian proximity alerts'],0,0.0,0.0,0.0,0.0
+pit to pedestrian proximity trend analysis with rolling average,core_safety,0,0,['PIT-to-pedestrian proximity trend analysis with rolling average'],0,0.0,0.0,0.0,0.0
+powered equipment and vehicle safety monitoring in hdcs,unclear,0,0,['Powered equipment and vehicle safety monitoring in HDCs'],0,0.0,0.0,0.0,0.0
+powered industrial truck hazard detection,core_safety,0,0,['Powered industrial truck hazard detection'],0,0.0,0.0,0.0,0.0
+ppe compliance and restricted area controls,core_safety,0,0,['PPE compliance and restricted area controls'],0,0.0,0.0,0.0,0.0
+racking structure impact detection and driver violation analysis,core_safety,0,0,['Racking/structure impact detection and driver violation analysis'],0,0.0,0.0,0.0,0.0
+re scope cameras to monitor the right risks and repurpose low yield cameras,unclear,0,0,['Re-scope cameras to monitor the right risks and repurpose low-yield cameras'],0,0.0,0.0,0.0,0.0
+re scope cameras zones to maintain accurate safety detections and manageable incident volume,unclear,0,0,['Re-scope cameras/zones to maintain accurate safety detections and manageable incident volume'],0,0.0,0.0,0.0,0.0
+real time incident alerting email sms,unclear,0,0,['Real-time incident alerting (email/SMS)'],0,0.0,0.0,0.0,0.0
+real time shop displays and gamified safety goals,unclear,0,0,['Real-time shop displays and gamified safety goals'],0,0.0,0.0,0.0,0.0
+reduce safety incidents and claims using ai video analytics,unclear,0,0,['Reduce safety incidents and claims using AI video analytics'],0,0.0,0.0,0.0,0.0
+reduce safety losses incidents,unclear,0,0,['Reduce safety losses/incidents'],0,0.0,0.0,0.0,0.0
+restricted hazard working at heights zone intrusion alerts,core_safety,0,0,['Restricted hazard/working-at-heights zone intrusion alerts'],0,0.0,0.0,0.0,0.0
+retail front of store monitoring,unclear,0,0,['Retail front-of-store monitoring'],0,0.0,0.0,0.0,0.0
+retail shop safety monitoring tire inflation lifts blocking falling tires,core_safety,0,0,"['Retail shop safety monitoring (tire inflation, lifts/blocking, falling tires)']",0,0.0,0.0,0.0,0.0
+safe tool use for packaging no tearing tape with teeth,unclear,0,0,['Safe tool use for packaging (no tearing tape with teeth)'],0,0.0,0.0,0.0,0.0
+safety hotspot heat mapping to target interventions,core_safety,0,0,['Safety hotspot heat mapping to target interventions'],0,0.0,0.0,0.0,0.0
+safety monitoring for non routine pm tasks on fiber lines,unclear,0,0,['Safety monitoring for non-routine/PM tasks on fiber lines'],0,0.0,0.0,0.0,0.0
+safety risk hotspot and time of day analytics,unclear,0,0,['Safety risk hotspot and time-of-day analytics'],0,0.0,0.0,0.0,0.0
+sif cif precursor and serious risk detection,core_safety,0,0,['SIF/CIF precursor and serious-risk detection'],0,0.0,0.0,0.0,0.0
+signage effectiveness and traffic control analytics,unclear,0,0,['Signage effectiveness and traffic control analytics'],0,0.0,0.0,0.0,0.0
+surface secondary hazards e g working at heights without fall protection,core_safety,0,0,"['Surface secondary hazards (e.g., working at heights without fall protection)']",0,0.0,0.0,0.0,0.0
+suspended load exposure monitoring,core_safety,0,0,['Suspended load exposure monitoring'],0,0.0,0.0,0.0,0.0
+suspended load hazard detection,core_safety,0,0,['Suspended load hazard detection'],0,0.0,0.0,0.0,0.0
+suspended load overhead crane safety indoor future scope,core_safety,0,0,['Suspended load/overhead crane safety (indoor future scope)'],0,0.0,0.0,0.0,0.0
+timely alerting for safety issues,unclear,0,0,['Timely alerting for safety issues'],0,0.0,0.0,0.0,0.0
+timely alerts for critical safety events,unclear,0,0,['Timely alerts for critical safety events'],0,0.0,0.0,0.0,0.0
+uld handling pinch point risk detection,unclear,0,0,['ULD handling pinch point risk detection'],0,0.0,0.0,0.0,0.0
+uncover unknown safety risks across shifts around the clock,unclear,0,0,['Uncover unknown safety risks across shifts (around the clock)'],0,0.0,0.0,0.0,0.0
+unsafe behavior around conveyors and struck by risk pull and jump leaning sitting,safety_adjacent_workflow,0,0,"['Unsafe behavior around conveyors and struck-by risk (pull-and-jump, leaning/sitting)']",0,0.0,0.0,0.0,0.0
+use assigned clips and resolutions for coaching to reduce event frequencies,safety_adjacent_workflow,0,0,['Use assigned clips and resolutions for coaching to reduce event frequencies'],0,0.0,0.0,0.0,0.0
+walking under suspended loads detection,core_safety,0,0,['Walking under suspended loads detection'],0,0.0,0.0,0.0,0.0
+working at height compliance and lifting falling object risks,core_safety,0,0,['Working at height compliance and lifting/falling object risks'],0,0.0,0.0,0.0,0.0
+working at heights climbing racks detection,core_safety,0,0,['Working at heights/climbing racks detection'],0,0.0,0.0,0.0,0.0
+working at heights detection,core_safety,0,0,['Working at heights detection'],0,0.0,0.0,0.0,0.0
+working at heights detection beta,core_safety,0,0,['Working at heights detection (beta)'],0,0.0,0.0,0.0,0.0
+working at heights detection monitoring in supply chain,core_safety,0,0,['Working at Heights detection/monitoring in supply chain'],0,0.0,0.0,0.0,0.0
+working at heights detection potential enable,core_safety,0,0,['Working at heights detection (potential enable)'],0,0.0,0.0,0.0,0.0
+working at heights fall protection monitoring cherry pickers,core_safety,0,0,['Working at heights fall protection monitoring (cherry pickers)'],0,0.0,0.0,0.0,0.0
+working at heights hazard detection in mills,core_safety,0,0,['Working at heights hazard detection in mills'],0,0.0,0.0,0.0,0.0
+working at heights on trailers flatbed unloading,core_safety,0,0,['Working at heights on trailers (flatbed unloading)'],0,0.0,0.0,0.0,0.0
+working at heights risk detection,core_safety,0,0,['Working at heights risk detection'],0,0.0,0.0,0.0,0.0
+working at heights without harness detection,core_safety,0,0,['Working at heights without harness detection'],0,0.0,0.0,0.0,0.0
+working under suspended loads detection,core_safety,0,0,['Working under suspended loads detection'],0,0.0,0.0,0.0,0.0
+yard outside vehicle behavior idling speeding,core_safety,0,0,['Yard/Outside vehicle behavior (idling/speeding)'],0,0.0,0.0,0.0,0.0
+zone and shift based alert routing in remote areas,unclear,0,0,['Zone- and shift-based alert routing in remote areas'],0,0.0,0.0,0.0,0.0
